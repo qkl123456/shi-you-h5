@@ -2844,17 +2844,6 @@
       "subtitle": ""
     },
     {
-      "name": "西江",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-119"
-      ],
-      "visit_hints": [],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "许昌",
       "aliases": [],
       "ancient_names": [],
@@ -2945,6 +2934,30 @@
         "成都锦江、都江堰玉垒山"
       ],
       "region": "四川",
+      "subtitle": ""
+    },
+    {
+      "name": "采石",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-119"
+      ],
+      "visit_hints": [],
+      "region": "",
+      "subtitle": ""
+    },
+    {
+      "name": "采石矶",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-119"
+      ],
+      "visit_hints": [
+        "安徽马鞍山采石矶（牛渚）"
+      ],
+      "region": "",
       "subtitle": ""
     },
     {
@@ -3094,7 +3107,7 @@
     }
   ],
   "meta": {
-    "count": 199,
+    "count": 200,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3270,8 +3283,6 @@
       "郑",
       "鄂州",
       "鄜州",
-      "采石",
-      "采石矶",
       "金光门",
       "金粟堆",
       "金谷园",
@@ -3310,7 +3321,7 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 211,
+      "ancient_keys": 209,
       "rename_events": 234,
       "examples": [
         {
