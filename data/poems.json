@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "三峡",
-        "重庆"
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -6685,8 +6685,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7939,8 +7939,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8103,8 +8103,8 @@
       ],
       "places": [
         "白帝城",
-        "奉节",
-        "重庆"
+        "重庆",
+        "奉节"
       ],
       "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
       "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
@@ -10945,12 +10945,21 @@
       "places": [
         "南京"
       ],
-      "geo_notes": "杜秋娘歌；一作李锜妾作。",
+      "geo_notes": "杜秋娘歌；一作李锜妾作。地名今释：南京（唐时称金陵）。",
       "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
       "has_card": true,
       "front": "assets/cards/front-276.png",
       "back": "assets/cards/back-276.png",
       "illustration": "assets/cards/front-276.png",
+      "place_captions": [
+        {
+          "place": "南京",
+          "ancient": [
+            "金陵"
+          ],
+          "note": "唐时称金陵"
+        }
+      ],
       "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
       "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
       "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
@@ -12321,11 +12330,15 @@
         "南京"
       ],
       "geo_notes": "未妨惆怅是清狂。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-311.png"
+      "travel_tip": "江苏南京莫愁湖／莫愁堂；可对「直道相思了无益，未妨惆怅是清狂」。",
+      "has_card": true,
+      "front": "assets/cards/front-311.png",
+      "back": "assets/cards/back-311.png",
+      "illustration": "assets/cards/front-311.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》重帷深下写莫愁堂、相思清狂。",
+      "meaning": "重帷深下莫愁堂，卧后清宵细细长；神女生涯原是梦，小姑居处本无郎。风波不信菱枝弱，月露谁教桂叶香；直道相思了无益，未妨惆怅是清狂。",
+      "geo": "莫愁堂在金陵，地望今江苏南京（莫愁湖一带）。重帷清宵，地景以南京莫愁堂为主。",
+      "visit": "江苏南京莫愁湖／莫愁堂；可对「直道相思了无益，未妨惆怅是清狂」。"
     },
     {
       "id": "ts300-312",
@@ -12350,11 +12363,15 @@
       ],
       "places": [],
       "geo_notes": "斑骓只系垂杨岸。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-312.png"
+      "travel_tip": "香罗／石榴红可对读；可对「曾是寂寥金烬暗，断无消息石榴红」。",
+      "has_card": true,
+      "front": "assets/cards/front-312.png",
+      "back": "assets/cards/back-312.png",
+      "illustration": "assets/cards/front-312.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》凤尾香罗写夜深缝、石榴红。",
+      "meaning": "凤尾香罗薄几重，碧文圆顶夜深缝；扇裁月魄羞难掩，车走雷声语未通。曾是寂寥金烬暗，断无消息石榴红；斑骓只系垂杨岸，何处西南任好风。",
+      "geo": "香罗圆顶、扇裁车走为闺阁／邂逅物象；相思无专指一城，地景以夜缝香罗意象为主。",
+      "visit": "香罗／石榴红可对读；可对「曾是寂寥金烬暗，断无消息石榴红」。"
     },
     {
       "id": "ts300-313",
@@ -12379,11 +12396,15 @@
       ],
       "places": [],
       "geo_notes": "为他人作嫁衣裳。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-313.png"
+      "travel_tip": "针巧／嫁衣可对读；可对「苦恨年年压金线，为他人作嫁衣裳」。",
+      "has_card": true,
+      "front": "assets/cards/front-313.png",
+      "back": "assets/cards/back-313.png",
+      "illustration": "assets/cards/front-313.png",
+      "poet": "秦韬玉（生卒年不详），字中明。本库题名去重一首；《贫女》写蓬门自伤、为他人作嫁衣裳。",
+      "meaning": "蓬门未识绮罗香，拟托良媒益自伤；谁爱风流高格调，共怜时世俭梳妆。敢将十指夸针巧，不把双眉斗画长；苦恨年年压金线，为他人作嫁衣裳。",
+      "geo": "贫女针线、压金线为讽喻意象，无专指地理；以寒女自况才士不遇。",
+      "visit": "针巧／嫁衣可对读；可对「苦恨年年压金线，为他人作嫁衣裳」。"
     },
     {
       "id": "ts300-314",
@@ -12412,10 +12433,14 @@
       ],
       "geo_notes": "过贾谊故宅；湘水吊古。",
       "travel_tip": "湖南长沙贾谊故居。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-314.png"
+      "has_card": true,
+      "front": "assets/cards/front-314.png",
+      "back": "assets/cards/back-314.png",
+      "illustration": "assets/cards/front-314.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《长沙过贾谊宅》写秋草寒林、湘水吊古。",
+      "meaning": "三年谪宦此栖迟，万古惟留楚客悲；秋草独寻人去后，寒林空见日斜时。汉文有道恩犹薄，湘水无情吊岂知；寂寂江山摇落处，怜君何事到天涯。",
+      "geo": "贾谊宅在长沙，地望今湖南长沙；湘水即湘江。过宅吊楚客，地景以长沙贾谊故宅为主。",
+      "visit": "湖南长沙贾谊故居；可对「汉文有道恩犹薄，湘水无情吊岂知」。"
     },
     {
       "id": "ts300-315",
@@ -12439,14 +12464,19 @@
         "海鸥何事更相疑"
       ],
       "places": [
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "积雨辋川；水田白鹭夏木黄鹂。",
       "travel_tip": "陕西蓝田辋川。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-315.png"
+      "has_card": true,
+      "front": "assets/cards/front-315.png",
+      "back": "assets/cards/back-315.png",
+      "illustration": "assets/cards/front-315.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《积雨辋川庄作》写水田白鹭、山中习静。",
+      "meaning": "积雨空林烟火迟，蒸藜炊黍饷东菑；漠漠水田飞白鹭，阴阴夏木啭黄鹂。山中习静观朝槿，松下清斋折露葵；野老与人争席罢，海鸥何事更相疑。",
+      "geo": "辋川庄在今陕西蓝田，属西安一带。积雨田园，地景以蓝田辋川为主。",
+      "visit": "陕西蓝田辋川；可对「漠漠水田飞白鹭，阴阴夏木啭黄鹂」。"
     },
     {
       "id": "ts300-316",
@@ -12845,8 +12875,8 @@
         "衡阳",
         "白帝城",
         "长沙",
-        "奉节",
-        "重庆"
+        "重庆",
+        "奉节"
       ],
       "geo_notes": "送两少府贬谪。",
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
@@ -13572,7 +13602,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 310,
+    "cards": 315,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
