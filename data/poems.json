@@ -179,7 +179,6 @@
         "陶然共忘机"
       ],
       "places": [
-        "终南山",
         "西安",
         "翠华山"
       ],
@@ -551,7 +550,6 @@
         "白云无尽时"
       ],
       "places": [
-        "终南山",
         "西安"
       ],
       "geo_notes": "南山即终南一带。",
@@ -2080,7 +2078,6 @@
         "白云无尽时"
       ],
       "places": [
-        "终南山",
         "西安"
       ],
       "geo_notes": "归卧南山。",
@@ -4213,8 +4210,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5995,7 +5992,6 @@
         "王孙自可留"
       ],
       "places": [
-        "终南山",
         "西安",
         "蓝田"
       ],
@@ -6031,14 +6027,18 @@
         "归来且闭关"
       ],
       "places": [
-        "嵩山"
+        "登封"
       ],
       "geo_notes": "归隐嵩山",
       "travel_tip": "归隐嵩山",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-132.png"
+      "has_card": true,
+      "front": "assets/cards/front-132.png",
+      "back": "assets/cards/back-132.png",
+      "illustration": "assets/cards/front-132.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《归嵩山作》写归途闲闲，结以嵩高下闭关。",
+      "meaning": "清川带长薄，车马去闲闲；流水如有意，暮禽相与还。荒城临古渡，落日满秋山；迢递嵩高下，归来且闭关。",
+      "geo": "嵩山在今河南登封。归隐途中，地景以登封嵩山为主。",
+      "visit": "河南登封嵩山；可对「迢递嵩高下，归来且闭关」。"
     },
     {
       "id": "ts300-133",
@@ -6061,14 +6061,18 @@
         "隔水问樵夫"
       ],
       "places": [
-        "终南山"
+        "西安"
       ],
       "geo_notes": "登终南",
       "travel_tip": "登终南",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-133.png"
+      "has_card": true,
+      "front": "assets/cards/front-133.png",
+      "back": "assets/cards/back-133.png",
+      "illustration": "assets/cards/front-133.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《终南山》写太乙连山、云霭分野，结问樵夫。",
+      "meaning": "太乙近天都，连山接海隅；白云回望合，青霭入看无。分野中峰变，阴晴众壑殊；欲投人处宿，隔水问樵夫。",
+      "geo": "终南山在今陕西西安南。登览写山，地景以西安／终南为主。",
+      "visit": "陕西西安终南山；可对「白云回望合，青霭入看无」。"
     },
     {
       "id": "ts300-134",
@@ -6090,13 +6094,20 @@
         "君问穷通理",
         "渔歌入浦深"
       ],
-      "places": [],
+      "places": [
+        "蓝田",
+        "西安"
+      ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-134.png"
+      "has_card": true,
+      "front": "assets/cards/front-134.png",
+      "back": "assets/cards/back-134.png",
+      "illustration": "assets/cards/front-134.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；酬张少府，写晚年好静、松风山月。",
+      "meaning": "晚年惟好静，万事不关心；自顾无长策，空知返旧林。松风吹解带，山月照弹琴；君问穷通理，渔歌入浦深。",
+      "geo": "酬答隐逸，未坐实单一地名；松风山月、渔歌浦深以终南／辋川隐逸意象为主，地望今陕西西安一带。",
+      "visit": "陕西西安／终南隐逸线可对读；可对「松风吹解带，山月照弹琴」。"
     },
     {
       "id": "ts300-135",
@@ -6120,14 +6131,18 @@
         "安禅制毒龙"
       ],
       "places": [
-        "香积寺"
+        "西安"
       ],
       "geo_notes": "过香积寺",
       "travel_tip": "过香积寺",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-135.png"
+      "has_card": true,
+      "front": "assets/cards/front-135.png",
+      "back": "assets/cards/back-135.png",
+      "illustration": "assets/cards/front-135.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；过香积寺，写云峰古木、泉石安禅。",
+      "meaning": "不知香积寺，数里入云峰；古木无人径，深山何处钟。泉声咽危石，日色冷青松；薄暮空潭曲，安禅制毒龙。",
+      "geo": "香积寺在今陕西西安（长安区一带）。过寺入山，地景以西安香积寺为主。",
+      "visit": "陕西西安香积寺；可对「泉声咽危石，日色冷青松」。"
     },
     {
       "id": "ts300-136",
@@ -6154,10 +6169,14 @@
       ],
       "geo_notes": "送李使君",
       "travel_tip": "送李使君",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-136.png"
+      "has_card": true,
+      "front": "assets/cards/front-136.png",
+      "back": "assets/cards/back-136.png",
+      "illustration": "assets/cards/front-136.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；送梓州李使君，写万壑杜鹃、巴蜀风土。",
+      "meaning": "万壑树参天，千山响杜鹃；山中一夜雨，树杪百重泉。汉女输橦布，巴人讼芋田；文翁翻教授，不敢倚先贤。",
+      "geo": "梓州地望今四川三台。送李使君之任，地景以三台／蜀中山水为主。",
+      "visit": "四川三台；可对「山中一夜雨，树杪百重泉」。"
     },
     {
       "id": "ts300-137",
@@ -6210,7 +6229,7 @@
         "谈笑无还期"
       ],
       "places": [
-        "终南山"
+        "西安"
       ],
       "geo_notes": "别业",
       "travel_tip": "别业",
@@ -6331,7 +6350,7 @@
         "松月夜窗虚"
       ],
       "places": [
-        "终南山"
+        "西安"
       ],
       "geo_notes": "归隐",
       "travel_tip": "归隐",
@@ -9660,7 +9679,7 @@
         "茂陵秋雨病相如"
       ],
       "places": [
-        "嵩山",
+        "登封",
         "西安",
         "兴平",
         "开封"
@@ -12628,7 +12647,6 @@
       ],
       "places": [
         "西安",
-        "终南山",
         "函谷关",
         "大明宫"
       ],
@@ -12738,8 +12756,7 @@
       ],
       "places": [
         "西安",
-        "紫阁峰",
-        "终南山"
+        "紫阁峰"
       ],
       "geo_notes": "紫阁峰在今陕西户县东南；渼陂为终南山下古湖。",
       "travel_tip": "西安鄠邑紫阁峰、渼陂湖周边。",
@@ -12751,7 +12768,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 140,
+    "cards": 145,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
