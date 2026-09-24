@@ -30,10 +30,14 @@
       ],
       "geo_notes": "张九龄曲江（今广东韶关）人；诗为托喻，非实写某一海湾景点。",
       "travel_tip": "可与韶关张九龄纪念地文化线联想，重在托物言志。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-001.png"
+      "has_card": true,
+      "front": "assets/cards/front-001.png",
+      "back": "assets/cards/back-001.png",
+      "illustration": "assets/cards/front-001.png",
+      "poet": "张九龄（678—740），字子寿，韶州曲江（今广东韶关）人，开元名相，以风度雅正著称。本库题名去重五首；此为《感遇》其一，以孤鸿自喻。",
+      "meaning": "孤鸿海上来而不入池潢，见翠鸟巢于珍木却惧金丸；美服高明易招嫉恶，故愿游冥冥使弋者无慕，托物写自守远害。",
+      "geo": "作者籍贯曲江今广东韶关；诗为托喻，非实写某一海湾景点，地景以韶关／岭南文化线联想。",
+      "visit": "韶关张九龄纪念馆／风度楼一带；岭南曲江文化线。"
     },
     {
       "id": "ts300-002",
@@ -57,14 +61,19 @@
         "何求美人折"
       ],
       "places": [
-        "韶关"
+        "韶关",
+        "岭南"
       ],
       "geo_notes": "兰桂意象；地理为作者籍贯文化联想。",
       "travel_tip": "读诗可对照园林兰桂，理解「本心」之喻。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-002.png"
+      "has_card": true,
+      "front": "assets/cards/front-002.png",
+      "back": "assets/cards/back-002.png",
+      "illustration": "assets/cards/front-002.png",
+      "poet": "张九龄（678—740），韶州曲江（今韶关）人。本库题名去重五首；此章以兰桂喻本心，为《感遇》名篇。",
+      "meaning": "兰叶春荣、桂华秋洁，自有生意成佳节；林栖者闻风相悦，却结以「草木有本心，何求美人折」，守志不求外赏。",
+      "geo": "兰桂为意象；可联作者籍贯韶关及岭南草木，亦通园林兰桂对读。",
+      "visit": "韶关张九龄文化线；园林兰桂对读「本心」之喻。"
     },
     {
       "id": "ts300-003",
@@ -88,14 +97,19 @@
         "何所慰吾诚"
       ],
       "places": [
-        "韶关"
+        "韶关",
+        "岭南"
       ],
       "geo_notes": "幽人独卧意境，非某一固定名胜实指。",
       "travel_tip": "适合山居/夜读场景联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-003.png"
+      "has_card": true,
+      "front": "assets/cards/front-003.png",
+      "back": "assets/cards/back-003.png",
+      "illustration": "assets/cards/front-003.png",
+      "poet": "张九龄（678—740），韶州曲江（今韶关）人。本库题名去重五首；此章写幽人独卧、孤清远情。",
+      "meaning": "幽人归卧洗滞虑，持此谢高鸟以传远情；日夕怀空意无人感至精，飞沈理隔，唯余自守之诚。",
+      "geo": "幽居意境为主；地理可联韶关／岭南山居，非单一名胜实指。",
+      "visit": "韶关周边山居／夜读场景联想；张九龄纪念地。"
     },
     {
       "id": "ts300-004",
@@ -122,14 +136,20 @@
       ],
       "places": [
         "江南",
-        "岭南"
+        "岭南",
+        "曲江",
+        "韶关"
       ],
       "geo_notes": "丹橘经冬；可联江南/岭南柑橘产区文化，非单一打卡点。",
       "travel_tip": "冬日江南橘林可对读「岁寒心」。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-004.png"
+      "has_card": true,
+      "front": "assets/cards/front-004.png",
+      "back": "assets/cards/back-004.png",
+      "illustration": "assets/cards/front-004.png",
+      "poet": "张九龄（678—740），韶州曲江（今韶关）人。本库题名去重五首；「江南丹橘」章以岁寒心自况。",
+      "meaning": "江南丹橘经冬犹绿，非徒地气暖，乃自有岁寒心；可荐嘉客却阻重深，运命循环难寻，结以桃李岂无阴，叹才德不遇。",
+      "geo": "丹橘经冬可联江南／岭南柑橘产区；作者籍贯曲江今韶关。",
+      "visit": "冬日江南／岭南橘林；韶关张九龄线。"
     },
     {
       "id": "ts300-005",
@@ -166,10 +186,14 @@
       ],
       "geo_notes": "终南山在今陕西西安南；斛斯山人为隐士友人。",
       "travel_tip": "游西安终南/翠华山一带，可对「山月随人归」。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-005.png"
+      "has_card": true,
+      "front": "assets/cards/front-005.png",
+      "back": "assets/cards/back-005.png",
+      "illustration": "assets/cards/front-005.png",
+      "poet": "李白（701—762），字太白，号青莲居士，盛唐浪漫派代表。本库题名去重约三十七首；此写下终南访隐士置酒忘机。",
+      "meaning": "暮从碧山下，山月随人；却顾来径苍苍翠微，相携田家开荆扉，绿竹青萝，美酒长歌至河星稀，陶然共忘机。",
+      "geo": "终南山在今陕西西安南（长安区一带）；斛斯山人为隐士友人。",
+      "visit": "西安终南山／翠华山一带；可对「山月随人归」。"
     },
     {
       "id": "ts300-006",
@@ -1517,8 +1541,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -3833,8 +3857,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -12217,7 +12241,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 10,
+    "cards": 15,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
