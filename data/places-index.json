@@ -488,6 +488,28 @@
       "subtitle": "古称：山阴、越州"
     },
     {
+      "name": "大明宫",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-114",
+        "ts300-120",
+        "ts300-122",
+        "ts300-317",
+        "ts300-318",
+        "ts300-343"
+      ],
+      "visit_hints": [
+        "西安（唐大明宫",
+        "大明宫一带）",
+        "陕西西安（唐大明宫",
+        "西安大明宫遗址",
+        "西安大明宫遗址公园"
+      ],
+      "region": "西安",
+      "subtitle": ""
+    },
+    {
       "name": "岭南",
       "aliases": [],
       "ancient_names": [],
@@ -600,26 +622,6 @@
       ],
       "region": "江西",
       "subtitle": "古称：江州、浔阳"
-    },
-    {
-      "name": "大明宫",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-114",
-        "ts300-120",
-        "ts300-317",
-        "ts300-318",
-        "ts300-343"
-      ],
-      "visit_hints": [
-        "西安（唐大明宫",
-        "大明宫一带）",
-        "西安大明宫遗址",
-        "西安大明宫遗址公园"
-      ],
-      "region": "西安",
-      "subtitle": ""
     },
     {
       "name": "敦煌",
@@ -1088,6 +1090,22 @@
       "subtitle": ""
     },
     {
+      "name": "衡阳",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-083",
+        "ts300-125",
+        "ts300-327"
+      ],
+      "visit_hints": [
+        "衡阳可作府城对照",
+        "衡阳一带"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "轮台",
       "aliases": [],
       "ancient_names": [],
@@ -1246,6 +1264,22 @@
         "宜与本库025成组展读"
       ],
       "region": "西安",
+      "subtitle": ""
+    },
+    {
+      "name": "宝鸡",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-084",
+        "ts300-123"
+      ],
+      "visit_hints": [
+        "陕西宝鸡石鼓",
+        "周原文化",
+        "宝鸡（凤翔）"
+      ],
+      "region": "陕西",
       "subtitle": ""
     },
     {
@@ -1561,20 +1595,6 @@
       "subtitle": ""
     },
     {
-      "name": "衡阳",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-083",
-        "ts300-327"
-      ],
-      "visit_hints": [
-        "衡阳可作府城对照"
-      ],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "诸暨",
       "aliases": [],
       "ancient_names": [],
@@ -1837,17 +1857,6 @@
       "subtitle": ""
     },
     {
-      "name": "凤翔",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-123"
-      ],
-      "visit_hints": [],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "函谷关",
       "aliases": [],
       "ancient_names": [],
@@ -2099,20 +2108,6 @@
         "宜昌长江段"
       ],
       "region": "",
-      "subtitle": ""
-    },
-    {
-      "name": "宝鸡",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-084"
-      ],
-      "visit_hints": [
-        "陕西宝鸡石鼓",
-        "周原文化"
-      ],
-      "region": "陕西",
       "subtitle": ""
     },
     {
@@ -2494,7 +2489,10 @@
       "poem_ids": [
         "ts300-125"
       ],
-      "visit_hints": [],
+      "visit_hints": [
+        "湖南汨罗",
+        "可对「应共冤魂语，投诗赠汨罗」"
+      ],
       "region": "湖南",
       "subtitle": ""
     },
@@ -2727,7 +2725,8 @@
         "ts300-126"
       ],
       "visit_hints": [
-        "送严武"
+        "四川绵阳（奉济驿一带）",
+        "可对「远送从此别，青山空复情」"
       ],
       "region": "四川",
       "subtitle": ""
@@ -2856,19 +2855,6 @@
         "身退主题展亦可"
       ],
       "region": "",
-      "subtitle": ""
-    },
-    {
-      "name": "贵州",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-125"
-      ],
-      "visit_hints": [
-        "怀李白"
-      ],
-      "region": "西南",
       "subtitle": ""
     },
     {
@@ -3107,7 +3093,7 @@
     }
   ],
   "meta": {
-    "count": 200,
+    "count": 198,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3130,6 +3116,7 @@
       "兴福寺",
       "凉州",
       "凤城",
+      "凤翔",
       "利州",
       "剡溪",
       "北固山",
@@ -3321,7 +3308,7 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 209,
+      "ancient_keys": 210,
       "rename_events": 234,
       "examples": [
         {

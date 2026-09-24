@@ -4213,8 +4213,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5663,14 +5663,15 @@
         "数问夜如何"
       ],
       "places": [
-        "西安"
+        "西安",
+        "大明宫"
       ],
       "geo_notes": "宿门下省。地名今释：西安（唐时称长安）。",
       "travel_tip": "宿门下省。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-122.png",
+      "has_card": true,
+      "front": "assets/cards/front-122.png",
+      "back": "assets/cards/back-122.png",
+      "illustration": "assets/cards/front-122.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5679,7 +5680,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；春宿左省（门下省），写夜直待封事。",
+      "meaning": "花隐掖垣暮，啾啾栖鸟过；星临万户动，月傍九霄多。不寝听金钥，因风想玉珂；明朝有封事，数问夜如何。",
+      "geo": "左省即门下省，地在唐长安（今陕西西安）。春夜省直，地景以西安宫廷／省署为主。",
+      "visit": "陕西西安（唐大明宫／省署意象）；可对「明朝有封事，数问夜如何」。"
     },
     {
       "id": "ts300-123",
@@ -5703,15 +5708,19 @@
       ],
       "places": [
         "西安",
-        "凤翔",
+        "宝鸡",
         "渭南"
       ],
       "geo_notes": "再经此门。",
       "travel_tip": "再经此门。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-123.png"
+      "has_card": true,
+      "front": "assets/cards/front-123.png",
+      "back": "assets/cards/back-123.png",
+      "illustration": "assets/cards/front-123.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；自金光门奔凤翔、后移华州，再经此门悲往事。",
+      "meaning": "此道昔归顺，西郊胡正繁；至今残破胆，应有未招魂。近得归京邑，移官岂至尊；无才日衰老，驻马望千门。",
+      "geo": "金光门在唐长安西（今陕西西安）；凤翔为至德行在（今陕西宝鸡）；华州掾任在今陕西渭南。再经此门，地景以西安／宝鸡／渭南为线。",
+      "visit": "陕西西安金光门遗址意象；宝鸡（凤翔）／渭南（华州）可对照行踪。"
     },
     {
       "id": "ts300-124",
@@ -5738,10 +5747,10 @@
       ],
       "geo_notes": "忆弟。地名今释：西安（唐时称长安）。",
       "travel_tip": "忆弟。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-124.png",
+      "has_card": true,
+      "front": "assets/cards/front-124.png",
+      "back": "assets/cards/back-124.png",
+      "illustration": "assets/cards/front-124.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5750,7 +5759,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《月夜忆舍弟》写乱离中兄弟分散，名句「月是故乡明」。",
+      "meaning": "戍鼓断人行，边秋一雁声；露从今夜白，月是故乡明。有弟皆分散，无家问死生；寄书长不达，况乃未休兵。",
+      "geo": "诗中故乡／乱离对照，常与唐长安（今陕西西安）家国线联想；边秋忆弟，地景以西安为主，不坐实单一戍所。",
+      "visit": "陕西西安；可对「露从今夜白，月是故乡明」。"
     },
     {
       "id": "ts300-125",
@@ -5773,15 +5786,19 @@
         "投诗赠汨罗"
       ],
       "places": [
-        "贵州",
-        "汨罗"
+        "汨罗",
+        "衡阳"
       ],
       "geo_notes": "怀李白。",
       "travel_tip": "怀李白。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-125.png"
+      "has_card": true,
+      "front": "assets/cards/front-125.png",
+      "back": "assets/cards/back-125.png",
+      "illustration": "assets/cards/front-125.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；天末怀李白，忧其远谪，结以汨罗冤魂。",
+      "meaning": "凉风起天末，君子意如何；鸿雁几时到，江湖秋水多。文章憎命达，魑魅喜人过；应共冤魂语，投诗赠汨罗。",
+      "geo": "天末为远方虚写；结句汨罗在今湖南汨罗一带，可与衡阳／湖湘线对照。怀人地景以湖南／衡阳／汨罗为主。",
+      "visit": "湖南汨罗／衡阳一带；可对「应共冤魂语，投诗赠汨罗」。"
     },
     {
       "id": "ts300-126",
@@ -5808,10 +5825,14 @@
       ],
       "geo_notes": "送严武。",
       "travel_tip": "送严武。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-126.png"
+      "has_card": true,
+      "front": "assets/cards/front-126.png",
+      "back": "assets/cards/back-126.png",
+      "illustration": "assets/cards/front-126.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；奉济驿重送严武（严公），写远别与江村独归。",
+      "meaning": "远送从此别，青山空复情；几时杯重把，昨夜月同行。列郡讴歌惜，三朝出入荣；江村独归处，寂寞养残生。",
+      "geo": "奉济驿在今四川绵阳一带。重送严公，地景以绵阳／奉济驿为主。",
+      "visit": "四川绵阳（奉济驿一带）；可对「远送从此别，青山空复情」。"
     },
     {
       "id": "ts300-127",
@@ -12709,7 +12730,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 130,
+    "cards": 135,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
