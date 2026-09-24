@@ -693,10 +693,10 @@
       ],
       "geo_notes": "渭川田家景；关中农村暮归。地名今释：西安（古称关中）。",
       "travel_tip": "关中乡村暮色可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-016.png",
+      "has_card": true,
+      "front": "assets/cards/front-016.png",
+      "back": "assets/cards/back-016.png",
+      "illustration": "assets/cards/front-016.png",
       "place_captions": [
         {
           "place": "西安",
@@ -705,7 +705,11 @@
           ],
           "note": "古称关中"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《渭川田家》写关中渭河田园暮归，结以羡闲逸而吟《式微》。",
+      "meaning": "斜阳墟落、穷巷牛羊归，野老倚杖候牧童；雉雊麦秀、蚕眠桑稀，田夫荷锄语依依。即此羡闲逸，怅然吟《式微》，田园暮色中见归隐之思。",
+      "geo": "渭川即渭河流域田家景，在今陕西关中（西安一带）；写农村暮归，非单一村落实指。",
+      "visit": "西安周边／关中渭河平原乡村暮色可对读；田园主题展亦可。"
     },
     {
       "id": "ts300-017",
@@ -735,14 +739,18 @@
       ],
       "places": [
         "诸暨",
-        "苏州吴宫"
+        "苏州"
       ],
       "geo_notes": "越溪浣纱与吴宫对照。",
       "travel_tip": "浙江诸暨西施故里可联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-017.png"
+      "has_card": true,
+      "front": "assets/cards/front-017.png",
+      "back": "assets/cards/back-017.png",
+      "illustration": "assets/cards/front-017.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《西施咏》以西施贵贱际遇写世态，结戒效颦。",
+      "meaning": "艳色见重而西施不终微；朝为越溪女、暮作吴宫妃，贱日同众、贵来方稀。君宠娇态、浣纱伴不得同归，持谢邻家子效颦安可希，咏史中寓讽。",
+      "geo": "越溪浣纱在今浙江诸暨西施故里一带；吴宫指春秋吴地宫廷，地望今苏州一带。越女入吴的文化地理对照。",
+      "visit": "浙江诸暨西施故里／浣纱溪；苏州吴地人文可宽泛对照。"
     },
     {
       "id": "ts300-018",
@@ -770,15 +778,18 @@
         "共醉重阳节"
       ],
       "places": [
-        "襄阳",
-        "临洮"
+        "襄阳"
       ],
       "geo_notes": "孟浩然襄阳一带登高寄友。",
       "travel_tip": "襄阳重阳登高可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-018.png"
+      "has_card": true,
+      "front": "assets/cards/front-018.png",
+      "back": "assets/cards/back-018.png",
+      "illustration": "assets/cards/front-018.png",
+      "poet": "孟浩然（689—740），襄阳人，盛唐山水田园诗代表，与王维并称「王孟」。本库题名去重约十五首；此秋日登高寄张五，盼重阳载酒。",
+      "meaning": "北山白云、隐者自悦，登高相望心随雁灭；薄暮清秋，归村渡头、天边树荠、江洲如月，何当载酒共醉重阳，怀友意远。",
+      "geo": "兰山一作万山，在孟浩然襄阳一带；诗写襄阳山水登高寄友，地景以襄阳为主。",
+      "visit": "湖北襄阳登高／重阳；可对「何当载酒来，共醉重阳节」。"
     },
     {
       "id": "ts300-019",
@@ -808,10 +819,14 @@
       ],
       "geo_notes": "南亭夏夜怀人。",
       "travel_tip": "夏夜池亭可背此诗。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-019.png"
+      "has_card": true,
+      "front": "assets/cards/front-019.png",
+      "back": "assets/cards/back-019.png",
+      "illustration": "assets/cards/front-019.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；南亭夏夜怀辛大，荷风竹露，恨无知音。",
+      "meaning": "山光西落、池月东上，散发乘凉开轩闲敞；荷风香、竹露响，欲鸣琴而无知音赏，感此怀故人，中宵入梦。",
+      "geo": "南亭在孟浩然襄阳生活圈内；夏夜池亭怀人，地景以襄阳池亭意象为主。",
+      "visit": "湖北襄阳夏夜池亭意境对读；荷塘竹露场景可背此诗。"
     },
     {
       "id": "ts300-020",
@@ -839,10 +854,14 @@
       ],
       "geo_notes": "山房待友不至。",
       "travel_tip": "山寺夜宿意境。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-020.png"
+      "has_card": true,
+      "front": "assets/cards/front-020.png",
+      "back": "assets/cards/back-020.png",
+      "illustration": "assets/cards/front-020.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；宿业师山房待丁大不至，松月风泉，孤琴候径。",
+      "meaning": "夕阳度岭、群壑已暝，松月夜凉、风泉清听；樵人归尽、烟鸟初定，期友来宿而人不至，孤琴候萝径，待友落空而山夜自足。",
+      "geo": "业师山房系襄阳一带山寺／山房意象；写待友不至的山夜，不必坐实单一寺名。",
+      "visit": "湖北襄阳山寺夜宿意境；松月风泉主题徒步可对读。"
     },
     {
       "id": "ts300-021",
@@ -1580,8 +1599,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -2050,7 +2069,7 @@
       ],
       "places": [
         "越溪",
-        "吴宫"
+        "苏州"
       ],
       "geo_notes": "西施由越入吴。",
       "travel_tip": "浙江诸暨苎萝西施故里。",
@@ -2085,7 +2104,6 @@
         "共醉重阳节"
       ],
       "places": [
-        "临洮",
         "襄阳"
       ],
       "geo_notes": "一作万山。",
@@ -12279,7 +12297,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 25,
+    "cards": 30,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

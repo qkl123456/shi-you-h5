@@ -323,11 +323,11 @@
         "ts300-283"
       ],
       "visit_hints": [
-        "襄阳重阳登高可对读",
-        "夏夜池亭可背此诗",
-        "山寺夜宿意境",
-        "襄阳一带山水可对",
-        "襄阳夏夜意象"
+        "湖北襄阳登高",
+        "重阳",
+        "可对「何当载酒来，共醉重阳节」",
+        "湖北襄阳夏夜池亭意境对读",
+        "荷塘竹露场景可背此诗"
       ],
       "region": "湖北",
       "subtitle": ""
@@ -558,24 +558,6 @@
       "subtitle": ""
     },
     {
-      "name": "临洮",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-018",
-        "ts300-037",
-        "ts300-053",
-        "ts300-213",
-        "ts300-304"
-      ],
-      "visit_hints": [
-        "甘肃临洮长城线",
-        "可访甘肃临洮、陇右边塞遗迹文化线"
-      ],
-      "region": "甘肃",
-      "subtitle": ""
-    },
-    {
       "name": "九江",
       "aliases": [],
       "ancient_names": [
@@ -769,6 +751,24 @@
       "subtitle": ""
     },
     {
+      "name": "苏州",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-017",
+        "ts300-027",
+        "ts300-052",
+        "ts300-234"
+      ],
+      "visit_hints": [
+        "苏州吴地人文可宽泛对照",
+        "苏州郡斋文化可联想",
+        "苏州枫桥景区"
+      ],
+      "region": "江苏",
+      "subtitle": ""
+    },
+    {
       "name": "长沙",
       "aliases": [],
       "ancient_names": [],
@@ -803,6 +803,22 @@
         "韶关周边山居"
       ],
       "region": "广东",
+      "subtitle": ""
+    },
+    {
+      "name": "临洮",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-037",
+        "ts300-213",
+        "ts300-304"
+      ],
+      "visit_hints": [
+        "甘肃临洮长城线",
+        "可访甘肃临洮、陇右边塞遗迹文化线"
+      ],
+      "region": "甘肃",
       "subtitle": ""
     },
     {
@@ -962,7 +978,9 @@
         "ts300-320"
       ],
       "visit_hints": [
-        "关中乡村暮色可对读",
+        "西安周边",
+        "关中渭河平原乡村暮色可对读",
+        "田园主题展亦可",
         "关中渭河平原田园意象"
       ],
       "region": "陕西",
@@ -1481,21 +1499,6 @@
       "subtitle": ""
     },
     {
-      "name": "苏州",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-027",
-        "ts300-234"
-      ],
-      "visit_hints": [
-        "苏州郡斋文化可联想",
-        "苏州枫桥景区"
-      ],
-      "region": "江苏",
-      "subtitle": ""
-    },
-    {
       "name": "荆州",
       "aliases": [],
       "ancient_names": [
@@ -1940,17 +1943,6 @@
       ],
       "visit_hints": [],
       "region": "岳阳",
-      "subtitle": ""
-    },
-    {
-      "name": "吴宫",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-052"
-      ],
-      "visit_hints": [],
-      "region": "",
       "subtitle": ""
     },
     {
@@ -2743,17 +2735,6 @@
       "subtitle": ""
     },
     {
-      "name": "苏州吴宫",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-017"
-      ],
-      "visit_hints": [],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "苏武庙",
       "aliases": [],
       "ancient_names": [],
@@ -2868,9 +2849,10 @@
         "ts300-017"
       ],
       "visit_hints": [
-        "浙江诸暨西施故里可联想"
+        "浙江诸暨西施故里",
+        "浣纱溪"
       ],
-      "region": "浙江",
+      "region": "诸暨",
       "subtitle": ""
     },
     {
@@ -3117,7 +3099,7 @@
     }
   ],
   "meta": {
-    "count": 209,
+    "count": 207,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3147,6 +3129,7 @@
       "受降城",
       "吴中",
       "吴公台",
+      "吴宫",
       "咸京",
       "回乐",
       "夏口",
@@ -3242,6 +3225,7 @@
       "筹笔驿",
       "紫禁",
       "芜城",
+      "苏州吴宫",
       "茂陵",
       "荆蛮",
       "莫愁堂",
@@ -3306,8 +3290,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 184,
-      "rename_events": 216,
+      "ancient_keys": 186,
+      "rename_events": 217,
       "examples": [
         {
           "from": "长安",
@@ -3346,8 +3330,8 @@
           "to": "诸暨"
         },
         {
-          "from": "兰山",
-          "to": "临洮"
+          "from": "苏州吴宫",
+          "to": "苏州"
         },
         {
           "from": "襄阳山寺",
@@ -3402,12 +3386,12 @@
           "to": "渭河"
         },
         {
-          "from": "幽州台",
-          "to": "北京"
+          "from": "吴宫",
+          "to": "苏州"
         },
         {
-          "from": "幽燕",
-          "to": "京津冀"
+          "from": "兰山",
+          "to": "襄阳"
         }
       ]
     }
