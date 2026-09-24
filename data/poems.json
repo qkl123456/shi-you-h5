@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6207,8 +6207,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6685,8 +6685,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7919,15 +7919,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7948,8 +7939,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -12896,10 +12887,14 @@
       ],
       "geo_notes": "柳州城楼寄四州刺史。",
       "travel_tip": "广西柳州。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-326.png"
+      "has_card": true,
+      "front": "assets/cards/front-326.png",
+      "back": "assets/cards/back-326.png",
+      "illustration": "assets/cards/front-326.png",
+      "poet": "柳宗元（773—819），字子厚。本库题名去重五首；《登柳州城楼寄漳汀封连四州刺史》写海天愁思、音书滞一乡。",
+      "meaning": "城上高楼接大荒，海天愁思正茫茫；惊风乱飐芙蓉水，密雨斜侵薜荔墙。岭树重遮千里目，江流曲似九回肠；共来百越文身地，犹自音书滞一乡。",
+      "geo": "柳州城楼在今广西柳州；漳、汀、封、连四州同属岭南贬所。登楼寄同僚，地景以柳州／岭南百越为主。",
+      "visit": "广西柳州城楼／江景；可对「岭树重遮千里目，江流曲似九回肠」。"
     },
     {
       "id": "ts300-327",
@@ -12928,14 +12923,19 @@
         "白帝城",
         "长沙",
         "奉节",
-        "重庆"
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "送两少府贬谪。",
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-327.png"
+      "has_card": true,
+      "front": "assets/cards/front-327.png",
+      "back": "assets/cards/back-327.png",
+      "illustration": "assets/cards/front-327.png",
+      "poet": "高适（约700—765），字达夫，渤海人。本库题名去重二首；《送李少府贬峡中王少府贬长沙》写巫峡啼猿、白帝秋帆。",
+      "meaning": "嗟君此别意何如，驻马衔杯问谪居；巫峡啼猿数行泪，衡阳归雁几封书。青枫江上秋帆远，白帝城边古木疏；圣代即今多雨露，暂时分手莫踌躇。",
+      "geo": "峡中指巫峡／白帝一带，地望今重庆奉节；长沙在今湖南长沙；衡阳为归雁典故。双贬送别，地景以三峡—长沙对照为主。",
+      "visit": "重庆奉节白帝城；湖南长沙；可对「巫峡啼猿数行泪，衡阳归雁几封书」。"
     },
     {
       "id": "ts300-328",
@@ -12962,11 +12962,15 @@
         "西安"
       ],
       "geo_notes": "九日登台；菊花杯。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-328.png"
+      "travel_tip": "陕西西安（望仙台意象）；可对「且欲近寻彭泽宰，陶然共醉菊花杯」。",
+      "has_card": true,
+      "front": "assets/cards/front-328.png",
+      "back": "assets/cards/back-328.png",
+      "illustration": "assets/cards/front-328.png",
+      "poet": "崔曙（生卒年不详），一作崔署。本库题名去重一首；《九日登望仙台呈刘明府》写登台曙色、菊花共醉。",
+      "meaning": "汉文皇帝有高台，此日登临曙色开；三晋云山皆北向，二陵风雨自东来。关门令尹谁能识，河上仙翁去不回；且欲近寻彭泽宰，陶然共醉菊花杯。",
+      "geo": "望仙台传说与汉文帝相关，地望常联今陕西西安一带。九日登临呈刘明府，地景以西安望仙台为主。",
+      "visit": "陕西西安（望仙台意象）；可对「且欲近寻彭泽宰，陶然共醉菊花杯」。"
     },
     {
       "id": "ts300-329",
@@ -12996,10 +13000,10 @@
       ],
       "geo_notes": "行经华阴望太华。地名今释：西安（唐时称咸京）。",
       "travel_tip": "陕西华阴华山。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-329.png",
+      "has_card": true,
+      "front": "assets/cards/front-329.png",
+      "back": "assets/cards/back-329.png",
+      "illustration": "assets/cards/front-329.png",
       "place_captions": [
         {
           "place": "西安",
@@ -13008,7 +13012,11 @@
           ],
           "note": "唐时称咸京"
         }
-      ]
+      ],
+      "poet": "崔颢（约704—754），汴州人。本库题名去重四首；《行经华阴》写太华三峰、仙人掌雨晴。",
+      "meaning": "岧峣太华俯咸京，天外三峰削不成；武帝祠前云欲散，仙人掌上雨初晴。河山北枕秦关险，驿路西连汉畤平；借问路旁名利客，无如此处学长生。",
+      "geo": "华阴在华山下，地望今陕西渭南华阴；太华即西岳华山，俯瞰咸京（西安）。行经华阴，地景以华阴／华山为主。",
+      "visit": "陕西华阴／华山；可对「岧峣太华俯咸京，天外三峰削不成」。"
     },
     {
       "id": "ts300-330",
@@ -13037,10 +13045,14 @@
       ],
       "geo_notes": "利州南渡；寻范蠡五湖。",
       "travel_tip": "四川广元一带古利州。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-330.png"
+      "has_card": true,
+      "front": "assets/cards/front-330.png",
+      "back": "assets/cards/back-330.png",
+      "illustration": "assets/cards/front-330.png",
+      "poet": "温庭筠（约812—约866），字飞卿。本库题名去重四首；《利州南渡》写空水斜晖、江田一鹭。",
+      "meaning": "澹然空水对斜晖，曲岛苍茫接翠微；波上马嘶看棹去，柳边人歇待船归。数丛沙草群鸥散，万顷江田一鹭飞；谁解乘舟寻范蠡，五湖烟水独忘机。",
+      "geo": "利州即今四川广元；南渡为嘉陵江／江渡景象。待船鸥鹭，地景以广元利州南渡为主。",
+      "visit": "四川广元（利州南渡）；可对「数丛沙草群鸥散，万顷江田一鹭飞」。"
     },
     {
       "id": "ts300-331",
@@ -13654,7 +13666,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 325,
+    "cards": 330,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
