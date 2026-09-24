@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "成都",
-        "四川"
+        "四川",
+        "成都"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -7299,12 +7299,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7919,6 +7928,15 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
+      "place_captions": [
+        {
+          "place": "永济",
+          "ancient": [
+            "蒲州"
+          ],
+          "note": "唐时称蒲州"
+        }
+      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7939,8 +7957,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -10945,12 +10963,21 @@
       "places": [
         "南京"
       ],
-      "geo_notes": "杜秋娘歌；一作李锜妾作。",
+      "geo_notes": "杜秋娘歌；一作李锜妾作。地名今释：南京（唐时称金陵）。",
       "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
       "has_card": true,
       "front": "assets/cards/front-276.png",
       "back": "assets/cards/back-276.png",
       "illustration": "assets/cards/front-276.png",
+      "place_captions": [
+        {
+          "place": "南京",
+          "ancient": [
+            "金陵"
+          ],
+          "note": "唐时称金陵"
+        }
+      ],
       "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
       "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
       "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
@@ -11554,10 +11581,14 @@
       ],
       "geo_notes": "王昭君；青冢在呼和浩特。",
       "travel_tip": "兴山昭君村、呼和浩特青冢。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-291.png"
+      "has_card": true,
+      "front": "assets/cards/front-291.png",
+      "back": "assets/cards/back-291.png",
+      "illustration": "assets/cards/front-291.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其三吊明妃，写荆门青冢、琵琶怨恨。",
+      "meaning": "群山万壑赴荆门，生长明妃尚有村；一去紫台连朔漠，独留青冢向黄昏。画图省识春风面，环佩空归月夜魂；千载琵琶作胡语，分明怨恨曲中论。",
+      "geo": "明妃村在荆门一带，地望今湖北兴山（昭君故里）；青冢在今内蒙古呼和浩特。紫台连朔漠，地景以兴山／青冢对照为主。",
+      "visit": "湖北兴山（昭君村）；内蒙古呼和浩特青冢；可对「一去紫台连朔漠，独留青冢向黄昏」。"
     },
     {
       "id": "ts300-292",
@@ -11583,14 +11614,21 @@
       "places": [
         "奉节",
         "武侯祠",
-        "白帝城"
+        "白帝城",
+        "成都",
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "刘备崩于永安；武侯祠邻近。",
       "travel_tip": "奉节永安宫/白帝城。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-292.png"
+      "has_card": true,
+      "front": "assets/cards/front-292.png",
+      "back": "assets/cards/back-292.png",
+      "illustration": "assets/cards/front-292.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其四写蜀主永安宫、武侯祠屋邻近。",
+      "meaning": "蜀主窥吴幸三峡，崩年亦在永安宫；翠华想像空山里，玉殿虚无野寺中。古庙杉松巢水鹤，岁时伏腊走村翁；武侯祠屋常邻近，一体君臣祭祀同。",
+      "geo": "永安宫在白帝城侧，地望今重庆奉节；武侯祠屋与先主庙邻近。蜀主崩年，地景以奉节永安宫／白帝城为主。",
+      "visit": "重庆奉节永安宫／白帝城；可对「蜀主窥吴幸三峡，崩年亦在永安宫」。"
     },
     {
       "id": "ts300-293",
@@ -11615,14 +11653,20 @@
       ],
       "places": [
         "武侯祠",
-        "成都"
+        "成都",
+        "奉节",
+        "四川"
       ],
       "geo_notes": "咏诸葛亮；云霄一羽毛。",
       "travel_tip": "成都武侯祠。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-293.png"
+      "has_card": true,
+      "front": "assets/cards/front-293.png",
+      "back": "assets/cards/back-293.png",
+      "illustration": "assets/cards/front-293.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其五颂诸葛，写宗臣遗像、志决身歼。",
+      "meaning": "诸葛大名垂宇宙，宗臣遗像肃清高；三分割据纡筹策，万古云霄一羽毛。伯仲之间见伊吕，指挥若定失萧曹；运移汉祚终难复，志决身歼军务劳。",
+      "geo": "宗臣遗像指武侯祠祀，夔州／成都皆有武侯祠；诗咏诸葛一生，地景以武侯祠（今四川成都可对读，奉节亦邻近）为主。",
+      "visit": "四川成都武侯祠；可对「诸葛大名垂宇宙，宗臣遗像肃清高」。"
     },
     {
       "id": "ts300-294",
@@ -11647,14 +11691,19 @@
       ],
       "places": [
         "成都",
-        "万里桥"
+        "万里桥",
+        "四川"
       ],
       "geo_notes": "成都郊外野望。",
       "travel_tip": "成都万里桥、西岭雪线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-294.png"
+      "has_card": true,
+      "front": "assets/cards/front-294.png",
+      "back": "assets/cards/back-294.png",
+      "illustration": "assets/cards/front-294.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《野望》写西山三城戍、南浦万里桥。",
+      "meaning": "西山白雪三城戍，南浦清江万里桥；海内风尘诸弟隔，天涯涕泪一身遥。惟将迟暮供多病，未有涓埃答圣朝；跨马出郊时极目，不堪人事日萧条。",
+      "geo": "西山在成都西；万里桥跨锦江，地望今四川成都。出郊野望，地景以成都万里桥／西山为主。",
+      "visit": "四川成都万里桥；可对「西山白雪三城戍，南浦清江万里桥」。"
     },
     {
       "id": "ts300-295",
@@ -11677,14 +11726,15 @@
         "镇江",
         "瓜洲",
         "南京",
-        "扬州"
+        "扬州",
+        "秦淮河"
       ],
       "geo_notes": "润州金陵渡望瓜洲灯火。地名今释：南京（唐时称金陵）。",
       "travel_tip": "镇江—扬州瓜洲渡。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-295.png",
+      "has_card": true,
+      "front": "assets/cards/front-295.png",
+      "back": "assets/cards/back-295.png",
+      "illustration": "assets/cards/front-295.png",
       "place_captions": [
         {
           "place": "南京",
@@ -11693,7 +11743,11 @@
           ],
           "note": "唐时称金陵"
         }
-      ]
+      ],
+      "poet": "张祜（约785—约849），字承吉。本库题名去重五首；《题金陵渡》写津渡小山楼、潮落见瓜洲星火。",
+      "meaning": "金陵津渡小山楼，一宿行人自可愁；潮落夜江斜月里，两三星火是瓜州。夜泊渡口，对岸瓜洲星火可数。",
+      "geo": "金陵渡在润州江岸，地望今江苏镇江（非南京秦淮）；瓜洲在对岸，今江苏扬州瓜洲。夜泊羁旅，地景以镇江／瓜洲对照为主。",
+      "visit": "江苏镇江（金陵渡）；扬州瓜洲；可对「潮落夜江斜月里，两三星火是瓜州」。"
     },
     {
       "id": "ts300-296",
@@ -13484,7 +13538,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 290,
+    "cards": 295,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
