@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6092,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -6744,13 +6744,19 @@
         "已似长沙傅",
         "从今又几年"
       ],
-      "places": [],
-      "geo_notes": "贬谪新年",
+      "places": [
+        "长沙"
+      ],
+      "geo_notes": "贬谪新年；长沙傅自况。",
       "travel_tip": "贬谪新年",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-152.png"
+      "has_card": true,
+      "front": "assets/cards/front-152.png",
+      "back": "assets/cards/back-152.png",
+      "illustration": "assets/cards/front-152.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《新年作》写天畔乡心，自况长沙傅。",
+      "meaning": "乡心新岁切，天畔独潸然；老至居人下，春归在客先。岭猿同旦暮，江柳共风烟；已似长沙傅，从今又几年。",
+      "geo": "贬谪客中度岁，以长沙傅（贾谊）自况；地望联想今湖南长沙一带，具体任所不必坐实。",
+      "visit": "湖南长沙；可对「已似长沙傅，从今又几年」。"
     },
     {
       "id": "ts300-153",
@@ -6778,10 +6784,14 @@
       ],
       "geo_notes": "送僧归国",
       "travel_tip": "送僧归国",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-153.png"
+      "has_card": true,
+      "front": "assets/cards/front-153.png",
+      "back": "assets/cards/back-153.png",
+      "illustration": "assets/cards/front-153.png",
+      "poet": "钱起（约720—约782），字仲文。本库题名去重三首；送僧归日本，写沧海法舟、水月禅寂。",
+      "meaning": "上国随缘住，来途若梦行；浮天沧海远，去世法舟轻。水月通禅寂，鱼龙听梵声；惟怜一灯影，万里眼中明。",
+      "geo": "送僧浮海归日本。地景以沧海归帆／中日海路意象为主。",
+      "visit": "日本（归僧故国）；沿海送僧场景可对读「浮天沧海远，去世法舟轻」。"
     },
     {
       "id": "ts300-154",
@@ -6809,10 +6819,14 @@
       ],
       "geo_notes": "书斋寄友",
       "travel_tip": "书斋寄友",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-154.png"
+      "has_card": true,
+      "front": "assets/cards/front-154.png",
+      "back": "assets/cards/back-154.png",
+      "illustration": "assets/cards/front-154.png",
+      "poet": "钱起（约720—约782），字仲文。本库题名去重三首；谷口书斋寄杨补阙，写泉壑茅茨、竹雨山晖。",
+      "meaning": "泉壑带茅茨，云霞生薜帷；竹怜新雨后，山爱夕阳时。闲鹭栖常早，秋花落更迟；家童扫萝径，昨与故人期。",
+      "geo": "谷口在今陕西西安一带（终南谷口隐逸线）。书斋寄友，地景以西安／谷口为主。",
+      "visit": "陕西西安谷口／终南一带；可对「竹怜新雨后，山爱夕阳时」。"
     },
     {
       "id": "ts300-155",
@@ -6835,14 +6849,19 @@
         "淮上对秋山"
       ],
       "places": [
-        "淮河"
+        "淮河",
+        "汉中"
       ],
       "geo_notes": "喜会故人",
       "travel_tip": "喜会故人",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-155.png"
+      "has_card": true,
+      "front": "assets/cards/front-155.png",
+      "back": "assets/cards/back-155.png",
+      "illustration": "assets/cards/front-155.png",
+      "poet": "韦应物（约737—约792），京兆人。本库题名去重十二首；淮上喜会梁川故人，写浮云流水十年间。",
+      "meaning": "江汉曾为客，相逢每醉还；浮云一别后，流水十年间。欢笑情如旧，萧疏鬓已斑；何因北归去，淮上对秋山。",
+      "geo": "淮上即淮河一带；梁川／梁州故人指向今陕西汉中一带。喜会地景以淮河与汉中对照。",
+      "visit": "淮河沿线；陕西汉中（梁川／梁州）可对读「浮云一别后，流水十年间」。"
     },
     {
       "id": "ts300-156",
@@ -6862,13 +6881,19 @@
         "相送情无限",
         "沾襟比散丝"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-156.png"
+      "places": [
+        "南京"
+      ],
+      "geo_notes": "暮雨送别；建业。",
+      "travel_tip": "江苏南京（建业）江上；可对「楚江微雨里，建业暮钟时」。",
+      "has_card": true,
+      "front": "assets/cards/front-156.png",
+      "back": "assets/cards/back-156.png",
+      "illustration": "assets/cards/front-156.png",
+      "poet": "韦应物（约737—约792），京兆人。本库题名去重十二首；赋得暮雨送李胄，写建业暮钟、帆重鸟迟。",
+      "meaning": "楚江微雨里，建业暮钟时；漠漠帆来重，冥冥鸟去迟。海门深不见，浦树远含滋；相送情无限，沾襟比散丝。",
+      "geo": "建业即今江苏南京；楚江暮雨送别，地景以南京江上为主。",
+      "visit": "江苏南京（建业）江上；可对「楚江微雨里，建业暮钟时」。"
     },
     {
       "id": "ts300-157",
@@ -12822,7 +12847,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 160,
+    "cards": 165,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
