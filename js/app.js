@@ -2,14 +2,17 @@
   "use strict";
 
   const HOT_PREFERRED = [
-    "黄鹤楼", "枫桥", "鹳雀楼", "凉州", "乌衣巷", "秦淮",
-    "交河", "玉门关", "扬州", "苏州", "洛阳", "白帝城", "永济", "武威", "南京", "武汉"
+    "黄鹤楼", "枫桥", "鹳雀楼", "武威", "乌衣巷", "秦淮河",
+    "交河", "玉门关", "扬州", "苏州", "洛阳", "白帝城", "永济", "西安", "南京", "武汉",
+    "奉节", "敦煌", "绍兴", "成都"
   ];
 
   const state = {
     poems: [],
     poemsById: {},
     places: [],
+    placesByName: {},
+    ancientBlocklist: new Set(),
     query: "",
     view: "home", // home | detail
     detailId: null,
@@ -32,6 +35,9 @@
     state.poems = poemsData.poems || [];
     state.poemsById = Object.fromEntries(state.poems.map((p) => [p.id, p]));
     state.places = placesData.places || [];
+    state.placesByName = Object.fromEntries(state.places.map((p) => [p.name, p]));
+    const bl = (placesData.meta && placesData.meta.ancient_blocklist) || [];
+    state.ancientBlocklist = new Set(bl);
   }
 
   function pickHotPlaces(n = 10) {
@@ -64,8 +70,13 @@
   }
 
   function matchPlace(place, q) {
+    // Search modern name + modern aliases only — never ancient_names
     const names = [place.name, ...(place.aliases || [])];
     return names.some((n) => n.includes(q) || q.includes(n));
+  }
+
+  function isAncientQuery(q) {
+    return state.ancientBlocklist.has(q);
   }
 
   const TRAD_PLACE = { "陽": "阳", "樓": "楼", "東": "东", "門": "门", "橋": "桥", "關": "关", "鳥": "鸟", "鶴": "鹤" };
@@ -77,6 +88,9 @@
     q = normalizeQuery((q || "").trim());
     if (!q) return null; // null = show hot / idle
 
+    // Pure ancient admin/poetic names are not searchable keys
+    if (isAncientQuery(q)) return [];
+
     const poemScores = new Map(); // id -> score
 
     for (const place of state.places) {
@@ -87,7 +101,7 @@
       }
     }
 
-    // also match title / author / places on poem
+    // also match title / author / modern places on poem
     for (const p of state.poems) {
       let s = poemScores.get(p.id) || 0;
       if (p.title.includes(q)) s = Math.max(s, 80);
@@ -144,7 +158,7 @@
     if (!hits.length) {
       resultsEl.innerHTML = emptyHtml(
         `未找到与「${q}」相关的诗作`,
-        "试试 黄鹤楼、苏州、凉州、枫桥"
+        "试试 黄鹤楼、苏州、武威、西安、枫桥"
       );
       return;
     }
@@ -216,6 +230,7 @@
           ${infoBlock("诗人", poem.poet)}
           ${infoBlock("地景", poem.geo)}
           ${infoBlock("今日可访", poem.visit)}
+          ${ancientNamesBlock(poem)}
           ${placesButtons(poem)}
         </div>
       `;
@@ -228,6 +243,7 @@
         </div>
         ${infoBlock("地景笔记", poem.geo_notes)}
         ${infoBlock("旅行提示", poem.travel_tip)}
+        ${ancientNamesBlock(poem)}
         ${placesButtons(poem)}
       `;
     }
@@ -239,11 +255,42 @@
     return `<div class="info-block"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></div>`;
   }
 
+
+  function ancientNamesBlock(poem) {
+    const parts = [];
+    const seen = new Set();
+    for (const c of poem.place_captions || []) {
+      const anc = (c.ancient || []).join("、");
+      if (!anc || seen.has(c.place)) continue;
+      seen.add(c.place);
+      parts.push(`${c.place}（${c.note || "古称" + anc}）`);
+    }
+    for (const n of poem.places || []) {
+      if (seen.has(n)) continue;
+      const pl = state.placesByName[n];
+      const anc = (pl && pl.ancient_names) || [];
+      if (!anc.length) continue;
+      seen.add(n);
+      parts.push(`${n}（古称：${anc.join("、")}）`);
+    }
+    if (!parts.length) return "";
+    return infoBlock("地名今释", parts.join("；"));
+  }
+
   function placesButtons(poem) {
     const ps = poem.places || [];
     if (!ps.length) return "";
+    const capByPlace = Object.fromEntries(
+      (poem.place_captions || []).map((c) => [c.place, c.ancient || []])
+    );
     return `<div class="info-block"><h3>关联地名</h3><div class="place-list">${ps
-      .map((n) => `<button type="button" data-place="${escapeAttr(n)}">${escapeHtml(n)}</button>`)
+      .map((n) => {
+        const anc = (state.placesByName[n] && state.placesByName[n].ancient_names) || capByPlace[n] || [];
+        const ancHtml = anc.length
+          ? `<span class="place-ancient">古称：${escapeHtml(anc.join("、"))}</span>`
+          : "";
+        return `<button type="button" data-place="${escapeAttr(n)}"><span class="place-modern">${escapeHtml(n)}</span>${ancHtml}</button>`;
+      })
       .join("")}</div></div>`;
   }
 
