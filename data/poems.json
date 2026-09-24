@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -5474,10 +5474,14 @@
       "places": [],
       "geo_notes": "送友远行。",
       "travel_tip": "送友远行。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-117.png"
+      "has_card": true,
+      "front": "assets/cards/front-117.png",
+      "back": "assets/cards/back-117.png",
+      "illustration": "assets/cards/front-117.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《送友人》以青山白水、浮云落日写送别，班马萧萧作结。",
+      "meaning": "青山横北郭，白水绕东城；此地一为别，孤蓬万里征。浮云游子意，落日故人情；挥手自兹去，萧萧班马鸣。",
+      "geo": "送别城郭意象，未坐实单一城名；以北郭东城、浮云落日写分手场面。",
+      "visit": "可于城郭山水交接处对读「浮云游子意，落日故人情」；送别主题展亦可。"
     },
     {
       "id": "ts300-118",
@@ -5504,10 +5508,14 @@
       ],
       "geo_notes": "听琴。",
       "travel_tip": "听琴。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-118.png"
+      "has_card": true,
+      "front": "assets/cards/front-118.png",
+      "back": "assets/cards/back-118.png",
+      "illustration": "assets/cards/front-118.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；听蜀僧濬弹琴，以万壑松、流水霜钟写琴韵。",
+      "meaning": "蜀僧抱绿绮，西下峨眉峰；为我一挥手，如听万壑松。客心洗流水，余响入霜钟；不觉碧山暮，秋云暗几重。",
+      "geo": "蜀僧自峨眉而来；峨眉峰在今四川峨眉山一带。听琴地不必坐实，地景以峨眉／蜀中琴僧意象为主。",
+      "visit": "四川峨眉山；可对「为我一挥手，如听万壑松」。"
     },
     {
       "id": "ts300-119",
@@ -5530,15 +5538,19 @@
         "枫叶落纷纷"
       ],
       "places": [
-        "牛渚",
+        "马鞍山",
         "西江"
       ],
       "geo_notes": "怀谢尚。",
       "travel_tip": "怀谢尚。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-119.png"
+      "has_card": true,
+      "front": "assets/cards/front-119.png",
+      "back": "assets/cards/back-119.png",
+      "illustration": "assets/cards/front-119.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；夜泊牛渚怀谢尚，写知音难遇、挂帆枫叶。",
+      "meaning": "牛渚西江夜，青天无片云；登舟望秋月，空忆谢将军。余亦能高咏，斯人不可闻；明朝挂帆去，枫叶落纷纷。",
+      "geo": "牛渚即今安徽马鞍山采石矶一带（古称牛渚）。夜泊怀古，地景以马鞍山／采石为主。",
+      "visit": "安徽马鞍山采石矶（牛渚）；可对「登舟望秋月，空忆谢将军」。"
     },
     {
       "id": "ts300-120",
@@ -5562,14 +5574,15 @@
         "浑欲不胜簪"
       ],
       "places": [
-        "西安"
+        "西安",
+        "大明宫"
       ],
       "geo_notes": "安史乱中。地名今释：西安（唐时称长安）。",
       "travel_tip": "安史乱中。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-120.png",
+      "has_card": true,
+      "front": "assets/cards/front-120.png",
+      "back": "assets/cards/back-120.png",
+      "illustration": "assets/cards/front-120.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5578,7 +5591,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《春望》写长安沦陷后的家国之痛，名句「感时花溅泪」。",
+      "meaning": "国破山河在，城春草木深；感时花溅泪，恨别鸟惊心。烽火连三月，家书抵万金；白头搔更短，浑欲不胜簪。",
+      "geo": "诗写安史乱中唐长安城春（今陕西西安）。国破城春，地景以西安／长安为主。",
+      "visit": "陕西西安（唐长安城遗址／大明宫一带）；可对「国破山河在，城春草木深」。"
     },
     {
       "id": "ts300-121",
@@ -5606,10 +5623,10 @@
       ],
       "geo_notes": "望月思家。地名今释：西安（唐时称长安）。",
       "travel_tip": "望月思家。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-121.png",
+      "has_card": true,
+      "front": "assets/cards/front-121.png",
+      "back": "assets/cards/back-121.png",
+      "illustration": "assets/cards/front-121.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5618,7 +5635,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《月夜》身处长安而遥想鄜州妻儿，写乱离思亲。",
+      "meaning": "今夜鄜州月，闺中只独看；遥怜小儿女，未解忆长安。香雾云鬟湿，清辉玉臂寒；何时倚虚幌，双照泪痕干。",
+      "geo": "诗人陷于唐长安（今陕西西安），家小在鄜州（古称；今陕西富县）。月夜思亲，地景以西安为主，鄜州为对照。",
+      "visit": "陕西西安；可对照鄜州（今富县）月色，读「遥怜小儿女，未解忆长安」。"
     },
     {
       "id": "ts300-122",
@@ -12687,7 +12708,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 125,
+    "cards": 130,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
