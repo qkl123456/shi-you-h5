@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7287,12 +7287,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7380,13 +7389,19 @@
         "心断新丰酒",
         "销愁斗几千"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-172.png"
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "风雨羁泊；新丰酒。",
+      "travel_tip": "陕西西安临潼（新丰）一带；可对「心断新丰酒，销愁斗几千」。",
+      "has_card": true,
+      "front": "assets/cards/front-172.png",
+      "back": "assets/cards/back-172.png",
+      "illustration": "assets/cards/front-172.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《风雨》写羁泊穷年，结想新丰酒。",
+      "meaning": "凄凉宝剑篇，羁泊欲穷年；黄叶仍风雨，青楼自管弦。新知遭薄俗，旧好隔良缘；心断新丰酒，销愁斗几千。",
+      "geo": "羁泊风雨，新丰酒指向唐新丰（今陕西西安临潼一带）。地景以风雨羁旅／新丰酒意象为主。",
+      "visit": "陕西西安临潼（新丰）一带；可对「心断新丰酒，销愁斗几千」。"
     },
     {
       "id": "ts300-173",
@@ -7407,12 +7422,16 @@
         "所得是沾衣"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-173.png"
+      "geo_notes": "小园落花，未坐实单一园墅；曲陌斜晖为惜春庭园意象。",
+      "travel_tip": "春日小园／落花径可对读；可对「芳心向春尽，所得是沾衣」。",
+      "has_card": true,
+      "front": "assets/cards/front-173.png",
+      "back": "assets/cards/back-173.png",
+      "illustration": "assets/cards/front-173.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《落花》写小园花乱、芳心春尽。",
+      "meaning": "高阁客竟去，小园花乱飞；参差连曲陌，迢递送斜晖。肠断未忍扫，眼穿仍欲归；芳心向春尽，所得是沾衣。",
+      "geo": "小园落花，未坐实单一园墅；曲陌斜晖为惜春庭园意象。",
+      "visit": "春日小园／落花径可对读；可对「芳心向春尽，所得是沾衣」。"
     },
     {
       "id": "ts300-174",
@@ -7432,13 +7451,19 @@
         "天涯占梦数",
         "疑误有新知"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-174.png"
+      "places": [
+        "南陵"
+      ],
+      "geo_notes": "凉思；南陵寓使。",
+      "travel_tip": "安徽南陵；可对「南陵寓使迟」与「天涯占梦数」。",
+      "has_card": true,
+      "front": "assets/cards/front-174.png",
+      "back": "assets/cards/back-174.png",
+      "illustration": "assets/cards/front-174.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《凉思》写蝉休露满，南陵寓使迟。",
+      "meaning": "客去波平槛，蝉休露满枝；永怀当此节，倚立自移时。北斗兼春远，南陵寓使迟；天涯占梦数，疑误有新知。",
+      "geo": "南陵在今安徽南陵。凉夜永怀，地景以南陵寄使／天涯念远为主。",
+      "visit": "安徽南陵；可对「南陵寓使迟」与「天涯占梦数」。"
     },
     {
       "id": "ts300-175",
@@ -7459,12 +7484,16 @@
         "吾宁爱与憎"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-175.png"
+      "geo_notes": "北青萝山寺访僧，具体峰谷说法不一；茅屋孤僧、寒云落叶为山寺禅访意象。",
+      "travel_tip": "山寺访僧／秋晚磬声可对读；可对「世界微尘里，吾宁爱与憎」。",
+      "has_card": true,
+      "front": "assets/cards/front-175.png",
+      "back": "assets/cards/back-175.png",
+      "illustration": "assets/cards/front-175.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《北青萝》访孤僧，写落叶寒云、世界微尘。",
+      "meaning": "残阳西入崦，茅屋访孤僧；落叶人何在，寒云路几层。独敲初夜磬，闲倚一枝藤；世界微尘里，吾宁爱与憎。",
+      "geo": "北青萝山寺访僧，具体峰谷说法不一；茅屋孤僧、寒云落叶为山寺禅访意象。",
+      "visit": "山寺访僧／秋晚磬声可对读；可对「世界微尘里，吾宁爱与憎」。"
     },
     {
       "id": "ts300-176",
@@ -7484,13 +7513,20 @@
         "何当重相见",
         "樽酒慰离颜"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-176.png"
+      "places": [
+        "武汉",
+        "荆州"
+      ],
+      "geo_notes": "送人东游。",
+      "travel_tip": "湖北武汉（汉阳渡）；荆州（郢门）可对读「高风汉阳渡，初日郢门山」。",
+      "has_card": true,
+      "front": "assets/cards/front-176.png",
+      "back": "assets/cards/back-176.png",
+      "illustration": "assets/cards/front-176.png",
+      "poet": "温庭筠（约812—约866），字飞卿。本库题名去重四首；《送人东游》写汉阳渡、郢门山送别。",
+      "meaning": "荒戍落黄叶，浩然离故关；高风汉阳渡，初日郢门山。江上几人在，天涯孤棹还；何当重相见，樽酒慰离颜。",
+      "geo": "汉阳渡在今湖北武汉；郢门山属楚郢，地望今湖北荆州一带。东游送别，地景以武汉／荆州江路为主。",
+      "visit": "湖北武汉（汉阳渡）；荆州（郢门）可对读「高风汉阳渡，初日郢门山」。"
     },
     {
       "id": "ts300-177",
@@ -12924,7 +12960,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 180,
+    "cards": 185,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
