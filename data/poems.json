@@ -2355,12 +2355,12 @@
       "places": [
         "绍兴"
       ],
-      "geo_notes": "南斋望月忆山阴友人。地名今释：绍兴（唐时称山阴）。",
+      "geo_notes": "忆山阴崔少府。地名今释：绍兴（唐时称山阴）。",
       "travel_tip": "绍兴山阴可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-056.png",
+      "has_card": true,
+      "front": "assets/cards/front-056.png",
+      "back": "assets/cards/back-056.png",
+      "illustration": "assets/cards/front-056.png",
       "place_captions": [
         {
           "place": "绍兴",
@@ -2369,7 +2369,11 @@
           ],
           "note": "唐时称山阴"
         }
-      ]
+      ],
+      "poet": "王昌龄（约698—757），京兆人，后世称「七绝圣手」。本库题名去重约八首；与从弟南斋玩月遥忆山阴崔少府（本库另收同题异序篇）。",
+      "meaning": "南斋高卧、开帷月上，清辉水木演漾窗户；月盈虚变今古，美人清江越吟苦，千里微风吹兰杜，玩月中怀远人。",
+      "geo": "所忆山阴即今浙江绍兴（唐时称山阴）；南斋玩月为诗境，地景以绍兴山阴文化联想为主。",
+      "visit": "浙江绍兴古城／山阴文化线；月夜可对读；宜与本库021成组展读。"
     },
     {
       "id": "ts300-057",
@@ -2400,12 +2404,16 @@
         "何必待之子"
       ],
       "places": [],
-      "geo_notes": "寻隐不遇。",
+      "geo_notes": "寻隐不遇；西山所指不一，不索引模糊山名。",
       "travel_tip": "访古隐逸主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-057.png"
+      "has_card": true,
+      "front": "assets/cards/front-057.png",
+      "back": "assets/cards/back-057.png",
+      "illustration": "assets/cards/front-057.png",
+      "poet": "邱为（生卒年不详，盛唐），苏州人。本库题名去重一首；《寻西山隐者不遇》写登山访隐不遇而自适（本库另收同题异序篇）。",
+      "meaning": "绝顶茅茨直上三十里，扣关无人、案几空置；隐者或柴车或钓秋水，不相见而草色松声自足，兴尽下山何必待之，寻隐得清净理。",
+      "geo": "西山所指不一，诗写登山访隐不遇的普遍意境；地景重幽绝清净，不必坐实单一山名。",
+      "visit": "宜作寻隐／登山主题阅读；山寺茅茨意境徒步可对读；宜与本库022对照。"
     },
     {
       "id": "ts300-058",
@@ -2434,10 +2442,14 @@
       ],
       "geo_notes": "绍兴若耶溪。",
       "travel_tip": "浙江绍兴若耶溪。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-058.png"
+      "has_card": true,
+      "front": "assets/cards/front-058.png",
+      "back": "assets/cards/back-058.png",
+      "illustration": "assets/cards/front-058.png",
+      "poet": "綦毋潜（生卒年不详，盛唐），荆南人。本库题名去重一首；《春泛若耶溪》写春夜泛舟，愿为持竿叟（本库另收同题异序篇）。",
+      "meaning": "幽意不断、随偶而行，晚风行舟花路入溪；际夜转壑望南斗，潭烟溶溶、林月低后，生事弥漫而愿持竿隐钓，春泛见归隐之思。",
+      "geo": "若耶溪在今浙江绍兴；春夜溪泛，地景以绍兴若耶溪实地为主。",
+      "visit": "浙江绍兴若耶溪；春日／月夜泛舟可对读；宜与本库023成组展读。"
     },
     {
       "id": "ts300-059",
@@ -2460,12 +2472,16 @@
         "西山鸾鹤群"
       ],
       "places": [],
-      "geo_notes": "宿友人隐居。",
+      "geo_notes": "常建宿王昌龄隐居；清溪意象，不坐实单一遗址。",
       "travel_tip": "隐逸夜宿意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-059.png"
+      "has_card": true,
+      "front": "assets/cards/front-059.png",
+      "back": "assets/cards/back-059.png",
+      "illustration": "assets/cards/front-059.png",
+      "poet": "常建（生卒年不详，盛唐），与王昌龄友善。本库题名去重二首；宿王昌龄隐居，清溪孤云、松月药院（本库另收同题异序篇）。",
+      "meaning": "清溪深不测、隐处唯孤云，松际微月清光为君；茅亭花影、药院苔纹，余亦欲谢时去从西山鸾鹤，访友隐居而动归隐之念。",
+      "geo": "王昌龄隐居地传说不一，常与清溪意象相关；诗写访隐清溪，不必强求单一遗址。",
+      "visit": "宜作访隐清溪主题阅读；松月药院意境可对读；宜与本库024对照。"
     },
     {
       "id": "ts300-060",
@@ -2505,21 +2521,16 @@
         "大雁塔",
         "西安"
       ],
-      "geo_notes": "登大雁塔。地名今释：西安（唐时称长安）。",
+      "geo_notes": "今西安大雁塔。",
       "travel_tip": "西安大雁塔必到。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-060.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ]
+      "has_card": true,
+      "front": "assets/cards/front-060.png",
+      "back": "assets/cards/back-060.png",
+      "illustration": "assets/cards/front-060.png",
+      "poet": "岑参（约715—770），南阳人，盛唐边塞诗代表，与高适并称。本库题名去重约七首；与高适、薛据同登慈恩寺塔（本库另收同题异序篇）。",
+      "meaning": "塔势涌出耸天宫，磴道盘空压神州；四角碍日、七层摩穹，下窥高鸟俯听惊风，连山波涛、秋色关中五陵青濛，悟净理而萌挂冠之志。",
+      "geo": "慈恩寺浮图即今西安大雁塔（唐慈恩寺塔）；登塔俯瞰关中，地景以西安大雁塔为主。",
+      "visit": "西安大雁塔／大慈恩寺；登塔可对读全诗；宜与本库025成组展读。"
     },
     {
       "id": "ts300-061",
@@ -4067,8 +4078,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -4631,8 +4642,8 @@
       "places": [
         "咸阳桥",
         "青海",
-        "西安",
-        "咸阳"
+        "咸阳",
+        "西安"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
@@ -12452,7 +12463,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 65,
+    "cards": 70,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

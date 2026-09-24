@@ -1235,7 +1235,7 @@
         "西安大雁塔",
         "大慈恩寺",
         "登塔可对读全诗",
-        "西安大雁塔必到"
+        "宜与本库025成组展读"
       ],
       "region": "西安",
       "subtitle": ""
@@ -3292,7 +3292,7 @@
     ],
     "mapping_stats": {
       "ancient_keys": 189,
-      "rename_events": 221,
+      "rename_events": 220,
       "examples": [
         {
           "from": "长安",
