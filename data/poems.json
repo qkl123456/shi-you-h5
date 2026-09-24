@@ -226,10 +226,10 @@
       ],
       "geo_notes": "李白长安时期月下独酌意境；非单一实指景点。地名今释：西安（唐时称长安）。",
       "travel_tip": "中秋/月夜可背此诗。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-006.png",
+      "has_card": true,
+      "front": "assets/cards/front-006.png",
+      "back": "assets/cards/back-006.png",
+      "illustration": "assets/cards/front-006.png",
       "place_captions": [
         {
           "place": "西安",
@@ -238,7 +238,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白，号青莲居士，盛唐浪漫派代表。本库题名去重约三十七首；此写花间月下独酌，邀月对影成三人。",
+      "meaning": "花间一壶酒，独酌无亲，举杯邀明月、对影成三人；月不解饮、影徒随身，歌徘徊、舞影乱，醒同欢、醉分散，结以永结无情游、相期云汉，豪放中见孤寂。",
+      "geo": "诗境多系李白居长安（今陕西西安）时期月下独酌，非单一实指景点；地景以西安夜月意象联想。",
+      "visit": "西安古城夜景／月夜背诗；中秋或晴夜对「举杯邀明月」。"
     },
     {
       "id": "ts300-007",
@@ -261,14 +265,15 @@
       ],
       "places": [
         "河北",
-        "西安"
+        "西安",
+        "北京"
       ],
       "geo_notes": "燕草秦桑对照南北；文化地理联想。地名今释：西安（古称秦中）。",
       "travel_tip": "可对照关中桑野与北地春草意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-007.png",
+      "has_card": true,
+      "front": "assets/cards/front-007.png",
+      "back": "assets/cards/back-007.png",
+      "illustration": "assets/cards/front-007.png",
       "place_captions": [
         {
           "place": "西安",
@@ -277,7 +282,11 @@
           ],
           "note": "古称秦中"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《春思》以南北春色对照写闺中怀远。",
+      "meaning": "燕草如丝、秦桑低枝写南北春光同步；君怀归日正妾断肠，春风入罗帏而不相识，以乐景写相思闺怨。",
+      "geo": "燕草指北地春草（今北京／河北一带意象），秦桑指关中桑野（今陕西西安一带，古称秦中）；南北对照，非单一打卡点。",
+      "visit": "可对照西安周边桑野春色与华北春草意象；关中春游读此篇。"
     },
     {
       "id": "ts300-008",
@@ -307,10 +316,14 @@
       ],
       "geo_notes": "岱宗即泰山，今山东泰安。",
       "travel_tip": "登泰山可对读全诗。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-008.png"
+      "has_card": true,
+      "front": "assets/cards/front-008.png",
+      "back": "assets/cards/back-008.png",
+      "illustration": "assets/cards/front-008.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老，后世称「诗圣」。本库题名去重约四十九首；青年过齐鲁望泰山作此，结句「会当凌绝顶」历来传诵。",
+      "meaning": "岱宗何如、齐鲁青未了写泰山横亘；造化神秀、阴阳割昏晓写高峻气象；荡胸层云、决眦归鸟之后，誓凌绝顶而一览众山小，壮志凌云。",
+      "geo": "岱宗即泰山，在今山东泰安；齐鲁为山东古称，诗中写泰山之青横贯齐鲁。",
+      "visit": "山东泰安登泰山；可对「会当凌绝顶，一览众山小」。"
     },
     {
       "id": "ts300-009",
@@ -354,10 +367,14 @@
       ],
       "geo_notes": "重逢夜话；地理从宽，以人情为主。",
       "travel_tip": "读诗重人情，不必强求精确遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-009.png"
+      "has_card": true,
+      "front": "assets/cards/front-009.png",
+      "back": "assets/cards/back-009.png",
+      "illustration": "assets/cards/front-009.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；此写乱离后与卫八处士二十年重逢夜宴，情真语朴。",
+      "meaning": "人生如参商难见，今夕共灯烛；少壮已苍、访旧半鬼，二十载重上君子堂，儿女成行、夜雨春韭黄粱、累觞不醉，明日又隔山岳，世事茫茫，友情沉痛。",
+      "geo": "卫八处士居处传说不一，多系河南一带；诗重人情夜话，不必坐实单一遗址。",
+      "visit": "宜作友情／重逢主题阅读；河南人文线可宽泛联想，不必强求精确打卡点。"
     },
     {
       "id": "ts300-010",
@@ -401,10 +418,10 @@
       ],
       "geo_notes": "乱离后幽居空谷；关中战乱背景。地名今释：西安（古称关中）。",
       "travel_tip": "可对照秦岭山居清泉修竹意境。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-010.png",
+      "has_card": true,
+      "front": "assets/cards/front-010.png",
+      "back": "assets/cards/back-010.png",
+      "illustration": "assets/cards/front-010.png",
       "place_captions": [
         {
           "place": "西安",
@@ -413,7 +430,11 @@
           ],
           "note": "古称关中"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；安史乱后作《佳人》，写乱离弃妇幽居自守。",
+      "meaning": "绝代佳人幽居空谷，自述关中丧乱、骨肉零落；夫婿迎新弃旧，而在山泉水清、出山则浊，卖珠补屋、采柏倚竹，写乱离中的清贞自守。",
+      "geo": "关中昔丧乱，地景今释为陕西西安一带乱离背景；佳人幽居空谷，可联秦岭北麓山居清泉修竹，非单一名胜。",
+      "visit": "西安周边秦岭山居／清泉修竹意境对读；乱离主题展亦可。"
     },
     {
       "id": "ts300-011",
@@ -1540,8 +1561,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -2644,8 +2665,8 @@
         "庐山",
         "黄鹤楼",
         "长江",
-        "九江",
-        "武汉"
+        "武汉",
+        "九江"
       ],
       "geo_notes": "庐山寻仙寄卢虚舟。",
       "travel_tip": "九江庐山、武汉黄鹤楼。",
@@ -12240,7 +12261,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 15,
+    "cards": 20,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
