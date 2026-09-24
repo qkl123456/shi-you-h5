@@ -1674,8 +1674,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7287,12 +7287,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -8286,12 +8295,16 @@
         "先遣小姑尝"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-203.png"
+      "geo_notes": "新嫁娘厨下问姑，无专指地理；家常礼俗意象为主，不必坐实单一宅院。",
+      "travel_tip": "厨下羹汤可对读；可对「未谙姑食性，先遣小姑尝」。",
+      "has_card": true,
+      "front": "assets/cards/front-203.png",
+      "back": "assets/cards/back-203.png",
+      "illustration": "assets/cards/front-203.png",
+      "poet": "王建（约767—约830），字仲初。本库题名去重一首；《新嫁娘词》写三日入厨、小姑先尝。",
+      "meaning": "三日入厨下，洗手作羹汤；未谙姑食性，先遣小姑尝。",
+      "geo": "新嫁娘厨下问姑，无专指地理；家常礼俗意象为主，不必坐实单一宅院。",
+      "visit": "厨下羹汤可对读；可对「未谙姑食性，先遣小姑尝」。"
     },
     {
       "id": "ts300-204",
@@ -8308,12 +8321,16 @@
         "莫是藁砧归"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-204.png"
+      "geo_notes": "玉台体闺情，裙带蟢子为喜兆意象；无专指地理，不必坐实单一深闺。",
+      "travel_tip": "裙带蟢子可对读；可对「铅华不可弃，莫是藁砧归」。",
+      "has_card": true,
+      "front": "assets/cards/front-204.png",
+      "back": "assets/cards/back-204.png",
+      "illustration": "assets/cards/front-204.png",
+      "poet": "权德舆（759—818），字载之。本库题名去重一首；《玉台体》写裙带蟢子、盼藁砧归。",
+      "meaning": "昨夜裙带解，今朝蟢子飞；铅华不可弃，莫是藁砧归。",
+      "geo": "玉台体闺情，裙带蟢子为喜兆意象；无专指地理，不必坐实单一深闺。",
+      "visit": "裙带蟢子可对读；可对「铅华不可弃，莫是藁砧归」。"
     },
     {
       "id": "ts300-205",
@@ -8329,13 +8346,19 @@
         "孤舟蓑笠翁",
         "独钓寒江雪"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-205.png"
+      "places": [
+        "永州"
+      ],
+      "geo_notes": "江雪多作于永州贬谪前后，寒江独钓；地望今湖南永州。地景以永州寒江为主。",
+      "travel_tip": "湖南永州；可对「孤舟蓑笠翁，独钓寒江雪」。",
+      "has_card": true,
+      "front": "assets/cards/front-205.png",
+      "back": "assets/cards/back-205.png",
+      "illustration": "assets/cards/front-205.png",
+      "poet": "柳宗元（773—819），字子厚。本库题名去重五首；《江雪》写千山人绝、寒江独钓。",
+      "meaning": "千山鸟飞绝，万径人踪灭；孤舟蓑笠翁，独钓寒江雪。",
+      "geo": "江雪多作于永州贬谪前后，寒江独钓；地望今湖南永州。地景以永州寒江为主。",
+      "visit": "湖南永州；可对「孤舟蓑笠翁，独钓寒江雪」。"
     },
     {
       "id": "ts300-206",
@@ -8351,13 +8374,19 @@
         "白头宫女在",
         "闲坐说玄宗"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-206.png"
+      "places": [
+        "洛阳"
+      ],
+      "geo_notes": "古行宫多指洛阳上阳宫一带，地望今河南洛阳。宫花白头，地景以洛阳行宫为主。",
+      "travel_tip": "河南洛阳（上阳行宫意象）；可对「白头宫女在，闲坐说玄宗」。",
+      "has_card": true,
+      "front": "assets/cards/front-206.png",
+      "back": "assets/cards/back-206.png",
+      "illustration": "assets/cards/front-206.png",
+      "poet": "元稹（779—831），字微之。本库题名去重四首；《行宫》写古行宫花、白头说玄宗。",
+      "meaning": "寥落古行宫，宫花寂寞红；白头宫女在，闲坐说玄宗。",
+      "geo": "古行宫多指洛阳上阳宫一带，地望今河南洛阳。宫花白头，地景以洛阳行宫为主。",
+      "visit": "河南洛阳（上阳行宫意象）；可对「白头宫女在，闲坐说玄宗」。"
     },
     {
       "id": "ts300-207",
@@ -8374,12 +8403,16 @@
         "能饮一杯无"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-207.png"
+      "geo_notes": "冬夜招友对雪小饮，无专指一城；地景以炉火新醅、欲雪对酌意象为主。",
+      "travel_tip": "绿蚁红泥可对读；可对「晚来天欲雪，能饮一杯无」。",
+      "has_card": true,
+      "front": "assets/cards/front-207.png",
+      "back": "assets/cards/back-207.png",
+      "illustration": "assets/cards/front-207.png",
+      "poet": "白居易（772—846），字乐天。本库题名去重六首；《问刘十九》写绿蚁红泥、欲雪招饮。",
+      "meaning": "绿蚁新醅酒，红泥小火炉；晚来天欲雪，能饮一杯无。",
+      "geo": "冬夜招友对雪小饮，无专指一城；地景以炉火新醅、欲雪对酌意象为主。",
+      "visit": "绿蚁红泥可对读；可对「晚来天欲雪，能饮一杯无」。"
     },
     {
       "id": "ts300-208",
@@ -13090,7 +13123,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 210,
+    "cards": 215,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
