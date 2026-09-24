@@ -1674,8 +1674,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -7287,12 +7287,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7907,6 +7916,15 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
+      "place_captions": [
+        {
+          "place": "永济",
+          "ancient": [
+            "蒲州"
+          ],
+          "note": "唐时称蒲州"
+        }
+      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7983,13 +8001,19 @@
         "野旷天低树",
         "江清月近人"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-192.png"
+      "places": [
+        "建德"
+      ],
+      "geo_notes": "建德江在今浙江建德。泊舟烟渚，地景以建德江景为主。",
+      "travel_tip": "浙江建德（建德江）；可对「野旷天低树，江清月近人」。",
+      "has_card": true,
+      "front": "assets/cards/front-192.png",
+      "back": "assets/cards/back-192.png",
+      "illustration": "assets/cards/front-192.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；《宿建德江》写烟渚客愁、江清月近。",
+      "meaning": "移舟泊烟渚，日暮客愁新；野旷天低树，江清月近人。",
+      "geo": "建德江在今浙江建德。泊舟烟渚，地景以建德江景为主。",
+      "visit": "浙江建德（建德江）；可对「野旷天低树，江清月近人」。"
     },
     {
       "id": "ts300-193",
@@ -8006,12 +8030,16 @@
         "花落知多少"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-193.png"
+      "geo_notes": "春晓写风雨落花，无专指地理；地景以春夜风雨、落花啼鸟意象为主，不必坐实单一园亭。",
+      "travel_tip": "春晓风雨落花可对读；可对「夜来风雨声，花落知多少」。",
+      "has_card": true,
+      "front": "assets/cards/front-193.png",
+      "back": "assets/cards/back-193.png",
+      "illustration": "assets/cards/front-193.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；《春晓》写春眠啼鸟、风雨落花。",
+      "meaning": "春眠不觉晓，处处闻啼鸟；夜来风雨声，花落知多少。",
+      "geo": "春晓写风雨落花，无专指地理；地景以春夜风雨、落花啼鸟意象为主，不必坐实单一园亭。",
+      "visit": "春晓风雨落花可对读；可对「夜来风雨声，花落知多少」。"
     },
     {
       "id": "ts300-194",
@@ -8028,12 +8056,16 @@
         "低头思故乡"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-194.png"
+      "geo_notes": "客居望月思乡，无专指一城；月夜乡思意象为主，不必坐实单一客舍。",
+      "travel_tip": "月夜乡思可对读；可对「举头望明月，低头思故乡」。",
+      "has_card": true,
+      "front": "assets/cards/front-194.png",
+      "back": "assets/cards/back-194.png",
+      "illustration": "assets/cards/front-194.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《静夜思》望月思乡，床前疑霜。",
+      "meaning": "床前明月光，疑是地上霜；举头望明月，低头思故乡。",
+      "geo": "客居望月思乡，无专指一城；月夜乡思意象为主，不必坐实单一客舍。",
+      "visit": "月夜乡思可对读；可对「举头望明月，低头思故乡」。"
     },
     {
       "id": "ts300-195",
@@ -8050,12 +8082,16 @@
         "不知心恨谁"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-195.png"
+      "geo_notes": "闺怨口吻，无专指地理；珠帘蛾眉、泪痕为怨情意象，不必坐实单一深院。",
+      "travel_tip": "怨情珠帘可对读；可对「但见泪痕湿，不知心恨谁」。",
+      "has_card": true,
+      "front": "assets/cards/front-195.png",
+      "back": "assets/cards/back-195.png",
+      "illustration": "assets/cards/front-195.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《怨情》写卷帘颦眉、泪痕不知恨谁。",
+      "meaning": "美人卷珠帘，深坐颦蛾眉；但见泪痕湿，不知心恨谁。",
+      "geo": "闺怨口吻，无专指地理；珠帘蛾眉、泪痕为怨情意象，不必坐实单一深院。",
+      "visit": "怨情珠帘可对读；可对「但见泪痕湿，不知心恨谁」。"
     },
     {
       "id": "ts300-196",
@@ -8071,13 +8107,20 @@
         "江流石不转",
         "遗恨失吞吴"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-196.png"
+      "places": [
+        "白帝城",
+        "奉节"
+      ],
+      "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
+      "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
+      "has_card": true,
+      "front": "assets/cards/front-196.png",
+      "back": "assets/cards/back-196.png",
+      "illustration": "assets/cards/front-196.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《八阵图》咏诸葛亮阵石，遗恨失吞吴。",
+      "meaning": "功盖三分国，名成八阵图；江流石不转，遗恨失吞吴。",
+      "geo": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
+      "visit": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。"
     },
     {
       "id": "ts300-197",
@@ -13039,7 +13082,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 200,
+    "cards": 205,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
