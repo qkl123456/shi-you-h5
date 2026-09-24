@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -1722,10 +1722,14 @@
       "places": [],
       "geo_notes": "寓言体，无专指地理。",
       "travel_tip": "意象象征，宜作主题展。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-041.png"
+      "has_card": true,
+      "front": "assets/cards/front-041.png",
+      "back": "assets/cards/back-041.png",
+      "illustration": "assets/cards/front-041.png",
+      "poet": "孟郊（751—814），字东野，湖州武康人，中唐苦吟诗人，与贾岛并称「郊寒岛瘦」。本库题名去重二首；《烈女操》以贞妇自誓，寓言象征。",
+      "meaning": "梧桐相待老、鸳鸯会双死，贞妇殉夫舍生亦然；波澜誓不起，妾心如古井水，以极端忠贞意象写节操自守。",
+      "geo": "寓言体，无专指地理；宜作主题象征，不必坐实遗址。",
+      "visit": "宜作忠贞／节操主题展读；不必强求打卡点。"
     },
     {
       "id": "ts300-042",
@@ -1748,10 +1752,14 @@
       "places": [],
       "geo_notes": "普世亲情。",
       "travel_tip": "可配亲情主题展板。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-042.png"
+      "has_card": true,
+      "front": "assets/cards/front-042.png",
+      "back": "assets/cards/back-042.png",
+      "illustration": "assets/cards/front-042.png",
+      "poet": "孟郊（751—814），字东野。本库题名去重二首；《游子吟》写慈母缝衣，寸草难报春晖，千古亲情名篇。",
+      "meaning": "慈母手中线作游子衣，临行密缝恐迟归；谁言寸草心报得三春晖，以缝衣细节写母爱深挚，结句成为报恩名喻。",
+      "geo": "普世亲情，无专指地理；诗境可联游子远行，不必坐实单一地点。",
+      "visit": "宜作母爱／亲情主题展板；各地慈孝文化空间可宽泛对读。"
     },
     {
       "id": "ts300-043",
@@ -1780,10 +1788,14 @@
       ],
       "geo_notes": "望泰山。",
       "travel_tip": "泰安登泰山必背。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-043.png"
+      "has_card": true,
+      "front": "assets/cards/front-043.png",
+      "back": "assets/cards/back-043.png",
+      "illustration": "assets/cards/front-043.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老，后世称「诗圣」。本库题名去重约四十九首；青年过齐鲁望泰山作此（本库另收同题异序篇）。",
+      "meaning": "岱宗何如、齐鲁青未了写泰山横亘；造化神秀、阴阳割昏晓写高峻；荡胸曾云、决眦归鸟后，誓凌绝顶而一览众山小，壮志凌云。",
+      "geo": "岱宗即泰山，在今山东泰安；齐鲁为山东古称。与本库另一《望岳》同咏泰山。",
+      "visit": "山东泰安登泰山；可对「会当凌绝顶，一览众山小」。"
     },
     {
       "id": "ts300-044",
@@ -1824,10 +1836,14 @@
       "places": [],
       "geo_notes": "故人重逢夜宴。",
       "travel_tip": "友情主题，不必强求遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-044.png"
+      "has_card": true,
+      "front": "assets/cards/front-044.png",
+      "back": "assets/cards/back-044.png",
+      "illustration": "assets/cards/front-044.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；乱离后与卫八处士二十年重逢夜宴（本库另收同题异序篇）。",
+      "meaning": "人生如参商难见，今夕共灯烛；少壮已苍、访旧半鬼，二十载重上君子堂，夜雨春韭黄粱累觞，明日又隔山岳，友情沉痛。",
+      "geo": "卫八处士居处传说不一，多系河南一带；诗重人情夜话，不必坐实单一遗址。",
+      "visit": "宜作友情／重逢主题阅读；河南人文线可宽泛联想。"
     },
     {
       "id": "ts300-045",
@@ -1871,10 +1887,10 @@
       ],
       "geo_notes": "安史乱后幽谷佳人。地名今释：西安（古称关中）。",
       "travel_tip": "意象游，可配竹林展。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-045.png",
+      "has_card": true,
+      "front": "assets/cards/front-045.png",
+      "back": "assets/cards/back-045.png",
+      "illustration": "assets/cards/front-045.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1883,7 +1899,11 @@
           ],
           "note": "古称关中"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；安史乱后作《佳人》，写乱离弃妇幽居自守（本库另收同题异序篇）。",
+      "meaning": "绝代佳人幽居空谷，自述关中丧乱、骨肉零落；夫婿迎新弃旧，而在山泉水清、卖珠补屋、采柏倚竹，写乱离中的清贞自守。",
+      "geo": "关中昔丧乱，地景今释为陕西西安一带乱离背景；佳人幽居空谷，可联秦岭北麓山居清泉修竹。",
+      "visit": "西安周边秦岭山居／清泉修竹意境对读；乱离主题展亦可。"
     },
     {
       "id": "ts300-046",
@@ -3994,8 +4014,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -12377,7 +12397,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 50,
+    "cards": 55,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
