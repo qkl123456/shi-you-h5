@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -7287,21 +7287,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7916,15 +7907,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -8167,13 +8149,19 @@
         "荷笠带斜阳",
         "青山独归远"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-198.png"
+      "places": [
+        "镇江"
+      ],
+      "geo_notes": "竹林寺多系润州竹林寺，地望今江苏镇江。送僧归山，地景以镇江竹林寺／青山钟声为主。",
+      "travel_tip": "江苏镇江（竹林寺意象）；可对「荷笠带斜阳，青山独归远」。",
+      "has_card": true,
+      "front": "assets/cards/front-198.png",
+      "back": "assets/cards/back-198.png",
+      "illustration": "assets/cards/front-198.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《送灵澈》写竹林晚钟、荷笠青山。",
+      "meaning": "苍苍竹林寺，杳杳钟声晚；荷笠带斜阳，青山独归远。",
+      "geo": "竹林寺多系润州竹林寺，地望今江苏镇江。送僧归山，地景以镇江竹林寺／青山钟声为主。",
+      "visit": "江苏镇江（竹林寺意象）；可对「荷笠带斜阳，青山独归远」。"
     },
     {
       "id": "ts300-199",
@@ -8190,12 +8178,16 @@
         "今人多不弹"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-199.png"
+      "geo_notes": "听琴松风，无专指地理；七弦古调为琴意意象，不必坐实单一琴室。",
+      "travel_tip": "七弦松风可对读；可对「古调虽自爱，今人多不弹」。",
+      "has_card": true,
+      "front": "assets/cards/front-199.png",
+      "back": "assets/cards/back-199.png",
+      "illustration": "assets/cards/front-199.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《弹琴》写七弦松风、古调自爱。",
+      "meaning": "泠泠七弦上，静听松风寒；古调虽自爱，今人多不弹。",
+      "geo": "听琴松风，无专指地理；七弦古调为琴意意象，不必坐实单一琴室。",
+      "visit": "七弦松风可对读；可对「古调虽自爱，今人多不弹」。"
     },
     {
       "id": "ts300-200",
@@ -8211,13 +8203,19 @@
         "莫买沃洲山",
         "时人已知处"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-200.png"
+      "places": [
+        "新昌"
+      ],
+      "geo_notes": "沃洲山在今浙江新昌（天台山西北）。送上人，戒买山招隐之已为人知处。",
+      "travel_tip": "浙江新昌（沃洲山）；可对「莫买沃洲山，时人已知处」。",
+      "has_card": true,
+      "front": "assets/cards/front-200.png",
+      "back": "assets/cards/back-200.png",
+      "illustration": "assets/cards/front-200.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《送上人》以孤云野鹤送僧，戒买沃洲。",
+      "meaning": "孤云将野鹤，岂向人间住；莫买沃洲山，时人已知处。",
+      "geo": "沃洲山在今浙江新昌（天台山西北）。送上人，戒买山招隐之已为人知处。",
+      "visit": "浙江新昌（沃洲山）；可对「莫买沃洲山，时人已知处」。"
     },
     {
       "id": "ts300-201",
@@ -8233,13 +8231,19 @@
         "空山松子落",
         "幽人应未眠"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-201.png"
+      "places": [
+        "杭州"
+      ],
+      "geo_notes": "秋夜怀寄邱员外（邱丹），隐居多联临平山一带，地望今浙江杭州余杭。空山松子，地景以杭州／临平为主。",
+      "travel_tip": "浙江杭州余杭（临平）；可对「空山松子落，幽人应未眠」。",
+      "has_card": true,
+      "front": "assets/cards/front-201.png",
+      "back": "assets/cards/back-201.png",
+      "illustration": "assets/cards/front-201.png",
+      "poet": "韦应物（约737—约792），韦苏州。本库题名去重十二首；秋夜寄邱员外，写空山松子、幽人未眠。",
+      "meaning": "怀君属秋夜，散步咏凉天；空山松子落，幽人应未眠。",
+      "geo": "秋夜怀寄邱员外（邱丹），隐居多联临平山一带，地望今浙江杭州余杭。空山松子，地景以杭州／临平为主。",
+      "visit": "浙江杭州余杭（临平）；可对「空山松子落，幽人应未眠」。"
     },
     {
       "id": "ts300-202",
@@ -8256,12 +8260,16 @@
         "时时误拂弦"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-202.png"
+      "geo_notes": "听筝玉房，周郎为三国周瑜典故；无专指地理，以金粟柱、误拂弦为听乐意象。",
+      "travel_tip": "听筝误拂弦可对读；可对「欲得周郎顾，时时误拂弦」。",
+      "has_card": true,
+      "front": "assets/cards/front-202.png",
+      "back": "assets/cards/back-202.png",
+      "illustration": "assets/cards/front-202.png",
+      "poet": "李端（生卒年不详，大历十才子）。本库题名去重一首；《听筝》写金粟柱、误拂弦求周郎顾。",
+      "meaning": "鸣筝金粟柱，素手玉房前；欲得周郎顾，时时误拂弦。",
+      "geo": "听筝玉房，周郎为三国周瑜典故；无专指地理，以金粟柱、误拂弦为听乐意象。",
+      "visit": "听筝误拂弦可对读；可对「欲得周郎顾，时时误拂弦」。"
     },
     {
       "id": "ts300-203",
@@ -13082,7 +13090,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 205,
+    "cards": 210,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
