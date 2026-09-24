@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "四川",
-        "成都"
+        "成都",
+        "四川"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -7299,21 +7299,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7957,8 +7948,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -10963,21 +10954,12 @@
       "places": [
         "南京"
       ],
-      "geo_notes": "杜秋娘歌；一作李锜妾作。地名今释：南京（唐时称金陵）。",
+      "geo_notes": "杜秋娘歌；一作李锜妾作。",
       "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
       "has_card": true,
       "front": "assets/cards/front-276.png",
       "back": "assets/cards/back-276.png",
       "illustration": "assets/cards/front-276.png",
-      "place_captions": [
-        {
-          "place": "南京",
-          "ancient": [
-            "金陵"
-          ],
-          "note": "唐时称金陵"
-        }
-      ],
       "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
       "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
       "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
@@ -11770,11 +11752,11 @@
         "西安"
       ],
       "geo_notes": "宫人救蛾；内人指宫女。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-296.png",
+      "travel_tip": "陕西西安（宫禁意象）；可对「斜拔玉钗灯影畔，剔开红焰救飞蛾」。",
+      "has_card": true,
+      "front": "assets/cards/front-296.png",
+      "back": "assets/cards/back-296.png",
+      "illustration": "assets/cards/front-296.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11783,7 +11765,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "张祜（约785—约849），字承吉。本库题名去重五首；《赠内人》写禁门月痕、玉钗救飞蛾。",
+      "meaning": "禁门宫树月痕过，媚眼惟看宿鹭窠；斜拔玉钗灯影畔，剔开红焰救飞蛾。宫人寂寞，一念慈悲救蛾。",
+      "geo": "禁门宫树为长安宫掖意象，地望今陕西西安。内人夜坐，地景以西安宫禁为主。",
+      "visit": "陕西西安（宫禁意象）；可对「斜拔玉钗灯影畔，剔开红焰救飞蛾」。"
     },
     {
       "id": "ts300-297",
@@ -11806,11 +11792,15 @@
         "西安"
       ],
       "geo_notes": "集灵台授箓；杨太真入宫。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-297.png"
+      "travel_tip": "陕西西安临潼（集灵台／华清宫）；可对「昨夜上皇新授箓，太真含笑入帘来」。",
+      "has_card": true,
+      "front": "assets/cards/front-297.png",
+      "back": "assets/cards/back-297.png",
+      "illustration": "assets/cards/front-297.png",
+      "poet": "张祜（约785—约849），字承吉。本库题名去重五首；《集灵台》其一写日光斜照、太真入帘。",
+      "meaning": "日光斜照集灵台，红树花迎晓露开；昨夜上皇新授箓，太真含笑入帘来。集灵台晓景，点出太真承恩。",
+      "geo": "集灵台在骊山华清宫一带，地望今陕西西安临潼。上皇授箓、太真入帘，地景以西安集灵台／华清为主。",
+      "visit": "陕西西安临潼（集灵台／华清宫）；可对「昨夜上皇新授箓，太真含笑入帘来」。"
     },
     {
       "id": "ts300-298",
@@ -11833,11 +11823,11 @@
         "西安"
       ],
       "geo_notes": "虢国夫人淡妆入朝。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-298.png",
+      "travel_tip": "陕西西安（宫门／华清意象）；可对「却嫌脂粉污颜色，淡扫蛾眉朝至尊」。",
+      "has_card": true,
+      "front": "assets/cards/front-298.png",
+      "back": "assets/cards/back-298.png",
+      "illustration": "assets/cards/front-298.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11846,7 +11836,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "张祜（约785—约849），字承吉。本库题名去重五首；《集灵台》其二写虢国骑马、淡扫蛾眉。",
+      "meaning": "虢国夫人承主恩，平明骑马入宫门；却嫌脂粉污颜色，淡扫蛾眉朝至尊。承恩骄态，淡妆朝见。",
+      "geo": "宫门承恩仍在长安宫掖／华清一线，地望今陕西西安。虢国朝至尊，地景以西安宫禁为主。",
+      "visit": "陕西西安（宫门／华清意象）；可对「却嫌脂粉污颜色，淡扫蛾眉朝至尊」。"
     },
     {
       "id": "ts300-299",
@@ -11868,11 +11862,11 @@
         "西安"
       ],
       "geo_notes": "与顾况宫词不同篇；白乐天宫怨。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-299.png",
+      "travel_tip": "陕西西安（宫掖意象）；可对「红颜未老恩先断，斜倚薰笼坐到明」。",
+      "has_card": true,
+      "front": "assets/cards/front-299.png",
+      "back": "assets/cards/back-299.png",
+      "illustration": "assets/cards/front-299.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11881,7 +11875,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "白居易（772—846），字乐天，号香山居士。本库题名去重六首；《宫词》写泪尽罗巾、斜倚薰笼。",
+      "meaning": "泪尽罗巾梦不成，夜深前殿按歌声；红颜未老恩先断，斜倚薰笼坐到明。宫怨坐待天明，恩断于未老。",
+      "geo": "前殿按歌、薰笼夜坐为长安宫掖意象，地望今陕西西安。宫词夜深，地景以西安宫禁为主。",
+      "visit": "陕西西安（宫掖意象）；可对「红颜未老恩先断，斜倚薰笼坐到明」。"
     },
     {
       "id": "ts300-300",
@@ -11910,11 +11908,11 @@
         "西安"
       ],
       "geo_notes": "乐府；闺中忆辽阳征人。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-300.png",
+      "travel_tip": "陕西西安（丹凤城）；辽宁辽阳；可对「白狼河北音书断，丹凤城南秋夜长」。",
+      "has_card": true,
+      "front": "assets/cards/front-300.png",
+      "back": "assets/cards/back-300.png",
+      "illustration": "assets/cards/front-300.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11923,7 +11921,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "沈佺期（约656—约715），字云卿，相州内黄人，与宋之问并称「沈宋」。本库题名去重二首；《独不见》写寒砧忆辽阳、丹凤城南秋夜。",
+      "meaning": "卢家少妇郁金堂，海燕双栖玳瑁梁；九月寒砧催木叶，十年征戍忆辽阳。白狼河北音书断，丹凤城南秋夜长；谁为含愁独不见，更教明月照流黄。",
+      "geo": "辽阳／白狼河指东北征戍，地望今辽宁一带；丹凤城即长安，地望今陕西西安。闺怨寄边，地景以西安—辽阳对照为主。",
+      "visit": "陕西西安（丹凤城）；辽宁辽阳；可对「白狼河北音书断，丹凤城南秋夜长」。"
     },
     {
       "id": "ts300-301",
@@ -13538,7 +13540,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 295,
+    "cards": 300,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

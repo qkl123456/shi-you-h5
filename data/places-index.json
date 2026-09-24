@@ -1041,7 +1041,8 @@
       "visit_hints": [
         "京津冀—辽宁文化线可宽泛对读",
         "辽宁（辽西）",
-        "可对「啼时惊妾梦，不得到辽西」"
+        "可对「啼时惊妾梦，不得到辽西」",
+        "辽宁辽阳"
       ],
       "region": "东北",
       "subtitle": ""
@@ -3498,7 +3499,7 @@
     ],
     "mapping_stats": {
       "ancient_keys": 251,
-      "rename_events": 282,
+      "rename_events": 280,
       "examples": [
         {
           "from": "曲江",
