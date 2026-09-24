@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6092,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7287,21 +7287,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7546,13 +7537,19 @@
         "寄卧郊扉久",
         "何年致此身"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-177.png"
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "灞上秋居。",
+      "travel_tip": "陕西西安灞桥／灞上；可对「落叶他乡树，寒灯独夜人」。",
+      "has_card": true,
+      "front": "assets/cards/front-177.png",
+      "back": "assets/cards/back-177.png",
+      "illustration": "assets/cards/front-177.png",
+      "poet": "马戴（生卒年不详，晚唐），字虞臣。本库题名去重二首；《灞上秋居》写落叶寒灯、郊扉寄卧。",
+      "meaning": "灞原风雨定，晚见雁行频；落叶他乡树，寒灯独夜人。空园白露滴，孤壁野僧邻；寄卧郊扉久，何年致此身。",
+      "geo": "灞上／灞原在唐长安东，地望今陕西西安灞桥一带。秋居羁旅，地景以西安灞上为主。",
+      "visit": "陕西西安灞桥／灞上；可对「落叶他乡树，寒灯独夜人」。"
     },
     {
       "id": "ts300-178",
@@ -7572,13 +7569,19 @@
         "云中君不见",
         "竟夕自悲秋"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-178.png"
+      "places": [
+        "岳阳"
+      ],
+      "geo_notes": "楚江怀古；洞庭。",
+      "travel_tip": "湖南岳阳洞庭；可对「猿啼洞庭树，人在木兰舟」。",
+      "has_card": true,
+      "front": "assets/cards/front-178.png",
+      "back": "assets/cards/back-178.png",
+      "illustration": "assets/cards/front-178.png",
+      "poet": "马戴（生卒年不详，晚唐），字虞臣。本库题名去重二首；《楚江怀古》写洞庭猿啼、云中君不见。",
+      "meaning": "露气寒光集，微阳下楚丘；猿啼洞庭树，人在木兰舟。广泽生明月，苍山夹乱流；云中君不见，竟夕自悲秋。",
+      "geo": "楚江怀古，诗点洞庭；地望今湖南岳阳洞庭一带。悲秋吊古，地景以岳阳／洞庭为主。",
+      "visit": "湖南岳阳洞庭；可对「猿啼洞庭树，人在木兰舟」。"
     },
     {
       "id": "ts300-179",
@@ -7598,13 +7601,20 @@
         "蕃情似此水",
         "长愿向南流"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-179.png"
+      "places": [
+        "呼和浩特",
+        "汉中"
+      ],
+      "geo_notes": "书边事。",
+      "travel_tip": "内蒙古呼和浩特（青冢）；陕西汉中（梁州）可对读「春风对青冢，白日落梁州」。",
+      "has_card": true,
+      "front": "assets/cards/front-179.png",
+      "back": "assets/cards/back-179.png",
+      "illustration": "assets/cards/front-179.png",
+      "poet": "张乔（生卒年不详，晚唐）。本库题名去重一首；《书边事》写戍楼清秋，青冢梁州。",
+      "meaning": "调角断清秋，征人倚戍楼；春风对青冢，白日落梁州。大漠无兵阻，穷边有客游；蕃情似此水，长愿向南流。",
+      "geo": "青冢在今内蒙古呼和浩特；梁州地望今陕西汉中。边事对照，地景以呼和浩特／汉中为主。",
+      "visit": "内蒙古呼和浩特（青冢）；陕西汉中（梁州）可对读「春风对青冢，白日落梁州」。"
     },
     {
       "id": "ts300-180",
@@ -7624,13 +7634,19 @@
         "那堪正飘泊",
         "明日岁华新"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-180.png"
+      "places": [
+        "重庆"
+      ],
+      "geo_notes": "除夜；三巴路。",
+      "travel_tip": "重庆（三巴）；可对「乱山残雪夜，孤烛异乡人」。",
+      "has_card": true,
+      "front": "assets/cards/front-180.png",
+      "back": "assets/cards/back-180.png",
+      "illustration": "assets/cards/front-180.png",
+      "poet": "崔涂（生卒年不详，晚唐），字礼山。本库题名去重二首；《除夜有怀》写三巴路、孤烛异乡。",
+      "meaning": "迢递三巴路，羁危万里身；乱山残雪夜，孤烛异乡人。渐与骨肉远，转于僮仆亲；那堪正飘泊，明日岁华新。",
+      "geo": "三巴指巴郡一带，地望今重庆。除夜羁危，地景以重庆／三巴路为主。",
+      "visit": "重庆（三巴）；可对「乱山残雪夜，孤烛异乡人」。"
     },
     {
       "id": "ts300-181",
@@ -7651,12 +7667,16 @@
         "孤飞自可疑"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-181.png"
+      "geo_notes": "咏孤雁失群，未坐实单一关塞；归塞寒塘、关月渚云为边塞孤飞意象。",
+      "travel_tip": "秋空雁阵／寒塘关月可对读；可对「暮雨相呼失，寒塘欲下迟」。",
+      "has_card": true,
+      "front": "assets/cards/front-181.png",
+      "back": "assets/cards/back-181.png",
+      "illustration": "assets/cards/front-181.png",
+      "poet": "崔涂（生卒年不详，晚唐），字礼山。本库题名去重二首；《孤雁》写暮雨失群、关月相随。",
+      "meaning": "几行归塞尽，念尔独何之；暮雨相呼失，寒塘欲下迟。渚云低对影，关月冷相随；未必逢矰缴，孤飞自可疑。",
+      "geo": "咏孤雁失群，未坐实单一关塞；归塞寒塘、关月渚云为边塞孤飞意象。",
+      "visit": "秋空雁阵／寒塘关月可对读；可对「暮雨相呼失，寒塘欲下迟」。"
     },
     {
       "id": "ts300-182",
@@ -9349,7 +9369,7 @@
       "places": [
         "玉门关",
         "黄河",
-        "青冢"
+        "呼和浩特"
       ],
       "geo_notes": "金河、玉关、青冢（昭君墓）、黑山边塞地名串联。",
       "travel_tip": "玉门关、呼和浩特青冢、黄河黑山线。",
@@ -11030,7 +11050,7 @@
       "places": [
         "荆门",
         "兴山",
-        "青冢"
+        "呼和浩特"
       ],
       "geo_notes": "王昭君；青冢在呼和浩特。",
       "travel_tip": "兴山昭君村、呼和浩特青冢。",
@@ -12960,7 +12980,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 185,
+    "cards": 190,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
