@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "重庆",
-        "三峡"
+        "三峡",
+        "重庆"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6207,8 +6207,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7957,8 +7957,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8121,8 +8121,8 @@
       ],
       "places": [
         "白帝城",
-        "重庆",
-        "奉节"
+        "奉节",
+        "重庆"
       ],
       "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
       "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
@@ -10534,11 +10534,15 @@
       ],
       "places": [],
       "geo_notes": "晚唐闺情细腻；天气已凉未寒。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-263.png"
+      "travel_tip": "已凉未寒可对读；可对「已凉天气未寒时」。",
+      "has_card": true,
+      "front": "assets/cards/front-263.png",
+      "back": "assets/cards/back-263.png",
+      "illustration": "assets/cards/front-263.png",
+      "poet": "韩偓（约842—约923），字致尧。本库题名去重一首；《已凉》写阑干绣帘、已凉未寒。",
+      "meaning": "碧阑干外绣帘垂，猩色屏风画折枝；八尺龙须方锦褥，已凉天气未寒时。闺阁物色写尽初凉时节。",
+      "geo": "闺阁已凉，阑干绣帘屏风锦褥皆室内物象；无专指地理。",
+      "visit": "已凉未寒可对读；可对「已凉天气未寒时」。"
     },
     {
       "id": "ts300-264",
@@ -10564,10 +10568,14 @@
       ],
       "geo_notes": "台城柳、十里堤为金陵怀古经典。",
       "travel_tip": "南京台城/玄武湖柳堤。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-264.png"
+      "has_card": true,
+      "front": "assets/cards/front-264.png",
+      "back": "assets/cards/back-264.png",
+      "illustration": "assets/cards/front-264.png",
+      "poet": "韦庄（约836—910），字端己。本库题名去重二首；《金陵图》写江雨台城、六朝如梦。",
+      "meaning": "江雨霏霏江草齐，六朝如梦鸟空啼；无情最是台城柳，依旧烟笼十里堤。画里金陵，兴亡如梦。",
+      "geo": "台城在金陵（今南京），六朝故都；江雨烟堤，地望今江苏南京玄武湖／台城一带。",
+      "visit": "江苏南京台城／玄武湖；可对「无情最是台城柳，依旧烟笼十里堤」。"
     },
     {
       "id": "ts300-265",
@@ -10593,10 +10601,14 @@
       ],
       "geo_notes": "无定河在陕北；陇西行乐府题。",
       "travel_tip": "陕北无定河文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-265.png"
+      "has_card": true,
+      "front": "assets/cards/front-265.png",
+      "back": "assets/cards/back-265.png",
+      "illustration": "assets/cards/front-265.png",
+      "poet": "陈陶（约812—约885），字嵩伯。本库题名去重一首；《陇西行》写五千貂锦、无定河边骨。",
+      "meaning": "誓扫匈奴不顾身，五千貂锦丧胡尘；可怜无定河边骨，犹是春闺梦里人。边骨与春闺对照，极写征战之惨。",
+      "geo": "陇西指陇右一带，地望常联今甘肃；无定河在陕北，今陕西榆林一带。边塞征战，地景以无定河／榆林为主。",
+      "visit": "陕西榆林（无定河）；可对「可怜无定河边骨，犹是春闺梦里人」。"
     },
     {
       "id": "ts300-266",
@@ -10617,11 +10629,15 @@
       ],
       "places": [],
       "geo_notes": "梦访谢家；春庭月照落花。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-266.png"
+      "travel_tip": "春庭月可对读；可对「多情只有春庭月，犹为离人照落花」。",
+      "has_card": true,
+      "front": "assets/cards/front-266.png",
+      "back": "assets/cards/back-266.png",
+      "illustration": "assets/cards/front-266.png",
+      "poet": "张泌（生卒年不详），字子澄。本库题名去重一首；《寄人》写别梦谢家、春庭月照落花。",
+      "meaning": "别梦依依到谢家，小廊回合曲阑斜；多情只有春庭月，犹为离人照落花。梦里重逢，月照离人。",
+      "geo": "谢家／小廊曲阑为闺阁梦境，无专指城邑；寄人之思以庭月落花意象为主。",
+      "visit": "春庭月可对读；可对「多情只有春庭月，犹为离人照落花」。"
     },
     {
       "id": "ts300-267",
@@ -10642,11 +10658,15 @@
       ],
       "places": [],
       "geo_notes": "寒食羁旅；杜鹃催归。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-267.png"
+      "travel_tip": "寒食雨／杜鹃啼可对读；可对「等是有家归未得，杜鹃休向耳边啼」。",
+      "has_card": true,
+      "front": "assets/cards/front-267.png",
+      "back": "assets/cards/back-267.png",
+      "illustration": "assets/cards/front-267.png",
+      "poet": "无名氏。本库题名去重一首；《杂诗》写寒食雨、归未得、杜鹃啼。",
+      "meaning": "近寒食雨草萋萋，著麦苗风柳映堤；等是有家归未得，杜鹃休向耳边啼。节物触发归思，嘱杜鹃莫啼。",
+      "geo": "寒食麦苗柳堤，归思杜鹃；无专指地理，乡思以节物意象为主。",
+      "visit": "寒食雨／杜鹃啼可对读；可对「等是有家归未得，杜鹃休向耳边啼」。"
     },
     {
       "id": "ts300-268",
@@ -12651,8 +12671,8 @@
         "衡阳",
         "白帝城",
         "长沙",
-        "重庆",
-        "奉节"
+        "奉节",
+        "重庆"
       ],
       "geo_notes": "送两少府贬谪。",
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
@@ -13378,7 +13398,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 265,
+    "cards": 270,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
