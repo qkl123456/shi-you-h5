@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "三峡",
-        "重庆"
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "成都",
-        "四川"
+        "四川",
+        "成都"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -7919,6 +7919,15 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
+      "place_captions": [
+        {
+          "place": "永济",
+          "ancient": [
+            "蒲州"
+          ],
+          "note": "唐时称蒲州"
+        }
+      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7939,8 +7948,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -11639,21 +11648,12 @@
         "奉节",
         "四川"
       ],
-      "geo_notes": "咏诸葛亮；云霄一羽毛。地名今释：奉节（唐时称夔州）。",
+      "geo_notes": "咏诸葛亮；云霄一羽毛。",
       "travel_tip": "成都武侯祠。",
       "has_card": true,
       "front": "assets/cards/front-293.png",
       "back": "assets/cards/back-293.png",
       "illustration": "assets/cards/front-293.png",
-      "place_captions": [
-        {
-          "place": "奉节",
-          "ancient": [
-            "夔州"
-          ],
-          "note": "唐时称夔州"
-        }
-      ],
       "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其五颂诸葛，写宗臣遗像、志决身歼。",
       "meaning": "诸葛大名垂宇宙，宗臣遗像肃清高；三分割据纡筹策，万古云霄一羽毛。伯仲之间见伊吕，指挥若定失萧曹；运移汉祚终难复，志决身歼军务劳。",
       "geo": "宗臣遗像指武侯祠祀，夔州／成都皆有武侯祠；诗咏诸葛一生，地景以武侯祠（今四川成都可对读，奉节亦邻近）为主。",
@@ -12718,11 +12718,11 @@
         "西安"
       ],
       "geo_notes": "送魏万入京。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-321.png",
+      "travel_tip": "陕西西安；可对「莫见长安行乐处，空令岁月易蹉跎」。",
+      "has_card": true,
+      "front": "assets/cards/front-321.png",
+      "back": "assets/cards/back-321.png",
+      "illustration": "assets/cards/front-321.png",
       "place_captions": [
         {
           "place": "西安",
@@ -12731,7 +12731,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李颀（约690—约751），东川人。本库题名去重约七首；《送魏万之京》写微霜渡河、莫蹉跎长安。",
+      "meaning": "朝闻游子唱离歌，昨夜微霜初渡河；鸿雁不堪愁里听，云山况是客中过。关城树色催寒近，御苑砧声向晚多；莫见长安行乐处，空令岁月易蹉跎。",
+      "geo": "之京即赴长安，关城／御苑为入京沿线与京城意象，地望今陕西西安。送魏万北上，地景以西安长安为主。",
+      "visit": "陕西西安；可对「莫见长安行乐处，空令岁月易蹉跎」。"
     },
     {
       "id": "ts300-322",
@@ -12755,11 +12759,15 @@
       ],
       "places": [],
       "geo_notes": "元稹悼亡妻韦丛其一。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-322.png"
+      "travel_tip": "营奠营斋可对读；可对「今日俸钱过十万，与君营奠复营斋」。",
+      "has_card": true,
+      "front": "assets/cards/front-322.png",
+      "back": "assets/cards/back-322.png",
+      "illustration": "assets/cards/front-322.png",
+      "poet": "元稹（779—831），字微之。本库题名去重四首；《遣悲怀》其一悼亡妻，写贫贱相守、营奠营斋。",
+      "meaning": "谢公最小偏怜女，自嫁黔娄百事乖；顾我无衣搜荩箧，泥他沽酒拔金钗。野蔬充膳甘长藿，落叶添薪仰古槐；今日俸钱过十万，与君营奠复营斋。",
+      "geo": "悼亡家居物象，无专指一城；贫贱夫妻往事与今日营斋对照，地景以家居悼念意象为主。",
+      "visit": "营奠营斋可对读；可对「今日俸钱过十万，与君营奠复营斋」。"
     },
     {
       "id": "ts300-323",
@@ -12783,11 +12791,15 @@
       ],
       "places": [],
       "geo_notes": "贫贱夫妻百事哀。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-323.png"
+      "travel_tip": "针线遗物可对读；可对「诚知此恨人人有，贫贱夫妻百事哀」。",
+      "has_card": true,
+      "front": "assets/cards/front-323.png",
+      "back": "assets/cards/back-323.png",
+      "illustration": "assets/cards/front-323.png",
+      "poet": "元稹（779—831），字微之。本库题名去重四首；《遣悲怀》其二写针线未忍开、贫贱夫妻百事哀。",
+      "meaning": "昔日戏言身后事，今朝都到眼前来；衣裳已施行看尽，针线犹存未忍开。尚想旧情怜婢仆，也曾因梦送钱财；诚知此恨人人有，贫贱夫妻百事哀。",
+      "geo": "衣裳针线、梦中送钱为悼亡家居物象，无专指地理；地景以遗物触情为主。",
+      "visit": "针线遗物可对读；可对「诚知此恨人人有，贫贱夫妻百事哀」。"
     },
     {
       "id": "ts300-324",
@@ -12811,11 +12823,15 @@
       ],
       "places": [],
       "geo_notes": "惟将终夜长开眼。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-324.png"
+      "travel_tip": "终夜开眼可对读；可对「惟将终夜长开眼，报答平生未展眉」。",
+      "has_card": true,
+      "front": "assets/cards/front-324.png",
+      "back": "assets/cards/back-324.png",
+      "illustration": "assets/cards/front-324.png",
+      "poet": "元稹（779—831），字微之。本库题名去重四首；《遣悲怀》其三写同穴难望、终夜开眼。",
+      "meaning": "闲坐悲君亦自悲，百年多是几多时；邓攸无子寻知命，潘岳悼亡犹费词。同穴窅冥何所望，他生缘会更难期；惟将终夜长开眼，报答平生未展眉。",
+      "geo": "邓攸／潘岳为悼亡典故，同穴他生为誓愿；无专指一城，地景以悼亡长夜意象为主。",
+      "visit": "终夜开眼可对读；可对「惟将终夜长开眼，报答平生未展眉」。"
     },
     {
       "id": "ts300-325",
@@ -12843,11 +12859,15 @@
         "陕西"
       ],
       "geo_notes": "一夜乡心五处同。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-325.png"
+      "travel_tip": "望月乡心可对读（河南／陕西一带乱离史地）；可对「共看明月应垂泪，一夜乡心五处同」。",
+      "has_card": true,
+      "front": "assets/cards/front-325.png",
+      "back": "assets/cards/back-325.png",
+      "illustration": "assets/cards/front-325.png",
+      "poet": "白居易（772—846），字乐天，号香山居士。本库题名去重六首；此望月感乱离，写一夜乡心五处同。",
+      "meaning": "时难年荒世业空，弟兄羁旅各西东；田园寥落干戈后，骨肉流离道路中。吊影分为千里雁，辞根散作九秋蓬；共看明月应垂泪，一夜乡心五处同。",
+      "geo": "河南经乱、关内阻饥，兄弟分处；关内地望今陕西一带，河南指唐河南道。望月思骨肉，地景以河南—关内离散线为主。",
+      "visit": "望月乡心可对读（河南／陕西一带乱离史地）；可对「共看明月应垂泪，一夜乡心五处同」。"
     },
     {
       "id": "ts300-326",
@@ -13634,7 +13654,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 320,
+    "cards": 325,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
