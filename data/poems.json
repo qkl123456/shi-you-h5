@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "成都",
-        "四川"
+        "四川",
+        "成都"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6207,8 +6207,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7299,12 +7299,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7919,15 +7928,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7948,8 +7948,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -10954,12 +10954,21 @@
       "places": [
         "南京"
       ],
-      "geo_notes": "杜秋娘歌；一作李锜妾作。",
+      "geo_notes": "杜秋娘歌；一作李锜妾作。地名今释：南京（唐时称金陵）。",
       "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
       "has_card": true,
       "front": "assets/cards/front-276.png",
       "back": "assets/cards/back-276.png",
       "illustration": "assets/cards/front-276.png",
+      "place_captions": [
+        {
+          "place": "南京",
+          "ancient": [
+            "金陵"
+          ],
+          "note": "唐时称金陵"
+        }
+      ],
       "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
       "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
       "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
@@ -11636,8 +11645,8 @@
       "places": [
         "武侯祠",
         "成都",
-        "奉节",
-        "四川"
+        "四川",
+        "奉节"
       ],
       "geo_notes": "咏诸葛亮；云霄一羽毛。",
       "travel_tip": "成都武侯祠。",
@@ -11957,10 +11966,14 @@
       ],
       "geo_notes": "宣州谢朓楼饯别；抽刀断水名句。",
       "travel_tip": "安徽宣城谢朓楼。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-301.png"
+      "has_card": true,
+      "front": "assets/cards/front-301.png",
+      "back": "assets/cards/back-301.png",
+      "illustration": "assets/cards/front-301.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《宣州谢朓楼饯别校书叔云》写酣高楼、抽刀断水。",
+      "meaning": "弃我去者昨日之日不可留，乱我心者今日之日多烦忧；长风万里送秋雁，对此可以酣高楼。蓬莱文章建安骨，中间小谢又清发；俱怀逸兴壮思飞，欲上青天揽明月。抽刀断水水更流，举杯消愁愁更愁；人生在世不称意，明朝散发弄扁舟。",
+      "geo": "谢朓楼在宣州（今安徽宣城）。饯别校书叔云，酣高楼望远，地景以宣城谢朓楼为主。",
+      "visit": "安徽宣城谢朓楼；可对「抽刀断水水更流，举杯消愁愁更愁」。"
     },
     {
       "id": "ts300-302",
@@ -11985,11 +11998,15 @@
         "陕西"
       ],
       "geo_notes": "子夜吴歌春歌；罗敷采桑。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-302.png"
+      "travel_tip": "陕西（秦地桑野意象）；可对「秦地罗敷女，采桑绿水边」。",
+      "has_card": true,
+      "front": "assets/cards/front-302.png",
+      "back": "assets/cards/back-302.png",
+      "illustration": "assets/cards/front-302.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《子夜吴歌·春歌》写秦地罗敷采桑。",
+      "meaning": "秦地罗敷女，采桑绿水边；素手青条上，红妆白日鲜。蚕饥妾欲去，五马莫留连。春日吴歌，罗敷采桑拒留。",
+      "geo": "秦地指关中一带，地望今陕西；罗敷采桑为乐府典故。春歌地景以陕西秦地桑野意象为主。",
+      "visit": "陕西（秦地桑野意象）；可对「秦地罗敷女，采桑绿水边」。"
     },
     {
       "id": "ts300-303",
@@ -12016,10 +12033,14 @@
       ],
       "geo_notes": "子夜吴歌夏歌；西施采莲若耶。",
       "travel_tip": "浙江绍兴镜湖、若耶溪。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-303.png"
+      "has_card": true,
+      "front": "assets/cards/front-303.png",
+      "back": "assets/cards/back-303.png",
+      "illustration": "assets/cards/front-303.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《子夜吴歌·夏歌》写镜湖荷花、西施若耶。",
+      "meaning": "镜湖三百里，菡萏发荷花；五月西施采，人看隘若耶。回舟不待月，归去越王家。夏日吴歌，越女采莲故实。",
+      "geo": "镜湖、若耶溪在越州，地望今浙江绍兴。西施采莲传说，地景以绍兴镜湖／若耶为主。",
+      "visit": "浙江绍兴镜湖／若耶溪；可对「五月西施采，人看隘若耶」。"
     },
     {
       "id": "ts300-304",
@@ -12044,11 +12065,15 @@
         "临洮"
       ],
       "geo_notes": "子夜吴歌冬歌；絮袍寄临洮。秋歌已另录。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-304.png"
+      "travel_tip": "甘肃临洮；可对「裁缝寄远道，几日到临洮」。",
+      "has_card": true,
+      "front": "assets/cards/front-304.png",
+      "back": "assets/cards/back-304.png",
+      "illustration": "assets/cards/front-304.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《子夜吴歌·冬歌》写一夜絮袍、寄到临洮。",
+      "meaning": "明朝驿使发，一夜絮征袍；素手抽针冷，那堪把剪刀。裁缝寄远道，几日到临洮。冬夜赶制征衣，心系边地临洮。",
+      "geo": "临洮在陇西，地望今甘肃临洮一带。闺中裁袍寄边，地景以临洮征戍线为主。",
+      "visit": "甘肃临洮；可对「裁缝寄远道，几日到临洮」。"
     },
     {
       "id": "ts300-305",
@@ -12075,11 +12100,11 @@
         "西安"
       ],
       "geo_notes": "义山无题；心有灵犀名句。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-305.png",
+      "travel_tip": "陕西西安（兰台／画楼意象）；可对「身无彩凤双飞翼，心有灵犀一点通」。",
+      "has_card": true,
+      "front": "assets/cards/front-305.png",
+      "back": "assets/cards/back-305.png",
+      "illustration": "assets/cards/front-305.png",
       "place_captions": [
         {
           "place": "西安",
@@ -12088,7 +12113,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》昨夜星辰写灵犀一点、走马兰台。",
+      "meaning": "昨夜星辰昨夜风，画楼西畔桂堂东；身无彩凤双飞翼，心有灵犀一点通。隔座送钩春酒暖，分曹射覆蜡灯红；嗟余听鼓应官去，走马兰台类转蓬。",
+      "geo": "画楼桂堂为长安宴集意象；兰台指秘书省，地望今陕西西安。昨夜欢宴与今朝应官对照，地景以西安为主。",
+      "visit": "陕西西安（兰台／画楼意象）；可对「身无彩凤双飞翼，心有灵犀一点通」。"
     },
     {
       "id": "ts300-306",
@@ -13540,7 +13569,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 300,
+    "cards": 305,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
