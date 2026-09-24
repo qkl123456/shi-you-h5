@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -6677,8 +6677,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -9984,14 +9984,19 @@
       "places": [
         "扬州",
         "二十四桥",
-        "瘦西湖"
+        "瘦西湖",
+        "江南"
       ],
       "geo_notes": "寄友人韩绰；二十四桥为扬州名胜意象。",
       "travel_tip": "扬州瘦西湖二十四桥。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-248.png"
+      "has_card": true,
+      "front": "assets/cards/front-248.png",
+      "back": "assets/cards/back-248.png",
+      "illustration": "assets/cards/front-248.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；寄扬州韩绰，写二十四桥明月、玉人吹箫。",
+      "meaning": "青山隐隐水迢迢，秋尽江南草未凋；二十四桥明月夜，玉人何处教吹箫。",
+      "geo": "寄韩绰于扬州；二十四桥明月，地望今江苏扬州。秋尽江南，地景以扬州为主。",
+      "visit": "江苏扬州（二十四桥）；可对「玉人何处教吹箫」。"
     },
     {
       "id": "ts300-249",
@@ -10016,10 +10021,14 @@
       ],
       "geo_notes": "回忆扬州冶游十年一梦。",
       "travel_tip": "扬州古城文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-249.png"
+      "has_card": true,
+      "front": "assets/cards/front-249.png",
+      "back": "assets/cards/back-249.png",
+      "illustration": "assets/cards/front-249.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《遣怀》写十年扬州梦、青楼薄幸名。",
+      "meaning": "落魄江南载酒行，楚腰纤细掌中轻；十年一觉扬州梦，赢得青楼薄幸名。",
+      "geo": "落魄江南，十年扬州梦；地景以扬州青楼载酒为主。",
+      "visit": "江苏扬州；可对「十年一觉扬州梦，赢得青楼薄幸名」。"
     },
     {
       "id": "ts300-250",
@@ -10042,11 +10051,11 @@
         "西安"
       ],
       "geo_notes": "宫女秋夜；七夕牵牛织女。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-250.png",
+      "travel_tip": "陕西西安（天阶秋夕意象）；可对「天阶夜色凉如水，卧看牵牛织女星」。",
+      "has_card": true,
+      "front": "assets/cards/front-250.png",
+      "back": "assets/cards/back-250.png",
+      "illustration": "assets/cards/front-250.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10055,7 +10064,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《秋夕》写银烛流萤、天阶看牵牛织女。",
+      "meaning": "银烛秋光冷画屏，轻罗小扇扑流萤；天阶夜色凉如水，卧看牵牛织女星。",
+      "geo": "银烛秋光，天阶夜色；宫怨／秋夕意象，地望多联唐长安，今陕西西安。",
+      "visit": "陕西西安（天阶秋夕意象）；可对「天阶夜色凉如水，卧看牵牛织女星」。"
     },
     {
       "id": "ts300-251",
@@ -10079,10 +10092,14 @@
       ],
       "geo_notes": "扬州赠别名篇；豆蔻年华出典。",
       "travel_tip": "扬州十里春风文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-251.png"
+      "has_card": true,
+      "front": "assets/cards/front-251.png",
+      "back": "assets/cards/back-251.png",
+      "illustration": "assets/cards/front-251.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《赠别》其一写豆蔻梢头、春风十里扬州路。",
+      "meaning": "娉娉袅袅十三余，豆蔻梢头二月初；春风十里扬州路，卷上珠帘总不如。",
+      "geo": "春风十里扬州路，豆蔻赠别；地景以扬州为主。",
+      "visit": "江苏扬州；可对「春风十里扬州路，卷上珠帘总不如」。"
     },
     {
       "id": "ts300-252",
@@ -10105,11 +10122,15 @@
         "扬州"
       ],
       "geo_notes": "与其一同为扬州赠别组诗。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-252.png"
+      "travel_tip": "江苏扬州；可对「蜡烛有心还惜别，替人垂泪到天明」。",
+      "has_card": true,
+      "front": "assets/cards/front-252.png",
+      "back": "assets/cards/back-252.png",
+      "illustration": "assets/cards/front-252.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《赠别》其二写樽前惜别、蜡泪到天明。",
+      "meaning": "多情却似总无情，唯觉樽前笑不成；蜡烛有心还惜别，替人垂泪到天明。",
+      "geo": "樽前惜别，蜡泪到天明；赠别地多联扬州，地望今江苏扬州。",
+      "visit": "江苏扬州；可对「蜡烛有心还惜别，替人垂泪到天明」。"
     },
     {
       "id": "ts300-253",
@@ -13270,7 +13291,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 250,
+    "cards": 255,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
