@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -2790,14 +2790,15 @@
       ],
       "places": [
         "拉萨",
-        "西安"
+        "西安",
+        "新疆"
       ],
-      "geo_notes": "听董庭兰弹胡笳十八拍。地名今释：西安（唐时称长安）。",
+      "geo_notes": "听董庭兰弹胡笳；逻娑、长安对照。地名今释：西安（唐时称长安）。",
       "travel_tip": "音乐诗，可对文姬故事。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-066.png",
+      "has_card": true,
+      "front": "assets/cards/front-066.png",
+      "back": "assets/cards/back-066.png",
+      "illustration": "assets/cards/front-066.png",
       "place_captions": [
         {
           "place": "西安",
@@ -2806,7 +2807,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李颀（约690—约751），东川人，盛唐边塞与音乐题名家。本库题名去重约七首；此听董大（庭兰）弹胡笳，兼寄房给事。",
+      "meaning": "蔡女造胡笳十八拍，胡人落泪汉使断肠；董夫子通神明，空山百鸟、雏雁失群、逻娑哀怨。幽音变调如长风雨瓦，长安城连东掖，望君抱琴而至，听乐中见边声与知音。",
+      "geo": "诗中逻娑即今西藏拉萨（古称）；长安即今陕西西安（古称）。听琴地在唐长安语境，边声以西域／吐蕃地名对照。",
+      "visit": "西安（唐长安禁苑意象）；拉萨可作逻娑地名对照；音乐诗／胡笳主题展亦可。"
     },
     {
       "id": "ts300-067",
@@ -2829,16 +2834,18 @@
         "惟有幽人自来去"
       ],
       "places": [
-        "鹿门山",
-        "黄山",
         "襄阳"
       ],
       "geo_notes": "襄阳鹿门。",
       "travel_tip": "湖北襄阳鹿门山。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-067.png"
+      "has_card": true,
+      "front": "assets/cards/front-067.png",
+      "back": "assets/cards/back-067.png",
+      "illustration": "assets/cards/front-067.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；《夜归鹿门歌》写渡头喧歇后归隐鹿门。",
+      "meaning": "山寺钟鸣昼昏，渔梁渡头争渡喧；人向江村，余亦乘舟归鹿门。月照烟树、庞公栖隐，岩扉松径唯幽人来去，夜归中见隐逸自适。",
+      "geo": "鹿门山在今湖北襄阳；渔梁渡亦襄阳一带。地景以襄阳鹿门隐逸线为主。",
+      "visit": "湖北襄阳鹿门山；可对「岩扉松径长寂寥」。"
     },
     {
       "id": "ts300-068",
@@ -2885,16 +2892,20 @@
       "places": [
         "庐山",
         "黄鹤楼",
-        "长江",
+        "九江",
         "武汉",
-        "九江"
+        "长江"
       ],
-      "geo_notes": "庐山寻仙寄卢虚舟。",
+      "geo_notes": "庐山寻仙；九江／庐山。",
       "travel_tip": "九江庐山、武汉黄鹤楼。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-068.png"
+      "has_card": true,
+      "front": "assets/cards/front-068.png",
+      "back": "assets/cards/back-068.png",
+      "illustration": "assets/cards/front-068.png",
+      "poet": "李白（701—762），字太白，号青莲居士。本库题名去重约三十七首；此庐山谣寄卢虚舟，写寻仙与大江壮观。",
+      "meaning": "楚狂人凤歌笑孔丘，朝别黄鹤楼而好入名山；庐山秀出、屏风九叠、香炉瀑布，登高见大江茫茫白波九道。愿服还丹接卢敖游太清，山水中见求仙与豪放。",
+      "geo": "庐山在今江西九江／庐山一带；黄鹤楼在今武汉。诗以庐山为主、黄鹤楼为别点，长江为远景。",
+      "visit": "江西九江庐山；武汉黄鹤楼可作「朝别」对照。"
     },
     {
       "id": "ts300-069",
@@ -2955,18 +2966,20 @@
         "使我不得开心颜"
       ],
       "places": [
-        "天姥山",
-        "镜湖",
-        "嵊州",
-        "天台",
-        "绍兴"
+        "新昌",
+        "绍兴",
+        "嵊州"
       ],
-      "geo_notes": "梦游浙东名山。",
+      "geo_notes": "梦游浙东；新昌天姥／绍兴镜湖。",
       "travel_tip": "浙江新昌天姥/绍兴镜湖。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-069.png"
+      "has_card": true,
+      "front": "assets/cards/front-069.png",
+      "back": "assets/cards/back-069.png",
+      "illustration": "assets/cards/front-069.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《梦游天姥吟留别》写梦入浙东名山，结以「安能摧眉折腰事权贵」。",
+      "meaning": "瀛洲难求而天姥可睹，势拔五岳；梦度镜湖至剡溪，谢公屐上青云梯，洞天中开仙人如麻。觉来枕席失烟霞，世间行乐如东流，安能摧眉折腰事权贵，梦游中见傲骨。",
+      "geo": "天姥山地望今浙江新昌一带；镜湖在今绍兴；剡溪在今嵊州。浙东山水连线，可兼绍兴对照。",
+      "visit": "浙江新昌天姥山／穿岩十九峰；绍兴镜湖；嵊州剡溪可连读。"
     },
     {
       "id": "ts300-070",
@@ -2988,14 +3001,15 @@
       ],
       "places": [
         "南京",
-        "秦淮河"
+        "秦淮河",
+        "夫子庙"
       ],
       "geo_notes": "南京酒肆留别。地名今释：南京（唐时称金陵）。",
       "travel_tip": "南京秦淮一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-070.png",
+      "has_card": true,
+      "front": "assets/cards/front-070.png",
+      "back": "assets/cards/back-070.png",
+      "illustration": "assets/cards/front-070.png",
       "place_captions": [
         {
           "place": "南京",
@@ -3004,7 +3018,11 @@
           ],
           "note": "唐时称金陵"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《金陵酒肆留别》写柳花酒香中与金陵子弟尽觞。",
+      "meaning": "风吹柳花满店香，吴姬压酒劝客尝；金陵子弟相送，欲行不行各尽觞。请君问东流水，别意谁短长，短章写尽金陵酒肆送别。",
+      "geo": "金陵即今江苏南京（古称）；酒肆留别，地景以南京秦淮／市井酒家意象为主。",
+      "visit": "南京秦淮／夫子庙一带酒肆意象；可对「别意与之谁短长」。"
     },
     {
       "id": "ts300-071",
@@ -7828,8 +7846,7 @@
         "花落知多少"
       ],
       "places": [
-        "襄阳",
-        "鹿门山"
+        "襄阳"
       ],
       "geo_notes": "孟浩然襄阳隐居文化联想；可对照湖北襄阳鹿门山等名胜。",
       "travel_tip": "春日访襄阳鹿门山，可联「啼鸟」「落花」意境。",
@@ -10931,25 +10948,15 @@
         "归去越王家"
       ],
       "places": [
-        "镜湖",
-        "若耶",
-        "绍兴"
+        "绍兴",
+        "若耶"
       ],
-      "geo_notes": "子夜吴歌夏歌；西施采莲若耶。地名今释：绍兴（唐时称越州）。",
+      "geo_notes": "子夜吴歌夏歌；西施采莲若耶。",
       "travel_tip": "浙江绍兴镜湖、若耶溪。",
       "has_card": false,
       "front": null,
       "back": null,
-      "illustration": "assets/illustrations/ill-303.png",
-      "place_captions": [
-        {
-          "place": "绍兴",
-          "ancient": [
-            "越州"
-          ],
-          "note": "唐时称越州"
-        }
-      ]
+      "illustration": "assets/illustrations/ill-303.png"
     },
     {
       "id": "ts300-304",
@@ -12483,7 +12490,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 75,
+    "cards": 80,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
