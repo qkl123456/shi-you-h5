@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "三峡",
-        "重庆"
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -7928,6 +7928,15 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
+      "place_captions": [
+        {
+          "place": "永济",
+          "ancient": [
+            "蒲州"
+          ],
+          "note": "唐时称蒲州"
+        }
+      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7948,8 +7957,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8112,8 +8121,8 @@
       ],
       "places": [
         "白帝城",
-        "奉节",
-        "重庆"
+        "重庆",
+        "奉节"
       ],
       "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
       "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
@@ -10353,11 +10362,15 @@
         "天山"
       ],
       "geo_notes": "西王母瑶池；周穆王八骏典故。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-258.png"
+      "travel_tip": "新疆天山（瑶池传说意象）；可对「穆王何事不重来」。",
+      "has_card": true,
+      "front": "assets/cards/front-258.png",
+      "back": "assets/cards/back-258.png",
+      "illustration": "assets/cards/front-258.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《瑶池》写阿母绮窗、穆王不重来。",
+      "meaning": "瑶池阿母绮窗开，黄竹歌声动地哀；八骏日行三万里，穆王何事不重来。",
+      "geo": "瑶池为昆仑仙境意象，穆王不重来；地望传说多联天山／昆仑一线，今新疆天山可对读，不必坐实单一峰谷。",
+      "visit": "新疆天山（瑶池传说意象）；可对「穆王何事不重来」。"
     },
     {
       "id": "ts300-259",
@@ -10378,11 +10391,15 @@
       ],
       "places": [],
       "geo_notes": "嫦娥奔月；碧海青天意象。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-259.png"
+      "travel_tip": "碧海青天可对读；可对「嫦娥应悔偷灵药，碧海青天夜夜心」。",
+      "has_card": true,
+      "front": "assets/cards/front-259.png",
+      "back": "assets/cards/back-259.png",
+      "illustration": "assets/cards/front-259.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《嫦娥》写应悔偷药、碧海青天夜夜心。",
+      "meaning": "云母屏风烛影深，长河渐落晓星沉；嫦娥应悔偷灵药，碧海青天夜夜心。",
+      "geo": "嫦娥奔月，碧海青天；神话意象，无专指地理。",
+      "visit": "碧海青天可对读；可对「嫦娥应悔偷灵药，碧海青天夜夜心」。"
     },
     {
       "id": "ts300-260",
@@ -10405,11 +10422,11 @@
         "西安"
       ],
       "geo_notes": "汉文帝宣室召贾谊问鬼神。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-260.png",
+      "travel_tip": "陕西西安（宣室）；可对「可怜夜半虚前席，不问苍生问鬼神」。",
+      "has_card": true,
+      "front": "assets/cards/front-260.png",
+      "back": "assets/cards/back-260.png",
+      "illustration": "assets/cards/front-260.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10418,7 +10435,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《贾生》写宣室前席、不问苍生问鬼神。",
+      "meaning": "宣室求贤访逐臣，贾生才调更无伦；可怜夜半虚前席，不问苍生问鬼神。",
+      "geo": "宣室求贤在汉长安未央前殿侧，地望今陕西西安。贾谊被召，地景以西安宣室为主。",
+      "visit": "陕西西安（宣室）；可对「可怜夜半虚前席，不问苍生问鬼神」。"
     },
     {
       "id": "ts300-261",
@@ -10443,10 +10464,14 @@
       ],
       "geo_notes": "雁过潇湘；十二楼月明。",
       "travel_tip": "潇湘洞庭文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-261.png"
+      "has_card": true,
+      "front": "assets/cards/front-261.png",
+      "back": "assets/cards/back-261.png",
+      "illustration": "assets/cards/front-261.png",
+      "poet": "温庭筠（约812—约866），字飞卿。本库题名去重四首；《瑶瑟怨》写雁过潇湘、十二楼月明。",
+      "meaning": "冰簟银床梦不成，碧天如水夜云轻；雁声远过潇湘去，十二楼中月自明。",
+      "geo": "雁过潇湘，十二楼月明；潇湘地望今湖南岳阳／洞庭一带。瑶瑟怨，地景以湖南潇湘为主。",
+      "visit": "湖南岳阳／潇湘；可对「雁声远过潇湘去，十二楼中月自明」。"
     },
     {
       "id": "ts300-262",
@@ -10467,14 +10492,28 @@
       ],
       "places": [
         "兴平",
-        "西安"
+        "西安",
+        "南京"
       ],
-      "geo_notes": "马嵬驿在今陕西兴平；景阳井对照陈后主。",
+      "geo_notes": "马嵬驿在今陕西兴平；景阳井对照陈后主。地名今释：南京（唐时称金陵）。",
       "travel_tip": "陕西兴平马嵬驿遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-262.png"
+      "has_card": true,
+      "front": "assets/cards/front-262.png",
+      "back": "assets/cards/back-262.png",
+      "illustration": "assets/cards/front-262.png",
+      "place_captions": [
+        {
+          "place": "南京",
+          "ancient": [
+            "金陵"
+          ],
+          "note": "唐时称金陵"
+        }
+      ],
+      "poet": "郑畋（约825—约883），字台文。本库题名去重一首；《马嵬坡》写玄宗回马、杨妃之死。",
+      "meaning": "玄宗回马杨妃死，云雨难忘日月新；终是圣明天子事，景阳宫井又何人。",
+      "geo": "马嵬坡在今陕西兴平，玄宗回马杨妃死；景阳井为金陵对照典故。地景以兴平马嵬为主。",
+      "visit": "陕西兴平（马嵬坡）；可对「玄宗回马杨妃死」。"
     },
     {
       "id": "ts300-263",
@@ -12612,8 +12651,8 @@
         "衡阳",
         "白帝城",
         "长沙",
-        "奉节",
-        "重庆"
+        "重庆",
+        "奉节"
       ],
       "geo_notes": "送两少府贬谪。",
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
@@ -13339,7 +13378,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 260,
+    "cards": 265,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
