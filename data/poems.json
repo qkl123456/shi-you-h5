@@ -32,7 +32,8 @@
       "travel_tip": "可与韶关张九龄纪念地文化线联想，重在托物言志。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-001.png"
     },
     {
       "id": "ts300-002",
@@ -62,7 +63,8 @@
       "travel_tip": "读诗可对照园林兰桂，理解「本心」之喻。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-002.png"
     },
     {
       "id": "ts300-003",
@@ -92,7 +94,8 @@
       "travel_tip": "适合山居/夜读场景联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-003.png"
     },
     {
       "id": "ts300-004",
@@ -125,7 +128,8 @@
       "travel_tip": "冬日江南橘林可对读「岁寒心」。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-004.png"
     },
     {
       "id": "ts300-005",
@@ -164,7 +168,8 @@
       "travel_tip": "游西安终南/翠华山一带，可对「山月随人归」。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-005.png"
     },
     {
       "id": "ts300-006",
@@ -201,6 +206,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-006.png",
       "place_captions": [
         {
           "place": "西安",
@@ -239,6 +245,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-007.png",
       "place_captions": [
         {
           "place": "西安",
@@ -279,7 +286,8 @@
       "travel_tip": "登泰山可对读全诗。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-008.png"
     },
     {
       "id": "ts300-009",
@@ -325,7 +333,8 @@
       "travel_tip": "读诗重人情，不必强求精确遗址。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-009.png"
     },
     {
       "id": "ts300-010",
@@ -372,6 +381,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-010.png",
       "place_captions": [
         {
           "place": "西安",
@@ -418,7 +428,8 @@
       "travel_tip": "可与李白流放夜郎相关史地对照阅读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-011.png"
     },
     {
       "id": "ts300-012",
@@ -457,6 +468,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-012.png",
       "place_captions": [
         {
           "place": "西安",
@@ -494,7 +506,8 @@
       "travel_tip": "西安终南可对「白云无尽」。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-013.png"
     },
     {
       "id": "ts300-014",
@@ -535,6 +548,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-014.png",
       "place_captions": [
         {
           "place": "西安",
@@ -585,7 +599,8 @@
       "travel_tip": "山溪徒步可对读「色静深松」。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-015.png"
     },
     {
       "id": "ts300-016",
@@ -618,6 +633,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-016.png",
       "place_captions": [
         {
           "place": "西安",
@@ -662,7 +678,8 @@
       "travel_tip": "浙江诸暨西施故里可联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-017.png"
     },
     {
       "id": "ts300-018",
@@ -697,7 +714,8 @@
       "travel_tip": "襄阳重阳登高可对读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-018.png"
     },
     {
       "id": "ts300-019",
@@ -729,7 +747,8 @@
       "travel_tip": "夏夜池亭可背此诗。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-019.png"
     },
     {
       "id": "ts300-020",
@@ -759,7 +778,8 @@
       "travel_tip": "山寺夜宿意境。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-020.png"
     },
     {
       "id": "ts300-021",
@@ -792,6 +812,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-021.png",
       "place_captions": [
         {
           "place": "绍兴",
@@ -835,7 +856,8 @@
       "travel_tip": "登山访隐意境。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-022.png"
     },
     {
       "id": "ts300-023",
@@ -867,7 +889,8 @@
       "travel_tip": "绍兴若耶溪可实地对照。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-023.png"
     },
     {
       "id": "ts300-024",
@@ -896,7 +919,8 @@
       "travel_tip": "访隐清溪意境。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-024.png"
     },
     {
       "id": "ts300-025",
@@ -941,7 +965,8 @@
       "travel_tip": "西安大雁塔必对读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-025.png"
     },
     {
       "id": "ts300-026",
@@ -987,7 +1012,8 @@
       "travel_tip": "可联湖南道州相关史地。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-026.png"
     },
     {
       "id": "ts300-027",
@@ -1028,7 +1054,8 @@
       "travel_tip": "苏州郡斋文化可联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-027.png"
     },
     {
       "id": "ts300-028",
@@ -1058,7 +1085,8 @@
       "travel_tip": "扬州广陵送别线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-028.png"
     },
     {
       "id": "ts300-029",
@@ -1088,7 +1116,8 @@
       "travel_tip": "安徽全椒可联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-029.png"
     },
     {
       "id": "ts300-030",
@@ -1118,6 +1147,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-030.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1156,7 +1186,8 @@
       "travel_tip": "江苏盱眙淮上可对照。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-031.png"
     },
     {
       "id": "ts300-032",
@@ -1189,7 +1220,8 @@
       "travel_tip": "春日出郊可背。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-032.png"
     },
     {
       "id": "ts300-033",
@@ -1234,7 +1266,8 @@
       "travel_tip": "重亲情，不必强求遗址。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-033.png"
     },
     {
       "id": "ts300-034",
@@ -1269,7 +1302,8 @@
       "travel_tip": "永州柳子庙文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-034.png"
     },
     {
       "id": "ts300-035",
@@ -1298,7 +1332,8 @@
       "travel_tip": "永州溪谷可对读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-035.png"
     },
     {
       "id": "ts300-036",
@@ -1327,7 +1362,8 @@
       "travel_tip": "宁夏固原萧关一带可对照。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-036.png"
     },
     {
       "id": "ts300-037",
@@ -1357,7 +1393,8 @@
       "travel_tip": "甘肃临洮长城线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-037.png"
     },
     {
       "id": "ts300-038",
@@ -1395,7 +1432,8 @@
       "travel_tip": "敦煌玉门关可对读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-038.png"
     },
     {
       "id": "ts300-039",
@@ -1424,6 +1462,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-039.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1478,8 +1517,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -1487,6 +1526,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-040.png",
       "place_captions": [
         {
           "place": "南京",
@@ -1520,7 +1560,8 @@
       "travel_tip": "意象象征，宜作主题展。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-041.png"
     },
     {
       "id": "ts300-042",
@@ -1545,7 +1586,8 @@
       "travel_tip": "可配亲情主题展板。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-042.png"
     },
     {
       "id": "ts300-043",
@@ -1576,7 +1618,8 @@
       "travel_tip": "泰安登泰山必背。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-043.png"
     },
     {
       "id": "ts300-044",
@@ -1619,7 +1662,8 @@
       "travel_tip": "友情主题，不必强求遗址。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-044.png"
     },
     {
       "id": "ts300-045",
@@ -1666,6 +1710,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-045.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1712,7 +1757,8 @@
       "travel_tip": "可对照杜甫秦州行迹。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-046.png"
     },
     {
       "id": "ts300-047",
@@ -1751,6 +1797,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-047.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1800,6 +1847,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-048.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1842,7 +1890,8 @@
       "travel_tip": "西安终南山可对读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-049.png"
     },
     {
       "id": "ts300-050",
@@ -1876,7 +1925,8 @@
       "travel_tip": "陕南黄花川一带可联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-050.png"
     },
     {
       "id": "ts300-051",
@@ -1907,7 +1957,8 @@
       "travel_tip": "关中渭河平原田园意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-051.png"
     },
     {
       "id": "ts300-052",
@@ -1943,7 +1994,8 @@
       "travel_tip": "浙江诸暨苎萝西施故里。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-052.png"
     },
     {
       "id": "ts300-053",
@@ -1978,7 +2030,8 @@
       "travel_tip": "襄阳一带山水可对。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-053.png"
     },
     {
       "id": "ts300-054",
@@ -2010,7 +2063,8 @@
       "travel_tip": "襄阳夏夜意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-054.png"
     },
     {
       "id": "ts300-055",
@@ -2037,7 +2091,8 @@
       "travel_tip": "山寺过夜意境。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-055.png"
     },
     {
       "id": "ts300-056",
@@ -2070,6 +2125,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-056.png",
       "place_captions": [
         {
           "place": "绍兴",
@@ -2113,7 +2169,8 @@
       "travel_tip": "访古隐逸主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-057.png"
     },
     {
       "id": "ts300-058",
@@ -2145,7 +2202,8 @@
       "travel_tip": "浙江绍兴若耶溪。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-058.png"
     },
     {
       "id": "ts300-059",
@@ -2172,7 +2230,8 @@
       "travel_tip": "隐逸夜宿意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-059.png"
     },
     {
       "id": "ts300-060",
@@ -2217,6 +2276,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-060.png",
       "place_captions": [
         {
           "place": "西安",
@@ -2251,7 +2311,8 @@
       "travel_tip": "北京大兴/幽州台遗址意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-061.png"
     },
     {
       "id": "ts300-062",
@@ -2285,7 +2346,8 @@
       "travel_tip": "边塞主题展。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-062.png"
     },
     {
       "id": "ts300-063",
@@ -2324,7 +2386,8 @@
       "travel_tip": "友情送别主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-063.png"
     },
     {
       "id": "ts300-064",
@@ -2357,6 +2420,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-064.png",
       "place_captions": [
         {
           "place": "扬州",
@@ -2407,6 +2471,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-065.png",
       "place_captions": [
         {
           "place": "武威",
@@ -2467,6 +2532,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-066.png",
       "place_captions": [
         {
           "place": "西安",
@@ -2506,7 +2572,8 @@
       "travel_tip": "湖北襄阳鹿门山。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-067.png"
     },
     {
       "id": "ts300-068",
@@ -2554,14 +2621,15 @@
         "庐山",
         "黄鹤楼",
         "长江",
-        "九江",
-        "武汉"
+        "武汉",
+        "九江"
       ],
       "geo_notes": "庐山寻仙寄卢虚舟。",
       "travel_tip": "九江庐山、武汉黄鹤楼。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-068.png"
     },
     {
       "id": "ts300-069",
@@ -2632,7 +2700,8 @@
       "travel_tip": "浙江新昌天姥/绍兴镜湖。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-069.png"
     },
     {
       "id": "ts300-070",
@@ -2661,6 +2730,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-070.png",
       "place_captions": [
         {
           "place": "南京",
@@ -2707,6 +2777,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-071.png",
       "place_captions": [
         {
           "place": "宣城",
@@ -2757,7 +2828,8 @@
       "travel_tip": "新疆轮台一带意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-072.png"
     },
     {
       "id": "ts300-073",
@@ -2800,7 +2872,8 @@
       "travel_tip": "与走马川成对。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-073.png"
     },
     {
       "id": "ts300-074",
@@ -2841,7 +2914,8 @@
       "travel_tip": "边塞送别名篇。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-074.png"
     },
     {
       "id": "ts300-075",
@@ -2896,7 +2970,8 @@
       "travel_tip": "题画诗，可作艺术主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-075.png"
     },
     {
       "id": "ts300-076",
@@ -2956,7 +3031,8 @@
       "travel_tip": "题画名篇。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-076.png"
     },
     {
       "id": "ts300-077",
@@ -3001,7 +3077,8 @@
       "travel_tip": "岳阳洞庭意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-077.png"
     },
     {
       "id": "ts300-078",
@@ -3048,7 +3125,8 @@
       "travel_tip": "成都武侯祠。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-078.png"
     },
     {
       "id": "ts300-079",
@@ -3099,6 +3177,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-079.png",
       "place_captions": [
         {
           "place": "白帝城",
@@ -3141,6 +3220,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-080.png",
       "place_captions": [
         {
           "place": "岳阳",
@@ -3188,7 +3268,8 @@
       "travel_tip": "山寺纪游主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-081.png"
     },
     {
       "id": "ts300-082",
@@ -3241,7 +3322,8 @@
       "travel_tip": "湖南郴州意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-082.png"
     },
     {
       "id": "ts300-083",
@@ -3294,7 +3376,8 @@
       "travel_tip": "湖南南岳衡山。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-083.png"
     },
     {
       "id": "ts300-084",
@@ -3381,7 +3464,8 @@
       "travel_tip": "故宫石鼓馆可对。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-084.png"
     },
     {
       "id": "ts300-085",
@@ -3408,7 +3492,8 @@
       "travel_tip": "永州潇湘。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-085.png"
     },
     {
       "id": "ts300-086",
@@ -3495,6 +3580,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-086.png",
       "place_captions": [
         {
           "place": "西安",
@@ -3571,6 +3657,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-087.png",
       "place_captions": [
         {
           "place": "九江",
@@ -3652,7 +3739,8 @@
       "travel_tip": "史事诗。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-088.png"
     },
     {
       "id": "ts300-089",
@@ -3706,6 +3794,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-089.png",
       "place_captions": [
         {
           "place": "北京",
@@ -3744,14 +3833,15 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
       "has_card": true,
       "front": "assets/cards/front-090.png",
       "back": "assets/cards/back-090.png",
+      "illustration": "assets/cards/front-090.png",
       "poet": "李颀（约690—约751），东川人，盛唐边塞与音乐题名家。本诗写从军苦寒与玉门被遮，结以「蒲桃入汉家」反衬战骨空抛。",
       "meaning": "写边塞征戍之苦：烽火交河、刁斗风沙、雨雪大漠，胡雁胡儿同悲；闻玉门犹遮，性命轻车，年年战骨只换得葡萄入汉，讽刺穷兵。",
       "geo": "交河在今新疆吐鲁番；玉门关在甘肃敦煌西北。诗中交河、玉门是汉唐西域经略的地理坐标。",
@@ -3796,7 +3886,8 @@
       "travel_tip": "洛阳城意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-091.png"
     },
     {
       "id": "ts300-092",
@@ -3849,7 +3940,8 @@
       "travel_tip": "边将主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-092.png"
     },
     {
       "id": "ts300-093",
@@ -3904,6 +3996,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-093.png",
       "place_captions": [
         {
           "place": "常德",
@@ -3989,6 +4082,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-094.png",
       "place_captions": [
         {
           "place": "成都",
@@ -4032,6 +4126,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-095.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4072,7 +4167,8 @@
       "travel_tip": "与其一成对。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-096.png"
     },
     {
       "id": "ts300-097",
@@ -4108,7 +4204,8 @@
       "travel_tip": "名句长风破浪。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-097.png"
     },
     {
       "id": "ts300-098",
@@ -4147,6 +4244,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-098.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4196,7 +4294,8 @@
       "travel_tip": "与前二首成组。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-099.png"
     },
     {
       "id": "ts300-100",
@@ -4245,7 +4344,8 @@
       "travel_tip": "名篇将进酒。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-100.png"
     },
     {
       "id": "ts300-101",
@@ -4303,7 +4403,8 @@
       "travel_tip": "西安咸阳桥意象。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-101.png"
     },
     {
       "id": "ts300-102",
@@ -4352,6 +4453,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-102.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4402,7 +4504,8 @@
       "travel_tip": "西安曲江。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-103.png"
     },
     {
       "id": "ts300-104",
@@ -4452,6 +4555,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-104.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4489,7 +4593,8 @@
       "travel_tip": "曲阜孔庙。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-105.png"
     },
     {
       "id": "ts300-106",
@@ -4516,7 +4621,8 @@
       "travel_tip": "望月名篇。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-106.png"
     },
     {
       "id": "ts300-107",
@@ -4548,6 +4654,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-107.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4583,7 +4690,8 @@
       "travel_tip": "咏蝉名篇。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-108.png"
     },
     {
       "id": "ts300-109",
@@ -4615,6 +4723,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-109.png",
       "place_captions": [
         {
           "place": "常州",
@@ -4650,7 +4759,8 @@
       "travel_tip": "边怨主题。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-110.png"
     },
     {
       "id": "ts300-111",
@@ -4680,7 +4790,8 @@
       "travel_tip": "贬途望乡。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-111.png"
     },
     {
       "id": "ts300-112",
@@ -4711,7 +4822,8 @@
       "travel_tip": "江行望乡。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-112.png"
     },
     {
       "id": "ts300-113",
@@ -4742,7 +4854,8 @@
       "travel_tip": "题后禅院。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-113.png"
     },
     {
       "id": "ts300-114",
@@ -4773,6 +4886,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-114.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4809,7 +4923,8 @@
       "travel_tip": "赠孟夫子。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-115.png"
     },
     {
       "id": "ts300-116",
@@ -4839,7 +4954,8 @@
       "travel_tip": "出蜀东下。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-116.png"
     },
     {
       "id": "ts300-117",
@@ -4866,7 +4982,8 @@
       "travel_tip": "送友远行。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-117.png"
     },
     {
       "id": "ts300-118",
@@ -4895,7 +5012,8 @@
       "travel_tip": "听琴。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-118.png"
     },
     {
       "id": "ts300-119",
@@ -4925,7 +5043,8 @@
       "travel_tip": "怀谢尚。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-119.png"
     },
     {
       "id": "ts300-120",
@@ -4956,6 +5075,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-120.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4995,6 +5115,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-121.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5033,6 +5154,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-122.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5072,7 +5194,8 @@
       "travel_tip": "再经此门。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-123.png"
     },
     {
       "id": "ts300-124",
@@ -5102,6 +5225,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-124.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5140,7 +5264,8 @@
       "travel_tip": "怀李白。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-125.png"
     },
     {
       "id": "ts300-126",
@@ -5169,7 +5294,8 @@
       "travel_tip": "送严武。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-126.png"
     },
     {
       "id": "ts300-127",
@@ -5198,7 +5324,8 @@
       "travel_tip": "别房琯墓。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-127.png"
     },
     {
       "id": "ts300-128",
@@ -5227,7 +5354,8 @@
       "travel_tip": "旅夜。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-128.png"
     },
     {
       "id": "ts300-129",
@@ -5258,7 +5386,8 @@
       "travel_tip": "登楼。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-129.png"
     },
     {
       "id": "ts300-130",
@@ -5287,7 +5416,8 @@
       "travel_tip": "闲居赠裴迪。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-130.png"
     },
     {
       "id": "ts300-131",
@@ -5317,7 +5447,8 @@
       "travel_tip": "山居秋景",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-131.png"
     },
     {
       "id": "ts300-132",
@@ -5346,7 +5477,8 @@
       "travel_tip": "归隐嵩山",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-132.png"
     },
     {
       "id": "ts300-133",
@@ -5375,7 +5507,8 @@
       "travel_tip": "登终南",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-133.png"
     },
     {
       "id": "ts300-134",
@@ -5402,7 +5535,8 @@
       "travel_tip": "答张少府",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-134.png"
     },
     {
       "id": "ts300-135",
@@ -5432,7 +5566,8 @@
       "travel_tip": "过香积寺",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-135.png"
     },
     {
       "id": "ts300-136",
@@ -5461,7 +5596,8 @@
       "travel_tip": "送李使君",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-136.png"
     },
     {
       "id": "ts300-137",
@@ -5490,7 +5626,8 @@
       "travel_tip": "临汉江",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-137.png"
     },
     {
       "id": "ts300-138",
@@ -5519,7 +5656,8 @@
       "travel_tip": "别业",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-138.png"
     },
     {
       "id": "ts300-139",
@@ -5550,7 +5688,8 @@
       "travel_tip": "干谒张九龄；通作临洞庭上张丞相",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-139.png"
     },
     {
       "id": "ts300-140",
@@ -5580,7 +5719,8 @@
       "travel_tip": "登岘山",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-140.png"
     },
     {
       "id": "ts300-141",
@@ -5607,7 +5747,8 @@
       "travel_tip": "宴道士山房",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-141.png"
     },
     {
       "id": "ts300-142",
@@ -5636,7 +5777,8 @@
       "travel_tip": "归隐",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-142.png"
     },
     {
       "id": "ts300-143",
@@ -5664,7 +5806,8 @@
       "travel_tip": "访故人",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-143.png"
     },
     {
       "id": "ts300-144",
@@ -5694,6 +5837,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-144.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5734,6 +5878,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-145.png",
       "place_captions": [
         {
           "place": "扬州",
@@ -5773,6 +5918,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-146.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5812,6 +5958,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-147.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5849,7 +5996,8 @@
       "travel_tip": "登台远眺",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-148.png"
     },
     {
       "id": "ts300-149",
@@ -5878,7 +6026,8 @@
       "travel_tip": "送李中丞",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-149.png"
     },
     {
       "id": "ts300-150",
@@ -5905,7 +6054,8 @@
       "travel_tip": "饯别南游",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-150.png"
     },
     {
       "id": "ts300-151",
@@ -5935,7 +6085,8 @@
       "travel_tip": "寻道人隐居",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-151.png"
     },
     {
       "id": "ts300-152",
@@ -5962,7 +6113,8 @@
       "travel_tip": "贬谪新年",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-152.png"
     },
     {
       "id": "ts300-153",
@@ -5992,7 +6144,8 @@
       "travel_tip": "送僧归国",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-153.png"
     },
     {
       "id": "ts300-154",
@@ -6022,7 +6175,8 @@
       "travel_tip": "书斋寄友",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-154.png"
     },
     {
       "id": "ts300-155",
@@ -6051,7 +6205,8 @@
       "travel_tip": "喜会故人",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-155.png"
     },
     {
       "id": "ts300-156",
@@ -6076,7 +6231,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-156.png"
     },
     {
       "id": "ts300-157",
@@ -6101,7 +6257,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-157.png"
     },
     {
       "id": "ts300-158",
@@ -6126,7 +6283,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-158.png"
     },
     {
       "id": "ts300-159",
@@ -6151,7 +6309,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-159.png"
     },
     {
       "id": "ts300-160",
@@ -6176,7 +6335,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-160.png"
     },
     {
       "id": "ts300-161",
@@ -6201,7 +6361,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-161.png"
     },
     {
       "id": "ts300-162",
@@ -6226,7 +6387,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-162.png"
     },
     {
       "id": "ts300-163",
@@ -6251,7 +6413,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-163.png"
     },
     {
       "id": "ts300-164",
@@ -6276,7 +6439,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-164.png"
     },
     {
       "id": "ts300-165",
@@ -6301,7 +6465,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-165.png"
     },
     {
       "id": "ts300-166",
@@ -6326,7 +6491,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-166.png"
     },
     {
       "id": "ts300-167",
@@ -6351,7 +6517,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-167.png"
     },
     {
       "id": "ts300-168",
@@ -6376,7 +6543,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-168.png"
     },
     {
       "id": "ts300-169",
@@ -6401,7 +6569,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-169.png"
     },
     {
       "id": "ts300-170",
@@ -6426,7 +6595,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-170.png"
     },
     {
       "id": "ts300-171",
@@ -6451,7 +6621,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-171.png"
     },
     {
       "id": "ts300-172",
@@ -6476,7 +6647,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-172.png"
     },
     {
       "id": "ts300-173",
@@ -6501,7 +6673,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-173.png"
     },
     {
       "id": "ts300-174",
@@ -6526,7 +6699,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-174.png"
     },
     {
       "id": "ts300-175",
@@ -6551,7 +6725,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-175.png"
     },
     {
       "id": "ts300-176",
@@ -6576,7 +6751,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-176.png"
     },
     {
       "id": "ts300-177",
@@ -6601,7 +6777,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-177.png"
     },
     {
       "id": "ts300-178",
@@ -6626,7 +6803,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-178.png"
     },
     {
       "id": "ts300-179",
@@ -6651,7 +6829,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-179.png"
     },
     {
       "id": "ts300-180",
@@ -6676,7 +6855,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-180.png"
     },
     {
       "id": "ts300-181",
@@ -6701,7 +6881,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-181.png"
     },
     {
       "id": "ts300-182",
@@ -6726,7 +6907,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-182.png"
     },
     {
       "id": "ts300-183",
@@ -6751,7 +6933,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-183.png"
     },
     {
       "id": "ts300-184",
@@ -6776,7 +6959,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-184.png"
     },
     {
       "id": "ts300-185",
@@ -6797,7 +6981,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-185.png"
     },
     {
       "id": "ts300-186",
@@ -6818,7 +7003,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-186.png"
     },
     {
       "id": "ts300-187",
@@ -6839,7 +7025,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-187.png"
     },
     {
       "id": "ts300-188",
@@ -6860,7 +7047,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-188.png"
     },
     {
       "id": "ts300-189",
@@ -6881,7 +7069,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-189.png"
     },
     {
       "id": "ts300-190",
@@ -6902,7 +7091,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-190.png"
     },
     {
       "id": "ts300-191",
@@ -6923,7 +7113,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-191.png"
     },
     {
       "id": "ts300-192",
@@ -6944,7 +7135,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-192.png"
     },
     {
       "id": "ts300-193",
@@ -6965,7 +7157,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-193.png"
     },
     {
       "id": "ts300-194",
@@ -6986,7 +7179,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-194.png"
     },
     {
       "id": "ts300-195",
@@ -7007,7 +7201,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-195.png"
     },
     {
       "id": "ts300-196",
@@ -7028,7 +7223,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-196.png"
     },
     {
       "id": "ts300-197",
@@ -7055,6 +7251,7 @@
       "has_card": true,
       "front": "assets/cards/front-197.png",
       "back": "assets/cards/back-197.png",
+      "illustration": "assets/cards/front-197.png",
       "poet": "王之涣（688—742），晋阳（今太原）人，与王昌龄、高适齐名，边塞与登临短章气象开阔。",
       "meaning": "白日落山、黄河入海写登楼所见之壮阔；「欲穷千里目，更上一层楼」由写景翻为哲理，成为励志名句。",
       "geo": "古鹳雀楼在蒲州（今山西永济），前瞻中条、下瞰黄河，晋陕峡谷河段气象正合「黄河入海流」。",
@@ -7079,7 +7276,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-198.png"
     },
     {
       "id": "ts300-199",
@@ -7100,7 +7298,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-199.png"
     },
     {
       "id": "ts300-200",
@@ -7121,7 +7320,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-200.png"
     },
     {
       "id": "ts300-201",
@@ -7142,7 +7342,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-201.png"
     },
     {
       "id": "ts300-202",
@@ -7163,7 +7364,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-202.png"
     },
     {
       "id": "ts300-203",
@@ -7184,7 +7386,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-203.png"
     },
     {
       "id": "ts300-204",
@@ -7205,7 +7408,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-204.png"
     },
     {
       "id": "ts300-205",
@@ -7226,7 +7430,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-205.png"
     },
     {
       "id": "ts300-206",
@@ -7247,7 +7452,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-206.png"
     },
     {
       "id": "ts300-207",
@@ -7268,7 +7474,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-207.png"
     },
     {
       "id": "ts300-208",
@@ -7289,7 +7496,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-208.png"
     },
     {
       "id": "ts300-209",
@@ -7310,7 +7518,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-209.png"
     },
     {
       "id": "ts300-210",
@@ -7331,7 +7540,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-210.png"
     },
     {
       "id": "tang-001",
@@ -7358,7 +7568,8 @@
       "travel_tip": "春日访襄阳鹿门山，可联「啼鸟」「落花」意境。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-tang-001.png"
     },
     {
       "id": "tang-002",
@@ -7386,6 +7597,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-tang-002.png",
       "place_captions": [
         {
           "place": "西安",
@@ -7422,7 +7634,8 @@
       "travel_tip": "去永济鹳雀楼，可对照「黄河入海流」远眺。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-tang-003.png"
     },
     {
       "id": "tang-004",
@@ -7450,7 +7663,8 @@
       "travel_tip": "游庐山时可对照香炉峰与瀑布观景点。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-tang-004.png"
     },
     {
       "id": "tang-005",
@@ -7479,7 +7693,8 @@
       "travel_tip": "武汉黄鹤楼 + 春日扬州，一条经典唐诗旅行线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-tang-005.png"
     },
     {
       "id": "ts300-211",
@@ -7506,7 +7721,8 @@
       "travel_tip": "可联想汉江沿线古渡与岭南归途文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-211.png"
     },
     {
       "id": "ts300-212",
@@ -7532,7 +7748,8 @@
       "travel_tip": "辽西边塞文化联想；春怨闺情题材。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-212.png"
     },
     {
       "id": "ts300-213",
@@ -7559,7 +7776,8 @@
       "travel_tip": "可访甘肃临洮、陇右边塞遗迹文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-213.png"
     },
     {
       "id": "ts300-214",
@@ -7588,7 +7806,8 @@
       "travel_tip": "南京秦淮长干里水乡文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-214.png"
     },
     {
       "id": "ts300-215",
@@ -7617,7 +7836,8 @@
       "travel_tip": "可与南京长干、长江水乡线并读。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-215.png"
     },
     {
       "id": "ts300-216",
@@ -7644,6 +7864,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-216.png",
       "place_captions": [
         {
           "place": "西安",
@@ -7676,7 +7897,8 @@
       "travel_tip": "边塞军旅文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-217.png"
     },
     {
       "id": "ts300-218",
@@ -7700,7 +7922,8 @@
       "travel_tip": "可与李广故事、边塞博物馆联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-218.png"
     },
     {
       "id": "ts300-219",
@@ -7724,7 +7947,8 @@
       "travel_tip": "北疆雪原边塞文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-219.png"
     },
     {
       "id": "ts300-220",
@@ -7748,7 +7972,8 @@
       "travel_tip": "边塞凯旋宴饮文化联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-220.png"
     },
     {
       "id": "ts300-221",
@@ -7776,7 +8001,8 @@
       "travel_tip": "瞿塘峡、长江三峡文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-221.png"
     },
     {
       "id": "ts300-222",
@@ -7804,6 +8030,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-222.png",
       "place_captions": [
         {
           "place": "西安",
@@ -7839,7 +8066,8 @@
       "travel_tip": "湖南桃花源风景区文化联想。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-223.png"
     },
     {
       "id": "ts300-224",
@@ -7868,6 +8096,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-224.png",
       "place_captions": [
         {
           "place": "西安",
@@ -7911,7 +8140,8 @@
       "travel_tip": "江苏镇江芙蓉楼遗址公园。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-225.png"
     },
     {
       "id": "ts300-226",
@@ -7938,6 +8168,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-226.png",
       "place_captions": [
         {
           "place": "西安",
@@ -7974,6 +8205,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-227.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8010,6 +8242,7 @@
       "has_card": true,
       "front": "assets/cards/front-228.png",
       "back": "assets/cards/back-228.png",
+      "illustration": "assets/cards/front-228.png",
       "place_captions": [
         {
           "place": "武威",
@@ -8054,6 +8287,7 @@
       "has_card": true,
       "front": "assets/cards/front-229.png",
       "back": "assets/cards/back-229.png",
+      "illustration": "assets/cards/front-229.png",
       "poet": "李白（701—762），字太白，号青莲居士，盛唐浪漫派代表。本库《唐诗三百首》题名去重约三十七首。",
       "meaning": "黄鹤楼送孟浩然东下扬州：烟花三月点明时地，孤帆远影消入碧空，唯余长江天际，情在景中，不着一「愁」字。",
       "geo": "送别地在武昌黄鹤楼；广陵即扬州。舟行长江东下，与烟花三月东下相应。",
@@ -8087,6 +8321,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-230.png",
       "place_captions": [
         {
           "place": "荆州",
@@ -8122,7 +8357,8 @@
       "travel_tip": "丝绸之路/安西都护府文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-231.png"
     },
     {
       "id": "ts300-232",
@@ -8151,6 +8387,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-232.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8186,7 +8423,8 @@
       "travel_tip": "安徽滁州西涧/琅琊山线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-233.png"
     },
     {
       "id": "ts300-234",
@@ -8215,6 +8453,7 @@
       "has_card": true,
       "front": "assets/cards/front-234.png",
       "back": "assets/cards/back-234.png",
+      "illustration": "assets/cards/front-234.png",
       "poet": "张继（生卒年不详，中唐），襄州人。选本中几乎只凭《枫桥夜泊》传世。",
       "meaning": "月落乌啼、霜天渔火写客船夜泊之愁；寒山寺夜半钟声入船，声与景合成羁旅名篇。",
       "geo": "枫桥、寒山寺均在今江苏苏州城西，唐代已是运河客船停泊点。",
@@ -8245,6 +8484,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-235.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8277,7 +8517,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-236.png"
     },
     {
       "id": "ts300-237",
@@ -8304,6 +8545,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-237.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8340,7 +8582,8 @@
       "travel_tip": "玉门关、呼和浩特青冢、黄河黑山线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-238.png"
     },
     {
       "id": "ts300-239",
@@ -8367,6 +8610,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-239.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8403,7 +8647,8 @@
       "travel_tip": "宁夏灵武受降城遗址文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-240.png"
     },
     {
       "id": "ts300-241",
@@ -8434,6 +8679,7 @@
       "has_card": true,
       "front": "assets/cards/front-241.png",
       "back": "assets/cards/back-241.png",
+      "illustration": "assets/cards/front-241.png",
       "poet": "刘禹锡（772—842），字梦得，中唐诗人，与白居易并称「刘白」，怀古咏史短章尤擅。",
       "meaning": "朱雀桥、乌衣巷写东晋王谢故地今日野草夕阳；堂前燕飞入百姓家，以小见大，叹门阀兴衰。",
       "geo": "乌衣巷、朱雀桥在金陵（今南京）秦淮一带，东晋世家大族聚居地。",
@@ -8461,7 +8707,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-242.png"
     },
     {
       "id": "ts300-243",
@@ -8488,6 +8735,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-243.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8523,6 +8771,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-244.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8560,6 +8809,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-245.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8595,7 +8845,8 @@
       "travel_tip": "湖北赤壁古战场文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-246.png"
     },
     {
       "id": "ts300-247",
@@ -8624,6 +8875,7 @@
       "has_card": true,
       "front": "assets/cards/front-247.png",
       "back": "assets/cards/back-247.png",
+      "illustration": "assets/cards/front-247.png",
       "poet": "杜牧（803—852），京兆人，晚唐才子，咏史绝句以小见大。本库收录十首。",
       "meaning": "烟水月沙写秦淮夜色；商女犹唱《后庭花》（陈后主亡国之曲），讽世人沉湎声色、不知家国之忧。",
       "geo": "秦淮河在今南京城南，六朝以来金粉繁华地；「后庭花」用陈朝亡国典故。",
@@ -8655,7 +8907,8 @@
       "travel_tip": "扬州瘦西湖二十四桥。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-248.png"
     },
     {
       "id": "ts300-249",
@@ -8682,7 +8935,8 @@
       "travel_tip": "扬州古城文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-249.png"
     },
     {
       "id": "ts300-250",
@@ -8709,6 +8963,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-250.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8743,7 +8998,8 @@
       "travel_tip": "扬州十里春风文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-251.png"
     },
     {
       "id": "ts300-252",
@@ -8769,7 +9025,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-252.png"
     },
     {
       "id": "ts300-253",
@@ -8795,7 +9052,8 @@
       "travel_tip": "洛阳金谷园遗址文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-253.png"
     },
     {
       "id": "ts300-254",
@@ -8822,7 +9080,8 @@
       "travel_tip": "巴山/渝陕夜雨意象地。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-254.png"
     },
     {
       "id": "ts300-255",
@@ -8852,6 +9111,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-255.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8887,6 +9147,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-256.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8921,7 +9182,8 @@
       "travel_tip": "扬州隋宫遗址文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-257.png"
     },
     {
       "id": "ts300-258",
@@ -8947,7 +9209,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-258.png"
     },
     {
       "id": "ts300-259",
@@ -8971,7 +9234,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-259.png"
     },
     {
       "id": "ts300-260",
@@ -8998,6 +9262,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-260.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9033,7 +9298,8 @@
       "travel_tip": "潇湘洞庭文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-261.png"
     },
     {
       "id": "ts300-262",
@@ -9060,7 +9326,8 @@
       "travel_tip": "陕西兴平马嵬驿遗址。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-262.png"
     },
     {
       "id": "ts300-263",
@@ -9084,7 +9351,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-263.png"
     },
     {
       "id": "ts300-264",
@@ -9112,7 +9380,8 @@
       "travel_tip": "南京台城/玄武湖柳堤。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-264.png"
     },
     {
       "id": "ts300-265",
@@ -9140,7 +9409,8 @@
       "travel_tip": "陕北无定河文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-265.png"
     },
     {
       "id": "ts300-266",
@@ -9164,7 +9434,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-266.png"
     },
     {
       "id": "ts300-267",
@@ -9188,7 +9459,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-267.png"
     },
     {
       "id": "ts300-268",
@@ -9217,6 +9489,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-268.png",
       "place_captions": [
         {
           "place": "咸阳",
@@ -9249,7 +9522,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-269.png"
     },
     {
       "id": "ts300-270",
@@ -9275,7 +9549,8 @@
       "travel_tip": "汉长安长信宫文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-270.png"
     },
     {
       "id": "ts300-271",
@@ -9302,6 +9577,7 @@
       "has_card": true,
       "front": "assets/cards/front-271.png",
       "back": "assets/cards/back-271.png",
+      "illustration": "assets/cards/front-271.png",
       "poet": "王昌龄（约698—757），京兆人，后世称「七绝圣手」。边塞短章气象开阔，与高适、王之涣齐名。本库题名去重约八首。",
       "meaning": "秦月汉关写边患绵延；万里长征未还写征人苦。结以「龙城飞将」（李广）守阴山，愿名将在则胡马不过。",
       "geo": "阴山在今内蒙古中部，汉唐北方防线；「龙城飞将」用飞将军李广典故。",
@@ -9332,7 +9608,8 @@
       "travel_tip": "西安兴庆宫沉香亭。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-272.png"
     },
     {
       "id": "ts300-273",
@@ -9359,7 +9636,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-273.png"
     },
     {
       "id": "ts300-274",
@@ -9386,7 +9664,8 @@
       "travel_tip": "西安兴庆宫沉香亭。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-274.png"
     },
     {
       "id": "ts300-275",
@@ -9416,6 +9695,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-275.png",
       "place_captions": [
         {
           "place": "武威",
@@ -9448,7 +9728,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-276.png"
     },
     {
       "id": "ts300-277",
@@ -9485,6 +9766,7 @@
       "has_card": true,
       "front": "assets/cards/front-277.png",
       "back": "assets/cards/back-277.png",
+      "illustration": "assets/cards/front-277.png",
       "poet": "崔颢（约704—754），汴州人。此诗被推为唐人七律压卷之一；传说李白见而搁笔。本库收录四首。",
       "meaning": "黄鹤仙去楼空、白云千载写登临怀古；中联实写汉阳树、鹦鹉洲；结以乡关烟波之愁，景情相生。",
       "geo": "黄鹤楼在武昌长江边；汉阳、鹦鹉洲隔江相对。",
@@ -9521,6 +9803,7 @@
       "has_card": true,
       "front": "assets/cards/front-278.png",
       "back": "assets/cards/back-278.png",
+      "illustration": "assets/cards/front-278.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -9563,7 +9846,8 @@
       "travel_tip": "陕西蓝田玉山文化线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-279.png"
     },
     {
       "id": "ts300-280",
@@ -9594,7 +9878,8 @@
       "travel_tip": "成都武侯祠必访。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-280.png"
     },
     {
       "id": "ts300-281",
@@ -9625,7 +9910,8 @@
       "travel_tip": "成都锦江、都江堰玉垒山。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-281.png"
     },
     {
       "id": "ts300-282",
@@ -9655,7 +9941,8 @@
       "travel_tip": "成都杜甫草堂。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-282.png"
     },
     {
       "id": "ts300-283",
@@ -9691,6 +9978,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-283.png",
       "place_captions": [
         {
           "place": "北京",
@@ -9732,7 +10020,8 @@
       "travel_tip": "南京凤凰台遗址、白鹭洲公园。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-284.png"
     },
     {
       "id": "ts300-285",
@@ -9767,6 +10056,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-285.png",
       "place_captions": [
         {
           "place": "南京",
@@ -9805,7 +10095,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-286.png"
     },
     {
       "id": "ts300-287",
@@ -9835,7 +10126,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-287.png"
     },
     {
       "id": "ts300-288",
@@ -9867,6 +10159,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-288.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -9906,7 +10199,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-289.png"
     },
     {
       "id": "ts300-290",
@@ -9937,7 +10231,8 @@
       "travel_tip": "湖北归州宋玉宅传说线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-290.png"
     },
     {
       "id": "ts300-291",
@@ -9969,7 +10264,8 @@
       "travel_tip": "兴山昭君村、呼和浩特青冢。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-291.png"
     },
     {
       "id": "ts300-292",
@@ -10001,7 +10297,8 @@
       "travel_tip": "奉节永安宫/白帝城。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-292.png"
     },
     {
       "id": "ts300-293",
@@ -10032,7 +10329,8 @@
       "travel_tip": "成都武侯祠。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-293.png"
     },
     {
       "id": "ts300-294",
@@ -10063,7 +10361,8 @@
       "travel_tip": "成都万里桥、西岭雪线。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-294.png"
     },
     {
       "id": "ts300-295",
@@ -10093,6 +10392,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-295.png",
       "place_captions": [
         {
           "place": "南京",
@@ -10128,6 +10428,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-296.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10162,7 +10463,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-297.png"
     },
     {
       "id": "ts300-298",
@@ -10189,6 +10491,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-298.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10223,6 +10526,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-299.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10264,6 +10568,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-300.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10307,7 +10612,8 @@
       "travel_tip": "安徽宣城谢朓楼。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-301.png"
     },
     {
       "id": "ts300-302",
@@ -10335,7 +10641,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-302.png"
     },
     {
       "id": "ts300-303",
@@ -10367,6 +10674,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-303.png",
       "place_captions": [
         {
           "place": "绍兴",
@@ -10403,7 +10711,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-304.png"
     },
     {
       "id": "ts300-305",
@@ -10434,6 +10743,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-305.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10472,7 +10782,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-306.png"
     },
     {
       "id": "ts300-307",
@@ -10503,6 +10814,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-307.png",
       "place_captions": [
         {
           "place": "南京",
@@ -10544,6 +10856,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-308.png",
       "place_captions": [
         {
           "place": "成都",
@@ -10582,7 +10895,8 @@
       "travel_tip": "北京蓟门烟树一带。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-309.png"
     },
     {
       "id": "ts300-310",
@@ -10610,7 +10924,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-310.png"
     },
     {
       "id": "ts300-311",
@@ -10640,7 +10955,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-311.png"
     },
     {
       "id": "ts300-312",
@@ -10668,7 +10984,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-312.png"
     },
     {
       "id": "ts300-313",
@@ -10696,7 +11013,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-313.png"
     },
     {
       "id": "ts300-314",
@@ -10727,7 +11045,8 @@
       "travel_tip": "湖南长沙贾谊故居。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-314.png"
     },
     {
       "id": "ts300-315",
@@ -10758,7 +11077,8 @@
       "travel_tip": "陕西蓝田辋川。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-315.png"
     },
     {
       "id": "ts300-316",
@@ -10786,7 +11106,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-316.png"
     },
     {
       "id": "ts300-317",
@@ -10818,6 +11139,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-317.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10858,6 +11180,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-318.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10897,6 +11220,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-319.png",
       "place_captions": [
         {
           "place": "西安",
@@ -10937,7 +11261,8 @@
       "travel_tip": "西安兴庆宫公园一带。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-320.png"
     },
     {
       "id": "ts300-321",
@@ -10967,6 +11292,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-321.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11002,7 +11328,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-322.png"
     },
     {
       "id": "ts300-323",
@@ -11029,7 +11356,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-323.png"
     },
     {
       "id": "ts300-324",
@@ -11056,7 +11384,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-324.png"
     },
     {
       "id": "ts300-325",
@@ -11087,7 +11416,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-325.png"
     },
     {
       "id": "ts300-326",
@@ -11118,7 +11448,8 @@
       "travel_tip": "广西柳州。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-326.png"
     },
     {
       "id": "ts300-327",
@@ -11152,7 +11483,8 @@
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-327.png"
     },
     {
       "id": "ts300-328",
@@ -11182,7 +11514,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-328.png"
     },
     {
       "id": "ts300-329",
@@ -11215,6 +11548,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-329.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11253,7 +11587,8 @@
       "travel_tip": "四川广元一带古利州。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-330.png"
     },
     {
       "id": "ts300-331",
@@ -11285,7 +11620,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-331.png"
     },
     {
       "id": "ts300-332",
@@ -11317,7 +11653,8 @@
       "travel_tip": "湖北鄂州、武汉汉阳。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-332.png"
     },
     {
       "id": "ts300-333",
@@ -11348,7 +11685,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-333.png"
     },
     {
       "id": "ts300-334",
@@ -11378,7 +11716,8 @@
       "travel_tip": "",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-334.png"
     },
     {
       "id": "ts300-335",
@@ -11410,6 +11749,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-335.png",
       "place_captions": [
         {
           "place": "九江",
@@ -11455,6 +11795,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-336.png",
       "place_captions": [
         {
           "place": "武汉",
@@ -11493,6 +11834,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-337.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11531,7 +11873,8 @@
       "travel_tip": "江苏扬州隋堤。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-338.png"
     },
     {
       "id": "ts300-339",
@@ -11566,6 +11909,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-339.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -11607,6 +11951,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-340.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -11655,6 +12000,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-341.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -11703,6 +12049,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-342.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11745,7 +12092,8 @@
       "travel_tip": "西安大明宫遗址公园；终南山远望。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-343.png"
     },
     {
       "id": "ts300-344",
@@ -11779,6 +12127,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-344.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11820,6 +12169,7 @@
       "has_card": false,
       "front": null,
       "back": null,
+      "illustration": "assets/illustrations/ill-345.png",
       "place_captions": [
         {
           "place": "西安",
@@ -11861,12 +12211,14 @@
       "travel_tip": "西安鄠邑紫阁峰、渼陂湖周边。",
       "has_card": false,
       "front": null,
-      "back": null
+      "back": null,
+      "illustration": "assets/illustrations/ill-346.png"
     }
   ],
   "meta": {
     "count": 351,
     "cards": 10,
+    "illustrations": 351,
     "place_mode": "modern_only"
   }
 }

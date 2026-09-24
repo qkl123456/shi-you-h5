@@ -114,6 +114,9 @@
       .map(([id, score]) => ({ poem: state.poemsById[id], score }))
       .filter((x) => x.poem)
       .sort((a, b) => {
+        const ai = !!(a.poem.illustration || a.poem.front);
+        const bi = !!(b.poem.illustration || b.poem.front);
+        if (bi !== ai) return bi ? 1 : -1;
         if (b.poem.has_card !== a.poem.has_card) return b.poem.has_card ? 1 : -1;
         if (b.score !== a.score) return b.score - a.score;
         return (a.poem.order || 0) - (b.poem.order || 0);
@@ -171,20 +174,34 @@
     }<div style="margin-top:14px"><button type="button" class="chip" data-clear>清除搜索 · 看热门</button></div></div>`;
   }
 
+  function thumbSrc(p) {
+    return p.illustration || p.front || "";
+  }
+
   function renderResultCard(p) {
     const places = relatedPlaces(p)
       .map((n) => `<span class="place-tag">#${escapeHtml(n)}</span>`)
       .join("");
-    return `<button type="button" class="result-card" data-id="${escapeAttr(p.id)}">
-      <div class="result-top">
-        <div>
-          <h3 class="result-title">${escapeHtml(p.title)}</h3>
-          <p class="result-author">${escapeHtml(p.author)}${p.form ? " · " + escapeHtml(p.form) : ""}</p>
+    const src = thumbSrc(p);
+    const thumb = src
+      ? `<img class="result-thumb" src="${escapeAttr(src)}" alt="" loading="lazy" />`
+      : "";
+    const badges = [];
+    if (src) badges.push('<span class="badge">插画</span>');
+    if (p.has_card) badges.push('<span class="badge badge-dual">正反面</span>');
+    return `<button type="button" class="result-card${src ? " has-thumb" : ""}" data-id="${escapeAttr(p.id)}">
+      ${thumb}
+      <div class="result-body">
+        <div class="result-top">
+          <div>
+            <h3 class="result-title">${escapeHtml(p.title)}</h3>
+            <p class="result-author">${escapeHtml(p.author)}${p.form ? " · " + escapeHtml(p.form) : ""}</p>
+          </div>
+          <div class="badge-row">${badges.join("")}</div>
         </div>
-        ${p.has_card ? '<span class="badge">有插画</span>' : ""}
+        <div class="result-meta">${places || '<span class="place-tag">#地名待考</span>'}</div>
+        <div class="result-excerpt">${escapeHtml(excerpt(p))}</div>
       </div>
-      <div class="result-meta">${places || '<span class="place-tag">#地名待考</span>'}</div>
-      <div class="result-excerpt">${escapeHtml(excerpt(p))}</div>
     </button>`;
   }
 
@@ -236,7 +253,14 @@
       `;
       bindCardGestures(poem);
     } else {
+      const ill = poem.illustration || poem.front || "";
+      const stage = ill
+        ? `<div class="card-stage" id="card-stage">
+          <img id="card-img" src="${escapeAttr(ill)}" alt="${escapeAttr(poem.title)} 插画" />
+        </div>`
+        : "";
       body.innerHTML = `
+        ${stage}
         <div class="poem-block">
           <div class="meta">${escapeHtml(poem.author)}${poem.form ? " · " + escapeHtml(poem.form) : ""}</div>
           <div class="poem-lines">${(poem.text || []).map((l) => `<p>${escapeHtml(l)}</p>`).join("")}</div>
