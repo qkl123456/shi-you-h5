@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6092,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7696,13 +7696,19 @@
         "年年越溪女",
         "相忆采芙蓉"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-182.png"
+      "places": [
+        "诸暨"
+      ],
+      "geo_notes": "春宫怨；越溪女。",
+      "travel_tip": "浙江诸暨（越溪）；宫苑春景可对读「承恩不在貌，教妾若为容」。",
+      "has_card": true,
+      "front": "assets/cards/front-182.png",
+      "back": "assets/cards/back-182.png",
+      "illustration": "assets/cards/front-182.png",
+      "poet": "杜荀鹤（约846—约904），字彦之。本库题名去重一首；《春宫怨》写承恩不在貌，结忆越溪女。",
+      "meaning": "早被婵娟误，欲妆临镜慵；承恩不在貌，教妾若为容。风暖鸟声碎，日高花影重；年年越溪女，相忆采芙蓉。",
+      "geo": "春宫怨托宫女口吻；结句越溪在今浙江诸暨一带。地景以宫怨意象为主，越溪为对照。",
+      "visit": "浙江诸暨（越溪）；宫苑春景可对读「承恩不在貌，教妾若为容」。"
     },
     {
       "id": "ts300-183",
@@ -7722,13 +7728,19 @@
         "乡书不可寄",
         "秋雁又南回"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-183.png"
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "章台夜思。",
+      "travel_tip": "陕西西安（章台意象）；可对「孤灯闻楚角，残月下章台」。",
+      "has_card": true,
+      "front": "assets/cards/front-183.png",
+      "back": "assets/cards/back-183.png",
+      "illustration": "assets/cards/front-183.png",
+      "poet": "韦庄（约836—910），字端己。本库题名去重二首；《章台夜思》写孤灯楚角、残月章台。",
+      "meaning": "清瑟怨遥夜，绕弦风雨哀；孤灯闻楚角，残月下章台。芳草已云暮，故人殊未来；乡书不可寄，秋雁又南回。",
+      "geo": "章台在唐长安，地望今陕西西安。夜思乡书，地景以西安章台为主。",
+      "visit": "陕西西安（章台意象）；可对「孤灯闻楚角，残月下章台」。"
     },
     {
       "id": "ts300-184",
@@ -7748,13 +7760,19 @@
         "报道山中去",
         "归来每日斜"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-184.png"
+      "places": [
+        "湖州"
+      ],
+      "geo_notes": "寻陆鸿渐不遇。",
+      "travel_tip": "浙江湖州苕溪一带；可对「报道山中去，归来每日斜」。",
+      "has_card": true,
+      "front": "assets/cards/front-184.png",
+      "back": "assets/cards/back-184.png",
+      "illustration": "assets/cards/front-184.png",
+      "poet": "僧皎然（约720—约800），字清昼。本库题名去重一首；寻陆鸿渐（陆羽）不遇，写篱菊扣门、山中日斜。",
+      "meaning": "移家虽带郭，野径入桑麻；近种篱边菊，秋来未著花。扣门无犬吠，欲去问西家；报道山中去，归来每日斜。",
+      "geo": "陆羽隐居多与浙江湖州苕溪相关。寻访不遇，地景以湖州／苕溪田园为主。",
+      "visit": "浙江湖州苕溪一带；可对「报道山中去，归来每日斜」。"
     },
     {
       "id": "ts300-185",
@@ -7770,13 +7788,19 @@
         "返景入深林",
         "复照青苔上"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-185.png"
+      "places": [
+        "蓝田"
+      ],
+      "geo_notes": "辋川鹿柴。",
+      "travel_tip": "陕西蓝田辋川（鹿柴）；可对「返景入深林，复照青苔上」。",
+      "has_card": true,
+      "front": "assets/cards/front-185.png",
+      "back": "assets/cards/back-185.png",
+      "illustration": "assets/cards/front-185.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《鹿柴》为辋川诸景之一，写空山人语、返景青苔。",
+      "meaning": "空山不见人，但闻人语响；返景入深林，复照青苔上。",
+      "geo": "鹿柴属辋川别业诸景，在今陕西蓝田。空山深林，地景以蓝田辋川为主。",
+      "visit": "陕西蓝田辋川（鹿柴）；可对「返景入深林，复照青苔上」。"
     },
     {
       "id": "ts300-186",
@@ -7792,13 +7816,19 @@
         "深林人不知",
         "明月来相照"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-186.png"
+      "places": [
+        "蓝田"
+      ],
+      "geo_notes": "辋川竹里馆。",
+      "travel_tip": "陕西蓝田辋川（竹里馆）；可对「深林人不知，明月来相照」。",
+      "has_card": true,
+      "front": "assets/cards/front-186.png",
+      "back": "assets/cards/back-186.png",
+      "illustration": "assets/cards/front-186.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《竹里馆》写幽篁独坐、明月相照。",
+      "meaning": "独坐幽篁里，弹琴复长啸；深林人不知，明月来相照。",
+      "geo": "竹里馆属辋川别业诸景，在今陕西蓝田。幽篁深林，地景以蓝田辋川为主。",
+      "visit": "陕西蓝田辋川（竹里馆）；可对「深林人不知，明月来相照」。"
     },
     {
       "id": "ts300-187",
@@ -12980,7 +13010,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 190,
+    "cards": 195,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
