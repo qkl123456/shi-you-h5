@@ -3326,13 +3326,28 @@
         "但看古来盛名下",
         "终日坎壈缠其身"
       ],
-      "places": [],
-      "geo_notes": "赠画家曹霸。",
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "赠画家曹霸；长安宫廷意象。地名今释：西安（唐时称长安）。",
       "travel_tip": "题画名篇。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-076.png"
+      "has_card": true,
+      "front": "assets/cards/front-076.png",
+      "back": "assets/cards/back-076.png",
+      "illustration": "assets/cards/front-076.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《丹青引》赠画家曹霸，写其丹青盛名与漂泊坎坷。",
+      "meaning": "将军魏武子孙，文采风流尚存；丹青不知老将至，富贵如浮云。开元承恩南熏殿，凌烟功臣开生面；诏写玉花骢，一洗万古凡马空。今漂泊干戈、途穷遭俗眼，盛名之下终日坎壈，题画中见身世同悲。",
+      "geo": "诗写曹霸丹青生涯与唐宫廷鞍马记忆，地理以长安宫廷／画院意象为主，不必坐实单一宅址。",
+      "visit": "西安（唐长安鞍马／宫廷意象）；题画艺术主题展亦可。"
     },
     {
       "id": "ts300-077",
@@ -3375,10 +3390,14 @@
       ],
       "geo_notes": "思岳阳寄韩注。",
       "travel_tip": "岳阳洞庭意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-077.png"
+      "has_card": true,
+      "front": "assets/cards/front-077.png",
+      "back": "assets/cards/back-077.png",
+      "illustration": "assets/cards/front-077.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；《寄韩谏议注》思岳阳、望洞庭，寄怀韩注。",
+      "meaning": "今我不乐思岳阳，欲奋飞而病在床；美人隔秋水，濯足洞庭望八荒。鸿飞冥冥、青枫叶赤，影动潇湘。似闻赤松、韩张良定长安，色难腥腐餐枫香；美人胡为隔秋水，焉得置之贡玉堂。",
+      "geo": "岳阳、洞庭在今湖南岳阳一带；潇湘指湖南湘水流域。寄赠以洞庭／岳阳山水为远思。",
+      "visit": "湖南岳阳／洞庭湖；可对「思岳阳」远望。"
     },
     {
       "id": "ts300-078",
@@ -3423,10 +3442,14 @@
       ],
       "geo_notes": "成都武侯祠古柏。",
       "travel_tip": "成都武侯祠。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-078.png"
+      "has_card": true,
+      "front": "assets/cards/front-078.png",
+      "back": "assets/cards/back-078.png",
+      "illustration": "assets/cards/front-078.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；《古柏行》咏孔明庙前老柏，结以「古来材大难为用」。",
+      "meaning": "孔明庙前老柏，柯如青铜根如石，霜皮四十围、黛色二千尺。云接巫峡、月通雪山；忆路绕锦亭，先主武侯同閟宫。大厦如倾要梁栋，万牛回首丘山重；香叶宿鸾凤而材大难为用，咏柏中自况。",
+      "geo": "孔明庙／武侯祠在今四川成都；锦亭亦成都一带。巫峡为远景对照。地景以成都武侯祠古柏为主。",
+      "visit": "成都武侯祠；可对「古来材大难为用」。"
     },
     {
       "id": "ts300-079",
@@ -3470,14 +3493,15 @@
       "places": [
         "白帝城",
         "奉节",
-        "西安"
+        "西安",
+        "三峡"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-079.png",
+      "has_card": true,
+      "front": "assets/cards/front-079.png",
+      "back": "assets/cards/back-079.png",
+      "illustration": "assets/cards/front-079.png",
       "place_captions": [
         {
           "place": "白帝城",
@@ -3486,7 +3510,11 @@
           ],
           "note": "古称白帝"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；白帝城观公孙大娘弟子舞剑器，抚今追昔。",
+      "meaning": "昔公孙氏一舞剑器动四方，天地低昂；晚有弟子传芬芳，临颍美人在白帝。五十年间梨园散如烟，金粟堆前木已拱，瞿塘石城草萧瑟；乐极哀来，足茧荒山，观舞中见盛衰。",
+      "geo": "白帝在今重庆奉节白帝城；瞿塘亦奉节三峡。金粟堆为关中先帝陵意象（今西安一带）。观舞地景以白帝城为主。",
+      "visit": "重庆奉节白帝城；可对剑器舞／梨园今昔。"
     },
     {
       "id": "ts300-080",
@@ -3513,14 +3541,15 @@
       "places": [
         "道县",
         "君山",
-        "岳阳"
+        "岳阳",
+        "洞庭"
       ],
       "geo_notes": "道州石鱼湖。地名今释：岳阳（古称巴丘）。",
       "travel_tip": "湖南道县一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-080.png",
+      "has_card": true,
+      "front": "assets/cards/front-080.png",
+      "back": "assets/cards/back-080.png",
+      "illustration": "assets/cards/front-080.png",
       "place_captions": [
         {
           "place": "岳阳",
@@ -3529,7 +3558,11 @@
           ],
           "note": "古称巴丘"
         }
-      ]
+      ],
+      "poet": "元结（719—772），字次山，河南人，曾刺道州。本库题名去重二首；《石鱼湖上醉歌》写道州石鱼湖醉饮散愁。",
+      "meaning": "石鱼湖似洞庭，夏水欲满君山青；山为樽、水为沼，酒徒坐洲岛。长风大浪不能废运酒舫，持长瓢坐巴丘，酌饮四座以散愁。",
+      "geo": "石鱼湖在今湖南道县（唐道州）一带；君山、巴丘为洞庭意象对照。地景以道县石鱼湖为主。",
+      "visit": "湖南道县一带；洞庭君山可作「似洞庭」对照。"
     },
     {
       "id": "ts300-081",
@@ -4697,8 +4730,8 @@
       "places": [
         "咸阳桥",
         "青海",
-        "西安",
-        "咸阳"
+        "咸阳",
+        "西安"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
@@ -12506,7 +12539,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 85,
+    "cards": 90,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
