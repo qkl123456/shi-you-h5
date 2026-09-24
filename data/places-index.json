@@ -37,6 +37,7 @@
         "ts300-076",
         "ts300-079",
         "ts300-086",
+        "ts300-088",
         "ts300-095",
         "ts300-098",
         "ts300-101",
@@ -309,8 +310,8 @@
         "洛阳（唐时称东都）",
         "河南洛阳",
         "友情送别主题展亦可",
-        "洛阳城意象",
-        "洛阳金谷园遗址文化线"
+        "可对贵游",
+        "浣纱对照主题"
       ],
       "region": "河南",
       "subtitle": "古称：东都、京洛"
@@ -409,7 +410,7 @@
         "幽州台遗址意象（蓟北楼文化联想）",
         "可对「念天地之悠悠」",
         "北京故宫石鼓馆可对",
-        "北京黄金台意象"
+        "北京蓟北意象"
       ],
       "region": "北京",
       "subtitle": "古称：蓟北"
@@ -588,7 +589,9 @@
       ],
       "visit_hints": [
         "江西九江庐山（唐时称江州）",
-        "九江浔阳江",
+        "江西九江浔阳江",
+        "琵琶亭",
+        "可对「同是天涯沦落人」",
         "江西九江"
       ],
       "region": "江西",
@@ -705,6 +708,7 @@
         "ts300-331"
       ],
       "visit_hints": [
+        "兴平马嵬坡遗址",
         "陕西茂陵博物馆线",
         "陕西兴平马嵬驿遗址"
       ],
@@ -907,23 +911,6 @@
       "subtitle": ""
     },
     {
-      "name": "峨眉山",
-      "aliases": [
-        "峨眉"
-      ],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-086",
-        "ts300-094",
-        "ts300-118"
-      ],
-      "visit_hints": [
-        "听琴"
-      ],
-      "region": "四川",
-      "subtitle": ""
-    },
-    {
       "name": "武威",
       "aliases": [],
       "ancient_names": [
@@ -1088,19 +1075,6 @@
       ],
       "visit_hints": [],
       "region": "西北",
-      "subtitle": ""
-    },
-    {
-      "name": "蓬莱",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-086",
-        "ts300-286",
-        "ts300-306"
-      ],
-      "visit_hints": [],
-      "region": "山东",
       "subtitle": ""
     },
     {
@@ -1319,6 +1293,22 @@
         "湖南岳阳楼"
       ],
       "region": "岳阳",
+      "subtitle": ""
+    },
+    {
+      "name": "峨眉山",
+      "aliases": [
+        "峨眉"
+      ],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-094",
+        "ts300-118"
+      ],
+      "visit_hints": [
+        "听琴"
+      ],
+      "region": "四川",
       "subtitle": ""
     },
     {
@@ -1566,6 +1556,18 @@
         "陕西蓝田辋川"
       ],
       "region": "西安",
+      "subtitle": ""
+    },
+    {
+      "name": "蓬莱",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-286",
+        "ts300-306"
+      ],
+      "visit_hints": [],
+      "region": "山东",
       "subtitle": ""
     },
     {
@@ -1913,7 +1915,8 @@
         "ts300-086"
       ],
       "visit_hints": [
-        "西安华清池、兴平马嵬"
+        "西安华清池",
+        "可对「此恨绵绵无绝期」"
       ],
       "region": "西安",
       "subtitle": ""
@@ -1929,17 +1932,6 @@
         "陕西华阴华山"
       ],
       "region": "渭南",
-      "subtitle": ""
-    },
-    {
-      "name": "南通",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-089"
-      ],
-      "visit_hints": [],
-      "region": "江苏",
       "subtitle": ""
     },
     {
@@ -2163,7 +2155,9 @@
         "ts300-089"
       ],
       "visit_hints": [
-        "山海关一带意象"
+        "山海关",
+        "秦皇岛",
+        "边塞主题展亦可"
       ],
       "region": "秦皇岛",
       "subtitle": ""
@@ -2445,6 +2439,17 @@
       "subtitle": ""
     },
     {
+      "name": "汝南",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-088"
+      ],
+      "visit_hints": [],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "江油",
       "aliases": [],
       "ancient_names": [],
@@ -2506,17 +2511,6 @@
       "subtitle": ""
     },
     {
-      "name": "浮梁",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-087"
-      ],
-      "visit_hints": [],
-      "region": "景德镇",
-      "subtitle": ""
-    },
-    {
       "name": "淮南",
       "aliases": [],
       "ancient_names": [],
@@ -2535,7 +2529,9 @@
         "ts300-088"
       ],
       "visit_hints": [
-        "史事诗"
+        "河南汝南",
+        "淮西史迹主题",
+        "史事诗展亦可"
       ],
       "region": "安徽",
       "subtitle": ""
@@ -3056,7 +3052,7 @@
     }
   ],
   "meta": {
-    "count": 199,
+    "count": 198,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3198,6 +3194,7 @@
       "蓬山",
       "蓬莱宫",
       "蔡",
+      "蔡州",
       "蜀",
       "衡岳",
       "襄州",
@@ -3258,8 +3255,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 197,
-      "rename_events": 224,
+      "ancient_keys": 198,
+      "rename_events": 225,
       "examples": [
         {
           "from": "长安",

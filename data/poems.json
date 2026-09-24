@@ -3928,16 +3928,14 @@
       "places": [
         "华清池",
         "兴平",
-        "峨眉山",
-        "西安",
-        "蓬莱"
+        "西安"
       ],
-      "geo_notes": "玄宗杨妃故事。地名今释：西安（唐时称长安）。",
+      "geo_notes": "玄宗杨妃；西安华清池、兴平马嵬。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安华清池、兴平马嵬。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-086.png",
+      "has_card": true,
+      "front": "assets/cards/front-086.png",
+      "back": "assets/cards/back-086.png",
+      "illustration": "assets/cards/front-086.png",
       "place_captions": [
         {
           "place": "西安",
@@ -3946,7 +3944,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "白居易（772—846），字乐天，号香山居士，下邽人。本库题名去重六首；《长恨歌》写玄宗杨妃爱情与马嵬之变，结以「此恨绵绵无绝期」。",
+      "meaning": "汉皇重色、杨家有女；霓裳羽衣、芙蓉帐暖。渔阳鼙鼓动地来，马嵬坡下宛转蛾眉。蜀江水碧、行宫见月；归长安池苑依旧。临邛道士觅魂，海上仙山见太真，七月七日长生殿私语。在天比翼、在地连理，天长地久有时尽，此恨绵绵无绝期。",
+      "geo": "华清池在今陕西西安临潼；马嵬在今兴平。诗以长安／华清池起、马嵬转折，地景以西安一带为主。",
+      "visit": "西安华清池；兴平马嵬坡遗址；可对「此恨绵绵无绝期」。"
     },
     {
       "id": "ts300-087",
@@ -4006,15 +4008,14 @@
         "座中泣下谁最多，江州司马青衫湿"
       ],
       "places": [
-        "九江",
-        "浮梁"
+        "九江"
       ],
-      "geo_notes": "江州司马听琵琶。地名今释：九江（唐时称浔阳）。",
+      "geo_notes": "江州司马听琵琶；九江。地名今释：九江（唐时称浔阳）。",
       "travel_tip": "九江浔阳江。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-087.png",
+      "has_card": true,
+      "front": "assets/cards/front-087.png",
+      "back": "assets/cards/back-087.png",
+      "illustration": "assets/cards/front-087.png",
       "place_captions": [
         {
           "place": "九江",
@@ -4023,7 +4024,11 @@
           ],
           "note": "唐时称浔阳"
         }
-      ]
+      ],
+      "poet": "白居易（772—846），字乐天。本库题名去重六首；贬江州司马时作《琵琶行》，写浔阳江头听琵琶，同是天涯沦落人。",
+      "meaning": "浔阳江头夜送客，枫叶荻花；忽闻琵琶，犹抱琵琶半遮面。大弦嘈嘈、小弦切切，大珠小珠落玉盘。自言本长安倡女，老大嫁作商人妇。我闻琵琶已叹息，又闻此语重唧唧；同是天涯沦落人，相逢何必曾相识。座中泣下谁最多，江州司马青衫湿。",
+      "geo": "浔阳／湓江即今江西九江；江州司马任所。地景以九江浔阳江为主。",
+      "visit": "江西九江浔阳江／琵琶亭；可对「同是天涯沦落人」。"
     },
     {
       "id": "ts300-088",
@@ -4090,14 +4095,29 @@
         "以为封禅玉检明堂基"
       ],
       "places": [
-        "淮西"
+        "淮西",
+        "汝南",
+        "西安"
       ],
-      "geo_notes": "裴度平淮西韩愈碑。",
+      "geo_notes": "裴度平淮西韩愈碑。地名今释：西安（唐时称长安）。",
       "travel_tip": "史事诗。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-088.png"
+      "has_card": true,
+      "front": "assets/cards/front-088.png",
+      "back": "assets/cards/back-088.png",
+      "illustration": "assets/cards/front-088.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
+      "poet": "李商隐（约813—约858），字义山，号玉谿生，怀州河内人。本库题名去重约二十四首；《韩碑》咏裴度平淮西、韩愈撰碑事。",
+      "meaning": "元和天子神武，誓雪列圣耻；淮西蔡乱，裴度督师、李愬入蔡。愈受诏撰碑，点窜尧典舜典词，点窜清庙生民诗。碑成，天子挥毫。后有人推碑，石本仍传，以封禅明堂为期，史事诗中见文章不朽。",
+      "geo": "淮西／蔡州地望今河南汝南一带（唐蔡州）；诗咏平淮西与韩碑，地景以豫南淮西史地为主，可兼长安朝堂意象。",
+      "visit": "河南汝南／淮西史迹主题；史事诗展亦可。"
     },
     {
       "id": "ts300-089",
@@ -4143,15 +4163,14 @@
         "山海关",
         "秦皇岛",
         "蒙古高原",
-        "南通",
         "北京"
       ],
-      "geo_notes": "东北边塞。地名今释：北京（古称蓟北）。",
+      "geo_notes": "东北边塞；不加狼山以免南通误索引。地名今释：北京（古称蓟北）。",
       "travel_tip": "山海关一带意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-089.png",
+      "has_card": true,
+      "front": "assets/cards/front-089.png",
+      "back": "assets/cards/back-089.png",
+      "illustration": "assets/cards/front-089.png",
       "place_captions": [
         {
           "place": "北京",
@@ -4160,7 +4179,11 @@
           ],
           "note": "古称蓟北"
         }
-      ]
+      ],
+      "poet": "高适（约700—765），字达夫，渤海人，盛唐边塞诗代表，与岑参并称。本库题名去重二首；《燕歌行》写东北边塞征战苦与将士不遇。",
+      "meaning": "汉家烟尘在东北，汉将辞家破残贼；男儿重横行，有功未获赏。山川萧条极边土，胡骑凭陵杂风雨；战士军前半死生，美人帐下犹歌舞。大漠穷秋塞草腓，孤城落日斗兵稀。君不见沙场征战苦，至今犹忆李将军。",
+      "geo": "榆关即今山海关一带；碣石在今秦皇岛沿海；蓟北今北京一带。瀚海为漠北意象。地景以冀辽边塞／山海关—北京线为主。",
+      "visit": "山海关／秦皇岛；北京蓟北意象；边塞主题展亦可。"
     },
     {
       "id": "ts300-090",
@@ -4241,10 +4264,14 @@
       ],
       "geo_notes": "洛阳贵女与越女对照。",
       "travel_tip": "洛阳城意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-091.png"
+      "has_card": true,
+      "front": "assets/cards/front-091.png",
+      "back": "assets/cards/back-091.png",
+      "illustration": "assets/cards/front-091.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《洛阳女儿行》写洛阳贵女豪奢，结以越女贫贱浣纱对照。",
+      "meaning": "洛阳女儿对门居，十五余；良人玉勒、侍女金盘。画阁朱楼、妆成对春思；谁怜越女颜如玉，贫贱江头自浣纱，讽贵贱殊遇。",
+      "geo": "洛阳即今河南洛阳；越女浣纱对照越地。地景以洛阳城贵游为主。",
+      "visit": "河南洛阳；可对贵游／浣纱对照主题。"
     },
     {
       "id": "ts300-092",
@@ -4754,8 +4781,8 @@
       "places": [
         "咸阳桥",
         "青海",
-        "西安",
-        "咸阳"
+        "咸阳",
+        "西安"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
@@ -12563,7 +12590,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 95,
+    "cards": 100,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
