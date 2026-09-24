@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -3597,12 +3597,16 @@
         "安得至老不更归"
       ],
       "places": [],
-      "geo_notes": "山寺夜宿晨游。",
+      "geo_notes": "山寺夜宿晨游；地望诸说不一。",
       "travel_tip": "山寺纪游主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-081.png"
+      "has_card": true,
+      "front": "assets/cards/front-081.png",
+      "back": "assets/cards/back-081.png",
+      "illustration": "assets/cards/front-081.png",
+      "poet": "韩愈（768—824），字退之，河南河阳人，世称韩昌黎，古文运动领袖。本库题名去重四首；《山石》写山寺夜宿晨游，结以自乐不必局束。",
+      "meaning": "山石荦确、黄昏到寺蝙蝠飞；升堂新雨、芭蕉栀子肥。僧照古壁佛画，疏粝饱饥；夜深清月入扉。天明穷烟霏，山红涧碧、赤足踏涧石。人生如此自可乐，安得至老不更归。",
+      "geo": "诗写山寺夜宿晨游，地望诸说不一（或连州／洛北山寺意象）；地景重山石涧水与寺宿，不必坐实单一寺名。",
+      "visit": "宜作山寺纪游主题阅读；可对「人生如此自可乐」。"
     },
     {
       "id": "ts300-082",
@@ -3649,14 +3653,19 @@
       "places": [
         "洞庭",
         "宁远",
-        "荆州"
+        "荆州",
+        "郴州"
       ],
       "geo_notes": "郴州中秋与张署。",
       "travel_tip": "湖南郴州意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-082.png"
+      "has_card": true,
+      "front": "assets/cards/front-082.png",
+      "back": "assets/cards/back-082.png",
+      "illustration": "assets/cards/front-082.png",
+      "poet": "韩愈（768—824），字退之。本库题名去重四首；郴州贬所中秋与张署（功曹）对歌，写迁谪与赦还坎坷。",
+      "meaning": "纤云四卷、月舒波，一杯相属君当歌；君歌声酸泪如雨。洞庭连天九疑高，十生九死到官所。赦书万里而州家申名使家抑，只得移荆蛮。一年明月今宵多，有酒不饮奈明何。",
+      "geo": "诗作于湖南郴州贬所中秋；洞庭、九疑（今宁远一带）为南迁地理对照，荆蛮指荆州一带再迁。",
+      "visit": "湖南郴州；洞庭／九嶷可作远景对照；中秋主题展亦可。"
     },
     {
       "id": "ts300-083",
@@ -3703,14 +3712,19 @@
         "杲杲寒日生于东"
       ],
       "places": [
-        "衡山"
+        "衡山",
+        "衡阳"
       ],
       "geo_notes": "南岳衡山。",
       "travel_tip": "湖南南岳衡山。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-083.png"
+      "has_card": true,
+      "front": "assets/cards/front-083.png",
+      "back": "assets/cards/back-083.png",
+      "illustration": "assets/cards/front-083.png",
+      "poet": "韩愈（768—824），字退之。本库题名去重四首；谒衡岳庙、宿岳寺，写秋雨转晴见祝融诸峰。",
+      "meaning": "五岳祭秩、衡岳火维专雄；秋雨晦昧，默祷若有应，须臾众峰出，紫盖天柱接祝融。下马拜趋灵宫，杯珓最吉。窜逐蛮荒幸不死，夜投佛寺高阁，猿鸣钟动寒日东生。",
+      "geo": "衡岳即南岳衡山，在今湖南衡阳／南岳区一带；祝融为衡山主峰之一。地景以衡山南岳庙／岳寺为主。",
+      "visit": "湖南南岳衡山／南岳大庙；衡阳可作府城对照。"
     },
     {
       "id": "ts300-084",
@@ -3791,14 +3805,19 @@
         "呜呼吾意其蹉跎"
       ],
       "places": [
-        "宝鸡"
+        "宝鸡",
+        "北京"
       ],
-      "geo_notes": "周宣王石鼓文。",
+      "geo_notes": "周宣王石鼓文；岐阳／宝鸡。",
       "travel_tip": "故宫石鼓馆可对。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-084.png"
+      "has_card": true,
+      "front": "assets/cards/front-084.png",
+      "back": "assets/cards/back-084.png",
+      "illustration": "assets/cards/front-084.png",
+      "poet": "韩愈（768—824），字退之。本库题名去重四首；《石鼓歌》咏周宣王石鼓文，叹好古而至宝难荐太学。",
+      "meaning": "张生持石鼓文劝作歌；宣王岐阳镌功凿石作鼓。字体不类隶蝌，雨淋日炙鬼物守护。嗟余好古生苦晚，欲荐太庙／太学而中朝媕婀，牧童敲火牛砺角，日销月铄就埋没。石鼓之歌止于此，呜呼吾意其蹉跎。",
+      "geo": "石鼓出土地与岐阳相关，地望今陕西宝鸡一带；鼓文今藏北京故宫等处可对读。诗以岐阳古迹与太学保存之议为主。",
+      "visit": "陕西宝鸡石鼓／周原文化；北京故宫石鼓馆可对。"
     },
     {
       "id": "ts300-085",
@@ -3819,14 +3838,19 @@
         "岩上无心云相逐"
       ],
       "places": [
-        "湘江"
+        "湘江",
+        "永州"
       ],
       "geo_notes": "永州湘水渔翁。",
       "travel_tip": "永州潇湘。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-085.png"
+      "has_card": true,
+      "front": "assets/cards/front-085.png",
+      "back": "assets/cards/back-085.png",
+      "illustration": "assets/cards/front-085.png",
+      "poet": "柳宗元（773—819），字子厚，河东人，唐宋八大家之一。本库题名去重五首；永州贬谪期间作《渔翁》，写湘水渔隐。",
+      "meaning": "渔翁夜傍西岩宿，晓汲清湘燃楚竹；烟销日出不见人，欸乃一声山水绿。回看天际下中流，岩上无心云相逐，短章见渔隐无心。",
+      "geo": "诗系永州贬谪时期，清湘即湘江／潇湘一带，地望今湖南永州。地景以永州湘水渔翁意象为主。",
+      "visit": "湖南永州／潇湘；可对「欸乃一声山水绿」。"
     },
     {
       "id": "ts300-086",
@@ -4730,8 +4754,8 @@
       "places": [
         "咸阳桥",
         "青海",
-        "咸阳",
-        "西安"
+        "西安",
+        "咸阳"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
@@ -12539,7 +12563,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 90,
+    "cards": 95,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

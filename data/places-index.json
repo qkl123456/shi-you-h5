@@ -382,12 +382,37 @@
       "visit_hints": [
         "洞庭湖",
         "洞庭君山可作「似洞庭」对照",
-        "湖南郴州意象",
-        "干谒张九龄",
-        "通作临洞庭上张丞相"
+        "洞庭",
+        "九嶷可作远景对照",
+        "中秋主题展亦可"
       ],
       "region": "湖南",
       "subtitle": ""
+    },
+    {
+      "name": "北京",
+      "aliases": [],
+      "ancient_names": [
+        "蓟北"
+      ],
+      "poem_ids": [
+        "ts300-007",
+        "ts300-061",
+        "ts300-084",
+        "ts300-089",
+        "ts300-098",
+        "ts300-283",
+        "ts300-309"
+      ],
+      "visit_hints": [
+        "北京",
+        "幽州台遗址意象（蓟北楼文化联想）",
+        "可对「念天地之悠悠」",
+        "北京故宫石鼓馆可对",
+        "北京黄金台意象"
+      ],
+      "region": "北京",
+      "subtitle": "古称：蓟北"
     },
     {
       "name": "新疆",
@@ -456,30 +481,6 @@
       ],
       "region": "浙江",
       "subtitle": "古称：山阴、越州"
-    },
-    {
-      "name": "北京",
-      "aliases": [],
-      "ancient_names": [
-        "蓟北"
-      ],
-      "poem_ids": [
-        "ts300-007",
-        "ts300-061",
-        "ts300-089",
-        "ts300-098",
-        "ts300-283",
-        "ts300-309"
-      ],
-      "visit_hints": [
-        "北京",
-        "幽州台遗址意象（蓟北楼文化联想）",
-        "可对「念天地之悠悠」",
-        "北京黄金台意象",
-        "北京蓟门烟树一带"
-      ],
-      "region": "北京",
-      "subtitle": "古称：蓟北"
     },
     {
       "name": "岭南",
@@ -940,6 +941,25 @@
       "subtitle": "古称：凉州"
     },
     {
+      "name": "永州",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-034",
+        "ts300-035",
+        "ts300-085"
+      ],
+      "visit_hints": [
+        "湖南永州柳子庙文化线",
+        "禅院晨读意境可对读",
+        "湖南永州溪谷",
+        "潇水一带",
+        "可对「长歌楚天碧」"
+      ],
+      "region": "永州",
+      "subtitle": ""
+    },
+    {
       "name": "永济",
       "aliases": [],
       "ancient_names": [
@@ -1031,7 +1051,9 @@
         "ts300-314"
       ],
       "visit_hints": [
-        "永州潇湘"
+        "湖南永州",
+        "潇湘",
+        "可对「欸乃一声山水绿」"
       ],
       "region": "湖南",
       "subtitle": ""
@@ -1415,24 +1437,6 @@
       "subtitle": ""
     },
     {
-      "name": "永州",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-034",
-        "ts300-035"
-      ],
-      "visit_hints": [
-        "湖南永州柳子庙文化线",
-        "禅院晨读意境可对读",
-        "湖南永州溪谷",
-        "潇水一带",
-        "可对「长歌楚天碧」"
-      ],
-      "region": "永州",
-      "subtitle": ""
-    },
-    {
       "name": "汉江",
       "aliases": [],
       "ancient_names": [],
@@ -1562,6 +1566,20 @@
         "陕西蓝田辋川"
       ],
       "region": "西安",
+      "subtitle": ""
+    },
+    {
+      "name": "衡阳",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-083",
+        "ts300-327"
+      ],
+      "visit_hints": [
+        "衡阳可作府城对照"
+      ],
+      "region": "",
       "subtitle": ""
     },
     {
@@ -2105,7 +2123,8 @@
         "ts300-084"
       ],
       "visit_hints": [
-        "故宫石鼓馆可对"
+        "陕西宝鸡石鼓",
+        "周原文化"
       ],
       "region": "陕西",
       "subtitle": ""
@@ -2798,20 +2817,10 @@
         "ts300-083"
       ],
       "visit_hints": [
-        "湖南南岳衡山"
+        "湖南南岳衡山",
+        "南岳大庙"
       ],
       "region": "湖南",
-      "subtitle": ""
-    },
-    {
-      "name": "衡阳",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-327"
-      ],
-      "visit_hints": [],
-      "region": "",
       "subtitle": ""
     },
     {
@@ -2886,6 +2895,19 @@
       ],
       "visit_hints": [],
       "region": "辽宁",
+      "subtitle": ""
+    },
+    {
+      "name": "郴州",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-082"
+      ],
+      "visit_hints": [
+        "湖南郴州"
+      ],
+      "region": "",
       "subtitle": ""
     },
     {
@@ -3034,7 +3056,7 @@
     }
   ],
   "meta": {
-    "count": 198,
+    "count": 199,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3060,6 +3082,7 @@
       "剡溪",
       "华州",
       "南山",
+      "南岳",
       "南溪",
       "受降城",
       "吴中",
@@ -3235,7 +3258,7 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 196,
+      "ancient_keys": 197,
       "rename_events": 224,
       "examples": [
         {
