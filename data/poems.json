@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -1939,10 +1939,14 @@
       ],
       "geo_notes": "秦州梦李白。",
       "travel_tip": "可对照杜甫秦州行迹。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-046.png"
+      "has_card": true,
+      "front": "assets/cards/front-046.png",
+      "back": "assets/cards/back-046.png",
+      "illustration": "assets/cards/front-046.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；秦州时期梦李白作此（本库另收《梦李白（其一）》异序篇）。",
+      "meaning": "死别吞声、生别恻恻；江南瘴地逐客无消息，故人入梦明长相忆。恐非平生魂、魂来枫林魂返关塞，落月屋梁犹疑颜色，嘱水深无使蛟龙得。",
+      "geo": "诗系杜甫秦州梦李白；所梦李白流落江南。地理以诗境与秦州行迹对照为主，可兼夜郎史地联想。",
+      "visit": "宜与「其二」及本库011成组展读；可对照杜甫秦州行迹，不必强求梦境遗址。"
     },
     {
       "id": "ts300-047",
@@ -1978,10 +1982,10 @@
       ],
       "geo_notes": "再梦李白。地名今释：西安（古称京华）。",
       "travel_tip": "与其一成对展读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-047.png",
+      "has_card": true,
+      "front": "assets/cards/front-047.png",
+      "back": "assets/cards/back-047.png",
+      "illustration": "assets/cards/front-047.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1990,7 +1994,11 @@
           ],
           "note": "古称京华"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；再梦李白，江湖风波与京华冠盖对照（本库另收异序篇）。",
+      "meaning": "浮云行而游子不至，三夜频梦见情亲；江湖风波舟楫恐坠，出门白首负平生志，冠盖满京华而斯人独憔悴，千秋名终归寂寞身后事。",
+      "geo": "江湖风波与京华（今陕西西安，唐时称京华）对照；与「其一」成对，重情谊而知己之叹。",
+      "visit": "与「其一」及本库012成对展读；西安可作为京华意象对照。"
     },
     {
       "id": "ts300-048",
@@ -2028,10 +2036,10 @@
       ],
       "geo_notes": "落第还乡送行。地名今释：洛阳（古称京洛）；西安（唐时称长安）。",
       "travel_tip": "长安送别意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-048.png",
+      "has_card": true,
+      "front": "assets/cards/front-048.png",
+      "back": "assets/cards/back-048.png",
+      "illustration": "assets/cards/front-048.png",
       "place_captions": [
         {
           "place": "西安",
@@ -2047,7 +2055,11 @@
           ],
           "note": "古称京洛"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；慰綦毋潜落第还乡（本库另收同题异序篇）。",
+      "meaning": "圣代无隐反衬落第；江淮寒食、京洛春衣写归程，长安道置酒送别，远树孤城落晖，吾谋不用而劝勿悲知音稀。",
+      "geo": "饯别在长安道（今陕西西安）；归途经江淮，京洛即洛阳（古称）。落第还乡的南北送别线。",
+      "visit": "西安古城送别意象；洛阳／江淮水路可宽泛对照。"
     },
     {
       "id": "ts300-049",
@@ -2072,10 +2084,14 @@
       ],
       "geo_notes": "归卧南山。",
       "travel_tip": "西安终南山可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-049.png"
+      "has_card": true,
+      "front": "assets/cards/front-049.png",
+      "back": "assets/cards/back-049.png",
+      "illustration": "assets/cards/front-049.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；送友归卧终南（本库另收同题异序篇）。",
+      "meaning": "下马饯酒问所之，君言不得意而归卧南山陲；但去莫问，白云无尽时，送别意淡而远。",
+      "geo": "南山即终南山一带，在今陕西西安南；送友归隐山陲，地景以终南白云为意象。",
+      "visit": "西安终南山一带；可对「白云无尽时」。"
     },
     {
       "id": "ts300-050",
@@ -2106,10 +2122,14 @@
       ],
       "geo_notes": "秦岭一带溪谷说。",
       "travel_tip": "陕南黄花川一带可联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-050.png"
+      "has_card": true,
+      "front": "assets/cards/front-050.png",
+      "back": "assets/cards/back-050.png",
+      "illustration": "assets/cards/front-050.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《青溪》写入黄花川逐溪（本库另收同题异序篇）。",
+      "meaning": "入黄花川逐溪水，随山万转；声喧乱石、色静深松，菱荇葭苇澄映，我心已闲、清川澹然，愿留盘石垂钓以终。",
+      "geo": "黄花川在今陕西凤县一带；多写秦岭／陕南溪谷意象，以清川深松为主。",
+      "visit": "陕西凤县黄花川／秦岭山溪徒步；可对「色静深松里」。"
     },
     {
       "id": "ts300-051",
@@ -12397,7 +12417,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 55,
+    "cards": 60,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
