@@ -1674,8 +1674,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6572,24 +6572,18 @@
         "平海夕漫漫"
       ],
       "places": [
-        "岳阳",
-        "西安"
+        "襄阳"
       ],
-      "geo_notes": "亦作早寒江上有怀。地名今释：西安（唐时称长安）。",
+      "geo_notes": "乡思；襄水。",
       "travel_tip": "亦作早寒江上有怀",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-147.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ]
+      "has_card": true,
+      "front": "assets/cards/front-147.png",
+      "back": "assets/cards/back-147.png",
+      "illustration": "assets/cards/front-147.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；《早寒有怀》写木落江寒，遥隔襄水乡思。",
+      "meaning": "木落雁南度，北风江上寒；我家襄水曲，遥隔楚云端。乡泪客中尽，孤帆天际看；迷津欲有问，平海夕漫漫。",
+      "geo": "诗点襄水故家，地望今湖北襄阳。客中早寒，地景以襄阳乡思为主。",
+      "visit": "湖北襄阳；可对「我家襄水曲，遥隔楚云端」。"
     },
     {
       "id": "ts300-148",
@@ -6612,14 +6606,19 @@
         "长江独至今"
       ],
       "places": [
-        "扬州"
+        "扬州",
+        "长江"
       ],
       "geo_notes": "登台远眺",
       "travel_tip": "登台远眺",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-148.png"
+      "has_card": true,
+      "front": "assets/cards/front-148.png",
+      "back": "assets/cards/back-148.png",
+      "illustration": "assets/cards/front-148.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；登吴公台远眺，写南朝惆怅、长江独至今。",
+      "meaning": "古台摇落后，秋日望乡心；野寺人来少，云峰水隔深。夕阳依旧垒，寒磬满空林；惆怅南朝事，长江独至今。",
+      "geo": "吴公台在今江苏扬州。秋日登眺，地景以扬州吴公台为主。",
+      "visit": "江苏扬州（吴公台一带）；可对「惆怅南朝事，长江独至今」。"
     },
     {
       "id": "ts300-149",
@@ -6642,14 +6641,18 @@
         "日暮欲何之"
       ],
       "places": [
-        "汉阳"
+        "武汉"
       ],
       "geo_notes": "送李中丞",
       "travel_tip": "送李中丞",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-149.png"
+      "has_card": true,
+      "front": "assets/cards/front-149.png",
+      "back": "assets/cards/back-149.png",
+      "illustration": "assets/cards/front-149.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；送李中丞归汉阳别业，写江汉日暮。",
+      "meaning": "流落征南将，曾驱十万师；罢归无旧业，老去恋明时。独立三边静，轻生一剑知；茫茫江汉上，日暮欲何之。",
+      "geo": "汉阳在今湖北武汉。送归别业，地景以武汉／汉阳江汉为主。",
+      "visit": "湖北武汉（汉阳）；可对「茫茫江汉上，日暮欲何之」。"
     },
     {
       "id": "ts300-150",
@@ -6671,13 +6674,20 @@
         "谁见汀洲上",
         "相思枫叶新"
       ],
-      "places": [],
+      "places": [
+        "长江",
+        "江南"
+      ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-150.png"
+      "has_card": true,
+      "front": "assets/cards/front-150.png",
+      "back": "assets/cards/back-150.png",
+      "illustration": "assets/cards/front-150.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；饯别王十一南游，写烟水一帆、五湖枫叶。",
+      "meaning": "望君烟水阔，挥手泪沾巾；飞鸟没何处，青山空向人。长江一帆远，落日五湖春；谁见汀洲上，相思枫叶新。",
+      "geo": "南游饯别，未坐实单一渡口；烟水长江、五湖春色为江南送别意象。",
+      "visit": "长江／江南水乡饯别场景可对读；可对「长江一帆远，落日五湖春」。"
     },
     {
       "id": "ts300-151",
@@ -6701,14 +6711,18 @@
         "相对亦忘言"
       ],
       "places": [
-        "宜宾"
+        "常山"
       ],
-      "geo_notes": "寻道人隐居",
+      "geo_notes": "寻道人隐居；常山（浙），溪名不必坐实四川南溪。",
       "travel_tip": "寻道人隐居",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-151.png"
+      "has_card": true,
+      "front": "assets/cards/front-151.png",
+      "back": "assets/cards/back-151.png",
+      "illustration": "assets/cards/front-151.png",
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；寻常山道人隐居，写莓苔履痕、溪花禅意。",
+      "meaning": "一路经行处，莓苔见履痕；白云依静渚，芳草闭闲门。过雨看松色，随山到水源；溪花与禅意，相对亦忘言。",
+      "geo": "常山道人隐居，地望多系今浙江常山／衢州一带；题中溪名为隐所溪流，不必坐实他州县。地景以常山溪隐为主。",
+      "visit": "浙江常山／衢州一带；可对「溪花与禅意，相对亦忘言」。"
     },
     {
       "id": "ts300-152",
@@ -10376,7 +10390,6 @@
       "places": [
         "武汉",
         "黄鹤楼",
-        "汉阳",
         "鹦鹉洲",
         "武昌",
         "晴川阁",
@@ -12254,7 +12267,6 @@
       ],
       "places": [
         "武汉",
-        "汉阳",
         "湖南"
       ],
       "geo_notes": "晚次鄂州望汉阳。",
@@ -12810,7 +12822,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 155,
+    "cards": 160,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
