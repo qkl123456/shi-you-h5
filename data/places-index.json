@@ -52,6 +52,8 @@
         "ts300-122",
         "ts300-123",
         "ts300-124",
+        "ts300-130",
+        "ts300-131",
         "ts300-144",
         "ts300-146",
         "ts300-147",
@@ -340,7 +342,7 @@
         "可对「山月随人归」",
         "西安终南山一带",
         "可对「白云无尽时」",
-        "山居秋景"
+        "终南一带山居"
       ],
       "region": "西安",
       "subtitle": ""
@@ -624,6 +626,29 @@
       "subtitle": "古称：江州、浔阳"
     },
     {
+      "name": "岳阳",
+      "aliases": [],
+      "ancient_names": [
+        "巴丘"
+      ],
+      "poem_ids": [
+        "ts300-077",
+        "ts300-080",
+        "ts300-129",
+        "ts300-139",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "湖南岳阳（古称巴丘）",
+        "可对「思岳阳」远望",
+        "湖南岳阳岳阳楼",
+        "可对「吴楚东南坼，乾坤日夜浮」",
+        "湖南岳阳楼"
+      ],
+      "region": "湖南",
+      "subtitle": "古称：巴丘"
+    },
+    {
       "name": "敦煌",
       "aliases": [],
       "ancient_names": [],
@@ -742,25 +767,6 @@
       "subtitle": ""
     },
     {
-      "name": "岳阳",
-      "aliases": [],
-      "ancient_names": [
-        "巴丘"
-      ],
-      "poem_ids": [
-        "ts300-077",
-        "ts300-080",
-        "ts300-139",
-        "ts300-336"
-      ],
-      "visit_hints": [
-        "湖南岳阳（古称巴丘）",
-        "可对「思岳阳」远望"
-      ],
-      "region": "湖南",
-      "subtitle": "古称：巴丘"
-    },
-    {
       "name": "巫峡",
       "aliases": [],
       "ancient_names": [],
@@ -852,6 +858,24 @@
         "苏州枫桥景区"
       ],
       "region": "苏州",
+      "subtitle": ""
+    },
+    {
+      "name": "蓝田",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-130",
+        "ts300-131",
+        "ts300-279",
+        "ts300-315"
+      ],
+      "visit_hints": [
+        "陕西蓝田辋川",
+        "可对「渡头余落日，墟里上孤烟」",
+        "陕西蓝田玉山文化线"
+      ],
+      "region": "西安",
       "subtitle": ""
     },
     {
@@ -1314,21 +1338,6 @@
       "subtitle": ""
     },
     {
-      "name": "岳阳楼",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-129",
-        "ts300-336"
-      ],
-      "visit_hints": [
-        "登楼",
-        "湖南岳阳楼"
-      ],
-      "region": "岳阳",
-      "subtitle": ""
-    },
-    {
       "name": "峨眉山",
       "aliases": [
         "峨眉"
@@ -1568,21 +1577,6 @@
       "subtitle": ""
     },
     {
-      "name": "蓝田",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-279",
-        "ts300-315"
-      ],
-      "visit_hints": [
-        "陕西蓝田玉山文化线",
-        "陕西蓝田辋川"
-      ],
-      "region": "西安",
-      "subtitle": ""
-    },
-    {
       "name": "蓬莱",
       "aliases": [],
       "ancient_names": [],
@@ -1608,21 +1602,6 @@
         "宜与本库017对照"
       ],
       "region": "诸暨",
-      "subtitle": ""
-    },
-    {
-      "name": "辋川",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-130",
-        "ts300-315"
-      ],
-      "visit_hints": [
-        "闲居赠裴迪",
-        "陕西蓝田辋川"
-      ],
-      "region": "蓝田",
       "subtitle": ""
     },
     {
@@ -2989,7 +2968,8 @@
         "ts300-127"
       ],
       "visit_hints": [
-        "别房琯墓"
+        "四川阆中",
+        "可对「近泪无干土，低空有断云」"
       ],
       "region": "四川",
       "subtitle": ""
@@ -3093,7 +3073,7 @@
     }
   ],
   "meta": {
-    "count": 198,
+    "count": 196,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3149,6 +3129,7 @@
       "宣州",
       "山阴",
       "岐阳",
+      "岳阳楼",
       "左省",
       "巴丘",
       "巴山",
@@ -3261,6 +3242,7 @@
       "越州",
       "越溪",
       "车师",
+      "辋川",
       "辽东",
       "辽西",
       "逻娑",
@@ -3308,8 +3290,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 210,
-      "rename_events": 234,
+      "ancient_keys": 212,
+      "rename_events": 238,
       "examples": [
         {
           "from": "曲江",

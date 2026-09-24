@@ -4213,8 +4213,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5859,10 +5859,14 @@
       ],
       "geo_notes": "别房琯墓。",
       "travel_tip": "别房琯墓。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-127.png"
+      "has_card": true,
+      "front": "assets/cards/front-127.png",
+      "back": "assets/cards/back-127.png",
+      "illustration": "assets/cards/front-127.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；别房太尉（房琯）墓，写他乡驻马、泪土断云。",
+      "meaning": "他乡复行役，驻马别孤坟；近泪无干土，低空有断云。对棋陪谢傅，把剑觅徐君；唯见林花落，莺啼送客闻。",
+      "geo": "房琯墓在阆州一带，地望今四川阆中。他乡悼别，地景以阆中为主。",
+      "visit": "四川阆中；可对「近泪无干土，低空有断云」。"
     },
     {
       "id": "ts300-128",
@@ -5889,10 +5893,14 @@
       ],
       "geo_notes": "旅夜。",
       "travel_tip": "旅夜。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-128.png"
+      "has_card": true,
+      "front": "assets/cards/front-128.png",
+      "back": "assets/cards/back-128.png",
+      "illustration": "assets/cards/front-128.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《旅夜书怀》写江上独夜，名句「星垂平野阔，月涌大江流」。",
+      "meaning": "细草微风岸，危樯独夜舟；星垂平野阔，月涌大江流。名岂文章著，官应老病休；飘飘何所似，天地一沙鸥。",
+      "geo": "旅夜江行，地景以长江夜泊为主，不坐实单一码头。",
+      "visit": "长江沿线夜江可对读；可对「星垂平野阔，月涌大江流」。"
     },
     {
       "id": "ts300-129",
@@ -5916,15 +5924,19 @@
         "凭轩涕泗流"
       ],
       "places": [
-        "岳阳楼",
+        "岳阳",
         "洞庭"
       ],
       "geo_notes": "登楼。",
       "travel_tip": "登楼。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-129.png"
+      "has_card": true,
+      "front": "assets/cards/front-129.png",
+      "back": "assets/cards/back-129.png",
+      "illustration": "assets/cards/front-129.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；登岳阳楼望洞庭，写家国老病之涕。",
+      "meaning": "昔闻洞庭水，今上岳阳楼；吴楚东南坼，乾坤日夜浮。亲朋无一字，老病有孤舟；戎马关山北，凭轩涕泗流。",
+      "geo": "岳阳楼在今湖南岳阳，下临洞庭。登楼远望，地景以岳阳／洞庭为主。",
+      "visit": "湖南岳阳岳阳楼；可对「吴楚东南坼，乾坤日夜浮」。"
     },
     {
       "id": "ts300-130",
@@ -5947,14 +5959,19 @@
         "狂歌五柳前"
       ],
       "places": [
-        "辋川"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "闲居赠裴迪。",
       "travel_tip": "闲居赠裴迪。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-130.png"
+      "has_card": true,
+      "front": "assets/cards/front-130.png",
+      "back": "assets/cards/back-130.png",
+      "illustration": "assets/cards/front-130.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；辋川闲居赠裴迪，写寒山秋水、渡头落日。",
+      "meaning": "寒山转苍翠，秋水日潺湲；倚杖柴门外，临风听暮蝉。渡头余落日，墟里上孤烟；复值接舆醉，狂歌五柳前。",
+      "geo": "辋川在今陕西蓝田，属西安一带。闲居赠友，地景以蓝田辋川为主。",
+      "visit": "陕西蓝田辋川／西安一带；可对「渡头余落日，墟里上孤烟」。"
     },
     {
       "id": "ts300-131",
@@ -5978,14 +5995,20 @@
         "王孙自可留"
       ],
       "places": [
-        "终南山"
+        "终南山",
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "山居秋景",
       "travel_tip": "山居秋景",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-131.png"
+      "has_card": true,
+      "front": "assets/cards/front-131.png",
+      "back": "assets/cards/back-131.png",
+      "illustration": "assets/cards/front-131.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《山居秋暝》写空山新雨、明月清泉，隐逸秋晚。",
+      "meaning": "空山新雨后，天气晚来秋；明月松间照，清泉石上流。竹喧归浣女，莲动下渔舟；随意春芳歇，王孙自可留。",
+      "geo": "山居多与终南／辋川隐逸线相关，地望今陕西西安一带。秋暝山景，不必坐实单一峰谷。",
+      "visit": "陕西西安／终南一带山居；可对「明月松间照，清泉石上流」。"
     },
     {
       "id": "ts300-132",
@@ -11594,7 +11617,6 @@
         "海鸥何事更相疑"
       ],
       "places": [
-        "辋川",
         "蓝田"
       ],
       "geo_notes": "积雨辋川；水田白鹭夏木黄鹂。",
@@ -12311,8 +12333,7 @@
         "岳阳",
         "洞庭",
         "汉口",
-        "长沙",
-        "岳阳楼"
+        "长沙"
       ],
       "geo_notes": "鹦鹉洲望岳阳；怜贾谊。地名今释：武汉（古称夏口）。",
       "travel_tip": "武汉鹦鹉洲；湖南岳阳楼。",
@@ -12730,7 +12751,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 135,
+    "cards": 140,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
