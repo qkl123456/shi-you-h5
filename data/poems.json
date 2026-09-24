@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -2552,12 +2552,16 @@
       "places": [
         "北京"
       ],
-      "geo_notes": "蓟北楼一带。",
+      "geo_notes": "蓟北楼一带，今北京。",
       "travel_tip": "北京大兴/幽州台遗址意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-061.png"
+      "has_card": true,
+      "front": "assets/cards/front-061.png",
+      "back": "assets/cards/back-061.png",
+      "illustration": "assets/cards/front-061.png",
+      "poet": "陈子昂（661—702），字伯玉，梓州射洪人（今四川射洪）。初唐诗歌革新代表，提倡汉魏风骨。本库题名去重一首；《登幽州台歌》四句写千古孤独。",
+      "meaning": "前不见古人、后不见来者；念天地悠悠，独怆然涕下。短章以时空绝响写登台孤愤，气象苍茫。",
+      "geo": "幽州台即蓟北楼一带，地望今北京；诗写登台望远的孤独感，不必坐实单一楼址。",
+      "visit": "北京／幽州台遗址意象（蓟北楼文化联想）；可对「念天地之悠悠」。"
     },
     {
       "id": "ts300-062",
@@ -2587,12 +2591,16 @@
         "京津冀",
         "辽宁"
       ],
-      "geo_notes": "边塞征战与羌笛。",
+      "geo_notes": "边塞征战与羌笛；幽燕、辽东。",
       "travel_tip": "边塞主题展。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-062.png"
+      "has_card": true,
+      "front": "assets/cards/front-062.png",
+      "back": "assets/cards/back-062.png",
+      "illustration": "assets/cards/front-062.png",
+      "poet": "李颀（约690—约751），东川人，盛唐边塞与音乐题名家。本库题名去重约七首；《古意》写幽燕从军与羌笛出塞。",
+      "meaning": "男儿长征、少小幽燕客，赌胜马蹄、轻七尺；黄云陇底白雪，未报恩不得归。辽东小妇琵琶歌舞，羌笛出塞使三军泪雨，边塞豪气与乡思交织。",
+      "geo": "幽燕指今京津冀一带；辽东今辽宁一带。诗中边塞征战与羌笛出塞为文化地理对照，陇底为边地意象。",
+      "visit": "边塞主题展／听乐诗对照；京津冀—辽宁文化线可宽泛对读。"
     },
     {
       "id": "ts300-063",
@@ -2629,10 +2637,14 @@
       ],
       "geo_notes": "送友人罢官还乡。",
       "travel_tip": "友情送别主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-063.png"
+      "has_card": true,
+      "front": "assets/cards/front-063.png",
+      "back": "assets/cards/back-063.png",
+      "illustration": "assets/cards/front-063.png",
+      "poet": "李颀（约690—约751），东川人。本库题名去重约七首；《送陈章甫》写友人罢官还乡，东门酤酒、长河停舟。",
+      "meaning": "四月南风麦黄、枣花桐叶，青山朝别暮见，嘶马思旧乡。陈侯坦荡贮书万卷，东门酤酒万事鸿毛；长河浪黑津口难渡，洛阳行子空叹息，罢官昨日今如何，送友中见磊落与无奈。",
+      "geo": "诗中洛阳行子点洛阳；郑国游人为中原行旅意象。送别地景以洛阳及中原津渡为主。",
+      "visit": "河南洛阳；友情送别主题展亦可。"
     },
     {
       "id": "ts300-064",
@@ -2662,10 +2674,10 @@
       ],
       "geo_notes": "夜宴听琴。地名今释：扬州（唐时称广陵）。",
       "travel_tip": "音乐诗主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-064.png",
+      "has_card": true,
+      "front": "assets/cards/front-064.png",
+      "back": "assets/cards/back-064.png",
+      "illustration": "assets/cards/front-064.png",
       "place_captions": [
         {
           "place": "扬州",
@@ -2674,7 +2686,11 @@
           ],
           "note": "唐时称广陵"
         }
-      ]
+      ],
+      "poet": "李颀（约690—约751），东川人。本库题名去重约七首；《琴歌》写夜宴听琴，广陵客鼓琴而满座俱寂。",
+      "meaning": "主人有酒请奏鸣琴，月照城头、霜凄万木；初弹渌水后楚妃，一声动物皆静、星欲稀。清淮奉使千里，敢告云山从此始，听琴中动归隐之念。",
+      "geo": "广陵即今江苏扬州（古称）；清淮指淮河一带奉使行程。夜宴听琴，地景以扬州／淮河文化线对照。",
+      "visit": "江苏扬州；淮河沿线可宽泛对照；音乐诗主题展亦可。"
     },
     {
       "id": "ts300-065",
@@ -2713,10 +2729,10 @@
       ],
       "geo_notes": "听觱篥。地名今释：武威（唐时称凉州）。",
       "travel_tip": "西域乐器主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-065.png",
+      "has_card": true,
+      "front": "assets/cards/front-065.png",
+      "back": "assets/cards/back-065.png",
+      "illustration": "assets/cards/front-065.png",
       "place_captions": [
         {
           "place": "武威",
@@ -2725,7 +2741,11 @@
           ],
           "note": "唐时称凉州"
         }
-      ]
+      ],
+      "poet": "李颀（约690—约751），东川人。本库题名去重约七首；此听安万善吹觱篥，写西域乐器入华后的声情。",
+      "meaning": "南山截竹为觱篥，本自龟兹出，凉州胡人为吹；邻人叹息、远客泪垂。风中变调如龙吟虎啸，忽作渔阳掺又转杨柳春，岁夜明烛美酒一声一曲，听乐而见乡思与西域风。",
+      "geo": "龟兹在今新疆库车一带（古称）；凉州即今甘肃武威（古称）。觱篥自西域入华，地景以库车—武威丝路乐器线为主。",
+      "visit": "新疆库车／龟兹文化；甘肃武威凉州文化线；西域乐器主题展亦可。"
     },
     {
       "id": "ts300-066",
@@ -12463,7 +12483,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 70,
+    "cards": 75,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
