@@ -4322,10 +4322,14 @@
       ],
       "geo_notes": "老将弃置复思战。",
       "travel_tip": "边将主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-092.png"
+      "has_card": true,
+      "front": "assets/cards/front-092.png",
+      "back": "assets/cards/back-092.png",
+      "illustration": "assets/cards/front-092.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《老将行》写老将少日功勋、弃置后仍思报国。",
+      "meaning": "少年步行夺胡马、射杀白额虎；一身转战三千里，一剑曾当百万师。贺兰山、疏勒、云中留战功，而今衰朽闲置。犹堪一战立功勋，老将弃置复思战。",
+      "geo": "贺兰山在今宁夏一带；疏勒今新疆喀什；云中今山西大同一带。诗写边将征战地，地景以西北／北疆边塞线对照。",
+      "visit": "边将主题展；贺兰山／大同边塞意象可宽泛对读。"
     },
     {
       "id": "ts300-093",
@@ -4375,12 +4379,12 @@
         "常德",
         "桃源"
       ],
-      "geo_notes": "桃源仙境。地名今释：常德（唐时称武陵）。",
+      "geo_notes": "常德桃花源。地名今释：常德（唐时称武陵）。",
       "travel_tip": "湖南桃花源。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-093.png",
+      "has_card": true,
+      "front": "assets/cards/front-093.png",
+      "back": "assets/cards/back-093.png",
+      "illustration": "assets/cards/front-093.png",
       "place_captions": [
         {
           "place": "常德",
@@ -4389,7 +4393,11 @@
           ],
           "note": "唐时称武陵"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《桃源行》改写陶渊明桃花源记，渔舟入桃源仙境。",
+      "meaning": "渔舟逐水、两岸桃花；山口潜行、豁然平川。居人共住武陵源，还从物外起田园。当初避地去人间，及至成仙遂不还；出山迷路再寻无处，桃源仙境可望难即。",
+      "geo": "武陵桃源地望今湖南常德／桃源一带（桃花源）。地景以常德桃花源为主。",
+      "visit": "湖南常德桃花源；可对武陵渔舟入山意象。"
     },
     {
       "id": "ts300-094",
@@ -4459,14 +4467,15 @@
         "峨眉山",
         "陇南",
         "剑阁",
-        "成都"
+        "成都",
+        "剑门关"
       ],
-      "geo_notes": "入蜀险道。地名今释：成都（唐时称锦城）。",
+      "geo_notes": "入蜀险道；剑阁／成都。地名今释：成都（唐时称锦城）。",
       "travel_tip": "剑门关、蜀道。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-094.png",
+      "has_card": true,
+      "front": "assets/cards/front-094.png",
+      "back": "assets/cards/back-094.png",
+      "illustration": "assets/cards/front-094.png",
       "place_captions": [
         {
           "place": "成都",
@@ -4475,7 +4484,11 @@
           ],
           "note": "唐时称锦城"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白，号青莲居士。本库题名去重约三十七首；《蜀道难》写入蜀险道，一声「蜀道之难，难于上青天」。",
+      "meaning": "噫吁嚱危乎高哉，蜀道之难难于上青天。蚕丛开国、太白鸟道；地崩山摧壮士死，然后天梯石栈相钩连。黄鹤之飞尚不得过，猿猱欲度愁攀援。青泥百步九折，剑阁峥嵘而崔嵬。锦城虽云乐，不如早还家；蜀道之难，侧身西望长咨嗟。",
+      "geo": "蜀道指入川古道；太白在陕甘川交界；峨眉、青泥、剑阁、锦城（成都）为沿途坐标。地景以四川剑阁／蜀道为主，可兼成都。",
+      "visit": "四川剑门关／蜀道；成都（锦城）可作「锦城虽云乐」对照。"
     },
     {
       "id": "ts300-095",
@@ -4507,10 +4520,10 @@
       ],
       "geo_notes": "长安秋夜相思。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安秋夜意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-095.png",
+      "has_card": true,
+      "front": "assets/cards/front-095.png",
+      "back": "assets/cards/back-095.png",
+      "illustration": "assets/cards/front-095.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4519,7 +4532,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《长相思》其一写长安秋夜相思，络纬金井、美人如花隔云端。",
+      "meaning": "长相思在长安，络纬秋啼金井阑；微霜凄凄簟色寒。孤灯不明思欲绝，卷帷望月空长叹。美人如花隔云端，上有青冥之长天，下有绿水之波澜。天长路远魂飞苦，长相思摧心肝。",
+      "geo": "诗题点长安，即今陕西西安。秋夜相思，地景以西安长安意象为主。",
+      "visit": "西安；宜与「其二」成对展读。"
     },
     {
       "id": "ts300-096",
@@ -4549,10 +4566,14 @@
       ],
       "geo_notes": "闺怨寄边。",
       "travel_tip": "与其一成对。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-096.png"
+      "has_card": true,
+      "front": "assets/cards/front-096.png",
+      "back": "assets/cards/back-096.png",
+      "illustration": "assets/cards/front-096.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《长相思》其二写闺怨寄边，结以「昔时横波目，今作流泪泉」。",
+      "meaning": "日色欲尽花含烟，月明欲素愁不眠；赵瑟初停、蜀琴绿绮。此曲有意无人传，愿随春风寄燕然。忆君迢迢隔青天，昔时横波目，今作流泪泉；不信妾肠断，归来看取明镜前。",
+      "geo": "燕然为漠北／边塞意象（古称）；闺中寄边，地景以边塞远思为主，不必坐实单一关址。",
+      "visit": "宜与「其一」成对；边塞闺怨主题展亦可。"
     },
     {
       "id": "ts300-097",
@@ -12590,7 +12611,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 100,
+    "cards": 105,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
