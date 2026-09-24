@@ -1306,10 +1306,14 @@
       ],
       "geo_notes": "淮上盱眙夜泊。",
       "travel_tip": "江苏盱眙淮上可对照。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-031.png"
+      "has_card": true,
+      "front": "assets/cards/front-031.png",
+      "back": "assets/cards/back-031.png",
+      "illustration": "assets/cards/front-031.png",
+      "poet": "韦应物（约737—约791），京兆人，有「韦苏州」之称。本库题名去重约十二首；夕次盱眙，独夜忆秦关。",
+      "meaning": "落帆淮镇、停舫孤驿，风起波、日沉夕；人归山郭暗、雁下芦洲白，独夜忆秦关、听钟未眠，羁旅夜泊中的乡关之思。",
+      "geo": "盱眙在今江苏淮安盱眙县，淮上渡口；「秦关」为关中乡关意象（古称，今陕西一带）。诗写淮上夜泊。",
+      "visit": "江苏盱眙／淮上风光；夜泊听钟意境可对读。"
     },
     {
       "id": "ts300-032",
@@ -1340,10 +1344,14 @@
       ],
       "geo_notes": "出郊清曙。",
       "travel_tip": "春日出郊可背。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-032.png"
+      "has_card": true,
+      "front": "assets/cards/front-032.png",
+      "back": "assets/cards/back-032.png",
+      "illustration": "assets/cards/front-032.png",
+      "poet": "韦应物（约737—约791）。本库题名去重约十二首；《东郊》写出郊清曙，慕陶欲结庐，地多系滁州任上。",
+      "meaning": "吏舍跼促，出郊清曙；杨柳和风、青山澹虑，依丛缘涧、微雨芳原春鸠鸣。乐幽而事犹遽，终欲结庐慕陶，郊游见归隐之思。",
+      "geo": "东郊多指滁州任上城东郊外（今安徽滁州一带）；写春日出郊清曙，地景以滁州为主。",
+      "visit": "安徽滁州东郊／春日出游；杨柳青山意境可对读。"
     },
     {
       "id": "ts300-033",
@@ -1386,10 +1394,14 @@
       ],
       "geo_notes": "父送女出嫁。",
       "travel_tip": "重亲情，不必强求遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-033.png"
+      "has_card": true,
+      "front": "assets/cards/front-033.png",
+      "back": "assets/cards/back-033.png",
+      "illustration": "assets/cards/front-033.png",
+      "poet": "韦应物（约737—约791）。本库题名去重约十二首；丧妻后送女出嫁作《送杨氏女》，父女情深。",
+      "meaning": "女子有行、大江溯舟，无恃更慈柔；幼为长育、两别泣下，嘱孝恭贫俭，临别难收、归来视幼女零泪，父送女嫁的至情。",
+      "geo": "大江送嫁为行程意象，不必坐实单一渡口；诗重亲情，地理从宽。",
+      "visit": "宜作亲情／嫁女主题阅读；不必强求精确遗址。"
     },
     {
       "id": "ts300-034",
@@ -1422,10 +1434,14 @@
       ],
       "geo_notes": "柳宗元永州时期。",
       "travel_tip": "永州柳子庙文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-034.png"
+      "has_card": true,
+      "front": "assets/cards/front-034.png",
+      "back": "assets/cards/back-034.png",
+      "illustration": "assets/cards/front-034.png",
+      "poet": "柳宗元（773—819），字子厚，河东人，与韩愈并称「韩柳」。本库题名去重五首；永州贬谪期晨诣超师院读禅经。",
+      "meaning": "汲井漱齿、清心读贝叶，真源了无取而世逐妄迹；道人庭静、苔竹青松如膏沐，澹然离言说、悟悦心自足，禅境与迁谪之心相照。",
+      "geo": "超师院在柳宗元永州贬谪时期活动圈；地景以湖南永州为主（柳子庙文化线可联）。",
+      "visit": "湖南永州柳子庙文化线；禅院晨读意境可对读。"
     },
     {
       "id": "ts300-035",
@@ -1452,10 +1468,14 @@
       ],
       "geo_notes": "溪居南谪。",
       "travel_tip": "永州溪谷可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-035.png"
+      "has_card": true,
+      "front": "assets/cards/front-035.png",
+      "back": "assets/cards/back-035.png",
+      "illustration": "assets/cards/front-035.png",
+      "poet": "柳宗元（773—819），字子厚。本库题名去重五首；永州溪居写南谪农圃、晓耕夜榜。",
+      "meaning": "久累簪组，幸得南夷一谪；闲依农圃偶似山林客，晓耕露草、夜榜溪石，来往不逢人而长歌楚天碧，谪居中见解脱与孤清。",
+      "geo": "溪居在永州贬所一带（今湖南永州，近潇水）；南夷谪居的溪谷农圃意象。",
+      "visit": "湖南永州溪谷／潇水一带；可对「长歌楚天碧」。"
     },
     {
       "id": "ts300-036",
@@ -1639,8 +1659,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -12335,7 +12355,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 40,
+    "cards": 45,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
