@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -6914,12 +6914,16 @@
         "不觉已鸣鸦"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-157.png"
+      "geo_notes": "秋夜酬赠，未坐实单一城名；空城月华、千家砧杵为秋夜城郭意象。",
+      "travel_tip": "秋夜城郭／砧杵声中可对读；可对「星河秋一雁，砧杵夜千家」。",
+      "has_card": true,
+      "front": "assets/cards/front-157.png",
+      "back": "assets/cards/back-157.png",
+      "illustration": "assets/cards/front-157.png",
+      "poet": "韩翃（生卒年不详，盛唐／大历），字君平。本库题名去重三首；酬程延秋夜即事，写空城月华、星河砧杵。",
+      "meaning": "长簟迎风早，空城澹月华；星河秋一雁，砧杵夜千家。节候看应晚，心期卧亦赊；向来吟秀句，不觉已鸣鸦。",
+      "geo": "秋夜酬赠，未坐实单一城名；空城月华、千家砧杵为秋夜城郭意象。",
+      "visit": "秋夜城郭／砧杵声中可对读；可对「星河秋一雁，砧杵夜千家」。"
     },
     {
       "id": "ts300-158",
@@ -6940,12 +6944,16 @@
         "清辉照衣裳"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-158.png"
+      "geo_notes": "山溪读书隐居，未坐实单一地名；白云青溪、深柳书堂为隐逸山居意象。",
+      "travel_tip": "山溪柳径／读书堂类场景可对读；可对「闲门向山路，深柳读书堂」。",
+      "has_card": true,
+      "front": "assets/cards/front-158.png",
+      "back": "assets/cards/back-158.png",
+      "illustration": "assets/cards/front-158.png",
+      "poet": "刘眘虚（生卒年不详，盛唐）。本库题名去重一首；《阙题》写白云青溪、深柳读书堂。",
+      "meaning": "道由白云尽，春与青溪长；时有落花至，远随流水香。闲门向山路，深柳读书堂；幽映每白日，清辉照衣裳。",
+      "geo": "山溪读书隐居，未坐实单一地名；白云青溪、深柳书堂为隐逸山居意象。",
+      "visit": "山溪柳径／读书堂类场景可对读；可对「闲门向山路，深柳读书堂」。"
     },
     {
       "id": "ts300-159",
@@ -6965,13 +6973,19 @@
         "羁旅长堪醉",
         "相留畏晓钟"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-159.png"
+      "places": [
+        "江南"
+      ],
+      "geo_notes": "江乡故人偶集。",
+      "travel_tip": "江南客舍／都会秋夜可对读；可对「还作江南会，翻疑梦里逢」。",
+      "has_card": true,
+      "front": "assets/cards/front-159.png",
+      "back": "assets/cards/back-159.png",
+      "illustration": "assets/cards/front-159.png",
+      "poet": "戴叔伦（约732—约789），字幼公。本库题名去重一首；江乡故人偶集客舍，写江南会、畏晓钟。",
+      "meaning": "天秋月又满，城阙夜千重；还作江南会，翻疑梦里逢。风枝惊暗鹊，露草泣寒虫；羁旅长堪醉，相留畏晓钟。",
+      "geo": "江乡客舍偶集，诗点江南会；地景以江南羁旅客舍为主，不坐实单一城池。",
+      "visit": "江南客舍／都会秋夜可对读；可对「还作江南会，翻疑梦里逢」。"
     },
     {
       "id": "ts300-160",
@@ -6992,12 +7006,16 @@
         "风尘何所期"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-160.png"
+      "geo_notes": "故关送别，未坐实单一关名；衰草寒云、暮雪归人为北地关河送别意象。",
+      "travel_tip": "关河暮雪送别场景可对读；可对「路出寒云外，人归暮雪时」。",
+      "has_card": true,
+      "front": "assets/cards/front-160.png",
+      "back": "assets/cards/back-160.png",
+      "illustration": "assets/cards/front-160.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《送李端》写故关衰草、暮雪离别。",
+      "meaning": "故关衰草遍，离别正堪悲；路出寒云外，人归暮雪时。少孤为客早，多难识君迟；掩泪空相向，风尘何所期。",
+      "geo": "故关送别，未坐实单一关名；衰草寒云、暮雪归人为北地关河送别意象。",
+      "visit": "关河暮雪送别场景可对读；可对「路出寒云外，人归暮雪时」。"
     },
     {
       "id": "ts300-161",
@@ -7017,13 +7035,19 @@
         "明日巴陵道",
         "秋山又几重"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-161.png"
+      "places": [
+        "岳阳"
+      ],
+      "geo_notes": "又别；巴陵道。",
+      "travel_tip": "湖南岳阳（巴陵）；可对「问姓惊初见，称名忆旧容」。",
+      "has_card": true,
+      "front": "assets/cards/front-161.png",
+      "back": "assets/cards/back-161.png",
+      "illustration": "assets/cards/front-161.png",
+      "poet": "李益（约748—约829），字君虞。本库题名去重三首；喜见外弟又言别，名句「问姓惊初见，称名忆旧容」。",
+      "meaning": "十年离乱后，长大一相逢；问姓惊初见，称名忆旧容。别来沧海事，语罢暮天钟；明日巴陵道，秋山又几重。",
+      "geo": "明日巴陵道，巴陵地望今湖南岳阳。乱离重逢又别，地景以岳阳／巴陵道为主。",
+      "visit": "湖南岳阳（巴陵）；可对「问姓惊初见，称名忆旧容」。"
     },
     {
       "id": "ts300-162",
@@ -12847,7 +12871,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 165,
+    "cards": 170,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
