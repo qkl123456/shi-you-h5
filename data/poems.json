@@ -6092,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7844,13 +7844,19 @@
         "春草明年绿",
         "王孙归不归"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-187.png"
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "山中送别，柴扉掩映；地望多联终南山一带，今陕西西安南。送友归去，地景以西安／终南为主。",
+      "travel_tip": "陕西西安终南山一带；可对「春草明年绿，王孙归不归」。",
+      "has_card": true,
+      "front": "assets/cards/front-187.png",
+      "back": "assets/cards/back-187.png",
+      "illustration": "assets/cards/front-187.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《送别》写山中相送、春草问归。",
+      "meaning": "山中相送罢，日暮掩柴扉；春草明年绿，王孙归不归。",
+      "geo": "山中送别，柴扉掩映；地望多联终南山一带，今陕西西安南。送友归去，地景以西安／终南为主。",
+      "visit": "陕西西安终南山一带；可对「春草明年绿，王孙归不归」。"
     },
     {
       "id": "ts300-188",
@@ -7867,12 +7873,16 @@
         "此物最相思"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-188.png"
+      "geo_notes": "红豆生南国，相思寄物；南国非专指一城，地景以红豆相思意象为主，不必坐实单一城邑。",
+      "travel_tip": "相思红豆可对读；可对「愿君多采撷，此物最相思」。",
+      "has_card": true,
+      "front": "assets/cards/front-188.png",
+      "back": "assets/cards/back-188.png",
+      "illustration": "assets/cards/front-188.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《相思》以红豆寄远，南国春枝。",
+      "meaning": "红豆生南国，春来发几枝；愿君多采撷，此物最相思。",
+      "geo": "红豆生南国，相思寄物；南国非专指一城，地景以红豆相思意象为主，不必坐实单一城邑。",
+      "visit": "相思红豆可对读；可对「愿君多采撷，此物最相思」。"
     },
     {
       "id": "ts300-189",
@@ -7888,13 +7898,19 @@
         "来日绮窗前",
         "寒梅著花未"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-189.png"
+      "places": [
+        "永济"
+      ],
+      "geo_notes": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
+      "travel_tip": "山西永济（蒲州故乡）；可对「来日绮窗前，寒梅著花未」。",
+      "has_card": true,
+      "front": "assets/cards/front-189.png",
+      "back": "assets/cards/back-189.png",
+      "illustration": "assets/cards/front-189.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
+      "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
+      "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
+      "visit": "山西永济（蒲州故乡）；可对「来日绮窗前，寒梅著花未」。"
     },
     {
       "id": "ts300-190",
@@ -7910,13 +7926,20 @@
         "莫学武陵人",
         "暂游桃源里"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-190.png"
+      "places": [
+        "桃源",
+        "常德"
+      ],
+      "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
+      "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
+      "has_card": true,
+      "front": "assets/cards/front-190.png",
+      "back": "assets/cards/back-190.png",
+      "illustration": "assets/cards/front-190.png",
+      "poet": "裴迪（约716—？），王维辋川友人。本库题名去重一首；《送崔九》劝归山尽丘壑，戒武陵暂游。",
+      "meaning": "归山深浅去，须尽丘壑美；莫学武陵人，暂游桃源里。",
+      "geo": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
+      "visit": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。"
     },
     {
       "id": "ts300-191",
@@ -7932,13 +7955,19 @@
         "林表明霁色",
         "城中增暮寒"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-191.png"
+      "places": [
+        "西安"
+      ],
+      "geo_notes": "终南山在今陕西西安南；城中望余雪，地景以西安／终南为主。",
+      "travel_tip": "陕西西安终南山；可对「终南阴岭秀，积雪浮云端」。",
+      "has_card": true,
+      "front": "assets/cards/front-191.png",
+      "back": "assets/cards/back-191.png",
+      "illustration": "assets/cards/front-191.png",
+      "poet": "祖咏（约699—约746）。本库题名去重二首；《终南望余雪》写阴岭积雪、城中暮寒。",
+      "meaning": "终南阴岭秀，积雪浮云端；林表明霁色，城中增暮寒。",
+      "geo": "终南山在今陕西西安南；城中望余雪，地景以西安／终南为主。",
+      "visit": "陕西西安终南山；可对「终南阴岭秀，积雪浮云端」。"
     },
     {
       "id": "ts300-192",
@@ -13010,7 +13039,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 195,
+    "cards": 200,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
