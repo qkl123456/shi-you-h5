@@ -6199,8 +6199,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7929,8 +7929,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -9765,11 +9765,15 @@
       ],
       "places": [],
       "geo_notes": "宫闺春愁；无特定名胜。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-242.png"
+      "travel_tip": "春院数花可对读；可对「行到中庭数花朵，蜻蜓飞上玉搔头」。",
+      "has_card": true,
+      "front": "assets/cards/front-242.png",
+      "back": "assets/cards/back-242.png",
+      "illustration": "assets/cards/front-242.png",
+      "poet": "刘禹锡（772—842），字梦得。本库题名去重四首；《春词》写新妆朱楼、蜻蜓玉搔头。",
+      "meaning": "新妆宜面下朱楼，深锁春光一院愁；行到中庭数花朵，蜻蜓飞上玉搔头。",
+      "geo": "新妆朱楼，院愁数花；闺情春词，无专指一宅。",
+      "visit": "春院数花可对读；可对「行到中庭数花朵，蜻蜓飞上玉搔头」。"
     },
     {
       "id": "ts300-243",
@@ -9792,11 +9796,11 @@
         "西安"
       ],
       "geo_notes": "宫禁慎言；鹦鹉意象。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-243.png",
+      "travel_tip": "陕西西安；可对「鹦鹉前头不敢言」。",
+      "has_card": true,
+      "front": "assets/cards/front-243.png",
+      "back": "assets/cards/back-243.png",
+      "illustration": "assets/cards/front-243.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9805,7 +9809,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "朱庆馀（生卒年不详，中唐／晚唐），名可久。本库题名去重二首；《宫中词》写鹦鹉前头不敢言。",
+      "meaning": "寂寂花时闭院门，美人相并立琼轩；含情欲说宫中事，鹦鹉前头不敢言。",
+      "geo": "宫中鹦鹉不敢言；宫怨闭院，地望今陕西西安。",
+      "visit": "陕西西安；可对「鹦鹉前头不敢言」。"
     },
     {
       "id": "ts300-244",
@@ -9828,11 +9836,11 @@
         "西安"
       ],
       "geo_notes": "以新妇问画眉喻行卷问张籍。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-244.png",
+      "travel_tip": "陕西西安（应试投赠意象）；可对「画眉深浅入时无」。",
+      "has_card": true,
+      "front": "assets/cards/front-244.png",
+      "back": "assets/cards/back-244.png",
+      "illustration": "assets/cards/front-244.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9841,7 +9849,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "朱庆馀（生卒年不详，中唐／晚唐），名可久。本库题名去重二首；近试上张水部，以画眉深浅喻文章是否入时。",
+      "meaning": "洞房昨夜停红烛，待晓堂前拜舅姑；妆罢低声问夫婿，画眉深浅入时无。",
+      "geo": "近试投赠张水部（张籍），以新嫁娘画眉为喻；地景不必坐实洞房，应试长安可联，地望今陕西西安。",
+      "visit": "陕西西安（应试投赠意象）；可对「画眉深浅入时无」。"
     },
     {
       "id": "ts300-245",
@@ -9863,14 +9875,15 @@
       "places": [
         "西安",
         "昭陵",
-        "湖州"
+        "湖州",
+        "礼泉"
       ],
       "geo_notes": "赴湖州（吴兴）前登乐游原望太宗昭陵。地名今释：西安（古称乐游原）。",
       "travel_tip": "西安乐游原、礼泉昭陵。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-245.png",
+      "has_card": true,
+      "front": "assets/cards/front-245.png",
+      "back": "assets/cards/back-245.png",
+      "illustration": "assets/cards/front-245.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9879,7 +9892,11 @@
           ],
           "note": "古称乐游原"
         }
-      ]
+      ],
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；将赴吴兴登乐游原，望昭陵而感。",
+      "meaning": "清时有味是无能，闲爱孤云静爱僧；欲把一麾江海去，乐游原上望昭陵。",
+      "geo": "将赴吴兴（今浙江湖州），登长安乐游原望昭陵；昭陵在今陕西礼泉。地景以西安乐游原与湖州对照。",
+      "visit": "陕西西安（乐游原／昭陵）；浙江湖州（吴兴）可对读「欲把一麾江海去」。"
     },
     {
       "id": "ts300-246",
@@ -9900,14 +9917,19 @@
       ],
       "places": [
         "赤壁",
-        "湖北"
+        "湖北",
+        "长江"
       ],
       "geo_notes": "赤壁怀古；铜雀台在邺城。",
       "travel_tip": "湖北赤壁古战场文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-246.png"
+      "has_card": true,
+      "front": "assets/cards/front-246.png",
+      "back": "assets/cards/back-246.png",
+      "illustration": "assets/cards/front-246.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《赤壁》写东风周郎、铜雀二乔。",
+      "meaning": "折戟沉沙铁未销，自将磨洗认前朝；东风不与周郎便，铜雀春深锁二乔。",
+      "geo": "赤壁怀古，折戟沉沙；地望多联湖北赤壁／黄冈长江一带。周郎东风，地景以湖北赤壁为主。",
+      "visit": "湖北赤壁／黄冈一带；可对「东风不与周郎便，铜雀春深锁二乔」。"
     },
     {
       "id": "ts300-247",
@@ -13248,7 +13270,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 245,
+    "cards": 250,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

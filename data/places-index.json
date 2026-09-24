@@ -173,6 +173,7 @@
         "ts300-215",
         "ts300-221",
         "ts300-229",
+        "ts300-246",
         "ts300-277",
         "ts300-278",
         "ts300-285"
@@ -1673,7 +1674,8 @@
       ],
       "visit_hints": [
         "浙江湖州苕溪一带",
-        "可对「报道山中去，归来每日斜」"
+        "可对「报道山中去，归来每日斜」",
+        "浙江湖州（吴兴）可对读「欲把一麾江海去」"
       ],
       "region": "浙江",
       "subtitle": ""
@@ -2377,7 +2379,9 @@
       "poem_ids": [
         "ts300-245"
       ],
-      "visit_hints": [],
+      "visit_hints": [
+        "昭陵）"
+      ],
       "region": "礼泉",
       "subtitle": ""
     },
@@ -2756,6 +2760,17 @@
       "subtitle": ""
     },
     {
+      "name": "礼泉",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-245"
+      ],
+      "visit_hints": [],
+      "region": "陕西",
+      "subtitle": ""
+    },
+    {
       "name": "秦皇岛",
       "aliases": [],
       "ancient_names": [],
@@ -2953,7 +2968,9 @@
         "ts300-246"
       ],
       "visit_hints": [
-        "湖北赤壁古战场文化线"
+        "湖北赤壁",
+        "黄冈一带",
+        "可对「东风不与周郎便，铜雀春深锁二乔」"
       ],
       "region": "湖北",
       "subtitle": ""
@@ -3154,7 +3171,7 @@
     }
   ],
   "meta": {
-    "count": 196,
+    "count": 197,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3194,6 +3211,7 @@
       "受降城",
       "吴中",
       "吴公台",
+      "吴兴",
       "吴宫",
       "咸京",
       "咸阳桥",
@@ -3409,7 +3427,7 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 250,
+      "ancient_keys": 251,
       "rename_events": 276,
       "examples": [
         {
