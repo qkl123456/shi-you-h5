@@ -470,10 +470,14 @@
       ],
       "geo_notes": "杜甫梦见流落江南的李白；地理为诗境联想。",
       "travel_tip": "可与李白流放夜郎相关史地对照阅读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-011.png"
+      "has_card": true,
+      "front": "assets/cards/front-011.png",
+      "back": "assets/cards/back-011.png",
+      "illustration": "assets/cards/front-011.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；乾元间闻李白长流夜郎，积思成梦，作《梦李白》二首，此为其一。",
+      "meaning": "死别吞声、生别恻恻起笔；江南瘴地逐客无消息，故人入梦明长相忆。恐非平生魂、魂来枫林魂返关塞，落月屋梁犹疑颜色，嘱水深无使蛟龙得，友情沉痛。",
+      "geo": "诗写杜甫梦见流落江南的李白；可与李白长流夜郎（今贵州一带史地）对照，地理以诗境联想为主。",
+      "visit": "宜作友情／梦忆主题阅读；可对照李白流放夜郎相关史地，不必强求单一梦境遗址。"
     },
     {
       "id": "ts300-012",
@@ -509,10 +513,10 @@
       ],
       "geo_notes": "江湖风波与京华对照。地名今释：西安（古称京华）。",
       "travel_tip": "读诗重情谊，不必强求遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-012.png",
+      "has_card": true,
+      "front": "assets/cards/front-012.png",
+      "back": "assets/cards/back-012.png",
+      "illustration": "assets/cards/front-012.png",
       "place_captions": [
         {
           "place": "西安",
@@ -521,7 +525,11 @@
           ],
           "note": "古称京华"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；《梦李白》其二写三夜频梦、江湖风波与京华冠盖对照，结以千秋名而身后寂寞。",
+      "meaning": "浮云行而游子不至，三夜频梦见情亲；告归来不易、江湖风波舟楫恐坠。出门白首负平生志，冠盖满京华而斯人独憔悴，千秋万岁名终归寂寞身后事。",
+      "geo": "江湖风波与京华（今陕西西安，唐时称京华）对照；重情谊与知己之叹，不必坐实单一遗址。",
+      "visit": "与「其一」成对展读；西安可作为京华意象对照，诗意重于打卡。"
     },
     {
       "id": "ts300-013",
@@ -548,10 +556,14 @@
       ],
       "geo_notes": "南山即终南一带。",
       "travel_tip": "西安终南可对「白云无尽」。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-013.png"
+      "has_card": true,
+      "front": "assets/cards/front-013.png",
+      "back": "assets/cards/back-013.png",
+      "illustration": "assets/cards/front-013.png",
+      "poet": "王维（701—761），字摩诘，盛唐山水田园诗代表，有「诗佛」之称。本库题名去重约二十八首；此送友归卧终南，结句白云无尽。",
+      "meaning": "下马饯酒问所之，君言不得意而归卧南山陲；但去莫问，白云无尽时，以景作结，送别意淡而远。",
+      "geo": "南山即终南山一带，在今陕西西安南；送友归隐山陲，地景以终南白云为意象。",
+      "visit": "西安终南山一带；可对「白云无尽时」。"
     },
     {
       "id": "ts300-014",
@@ -589,10 +601,10 @@
       ],
       "geo_notes": "长安道饯别，经江淮还乡。地名今释：洛阳（古称京洛）；西安（唐时称长安）。",
       "travel_tip": "可联长安古道送别文化。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-014.png",
+      "has_card": true,
+      "front": "assets/cards/front-014.png",
+      "back": "assets/cards/back-014.png",
+      "illustration": "assets/cards/front-014.png",
       "place_captions": [
         {
           "place": "西安",
@@ -608,7 +620,11 @@
           ],
           "note": "古称京洛"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；此慰綦毋潜落第还乡，置酒长安道，结以勿谓知音稀。",
+      "meaning": "圣代无隐、英灵来归反衬落第；江淮寒食、京洛春衣写归程，长安道置酒送别，远树孤城落晖，吾谋不用而劝勿悲知音稀。",
+      "geo": "饯别在长安道（今陕西西安）；归途经江淮，京洛即洛阳（古称）。南北水陆送还乡的文化地理。",
+      "visit": "西安古城送别意象；洛阳／江淮水路人文线可宽泛对照。"
     },
     {
       "id": "ts300-015",
@@ -636,15 +652,18 @@
         "垂钓将已矣"
       ],
       "places": [
-        "凤县",
-        "四川"
+        "凤县"
       ],
       "geo_notes": "多指陕南/终南一带溪谷意象。",
       "travel_tip": "山溪徒步可对读「色静深松」。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-015.png"
+      "has_card": true,
+      "front": "assets/cards/front-015.png",
+      "back": "assets/cards/back-015.png",
+      "illustration": "assets/cards/front-015.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《青溪》写入黄花川逐溪水，声喧色静，心闲欲垂钓。",
+      "meaning": "入黄花川逐溪水，随山万转趣途不远；声喧乱石、色静深松，菱荇葭苇澄映，我心已闲、清川澹然，愿留盘石垂钓以终。",
+      "geo": "黄花川在今陕西凤县一带；诗多写陕南／终南溪谷意象，以清川深松为主，非单一景区实指。",
+      "visit": "陕西凤县黄花川／终南一带山溪徒步；可对「色静深松里」。"
     },
     {
       "id": "ts300-016",
@@ -1561,8 +1580,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
@@ -1962,8 +1981,7 @@
         "垂钓将已矣"
       ],
       "places": [
-        "凤县",
-        "四川"
+        "凤县"
       ],
       "geo_notes": "秦岭一带溪谷说。",
       "travel_tip": "陕南黄花川一带可联想。",
@@ -12261,7 +12279,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 20,
+    "cards": 25,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
