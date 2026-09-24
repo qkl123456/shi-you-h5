@@ -1111,10 +1111,14 @@
       ],
       "geo_notes": "元结刺道州时作。",
       "travel_tip": "可联湖南道州相关史地。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-026.png"
+      "has_card": true,
+      "front": "assets/cards/front-026.png",
+      "back": "assets/cards/back-026.png",
+      "illustration": "assets/cards/front-026.png",
+      "poet": "元结（719—772），字次山，河南人，中唐诗人。本库题名去重二首；刺道州时作《贼退示官吏》，责征敛而思归隐。",
+      "meaning": "昔岁山林太平、井税有常；世变典郡，贼不屠贫城而官征如火煎，责使臣不如贼。思委符节刺船归老江湖，以吏治良心对照苛政。",
+      "geo": "道州即今湖南道县一带；元结任刺史时作，地景以道县／湘南史地为主。",
+      "visit": "湖南道县及相关元结史迹；吏治主题展可读。"
     },
     {
       "id": "ts300-027",
@@ -1153,10 +1157,14 @@
       ],
       "geo_notes": "韦应物苏州刺史任上。",
       "travel_tip": "苏州郡斋文化可联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-027.png"
+      "has_card": true,
+      "front": "assets/cards/front-027.png",
+      "back": "assets/cards/back-027.png",
+      "illustration": "assets/cards/front-027.png",
+      "poet": "韦应物（约737—约791），京兆人，中唐诗人，有「韦苏州」之称。本库题名去重约十二首；苏州刺史任上郡斋雨中宴集作此。",
+      "meaning": "画戟清香、风雨池阁，嘉宾满堂而自惭未睹民康；蔬果清宴、金玉章俯仰，结以吴中文史盛于财赋，郡斋宴集见循吏情怀。",
+      "geo": "吴中即今江苏苏州；韦应物任苏州刺史时郡斋宴集，地景以苏州为主。",
+      "visit": "苏州古城／郡斋文化意象；雨中园林可对读。"
     },
     {
       "id": "ts300-028",
@@ -1180,14 +1188,19 @@
       ],
       "places": [
         "扬州",
-        "洛阳"
+        "洛阳",
+        "长江"
       ],
       "geo_notes": "自扬子赴洛，广陵钟声。",
       "travel_tip": "扬州广陵送别线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-028.png"
+      "has_card": true,
+      "front": "assets/cards/front-028.png",
+      "back": "assets/cards/back-028.png",
+      "illustration": "assets/cards/front-028.png",
+      "poet": "韦应物（约737—约791），京兆人。本库题名去重约十二首；初发扬子寄元大，广陵残钟、世事如舟。",
+      "meaning": "凄凄别亲爱、泛舟入烟雾，归棹洛阳人听残钟广陵树；今朝一别何处再遇，世事如波上舟沿洄不定，送别中见漂泊无定。",
+      "geo": "扬子指扬子津一带（今扬州／长江渡口附近）；广陵即扬州；归棹洛阳。自扬子赴洛的江上送别线。",
+      "visit": "扬州古城／古运河广陵送别意象；长江渡口一带可对照。"
     },
     {
       "id": "ts300-029",
@@ -1215,10 +1228,14 @@
       ],
       "geo_notes": "全椒山中道士。",
       "travel_tip": "安徽全椒可联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-029.png"
+      "has_card": true,
+      "front": "assets/cards/front-029.png",
+      "back": "assets/cards/back-029.png",
+      "illustration": "assets/cards/front-029.png",
+      "poet": "韦应物（约737—约791）。本库题名去重约十二首；滁州任上寄全椒山中道士，落叶空山寻迹。",
+      "meaning": "郡斋冷而念山中客，涧底束薪、煮白石；欲持瓢酒远慰风雨夕，落叶满空山何处寻行迹，怀道士而境清意远。",
+      "geo": "全椒在今安徽滁州全椒县；诗写郡斋念山中道士，地景以全椒／滁州山中为主。",
+      "visit": "安徽全椒／滁州一带；秋山落叶意境可对读。"
     },
     {
       "id": "ts300-030",
@@ -1245,10 +1262,10 @@
       ],
       "geo_notes": "长安遇友，衣带灞陵雨。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安灞桥/长安街景可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-030.png",
+      "has_card": true,
+      "front": "assets/cards/front-030.png",
+      "back": "assets/cards/back-030.png",
+      "illustration": "assets/cards/front-030.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1257,7 +1274,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "韦应物（约737—约791）。本库题名去重约十二首；长安遇冯著，衣带灞陵雨，鬓丝又添。",
+      "meaning": "客自东方来，衣上灞陵雨；问何来，采山买斧。花开燕乳，昨别今春鬓丝几缕，邂逅中见时光与友情。",
+      "geo": "长安即今陕西西安；灞陵在西安东（今灞桥一带）。长安街头遇故人的地景。",
+      "visit": "西安灞桥／古城街景；春日可对「昨别今已春」。"
     },
     {
       "id": "ts300-031",
@@ -3931,8 +3952,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -12314,7 +12335,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 35,
+    "cards": 40,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
