@@ -26,7 +26,7 @@
       "places": [
         "韶关",
         "岭南",
-        "曲江"
+        "西安"
       ],
       "geo_notes": "张九龄曲江（今广东韶关）人；诗为托喻，非实写某一海湾景点。",
       "travel_tip": "可与韶关张九龄纪念地文化线联想，重在托物言志。",
@@ -4213,8 +4213,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -4871,15 +4871,14 @@
         "慎莫近前丞相嗔"
       ],
       "places": [
-        "西安",
-        "曲江"
+        "西安"
       ],
       "geo_notes": "杨氏姐妹曲江宴。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安曲江。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-102.png",
+      "has_card": true,
+      "front": "assets/cards/front-102.png",
+      "back": "assets/cards/back-102.png",
+      "illustration": "assets/cards/front-102.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4888,7 +4887,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《丽人行》写杨氏姐妹曲江宴游，刺炙手可热。",
+      "meaning": "三月三日长安水边多丽人；态浓意远、绣罗蹙金。云幕椒房亲，赐名大国虢与秦；紫驼翠釜、黄门飞鞚。后来鞍马当轩下，杨花雪落覆白苹；炙手可热势绝伦，慎莫近前丞相嗔。",
+      "geo": "曲江在今陕西西安（唐长安曲江池）；诗写上巳曲江丽人宴。地景以西安曲江为主。",
+      "visit": "西安曲江池／大唐芙蓉园一带；可对「炙手可热势绝伦」。"
     },
     {
       "id": "ts300-103",
@@ -4923,16 +4926,19 @@
         "欲往城南望城北"
       ],
       "places": [
-        "曲江",
-        "剑阁",
-        "西安"
+        "西安",
+        "剑阁"
       ],
       "geo_notes": "乱后曲江。",
       "travel_tip": "西安曲江。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-103.png"
+      "has_card": true,
+      "front": "assets/cards/front-103.png",
+      "back": "assets/cards/back-103.png",
+      "illustration": "assets/cards/front-103.png",
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；乱后潜行曲江，哀江头宫殿锁千门。",
+      "meaning": "少陵野老吞声哭，春日潜行曲江曲；江头宫殿锁千门，细柳新蒲为谁绿。忆昔霓旌南苑、昭阳第一人；明眸皓齿今何在，血污游魂归不得。清渭东流剑阁深，黄昏胡骑尘满城。",
+      "geo": "江头即曲江头，地望今西安曲江；清渭、剑阁为乱离对照。地景以西安曲江为主。",
+      "visit": "西安曲江；可对「江头宫殿锁千门」。"
     },
     {
       "id": "ts300-104",
@@ -4979,10 +4985,10 @@
       ],
       "geo_notes": "安史乱中王孙。地名今释：西安（唐时称长安）。",
       "travel_tip": "乱世长安。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-104.png",
+      "has_card": true,
+      "front": "assets/cards/front-104.png",
+      "back": "assets/cards/back-104.png",
+      "illustration": "assets/cards/front-104.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4991,7 +4997,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重约四十九首；安史乱中遇王孙于路隅，作《哀王孙》。",
+      "meaning": "长安城头头白乌，夜飞延秋门上呼；达官走避胡，王孙泣路隅、乞为奴。已经百日窜荆棘，身上无完肌肤。豺狼在邑龙在野，慎勿出口；五陵佳气无时无，哀哉王孙慎勿疏。",
+      "geo": "延秋门为唐长安禁苑门，地望今西安；五陵为关中陵邑意象。乱世长安，地景以西安为主。",
+      "visit": "西安（唐长安城／禁苑意象）；乱世主题展亦可。"
     },
     {
       "id": "ts300-105",
@@ -5018,10 +5028,14 @@
       ],
       "geo_notes": "祭孔。",
       "travel_tip": "曲阜孔庙。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-105.png"
+      "has_card": true,
+      "front": "assets/cards/front-105.png",
+      "back": "assets/cards/back-105.png",
+      "illustration": "assets/cards/front-105.png",
+      "poet": "唐玄宗李隆基（685—762），唐第六位皇帝。本库题名去重一首；经邹鲁祭孔子，叹其栖栖与道穷。",
+      "meaning": "夫子何为者，栖栖一代中；地犹鄹氏邑，宅即鲁王宫。叹凤嗟身否，伤麟怨道穷；今看两楹奠，当与梦时同。",
+      "geo": "邹鲁指今山东曲阜一带（孔子故里）；祭孔地景以曲阜孔庙／阙里为主。",
+      "visit": "山东曲阜孔庙／孔府孔林；可对「今看两楹奠」。"
     },
     {
       "id": "ts300-106",
@@ -5044,12 +5058,16 @@
         "还寝梦佳期"
       ],
       "places": [],
-      "geo_notes": "望月相思。",
+      "geo_notes": "望月相思；海上为兴象。",
       "travel_tip": "望月名篇。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-106.png"
+      "has_card": true,
+      "front": "assets/cards/front-106.png",
+      "back": "assets/cards/back-106.png",
+      "illustration": "assets/cards/front-106.png",
+      "poet": "张九龄（678—740），字子寿，韶州人（今广东韶关）。本库题名去重五首；《望月怀远》名句「海上生明月，天涯共此时」。",
+      "meaning": "海上生明月，天涯共此时；情人怨遥夜，竟夕起相思。灭烛怜光满，披衣觉露滋；不堪盈手赠，还寝梦佳期。",
+      "geo": "诗以海上明月起兴，地望不必坐实单一海岸；怀远相思，地景以月夜共天涯为主。",
+      "visit": "宜作望月／怀远主题阅读；海岸望月可对「海上生明月」。"
     },
     {
       "id": "ts300-107",
@@ -12455,8 +12473,7 @@
         "故国平居有所思"
       ],
       "places": [
-        "西安",
-        "曲江"
+        "西安"
       ],
       "geo_notes": "长安政局如弈；直北关山指北方边烽。地名今释：西安（唐时称长安）。",
       "travel_tip": "心系长安：西安古城与曲江可对照读。",
@@ -12533,24 +12550,14 @@
       ],
       "places": [
         "奉节",
-        "曲江",
         "西安"
       ],
-      "geo_notes": "峡口实景与长安曲江记忆对举。地名今释：西安（古称秦中）。",
+      "geo_notes": "峡口实景与长安曲江记忆对举。",
       "travel_tip": "奉节瞿塘峡口；西安曲江池遗址公园。",
       "has_card": false,
       "front": null,
       "back": null,
-      "illustration": "assets/illustrations/ill-344.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "秦中"
-          ],
-          "note": "古称秦中"
-        }
-      ]
+      "illustration": "assets/illustrations/ill-344.png"
     },
     {
       "id": "ts300-345",
@@ -12631,7 +12638,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 110,
+    "cards": 115,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
