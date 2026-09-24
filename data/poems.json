@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -3052,15 +3052,14 @@
         "明朝散发弄扁舟"
       ],
       "places": [
-        "宣城",
-        "谢脁楼"
+        "宣城"
       ],
       "geo_notes": "宣城谢脁楼。地名今释：宣城（唐时称宣州）。",
       "travel_tip": "安徽宣城谢脁楼。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-071.png",
+      "has_card": true,
+      "front": "assets/cards/front-071.png",
+      "back": "assets/cards/back-071.png",
+      "illustration": "assets/cards/front-071.png",
       "place_captions": [
         {
           "place": "宣城",
@@ -3069,7 +3068,11 @@
           ],
           "note": "唐时称宣州"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白，号青莲居士。本库题名去重约三十七首；此于宣州谢脁楼饯别校书叔云，写愁怀与逸兴。",
+      "meaning": "昨日不可留、今日多烦忧；长风万里送秋雁，对此酣高楼。蓬莱文章建安骨，小谢清发，欲上青天览明月。抽刀断水、举杯消愁，明朝散发弄扁舟，饯别中见豪放与失意。",
+      "geo": "宣州即今安徽宣城（古称）；谢脁楼为宣城名胜（本库题名从catalog作「谢脁」）。饯别地景以宣城谢脁楼为主。",
+      "visit": "安徽宣城谢脁楼／叠嶂楼一带；可对「抽刀断水水更流」。"
     },
     {
       "id": "ts300-072",
@@ -3104,15 +3107,18 @@
       "places": [
         "新疆",
         "轮台",
-        "金山",
         "吐鲁番"
       ],
-      "geo_notes": "西域出征。",
+      "geo_notes": "西域出征；走马川／雪海为诗境。",
       "travel_tip": "新疆轮台一带意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-072.png"
+      "has_card": true,
+      "front": "assets/cards/front-072.png",
+      "back": "assets/cards/back-072.png",
+      "illustration": "assets/cards/front-072.png",
+      "poet": "岑参（约715—770），南阳人，盛唐边塞诗代表。本库题名去重约七首；此奉送封大夫（常清）出师西征，写走马川雪海奇寒。",
+      "meaning": "走马川行雪海边，平沙莽莽黄入天；轮台九月风吼，碎石如斗乱走。金山烟尘、大将西出，金甲夜行、风头如刀，马毛带雪汗蒸成冰，草檄砚水凝。料虏骑胆慑、车师西门伫献捷，出征壮歌。",
+      "geo": "走马川、雪海为西域行军诗境；轮台在今新疆轮台一带；车师在今吐鲁番。地景以新疆轮台—西域出征线为主。",
+      "visit": "新疆轮台一带意象；可与《轮台歌》成对展读。"
     },
     {
       "id": "ts300-073",
@@ -3148,15 +3154,18 @@
       "places": [
         "轮台",
         "新疆",
-        "金山",
         "阴山"
       ],
       "geo_notes": "轮台送封常清。",
       "travel_tip": "与走马川成对。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-073.png"
+      "has_card": true,
+      "front": "assets/cards/front-073.png",
+      "back": "assets/cards/back-073.png",
+      "illustration": "assets/cards/front-073.png",
+      "poet": "岑参（约715—770），南阳人。本库题名去重约七首；《轮台歌》与《走马川行》同送封常清西征，写轮台夜角与雪海伐鼓。",
+      "meaning": "轮台城头夜吹角，旄头落、羽书过渠黎；单于在金山、汉兵屯轮台北。上将拥旄西征，伐鼓雪海涌、三军呼阴山动；战场白骨、剑河风急。亚相勤王誓静边尘，今见功名胜古人。",
+      "geo": "轮台在今新疆轮台一带；渠黎亦西域地名；阴山为北疆山脉意象。与走马川篇同写西征，地景以轮台为主。",
+      "visit": "新疆轮台；宜与《走马川行》成对；边塞主题展亦可。"
     },
     {
       "id": "ts300-074",
@@ -3195,10 +3204,14 @@
       ],
       "geo_notes": "雪中送武判官。",
       "travel_tip": "边塞送别名篇。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-074.png"
+      "has_card": true,
+      "front": "assets/cards/front-074.png",
+      "back": "assets/cards/back-074.png",
+      "illustration": "assets/cards/front-074.png",
+      "poet": "岑参（约715—770），南阳人。本库题名去重约七首；《白雪歌》雪中送武判官归京，名句「千树万树梨花开」。",
+      "meaning": "北风卷地白草折，胡天八月飞雪，忽如春风梨花开。狐裘不暖、角弓难控，瀚海百丈冰、愁云万里。中军置酒、胡琴琵琶羌笛，暮雪辕门红旗冻不翻。轮台东门送君，雪满天山路，空留马行处。",
+      "geo": "轮台在今新疆轮台一带；天山为新疆天山。雪中送别归京，地景以轮台—天山路为主。",
+      "visit": "新疆轮台／天山公路意象；可对「千树万树梨花开」。"
     },
     {
       "id": "ts300-075",
@@ -3249,12 +3262,16 @@
       "places": [
         "西安"
       ],
-      "geo_notes": "观曹霸画马。",
+      "geo_notes": "观曹霸画马；关中意象。",
       "travel_tip": "题画诗，可作艺术主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-075.png"
+      "has_card": true,
+      "front": "assets/cards/front-075.png",
+      "back": "assets/cards/back-075.png",
+      "illustration": "assets/cards/front-075.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；此观曹霸（曹将军）画马图于韦讽宅，由画马忆盛唐。",
+      "meaning": "国初画马神妙数江都王，将军得名三十载；曾貌先帝照夜白，龙池霹雳。新图九马争神骏，霜蹄蹴踏、清高气深稳。忆巡幸新丰、翠华三万匹，金粟堆前龙媒去尽鸟呼风，题画中见盛衰之感。",
+      "geo": "诗中新丰、金粟堆皆关中意象，地望今陕西西安一带；观画在韦讽宅，地景以长安文化记忆为主，不必坐实宅址。",
+      "visit": "西安（唐长安鞍马／宫廷意象）；题画艺术主题展亦可。"
     },
     {
       "id": "ts300-076",
@@ -4116,8 +4133,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -4680,8 +4697,8 @@
       "places": [
         "咸阳桥",
         "青海",
-        "咸阳",
-        "西安"
+        "西安",
+        "咸阳"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
@@ -10889,8 +10906,7 @@
         "明朝散发弄扁舟"
       ],
       "places": [
-        "宣城",
-        "谢朓楼"
+        "宣城"
       ],
       "geo_notes": "宣州谢朓楼饯别；抽刀断水名句。",
       "travel_tip": "安徽宣城谢朓楼。",
@@ -12490,7 +12506,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 80,
+    "cards": 85,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

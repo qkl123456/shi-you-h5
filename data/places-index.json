@@ -895,7 +895,8 @@
         "ts300-258"
       ],
       "visit_hints": [
-        "新疆天山可对照月出云海意象"
+        "新疆天山可对照月出云海意象",
+        "天山公路意象"
       ],
       "region": "新疆",
       "subtitle": ""
@@ -1087,8 +1088,10 @@
       ],
       "visit_hints": [
         "新疆轮台一带意象",
-        "与走马川成对",
-        "边塞送别名篇"
+        "可与《轮台歌》成对展读",
+        "新疆轮台",
+        "宜与《走马川行》成对",
+        "边塞主题展亦可"
       ],
       "region": "新疆",
       "subtitle": ""
@@ -1258,6 +1261,8 @@
       ],
       "visit_hints": [
         "安徽宣城谢脁楼（唐时称宣州）",
+        "叠嶂楼一带",
+        "可对「抽刀断水水更流」",
         "安徽宣城谢朓楼"
       ],
       "region": "安徽",
@@ -1600,18 +1605,6 @@
         "湖南道县一带"
       ],
       "region": "道县",
-      "subtitle": ""
-    },
-    {
-      "name": "金山",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-072",
-        "ts300-073"
-      ],
-      "visit_hints": [],
-      "region": "",
       "subtitle": ""
     },
     {
@@ -2842,30 +2835,6 @@
       "subtitle": ""
     },
     {
-      "name": "谢朓楼",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-301"
-      ],
-      "visit_hints": [
-        "安徽宣城谢朓楼"
-      ],
-      "region": "",
-      "subtitle": ""
-    },
-    {
-      "name": "谢脁楼",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-071"
-      ],
-      "visit_hints": [],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "贵州",
       "aliases": [],
       "ancient_names": [],
@@ -3061,7 +3030,7 @@
     }
   ],
   "meta": {
-    "count": 201,
+    "count": 198,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3209,6 +3178,8 @@
       "西域",
       "西涧",
       "诸暨浣纱",
+      "谢朓楼",
+      "谢脁楼",
       "谷口",
       "贾谊宅",
       "走马川",
@@ -3260,7 +3231,7 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 194,
+      "ancient_keys": 196,
       "rename_events": 223,
       "examples": [
         {
