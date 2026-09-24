@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "四川",
-        "成都"
+        "成都",
+        "四川"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -7928,15 +7928,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -10692,10 +10683,10 @@
       ],
       "geo_notes": "亦称送元二使安西；阳关在敦煌西南。地名今释：咸阳（唐时称渭城）。",
       "travel_tip": "咸阳渭城、敦煌阳关遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-268.png",
+      "has_card": true,
+      "front": "assets/cards/front-268.png",
+      "back": "assets/cards/back-268.png",
+      "illustration": "assets/cards/front-268.png",
       "place_captions": [
         {
           "place": "咸阳",
@@ -10704,7 +10695,11 @@
           ],
           "note": "唐时称渭城"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《渭城曲》写朝雨客舍、西出阳关。",
+      "meaning": "渭城朝雨浥轻尘，客舍青青柳色新；劝君更尽一杯酒，西出阳关无故人。送别名篇，一杯酒尽是故人关外。",
+      "geo": "渭城在秦咸阳故地，今陕西咸阳一带；阳关在河西，地望今甘肃敦煌西南。送元二使安西，地景以咸阳／阳关一线为主。",
+      "visit": "陕西咸阳（渭城）；甘肃敦煌阳关；可对「西出阳关无故人」。"
     },
     {
       "id": "ts300-269",
@@ -10725,11 +10720,15 @@
       ],
       "places": [],
       "geo_notes": "秋夜弄筝怯空房。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-269.png"
+      "travel_tip": "桂魄秋露可对读；可对「心怯空房不忍归」。",
+      "has_card": true,
+      "front": "assets/cards/front-269.png",
+      "back": "assets/cards/back-269.png",
+      "illustration": "assets/cards/front-269.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《秋夜曲》写桂魄秋露、银筝空房。",
+      "meaning": "桂魄初生秋露微，轻罗已薄未更衣；银筝夜久殷勤弄，心怯空房不忍归。秋夜闺情，空房心怯。",
+      "geo": "秋夜闺阁、银筝空房为室内物象；无专指地理。",
+      "visit": "桂魄秋露可对读；可对「心怯空房不忍归」。"
     },
     {
       "id": "ts300-270",
@@ -10753,10 +10752,14 @@
       ],
       "geo_notes": "班婕妤长信宫故事；昭阳日影。",
       "travel_tip": "汉长安长信宫文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-270.png"
+      "has_card": true,
+      "front": "assets/cards/front-270.png",
+      "back": "assets/cards/back-270.png",
+      "illustration": "assets/cards/front-270.png",
+      "poet": "王昌龄（约698—757），京兆人，后世称「七绝圣手」。本库题名去重约八首；《长信怨》写奉帚团扇、昭阳日影。",
+      "meaning": "奉帚平明金殿开，且将团扇共徘徊；玉颜不及寒鸦色，犹带昭阳日影来。班婕妤长信故事，宫怨极写。",
+      "geo": "长信宫、昭阳殿皆在汉长安，地望今陕西西安。宫怨奉帚，地景以西安长信／昭阳为主。",
+      "visit": "陕西西安（长信宫／昭阳）；可对「玉颜不及寒鸦色，犹带昭阳日影来」。"
     },
     {
       "id": "ts300-271",
@@ -10812,10 +10815,14 @@
       ],
       "geo_notes": "沉香亭牡丹；咏杨贵妃。",
       "travel_tip": "西安兴庆宫沉香亭。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-272.png"
+      "has_card": true,
+      "front": "assets/cards/front-272.png",
+      "back": "assets/cards/back-272.png",
+      "illustration": "assets/cards/front-272.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《清平调》其一写云想衣裳、春风拂槛。",
+      "meaning": "云想衣裳花想容，春风拂槛露华浓；若非群玉山头见，会向瑶台月下逢。沉香亭牡丹，以花拟人咏贵妃。",
+      "geo": "沉香亭在唐长安兴庆宫，地望今陕西西安。清平调供奉，地景以西安兴庆宫／沉香亭为主。",
+      "visit": "陕西西安兴庆宫／沉香亭；可对「云想衣裳花想容，春风拂槛露华浓」。"
     },
     {
       "id": "ts300-273",
@@ -10836,14 +10843,20 @@
       ],
       "places": [
         "巫山",
-        "西安"
+        "西安",
+        "兴庆宫",
+        "重庆"
       ],
       "geo_notes": "以飞燕比贵妃。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-273.png"
+      "travel_tip": "陕西西安兴庆宫；可对「借问汉宫谁得似，可怜飞燕倚新妆」。",
+      "has_card": true,
+      "front": "assets/cards/front-273.png",
+      "back": "assets/cards/back-273.png",
+      "illustration": "assets/cards/front-273.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《清平调》其二写红艳凝香、飞燕新妆。",
+      "meaning": "一枝红艳露凝香，云雨巫山枉断肠；借问汉宫谁得似，可怜飞燕倚新妆。以巫山云雨、赵飞燕衬贵妃之艳。",
+      "geo": "巫山云雨为典故意象（地望常联今重庆巫山一带）；汉宫飞燕对照唐长安。清平调地景以西安兴庆宫为主，巫山为用典。",
+      "visit": "陕西西安兴庆宫；可对「借问汉宫谁得似，可怜飞燕倚新妆」。"
     },
     {
       "id": "ts300-274",
@@ -13398,7 +13411,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 270,
+    "cards": 275,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
