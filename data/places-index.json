@@ -143,6 +143,35 @@
       "subtitle": "古称：广陵"
     },
     {
+      "name": "长江",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "tang-005",
+        "ts300-028",
+        "ts300-033",
+        "ts300-040",
+        "ts300-068",
+        "ts300-116",
+        "ts300-128",
+        "ts300-215",
+        "ts300-221",
+        "ts300-229",
+        "ts300-277",
+        "ts300-278",
+        "ts300-285"
+      ],
+      "visit_hints": [
+        "长江渡口一带可对照",
+        "宜作亲情",
+        "嫁女主题阅读",
+        "不必强求精确遗址",
+        "宜昌长江段"
+      ],
+      "region": "长江",
+      "subtitle": ""
+    },
+    {
       "name": "南京",
       "aliases": [],
       "ancient_names": [
@@ -206,31 +235,30 @@
       "subtitle": "古称：夔州、夔府"
     },
     {
-      "name": "长江",
+      "name": "襄阳",
       "aliases": [],
       "ancient_names": [],
       "poem_ids": [
-        "tang-005",
-        "ts300-028",
-        "ts300-033",
-        "ts300-040",
-        "ts300-068",
-        "ts300-128",
-        "ts300-215",
-        "ts300-221",
-        "ts300-229",
-        "ts300-277",
-        "ts300-278",
-        "ts300-285"
+        "tang-001",
+        "ts300-018",
+        "ts300-019",
+        "ts300-020",
+        "ts300-053",
+        "ts300-054",
+        "ts300-055",
+        "ts300-067",
+        "ts300-115",
+        "ts300-140",
+        "ts300-283"
       ],
       "visit_hints": [
-        "长江渡口一带可对照",
-        "宜作亲情",
-        "嫁女主题阅读",
-        "不必强求精确遗址",
-        "旅夜"
+        "湖北襄阳登高",
+        "重阳",
+        "可对「何当载酒来，共醉重阳节」",
+        "湖北襄阳夏夜池亭意境对读",
+        "荷塘竹露场景可背此诗"
       ],
-      "region": "长江",
+      "region": "湖北",
       "subtitle": ""
     },
     {
@@ -261,32 +289,6 @@
       ],
       "region": "四川",
       "subtitle": "古称：锦城、锦里"
-    },
-    {
-      "name": "襄阳",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "tang-001",
-        "ts300-018",
-        "ts300-019",
-        "ts300-020",
-        "ts300-053",
-        "ts300-054",
-        "ts300-055",
-        "ts300-067",
-        "ts300-140",
-        "ts300-283"
-      ],
-      "visit_hints": [
-        "湖北襄阳登高",
-        "重阳",
-        "可对「何当载酒来，共醉重阳节」",
-        "湖北襄阳夏夜池亭意境对读",
-        "荷塘竹露场景可背此诗"
-      ],
-      "region": "湖北",
-      "subtitle": ""
     },
     {
       "name": "洛阳",
@@ -699,6 +701,24 @@
       "subtitle": ""
     },
     {
+      "name": "大明宫",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-114",
+        "ts300-317",
+        "ts300-318",
+        "ts300-343"
+      ],
+      "visit_hints": [
+        "西安（唐大明宫",
+        "西安大明宫遗址",
+        "西安大明宫遗址公园"
+      ],
+      "region": "西安",
+      "subtitle": ""
+    },
+    {
       "name": "夫子庙",
       "aliases": [],
       "ancient_names": [],
@@ -919,22 +939,6 @@
       "subtitle": ""
     },
     {
-      "name": "大明宫",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-317",
-        "ts300-318",
-        "ts300-343"
-      ],
-      "visit_hints": [
-        "西安大明宫遗址",
-        "西安大明宫遗址公园"
-      ],
-      "region": "西安",
-      "subtitle": ""
-    },
-    {
       "name": "天山",
       "aliases": [],
       "ancient_names": [],
@@ -1114,6 +1118,24 @@
         "渝陕夜雨意象地"
       ],
       "region": "重庆",
+      "subtitle": ""
+    },
+    {
+      "name": "镇江",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-112",
+        "ts300-225",
+        "ts300-295"
+      ],
+      "visit_hints": [
+        "江苏镇江北固山",
+        "可对「海日生残夜，江春入旧年」",
+        "江苏镇江芙蓉楼遗址公园",
+        "镇江—扬州瓜洲渡"
+      ],
+      "region": "江苏",
       "subtitle": ""
     },
     {
@@ -1502,7 +1524,8 @@
         "ts300-291"
       ],
       "visit_hints": [
-        "出蜀东下"
+        "湖北荆门",
+        "可对「山随平野尽，江入大荒流」"
       ],
       "region": "湖北",
       "subtitle": ""
@@ -1593,21 +1616,6 @@
         "湖南道县一带"
       ],
       "region": "道县",
-      "subtitle": ""
-    },
-    {
-      "name": "镇江",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-225",
-        "ts300-295"
-      ],
-      "visit_hints": [
-        "江苏镇江芙蓉楼遗址公园",
-        "镇江—扬州瓜洲渡"
-      ],
-      "region": "江苏",
       "subtitle": ""
     },
     {
@@ -1874,19 +1882,6 @@
       "subtitle": ""
     },
     {
-      "name": "北固山",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-112"
-      ],
-      "visit_hints": [
-        "江行望乡"
-      ],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "华清池",
       "aliases": [],
       "ancient_names": [],
@@ -2091,6 +2086,19 @@
       "subtitle": ""
     },
     {
+      "name": "宜昌",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-116"
+      ],
+      "visit_hints": [
+        "宜昌长江段"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "宝鸡",
       "aliases": [],
       "ancient_names": [],
@@ -2205,7 +2213,10 @@
       "poem_ids": [
         "ts300-113"
       ],
-      "visit_hints": [],
+      "visit_hints": [
+        "江苏常熟兴福寺（破山寺）",
+        "可对「曲径通幽处，禅房花木深」"
+      ],
       "region": "江苏",
       "subtitle": ""
     },
@@ -2686,19 +2697,6 @@
       "subtitle": ""
     },
     {
-      "name": "破山寺",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-113"
-      ],
-      "visit_hints": [
-        "题后禅院"
-      ],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "秦皇岛",
       "aliases": [],
       "ancient_names": [],
@@ -2962,6 +2960,19 @@
       "subtitle": ""
     },
     {
+      "name": "金山",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-112"
+      ],
+      "visit_hints": [
+        "金山一带"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "长城",
       "aliases": [],
       "ancient_names": [],
@@ -3101,10 +3112,12 @@
       "关中",
       "关内",
       "关塞",
+      "兴福寺",
       "凉州",
       "凤城",
       "利州",
       "剡溪",
+      "北固山",
       "华州",
       "南山",
       "南岳",
@@ -3207,6 +3220,7 @@
       "瞿塘",
       "瞿塘峡",
       "石鱼湖",
+      "破山寺",
       "碣石",
       "祝融",
       "秦中",
@@ -3291,8 +3305,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 205,
-      "rename_events": 231,
+      "ancient_keys": 208,
+      "rename_events": 233,
       "examples": [
         {
           "from": "曲江",

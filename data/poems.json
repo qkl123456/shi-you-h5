@@ -5284,15 +5284,20 @@
         "归雁洛阳边"
       ],
       "places": [
-        "北固山",
-        "洛阳"
+        "镇江",
+        "洛阳",
+        "金山"
       ],
-      "geo_notes": "江行望乡。",
+      "geo_notes": "江行望乡；镇江。",
       "travel_tip": "江行望乡。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-112.png"
+      "has_card": true,
+      "front": "assets/cards/front-112.png",
+      "back": "assets/cards/back-112.png",
+      "illustration": "assets/cards/front-112.png",
+      "poet": "王湾（生卒年不详，盛唐），洛阳人。本库题名去重一首；《次北固山下》写江行望乡，名句「海日生残夜，江春入旧年」。",
+      "meaning": "客路青山外，行舟绿水前；潮平两岸阔，风正一帆悬。海日生残夜，江春入旧年；乡书何处达，归雁洛阳边。",
+      "geo": "北固山在今江苏镇江；行舟江上，乡书指向洛阳。地景以镇江北固山为主。",
+      "visit": "江苏镇江北固山／金山一带；可对「海日生残夜，江春入旧年」。"
     },
     {
       "id": "ts300-113",
@@ -5316,15 +5321,18 @@
         "惟余钟磬音"
       ],
       "places": [
-        "破山寺",
         "常熟"
       ],
-      "geo_notes": "题后禅院。",
+      "geo_notes": "常熟兴福寺。",
       "travel_tip": "题后禅院。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-113.png"
+      "has_card": true,
+      "front": "assets/cards/front-113.png",
+      "back": "assets/cards/back-113.png",
+      "illustration": "assets/cards/front-113.png",
+      "poet": "常建（生卒年不详，盛唐）。本库题名去重二首；《破山寺后禅院》写清晨入寺，曲径通幽、禅房花木深。",
+      "meaning": "清晨入古寺，初日照高林；曲径通幽处，禅房花木深。山光悦鸟性，潭影空人心；万籁此俱寂，惟余钟磬音。",
+      "geo": "破山寺即今江苏常熟兴福寺。地景以常熟破山寺／后禅院为主。",
+      "visit": "江苏常熟兴福寺（破山寺）；可对「曲径通幽处，禅房花木深」。"
     },
     {
       "id": "ts300-114",
@@ -5348,14 +5356,15 @@
         "自觉谏书稀"
       ],
       "places": [
-        "西安"
+        "西安",
+        "大明宫"
       ],
       "geo_notes": "寄杜甫。地名今释：西安（唐时称长安）。",
       "travel_tip": "寄杜甫。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-114.png",
+      "has_card": true,
+      "front": "assets/cards/front-114.png",
+      "back": "assets/cards/back-114.png",
+      "illustration": "assets/cards/front-114.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5364,7 +5373,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "岑参（约715—770），南阳人。本库题名去重约七首；寄左省杜拾遗（杜甫），写同朝联步而谏书渐稀。",
+      "meaning": "联步趋丹陛，分曹限紫微；晓随天仗入，暮惹御香归。白发悲花落，青云羡鸟飞；圣朝无阙事，自觉谏书稀。",
+      "geo": "左省为门下省，地在唐长安（今陕西西安）。同僚寄赠，地景以西安宫廷／省署意象为主。",
+      "visit": "西安（唐大明宫／省署意象）；可与杜甫诗对照展读。"
     },
     {
       "id": "ts300-115",
@@ -5387,13 +5400,19 @@
         "高山安可仰",
         "徒此揖清芬"
       ],
-      "places": [],
-      "geo_notes": "赠孟夫子。",
+      "places": [
+        "襄阳"
+      ],
+      "geo_notes": "赠孟夫子；襄阳隐逸。",
       "travel_tip": "赠孟夫子。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-115.png"
+      "has_card": true,
+      "front": "assets/cards/front-115.png",
+      "back": "assets/cards/back-115.png",
+      "illustration": "assets/cards/front-115.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《赠孟浩然》赞孟夫子风流隐逸、白首卧松云。",
+      "meaning": "吾爱孟夫子，风流天下闻；红颜弃轩冕，白首卧松云。醉月频中圣，迷花不事君；高山安可仰，徒此揖清芬。",
+      "geo": "孟浩然隐居襄阳一带；诗为赠友，地景以襄阳隐逸意象为主，不必坐实单一赠诗处。",
+      "visit": "湖北襄阳；可对「高山安可仰，徒此揖清芬」。"
     },
     {
       "id": "ts300-116",
@@ -5417,14 +5436,20 @@
         "万里送行舟"
       ],
       "places": [
-        "荆门"
+        "荆门",
+        "宜昌",
+        "长江"
       ],
-      "geo_notes": "出蜀东下。",
+      "geo_notes": "出蜀东下；荆门／宜昌一带。",
       "travel_tip": "出蜀东下。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-116.png"
+      "has_card": true,
+      "front": "assets/cards/front-116.png",
+      "back": "assets/cards/back-116.png",
+      "illustration": "assets/cards/front-116.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；出蜀东下渡荆门，写山尽平野、江入大荒。",
+      "meaning": "渡远荆门外，来从楚国游；山随平野尽，江入大荒流。月下飞天镜，云生结海楼；仍怜故乡水，万里送行舟。",
+      "geo": "荆门指荆门山一带，地望今湖北荆门／宜昌长江段。出蜀东下，地景以荆门山水为主。",
+      "visit": "湖北荆门／宜昌长江段；可对「山随平野尽，江入大荒流」。"
     },
     {
       "id": "ts300-117",
@@ -12662,7 +12687,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 120,
+    "cards": 125,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
