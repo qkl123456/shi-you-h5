@@ -3,7 +3,7 @@
 
   const HOT_PREFERRED = [
     "黄鹤楼", "枫桥", "鹳雀楼", "凉州", "乌衣巷", "秦淮",
-    "交河", "玉门关", "扬州", "苏州", "阴山", "白帝城", "永济", "武威", "南京", "武汉"
+    "交河", "玉门关", "扬州", "苏州", "洛阳", "白帝城", "永济", "武威", "南京", "武汉"
   ];
 
   const state = {
@@ -68,8 +68,13 @@
     return names.some((n) => n.includes(q) || q.includes(n));
   }
 
+  const TRAD_PLACE = { "陽": "阳", "樓": "楼", "東": "东", "門": "门", "橋": "桥", "關": "关", "鳥": "鸟", "鶴": "鹤" };
+  function normalizeQuery(q) {
+    return [...(q || "")].map((ch) => TRAD_PLACE[ch] || ch).join("");
+  }
+
   function searchPoems(q) {
-    q = (q || "").trim();
+    q = normalizeQuery((q || "").trim());
     if (!q) return null; // null = show hot / idle
 
     const poemScores = new Map(); // id -> score
