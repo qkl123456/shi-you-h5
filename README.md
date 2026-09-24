@@ -1,18 +1,21 @@
 # 诗游 · 地名搜诗（H5）
 
+**公网地址（手机可直接打开）：** <https://qkl123456.github.io/shi-you-h5/>
+
+仓库：<https://github.com/qkl123456/shi-you-h5>
+
 静态单页：用地名检索《唐诗三百首》诗作，十张成片卡可翻看正面插画与背面地景信息。
 
 ## 目录
 
 ```
-h5/
+.
   index.html
   css/app.css
   js/app.js
   data/places-index.json   # 地名索引（构建生成）
   data/poems.json          # 精简诗库（构建生成）
   assets/cards/            # front-NNN.png / back-NNN.png
-  scripts/build_data.py    # 从 catalog + card-copy 重建数据
   README.md
 ```
 
@@ -21,7 +24,7 @@ h5/
 在项目根或任意处执行：
 
 ```bash
-python3 /workspace/tang-poetry-art/h5/scripts/build_data.py
+python3 scripts/build_data.py  # 源码树在本机 G:\grok工作\唐诗古风插画\h5\scripts
 ```
 
 会只读 `catalog.json` 与 `cards/card-copy.json`，并复制十张正背图到 `assets/cards/`（ASCII 文件名）。
@@ -29,7 +32,7 @@ python3 /workspace/tang-poetry-art/h5/scripts/build_data.py
 ## 本地预览（电脑）
 
 ```bash
-cd /workspace/tang-poetry-art/h5
+cd .   # 或本机 G:\grok工作\唐诗古风插画\h5
 python3 -m http.server 8765
 ```
 
