@@ -1,0 +1,3638 @@
+{
+  "places": [
+    {
+      "name": "长安",
+      "aliases": [],
+      "poem_ids": [
+        "tang-002",
+        "ts300-006",
+        "ts300-014",
+        "ts300-030",
+        "ts300-039",
+        "ts300-048",
+        "ts300-060",
+        "ts300-066",
+        "ts300-086",
+        "ts300-095",
+        "ts300-098",
+        "ts300-102",
+        "ts300-104",
+        "ts300-107",
+        "ts300-114",
+        "ts300-120",
+        "ts300-121",
+        "ts300-122",
+        "ts300-124",
+        "ts300-146",
+        "ts300-147",
+        "ts300-216",
+        "ts300-222",
+        "ts300-224",
+        "ts300-226",
+        "ts300-227",
+        "ts300-232",
+        "ts300-235",
+        "ts300-237",
+        "ts300-239",
+        "ts300-243",
+        "ts300-244",
+        "ts300-245",
+        "ts300-250",
+        "ts300-256",
+        "ts300-260",
+        "ts300-270",
+        "ts300-272",
+        "ts300-274",
+        "ts300-296",
+        "ts300-297",
+        "ts300-298",
+        "ts300-299",
+        "ts300-300",
+        "ts300-305",
+        "ts300-317",
+        "ts300-318",
+        "ts300-319",
+        "ts300-320",
+        "ts300-321",
+        "ts300-333",
+        "ts300-337",
+        "ts300-340",
+        "ts300-341",
+        "ts300-342",
+        "ts300-343",
+        "ts300-344",
+        "ts300-345"
+      ],
+      "visit_hints": [
+        "中秋",
+        "月夜可背此诗",
+        "可联长安古道送别文化",
+        "西安灞桥",
+        "长安街景可对读"
+      ],
+      "region": "西安"
+    },
+    {
+      "name": "扬州",
+      "aliases": [
+        "广陵"
+      ],
+      "poem_ids": [
+        "tang-005",
+        "ts300-028",
+        "ts300-064",
+        "ts300-145",
+        "ts300-229",
+        "ts300-248",
+        "ts300-249",
+        "ts300-251",
+        "ts300-252",
+        "ts300-257",
+        "ts300-295",
+        "ts300-338"
+      ],
+      "visit_hints": [
+        "扬州广陵送别线",
+        "音乐诗主题",
+        "武汉黄鹤楼 + 春日扬州，一条经典唐诗旅行线",
+        "扬州瘦西湖",
+        "扬州瘦西湖二十四桥"
+      ],
+      "region": "江苏"
+    },
+    {
+      "name": "南京",
+      "aliases": [
+        "金陵"
+      ],
+      "poem_ids": [
+        "ts300-040",
+        "ts300-070",
+        "ts300-214",
+        "ts300-215",
+        "ts300-241",
+        "ts300-247",
+        "ts300-264",
+        "ts300-284",
+        "ts300-285",
+        "ts300-295"
+      ],
+      "visit_hints": [
+        "南京长干里",
+        "南京秦淮一带",
+        "南京秦淮长干里水乡文化线",
+        "可与南京长干、长江水乡线并读",
+        "南京秦淮乌衣巷"
+      ],
+      "region": "江苏"
+    },
+    {
+      "name": "奉节",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-079",
+        "ts300-230",
+        "ts300-278",
+        "ts300-288",
+        "ts300-292",
+        "ts300-327",
+        "ts300-339",
+        "ts300-340",
+        "ts300-341",
+        "ts300-344"
+      ],
+      "visit_hints": [
+        "奉节白帝城",
+        "奉节白帝城、三峡、荆州江陵线",
+        "奉节白帝城·夔门长江线",
+        "奉节夔州西阁线",
+        "奉节永安宫"
+      ],
+      "region": "重庆"
+    },
+    {
+      "name": "长江",
+      "aliases": [],
+      "poem_ids": [
+        "tang-005",
+        "ts300-040",
+        "ts300-068",
+        "ts300-128",
+        "ts300-215",
+        "ts300-221",
+        "ts300-229",
+        "ts300-277",
+        "ts300-278",
+        "ts300-285"
+      ],
+      "visit_hints": [
+        "旅夜",
+        "可与南京长干、长江水乡线并读",
+        "瞿塘峡、长江三峡文化线",
+        "奉节白帝城·夔门长江线"
+      ],
+      "region": "长江"
+    },
+    {
+      "name": "成都",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-078",
+        "ts300-280",
+        "ts300-281",
+        "ts300-282",
+        "ts300-287",
+        "ts300-293",
+        "ts300-294",
+        "ts300-308"
+      ],
+      "visit_hints": [
+        "成都武侯祠",
+        "成都武侯祠必访",
+        "成都锦江、都江堰玉垒山",
+        "成都杜甫草堂",
+        "成都万里桥、西岭雪线"
+      ],
+      "region": "四川"
+    },
+    {
+      "name": "终南山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-005",
+        "ts300-013",
+        "ts300-049",
+        "ts300-131",
+        "ts300-133",
+        "ts300-138",
+        "ts300-343",
+        "ts300-346"
+      ],
+      "visit_hints": [
+        "游西安终南",
+        "翠华山一带，可对「山月随人归」",
+        "西安终南可对「白云无尽」",
+        "西安终南山可对读",
+        "山居秋景"
+      ],
+      "region": "西安"
+    },
+    {
+      "name": "襄阳",
+      "aliases": [],
+      "poem_ids": [
+        "tang-001",
+        "ts300-018",
+        "ts300-019",
+        "ts300-053",
+        "ts300-054",
+        "ts300-067",
+        "ts300-140",
+        "ts300-283"
+      ],
+      "visit_hints": [
+        "襄阳重阳登高可对读",
+        "夏夜池亭可背此诗",
+        "襄阳一带山水可对",
+        "襄阳夏夜意象",
+        "湖北襄阳鹿门山"
+      ],
+      "region": "湖北"
+    },
+    {
+      "name": "洛阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-028",
+        "ts300-063",
+        "ts300-091",
+        "ts300-112",
+        "ts300-225",
+        "ts300-253",
+        "ts300-283"
+      ],
+      "visit_hints": [
+        "友情送别主题",
+        "洛阳城意象",
+        "洛阳金谷园遗址文化线",
+        "三峡—襄阳—洛阳归途线"
+      ],
+      "region": "河南"
+    },
+    {
+      "name": "洞庭",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-077",
+        "ts300-082",
+        "ts300-129",
+        "ts300-139",
+        "ts300-147",
+        "ts300-261",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "岳阳洞庭意象",
+        "湖南郴州意象",
+        "通作临洞庭上张丞相",
+        "亦作早寒江上有怀",
+        "潇湘洞庭文化线"
+      ],
+      "region": "湖南"
+    },
+    {
+      "name": "绍兴",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-021",
+        "ts300-023",
+        "ts300-056",
+        "ts300-058",
+        "ts300-069",
+        "ts300-222",
+        "ts300-303"
+      ],
+      "visit_hints": [
+        "绍兴山阴文化可联想",
+        "绍兴若耶溪可实地对照",
+        "绍兴山阴可对读",
+        "浙江绍兴若耶溪",
+        "绍兴镜湖"
+      ],
+      "region": "浙江"
+    },
+    {
+      "name": "三峡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-221",
+        "ts300-230",
+        "ts300-283",
+        "ts300-288",
+        "ts300-289",
+        "ts300-290"
+      ],
+      "visit_hints": [
+        "瞿塘峡、长江三峡文化线",
+        "奉节白帝城、三峡、荆州江陵线",
+        "三峡—襄阳—洛阳归途线"
+      ],
+      "region": "重庆"
+    },
+    {
+      "name": "武汉",
+      "aliases": [],
+      "poem_ids": [
+        "tang-005",
+        "ts300-068",
+        "ts300-229",
+        "ts300-277",
+        "ts300-332",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "九江庐山、武汉黄鹤楼",
+        "武汉黄鹤楼 + 春日扬州，一条经典唐诗旅行线",
+        "武汉黄鹤楼",
+        "湖北鄂州、武汉汉阳",
+        "武汉鹦鹉洲"
+      ],
+      "region": "湖北"
+    },
+    {
+      "name": "江南",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-004",
+        "ts300-011",
+        "ts300-046",
+        "ts300-109",
+        "ts300-232",
+        "ts300-249"
+      ],
+      "visit_hints": [
+        "冬日江南橘林可对读「岁寒心」",
+        "可与李白流放夜郎相关史地对照阅读",
+        "可对照杜甫秦州行迹",
+        "江南早春",
+        "江南风景与梨园文化联想"
+      ],
+      "region": ""
+    },
+    {
+      "name": "白帝城",
+      "aliases": [
+        "夔州",
+        "夔门",
+        "奉节"
+      ],
+      "poem_ids": [
+        "ts300-079",
+        "ts300-230",
+        "ts300-278",
+        "ts300-292",
+        "ts300-327",
+        "ts300-339"
+      ],
+      "visit_hints": [
+        "奉节白帝城",
+        "奉节白帝城、三峡、荆州江陵线",
+        "奉节白帝城·夔门长江线",
+        "白帝城",
+        "重庆奉节白帝城"
+      ],
+      "region": "奉节"
+    },
+    {
+      "name": "黄河",
+      "aliases": [],
+      "poem_ids": [
+        "tang-003",
+        "ts300-097",
+        "ts300-100",
+        "ts300-197",
+        "ts300-238",
+        "ts300-275"
+      ],
+      "visit_hints": [
+        "名句长风破浪",
+        "名篇将进酒",
+        "黄河风陵渡一带",
+        "去永济鹳雀楼，可对照「黄河入海流」远眺",
+        "玉门关、呼和浩特青冢、黄河黑山线"
+      ],
+      "region": "晋陕"
+    },
+    {
+      "name": "夔州",
+      "aliases": [
+        "奉节"
+      ],
+      "poem_ids": [
+        "ts300-278",
+        "ts300-288",
+        "ts300-339",
+        "ts300-340",
+        "ts300-341"
+      ],
+      "visit_hints": [
+        "奉节夔州西阁线",
+        "对比可想西安汉唐陵邑文化线"
+      ],
+      "region": "奉节"
+    },
+    {
+      "name": "曲江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-001",
+        "ts300-102",
+        "ts300-103",
+        "ts300-342",
+        "ts300-344"
+      ],
+      "visit_hints": [
+        "西安曲江",
+        "心系长安：西安古城与曲江可对照读",
+        "西安曲江池遗址公园"
+      ],
+      "region": "西安"
+    },
+    {
+      "name": "玉门关",
+      "aliases": [
+        "玉门"
+      ],
+      "poem_ids": [
+        "ts300-038",
+        "ts300-039",
+        "ts300-090",
+        "ts300-238",
+        "ts300-275"
+      ],
+      "visit_hints": [
+        "敦煌玉门关可对读",
+        "甘肃敦煌玉门关遗址线",
+        "玉门关、呼和浩特青冢、黄河黑山线",
+        "敦煌玉门关、黄河上游线"
+      ],
+      "region": "敦煌"
+    },
+    {
+      "name": "瞿塘",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040",
+        "ts300-079",
+        "ts300-221",
+        "ts300-339",
+        "ts300-344"
+      ],
+      "visit_hints": [
+        "瞿塘峡、长江三峡文化线",
+        "重庆奉节白帝城·瞿塘峡口",
+        "奉节瞿塘峡口"
+      ],
+      "region": "奉节"
+    },
+    {
+      "name": "黄鹤楼",
+      "aliases": [
+        "武昌黄鹤楼"
+      ],
+      "poem_ids": [
+        "tang-005",
+        "ts300-068",
+        "ts300-229",
+        "ts300-277",
+        "ts300-284"
+      ],
+      "visit_hints": [
+        "九江庐山、武汉黄鹤楼",
+        "武汉黄鹤楼 + 春日扬州，一条经典唐诗旅行线",
+        "武汉黄鹤楼",
+        "古运河烟花三月线"
+      ],
+      "region": "武汉"
+    },
+    {
+      "name": "巫峡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-078",
+        "ts300-283",
+        "ts300-327",
+        "ts300-339"
+      ],
+      "visit_hints": [],
+      "region": "重庆"
+    },
+    {
+      "name": "敦煌",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-038",
+        "ts300-090",
+        "ts300-268",
+        "ts300-275"
+      ],
+      "visit_hints": [
+        "敦煌玉门关可对读",
+        "甘肃敦煌玉门关遗址线",
+        "咸阳渭城、敦煌阳关遗址",
+        "敦煌玉门关、黄河上游线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "秦淮",
+      "aliases": [
+        "秦淮河"
+      ],
+      "poem_ids": [
+        "ts300-070",
+        "ts300-214",
+        "ts300-241",
+        "ts300-247"
+      ],
+      "visit_hints": [
+        "南京秦淮一带",
+        "南京秦淮长干里水乡文化线",
+        "南京秦淮乌衣巷",
+        "南京秦淮河·夫子庙夜游线"
+      ],
+      "region": "南京"
+    },
+    {
+      "name": "长沙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-232",
+        "ts300-314",
+        "ts300-327",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "湖南长沙贾谊故居",
+        "湖南长沙"
+      ],
+      "region": "湖南"
+    },
+    {
+      "name": "临洮",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-037",
+        "ts300-213",
+        "ts300-304"
+      ],
+      "visit_hints": [
+        "甘肃临洮长城线",
+        "可访甘肃临洮、陇右边塞遗迹文化线"
+      ],
+      "region": "甘肃"
+    },
+    {
+      "name": "五陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-060",
+        "ts300-104",
+        "ts300-341"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "凉州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-065",
+        "ts300-228",
+        "ts300-275"
+      ],
+      "visit_hints": [
+        "甘肃武威凉州文化线"
+      ],
+      "region": "武威"
+    },
+    {
+      "name": "夫子庙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040",
+        "ts300-241",
+        "ts300-247"
+      ],
+      "visit_hints": [
+        "夫子庙一带",
+        "夫子庙",
+        "南京秦淮河·夫子庙夜游线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "岭南",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-001",
+        "ts300-004",
+        "ts300-211"
+      ],
+      "visit_hints": [
+        "可联想汉江沿线古渡与岭南归途文化线"
+      ],
+      "region": "华南"
+    },
+    {
+      "name": "岳阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-077",
+        "ts300-139",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "岳阳洞庭意象"
+      ],
+      "region": "湖南"
+    },
+    {
+      "name": "峨眉",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-086",
+        "ts300-094",
+        "ts300-118"
+      ],
+      "visit_hints": [
+        "听琴"
+      ],
+      "region": "四川"
+    },
+    {
+      "name": "武侯祠",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-280",
+        "ts300-292",
+        "ts300-293"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "永济",
+      "aliases": [
+        "蒲州"
+      ],
+      "poem_ids": [
+        "tang-003",
+        "ts300-197",
+        "ts300-224"
+      ],
+      "visit_hints": [
+        "山西永济鹳雀楼",
+        "去永济鹳雀楼，可对照「黄河入海流」远眺",
+        "永济"
+      ],
+      "region": "山西"
+    },
+    {
+      "name": "汉阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-149",
+        "ts300-277",
+        "ts300-332"
+      ],
+      "visit_hints": [
+        "送李中丞",
+        "汉阳晴川阁",
+        "湖北鄂州、武汉汉阳"
+      ],
+      "region": "武汉"
+    },
+    {
+      "name": "西安",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-013",
+        "ts300-025",
+        "ts300-262"
+      ],
+      "visit_hints": [],
+      "region": "陕西"
+    },
+    {
+      "name": "轮台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-072",
+        "ts300-073",
+        "ts300-074"
+      ],
+      "visit_hints": [
+        "新疆轮台一带意象",
+        "与走马川成对"
+      ],
+      "region": "新疆"
+    },
+    {
+      "name": "韶关",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-001",
+        "ts300-002",
+        "ts300-003"
+      ],
+      "visit_hints": [
+        "可与韶关张九龄纪念地文化线联想，重在托物言志",
+        "读诗可对照园林兰桂，理解「本心」之喻",
+        "适合山居",
+        "夜读场景联想"
+      ],
+      "region": "广东"
+    },
+    {
+      "name": "京洛",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-014",
+        "ts300-048"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "兰山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-018",
+        "ts300-053"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "关塞",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-011",
+        "ts300-046"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "剑阁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-094",
+        "ts300-103"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "大明宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-317",
+        "ts300-318"
+      ],
+      "visit_hints": [
+        "西安大明宫遗址"
+      ],
+      "region": ""
+    },
+    {
+      "name": "天山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-038",
+        "ts300-074"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "山阴",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-021",
+        "ts300-056"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "岳阳楼",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-129",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "登楼",
+        "湖南岳阳楼"
+      ],
+      "region": ""
+    },
+    {
+      "name": "嵩山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-132",
+        "ts300-255"
+      ],
+      "visit_hints": [
+        "归隐嵩山",
+        "陕西茂陵博物馆线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "巫山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-273",
+        "ts300-339"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "庐山",
+      "aliases": [],
+      "poem_ids": [
+        "tang-004",
+        "ts300-068"
+      ],
+      "visit_hints": [
+        "游庐山时可对照香炉峰与瀑布观景点"
+      ],
+      "region": ""
+    },
+    {
+      "name": "慈恩寺",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-025",
+        "ts300-060"
+      ],
+      "visit_hints": [
+        "西安大雁塔必到"
+      ],
+      "region": ""
+    },
+    {
+      "name": "武昌",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-229",
+        "ts300-277"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "永州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-034",
+        "ts300-035"
+      ],
+      "visit_hints": [
+        "永州柳子庙文化线",
+        "永州溪谷可对读"
+      ],
+      "region": ""
+    },
+    {
+      "name": "汉宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-235",
+        "ts300-273"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "汉江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-137",
+        "ts300-211"
+      ],
+      "visit_hints": [
+        "临汉江"
+      ],
+      "region": ""
+    },
+    {
+      "name": "江淮",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-014",
+        "ts300-048"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "沉香亭",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-272",
+        "ts300-274"
+      ],
+      "visit_hints": [
+        "西安兴庆宫沉香亭"
+      ],
+      "region": ""
+    },
+    {
+      "name": "泰山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-008",
+        "ts300-043"
+      ],
+      "visit_hints": [
+        "登泰山可对读全诗",
+        "泰安登泰山必背"
+      ],
+      "region": "山东"
+    },
+    {
+      "name": "湘水",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-099",
+        "ts300-314"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "滁州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-029",
+        "ts300-233"
+      ],
+      "visit_hints": [
+        "安徽滁州西涧",
+        "琅琊山线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "潇湘",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-077",
+        "ts300-261"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "瘦西湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-229",
+        "ts300-248"
+      ],
+      "visit_hints": [
+        "扬州瘦西湖",
+        "扬州瘦西湖二十四桥"
+      ],
+      "region": ""
+    },
+    {
+      "name": "苏州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-027",
+        "ts300-234"
+      ],
+      "visit_hints": [
+        "苏州郡斋文化可联想",
+        "苏州枫桥景区"
+      ],
+      "region": "江苏"
+    },
+    {
+      "name": "若耶溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-023",
+        "ts300-058"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "茂陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-255",
+        "ts300-331"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "荆门",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-116",
+        "ts300-291"
+      ],
+      "visit_hints": [
+        "出蜀东下",
+        "兴山昭君村、呼和浩特青冢"
+      ],
+      "region": ""
+    },
+    {
+      "name": "蓟北",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-089",
+        "ts300-283"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "蓬山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-286",
+        "ts300-306"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "蓬莱宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-320",
+        "ts300-343"
+      ],
+      "visit_hints": [
+        "西安兴庆宫公园一带",
+        "西安大明宫遗址公园"
+      ],
+      "region": ""
+    },
+    {
+      "name": "越州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-222",
+        "ts300-303"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "辋川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-130",
+        "ts300-315"
+      ],
+      "visit_hints": [
+        "闲居赠裴迪",
+        "陕西蓝田辋川"
+      ],
+      "region": ""
+    },
+    {
+      "name": "金山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-072",
+        "ts300-073"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "金粟堆",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-075",
+        "ts300-079"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "镇江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-225",
+        "ts300-295"
+      ],
+      "visit_hints": [
+        "江苏镇江芙蓉楼遗址公园"
+      ],
+      "region": ""
+    },
+    {
+      "name": "镜湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-069",
+        "ts300-303"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "长干",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-214",
+        "ts300-215"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "阴山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-073",
+        "ts300-271"
+      ],
+      "visit_hints": [
+        "内蒙古阴山文化线",
+        "长城遗址点"
+      ],
+      "region": "内蒙古"
+    },
+    {
+      "name": "隋宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-257",
+        "ts300-338"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "青冢",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-238",
+        "ts300-291"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "青海",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-038",
+        "ts300-101"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "青溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-015",
+        "ts300-050"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "鹦鹉洲",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-277",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "鹦鹉洲江景",
+        "武汉鹦鹉洲"
+      ],
+      "region": "武汉"
+    },
+    {
+      "name": "鹳雀楼",
+      "aliases": [],
+      "poem_ids": [
+        "tang-003",
+        "ts300-197"
+      ],
+      "visit_hints": [
+        "山西永济鹳雀楼",
+        "去永济鹳雀楼，可对照「黄河入海流」远眺"
+      ],
+      "region": "永济"
+    },
+    {
+      "name": "鹿门山",
+      "aliases": [],
+      "poem_ids": [
+        "tang-001",
+        "ts300-067"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "黄花川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-015",
+        "ts300-050"
+      ],
+      "visit_hints": [
+        "山溪徒步可对读「色静深松」",
+        "陕南黄花川一带可联想"
+      ],
+      "region": ""
+    },
+    {
+      "name": "齐鲁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-008",
+        "ts300-043"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "龙城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-110",
+        "ts300-271"
+      ],
+      "visit_hints": [],
+      "region": "边塞"
+    },
+    {
+      "name": "万里桥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-294"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "三巴",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "三湘",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-332"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "三秦",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-107"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "上林",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-333"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "乌衣巷",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-241"
+      ],
+      "visit_hints": [
+        "南京秦淮乌衣巷"
+      ],
+      "region": "南京"
+    },
+    {
+      "name": "乐游原",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-245"
+      ],
+      "visit_hints": [
+        "西安乐游原、礼泉昭陵"
+      ],
+      "region": ""
+    },
+    {
+      "name": "九江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-215"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "九疑",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-082"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "二十四桥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-248"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "云中",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-092"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "五津",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-107"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "五溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-289"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "交河",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-090"
+      ],
+      "visit_hints": [
+        "新疆吐鲁番交河故城"
+      ],
+      "region": "吐鲁番"
+    },
+    {
+      "name": "仙游观",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-334"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "全椒",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-029"
+      ],
+      "visit_hints": [
+        "安徽全椒可联想"
+      ],
+      "region": ""
+    },
+    {
+      "name": "关内",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-325"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "关山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-342"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "兴平",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-262"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "兴庆宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-320"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "凤凰台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-284"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "凤城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-256"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "凤翔",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-123"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "函谷关",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-343"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "利州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-330"
+      ],
+      "visit_hints": [
+        "四川广元一带古利州"
+      ],
+      "region": ""
+    },
+    {
+      "name": "剡溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-069"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "北固山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-112"
+      ],
+      "visit_hints": [
+        "江行望乡"
+      ],
+      "region": ""
+    },
+    {
+      "name": "华山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-224"
+      ],
+      "visit_hints": [
+        "重阳登高",
+        "河东故乡线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "华州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-123"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "华清池",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-086"
+      ],
+      "visit_hints": [
+        "西安华清池、兴平马嵬"
+      ],
+      "region": ""
+    },
+    {
+      "name": "华阴",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-329"
+      ],
+      "visit_hints": [
+        "陕西华阴华山"
+      ],
+      "region": ""
+    },
+    {
+      "name": "南山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-142"
+      ],
+      "visit_hints": [
+        "归隐"
+      ],
+      "region": ""
+    },
+    {
+      "name": "南溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-151"
+      ],
+      "visit_hints": [
+        "寻道人隐居"
+      ],
+      "region": ""
+    },
+    {
+      "name": "受降城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-240"
+      ],
+      "visit_hints": [
+        "宁夏灵武受降城遗址文化线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "台城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-264"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "吐鲁番",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-090"
+      ],
+      "visit_hints": [
+        "新疆吐鲁番交河故城"
+      ],
+      "region": ""
+    },
+    {
+      "name": "君山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-080"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "吴中",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-027"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "吴公台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-148"
+      ],
+      "visit_hints": [
+        "登台远眺"
+      ],
+      "region": ""
+    },
+    {
+      "name": "吴宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-052"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "吴江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-099"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "咸京",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-329"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "咸阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-268"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "咸阳桥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-101"
+      ],
+      "visit_hints": [
+        "西安咸阳桥意象"
+      ],
+      "region": ""
+    },
+    {
+      "name": "四川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-254"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "四川江油（李白故里）",
+      "aliases": [],
+      "poem_ids": [
+        "tang-002"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "回乐",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-240"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "夏口",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-336"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "夔府",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-340"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "夜郎",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-125"
+      ],
+      "visit_hints": [
+        "怀李白"
+      ],
+      "region": ""
+    },
+    {
+      "name": "大庾岭",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-111"
+      ],
+      "visit_hints": [
+        "贬途望乡"
+      ],
+      "region": ""
+    },
+    {
+      "name": "大江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-033"
+      ],
+      "visit_hints": [
+        "重亲情，不必强求遗址"
+      ],
+      "region": ""
+    },
+    {
+      "name": "大雁塔",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-025"
+      ],
+      "visit_hints": [
+        "西安大雁塔必对读"
+      ],
+      "region": ""
+    },
+    {
+      "name": "天台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-069"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "天姥山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-069"
+      ],
+      "visit_hints": [
+        "浙江新昌天姥"
+      ],
+      "region": ""
+    },
+    {
+      "name": "太华",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-329"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "太白",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-094"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "太行",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-097"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "奉济驿",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-126"
+      ],
+      "visit_hints": [
+        "送严武"
+      ],
+      "region": ""
+    },
+    {
+      "name": "孔明庙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-078"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "宁夏",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-240"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "安徽",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-233"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "安西",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-231"
+      ],
+      "visit_hints": [
+        "丝绸之路",
+        "安西都护府文化线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "宣城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-301"
+      ],
+      "visit_hints": [
+        "安徽宣城谢朓楼"
+      ],
+      "region": ""
+    },
+    {
+      "name": "宣室",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-260"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "宣州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-071"
+      ],
+      "visit_hints": [
+        "安徽宣城谢脁楼"
+      ],
+      "region": ""
+    },
+    {
+      "name": "寒山寺",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-234"
+      ],
+      "visit_hints": [
+        "寒山寺（夜半钟声）"
+      ],
+      "region": "苏州"
+    },
+    {
+      "name": "山西永济",
+      "aliases": [],
+      "poem_ids": [
+        "tang-003"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "岐阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-084"
+      ],
+      "visit_hints": [
+        "故宫石鼓馆可对"
+      ],
+      "region": ""
+    },
+    {
+      "name": "岘山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-140"
+      ],
+      "visit_hints": [
+        "登岘山"
+      ],
+      "region": ""
+    },
+    {
+      "name": "左省",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-122"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "巴丘",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-080"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "巴山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-254"
+      ],
+      "visit_hints": [
+        "巴山",
+        "渝陕夜雨意象地"
+      ],
+      "region": ""
+    },
+    {
+      "name": "巴峡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-283"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "常德",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-223"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "常熟",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-113"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "幽州台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-061"
+      ],
+      "visit_hints": [
+        "北京大兴",
+        "幽州台遗址意象"
+      ],
+      "region": ""
+    },
+    {
+      "name": "幽燕",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-062"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "延秋门",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-104"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "建德",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-145"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "归州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-290"
+      ],
+      "visit_hints": [
+        "湖北归州宋玉宅传说线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "御宿",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-346"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "扬子津",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-028"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "新丰",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-075"
+      ],
+      "visit_hints": [
+        "题画诗，可作艺术主题"
+      ],
+      "region": ""
+    },
+    {
+      "name": "无定河",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-265"
+      ],
+      "visit_hints": [
+        "陕北无定河文化线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "日本",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-153"
+      ],
+      "visit_hints": [
+        "送僧归国"
+      ],
+      "region": ""
+    },
+    {
+      "name": "昆吾",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-346"
+      ],
+      "visit_hints": [
+        "西安鄠邑紫阁峰、渼陂湖周边"
+      ],
+      "region": ""
+    },
+    {
+      "name": "昆明池",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-345"
+      ],
+      "visit_hints": [
+        "西安昆明池遗址",
+        "斗门一带"
+      ],
+      "region": ""
+    },
+    {
+      "name": "昭君村",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-291"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "昭阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-270"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "昭陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-245"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "晋陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-109"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "晴川阁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-277"
+      ],
+      "visit_hints": [
+        "汉阳晴川阁"
+      ],
+      "region": ""
+    },
+    {
+      "name": "曲阜",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-105"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "望仙台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-328"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "未央宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-227"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "朱雀桥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-241"
+      ],
+      "visit_hints": [
+        "朱雀桥遗址一带"
+      ],
+      "region": "南京"
+    },
+    {
+      "name": "枫桥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-234"
+      ],
+      "visit_hints": [
+        "苏州枫桥景区"
+      ],
+      "region": "苏州"
+    },
+    {
+      "name": "柳州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-326"
+      ],
+      "visit_hints": [
+        "广西柳州"
+      ],
+      "region": ""
+    },
+    {
+      "name": "桃源",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-093"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "桃花源",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-223"
+      ],
+      "visit_hints": [
+        "湖南桃花源风景区文化联想"
+      ],
+      "region": ""
+    },
+    {
+      "name": "桐庐江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-145"
+      ],
+      "visit_hints": [
+        "江宿寄友"
+      ],
+      "region": ""
+    },
+    {
+      "name": "梁园",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-255"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "梓州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-136"
+      ],
+      "visit_hints": [
+        "送李使君"
+      ],
+      "region": ""
+    },
+    {
+      "name": "榆关",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-089"
+      ],
+      "visit_hints": [
+        "山海关一带意象"
+      ],
+      "region": ""
+    },
+    {
+      "name": "横塘",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-214"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "武威",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-228"
+      ],
+      "visit_hints": [
+        "甘肃武威凉州文化线"
+      ],
+      "region": "甘肃"
+    },
+    {
+      "name": "武陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-093"
+      ],
+      "visit_hints": [
+        "湖南桃花源"
+      ],
+      "region": ""
+    },
+    {
+      "name": "永安宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-292"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "汉口",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-336"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "江东",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-099"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "江州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-335"
+      ],
+      "visit_hints": [
+        "江西九江"
+      ],
+      "region": ""
+    },
+    {
+      "name": "江湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-012"
+      ],
+      "visit_hints": [
+        "读诗重情谊，不必强求遗址"
+      ],
+      "region": ""
+    },
+    {
+      "name": "江西九江",
+      "aliases": [],
+      "poem_ids": [
+        "tang-004"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "江都",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-257"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "江陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-230"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "汨罗",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-125"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "河南",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-325"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "河南（卫八处士相关传说不一）",
+      "aliases": [
+        "河南一带（卫八处士相关传说不一）"
+      ],
+      "poem_ids": [
+        "ts300-009"
+      ],
+      "visit_hints": [
+        "读诗重人情，不必强求精确遗址"
+      ],
+      "region": ""
+    },
+    {
+      "name": "河西走廊",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-228"
+      ],
+      "visit_hints": [
+        "河西走廊博物馆相关展陈"
+      ],
+      "region": ""
+    },
+    {
+      "name": "泰安",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-008"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "洞庭湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-139"
+      ],
+      "visit_hints": [
+        "干谒张九龄"
+      ],
+      "region": ""
+    },
+    {
+      "name": "浔阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-087"
+      ],
+      "visit_hints": [
+        "九江浔阳江"
+      ],
+      "region": ""
+    },
+    {
+      "name": "浮梁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-087"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "淮上",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-155"
+      ],
+      "visit_hints": [
+        "喜会故人"
+      ],
+      "region": ""
+    },
+    {
+      "name": "淮南",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-335"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "淮河",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-031"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "淮西",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-088"
+      ],
+      "visit_hints": [
+        "史事诗"
+      ],
+      "region": ""
+    },
+    {
+      "name": "清淮",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-064"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渔梁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-067"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渠黎",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-073"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渭城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-268"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渭川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-051"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渭水",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-320"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渭河",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-016"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "渼陂",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-346"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "湓江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-087"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "湖北",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-246"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "湖州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-245"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "湘江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-085"
+      ],
+      "visit_hints": [
+        "永州潇湘"
+      ],
+      "region": ""
+    },
+    {
+      "name": "滁州东郊",
+      "aliases": [
+        "滁州东郊一带"
+      ],
+      "poem_ids": [
+        "ts300-032"
+      ],
+      "visit_hints": [
+        "春日出郊可背"
+      ],
+      "region": ""
+    },
+    {
+      "name": "滟滪堆",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "潇水",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-035"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "瀚海",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-089"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "灞陵",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-030"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "燕台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-309"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "燕地",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-007"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "燕然",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-096"
+      ],
+      "visit_hints": [
+        "与其一成对"
+      ],
+      "region": ""
+    },
+    {
+      "name": "牛渚",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-119"
+      ],
+      "visit_hints": [
+        "怀谢尚"
+      ],
+      "region": ""
+    },
+    {
+      "name": "狼山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-089"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "玄武湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-264"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "玉垒山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-281"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "瑶池",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-258"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "瓜洲",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-295"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "疏勒",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-092"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "白帝",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-079"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "白狼河",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-300"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "白门",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-307"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "白鹭洲",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-284"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "百越",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-326"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "盱眙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-031"
+      ],
+      "visit_hints": [
+        "江苏盱眙淮上可对照"
+      ],
+      "region": ""
+    },
+    {
+      "name": "瞿塘峡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-344"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "石头城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-285"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "石门山（常建访王昌龄隐居）",
+      "aliases": [
+        "石门山一带（常建访王昌龄隐居）"
+      ],
+      "poem_ids": [
+        "ts300-024"
+      ],
+      "visit_hints": [
+        "访隐清溪意境"
+      ],
+      "region": ""
+    },
+    {
+      "name": "石鱼湖",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-080"
+      ],
+      "visit_hints": [
+        "湖南道县一带"
+      ],
+      "region": ""
+    },
+    {
+      "name": "破山寺",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-113"
+      ],
+      "visit_hints": [
+        "题后禅院"
+      ],
+      "region": ""
+    },
+    {
+      "name": "碣石",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-089"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "祝融",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-083"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "秦地",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-302"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "空谷",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-010"
+      ],
+      "visit_hints": [
+        "可对照秦岭山居清泉修竹意境"
+      ],
+      "region": ""
+    },
+    {
+      "name": "筹笔驿",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-308"
+      ],
+      "visit_hints": [
+        "四川广元筹笔驿"
+      ],
+      "region": ""
+    },
+    {
+      "name": "紫禁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-333"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "紫阁峰",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-346"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "芙蓉楼",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-225"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "芜城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-338"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "苏州吴宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-017"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "苏武庙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-331"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "若耶",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-303"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "荆州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-230"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "荆蛮",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-082"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "莫愁堂",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-311"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "萧关",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-036"
+      ],
+      "visit_hints": [
+        "宁夏固原萧关一带可对照"
+      ],
+      "region": ""
+    },
+    {
+      "name": "蓝田",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-279"
+      ],
+      "visit_hints": [
+        "陕西蓝田玉山文化线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "蓟门",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-309"
+      ],
+      "visit_hints": [
+        "北京蓟门烟树一带"
+      ],
+      "region": ""
+    },
+    {
+      "name": "蓬莱",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-086"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "蜀道",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-094"
+      ],
+      "visit_hints": [
+        "剑门关、蜀道"
+      ],
+      "region": ""
+    },
+    {
+      "name": "衡岳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-083"
+      ],
+      "visit_hints": [
+        "湖南南岳衡山"
+      ],
+      "region": ""
+    },
+    {
+      "name": "衡阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-327"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "襄阳山寺",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-020"
+      ],
+      "visit_hints": [
+        "山寺夜宿意境"
+      ],
+      "region": ""
+    },
+    {
+      "name": "西域",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-231"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "西塞山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-285"
+      ],
+      "visit_hints": [
+        "湖北黄石西塞山"
+      ],
+      "region": ""
+    },
+    {
+      "name": "西安长安区",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-005"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "西江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-119"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "西涧",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-233"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "诸暨浣纱",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-017"
+      ],
+      "visit_hints": [
+        "浙江诸暨西施故里可联想"
+      ],
+      "region": ""
+    },
+    {
+      "name": "谢朓楼",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-301"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "谢脁楼",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-071"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "谷口",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-154"
+      ],
+      "visit_hints": [
+        "书斋寄友"
+      ],
+      "region": ""
+    },
+    {
+      "name": "贺兰山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-092"
+      ],
+      "visit_hints": [
+        "边将主题"
+      ],
+      "region": ""
+    },
+    {
+      "name": "贾谊宅",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-314"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "赤壁",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-246"
+      ],
+      "visit_hints": [
+        "湖北赤壁古战场文化线"
+      ],
+      "region": ""
+    },
+    {
+      "name": "走马川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-072"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "越溪",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-052"
+      ],
+      "visit_hints": [
+        "浙江诸暨苎萝西施故里"
+      ],
+      "region": ""
+    },
+    {
+      "name": "车师",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-072"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "辽东",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-062"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "辽西",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-212"
+      ],
+      "visit_hints": [
+        "春怨闺情题材"
+      ],
+      "region": ""
+    },
+    {
+      "name": "辽阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-300"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "逻娑",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-066"
+      ],
+      "visit_hints": [
+        "音乐诗，可对文姬故事"
+      ],
+      "region": ""
+    },
+    {
+      "name": "道州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-026"
+      ],
+      "visit_hints": [
+        "可联湖南道州相关史地"
+      ],
+      "region": ""
+    },
+    {
+      "name": "鄂州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-332"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "鄜州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-121"
+      ],
+      "visit_hints": [
+        "望月思家"
+      ],
+      "region": ""
+    },
+    {
+      "name": "金光门",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-123"
+      ],
+      "visit_hints": [
+        "再经此门"
+      ],
+      "region": ""
+    },
+    {
+      "name": "金谷园",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-253"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "金陵渡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-295"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "锦亭",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-078"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "锦城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-094"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "锦江",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-281"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "锦里",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-308"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "长信宫",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-270"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "长城",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-037"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "长干里",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "长风沙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-040"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "阆州",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-127"
+      ],
+      "visit_hints": [
+        "别房琯墓"
+      ],
+      "region": ""
+    },
+    {
+      "name": "阳关",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-268"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "陇上",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-331"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "陇右",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-213"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "陇西",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-265"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "陕北",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-265"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "集灵台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-297"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "青泥",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-094"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "颍川",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-099"
+      ],
+      "visit_hints": [
+        "与前二首成组"
+      ],
+      "region": ""
+    },
+    {
+      "name": "风陵渡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-197"
+      ],
+      "visit_hints": [
+        "黄河风陵渡一带"
+      ],
+      "region": ""
+    },
+    {
+      "name": "首阳",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-099"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "香炉峰",
+      "aliases": [],
+      "poem_ids": [
+        "tang-004"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "香积寺",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-135"
+      ],
+      "visit_hints": [
+        "过香积寺"
+      ],
+      "region": ""
+    },
+    {
+      "name": "马嵬",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-086"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "马嵬坡",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-262"
+      ],
+      "visit_hints": [
+        "陕西兴平马嵬驿遗址"
+      ],
+      "region": ""
+    },
+    {
+      "name": "黄石",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-285"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "黄金台",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-098"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "黄龙",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-110"
+      ],
+      "visit_hints": [
+        "边怨主题"
+      ],
+      "region": ""
+    },
+    {
+      "name": "黑山",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-238"
+      ],
+      "visit_hints": [],
+      "region": ""
+    },
+    {
+      "name": "龟兹",
+      "aliases": [],
+      "poem_ids": [
+        "ts300-065"
+      ],
+      "visit_hints": [
+        "西域乐器主题"
+      ],
+      "region": ""
+    }
+  ],
+  "meta": {
+    "count": 328
+  }
+}
