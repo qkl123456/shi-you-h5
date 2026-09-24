@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "重庆",
-        "三峡"
+        "三峡",
+        "重庆"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -5093,8 +5093,8 @@
         "崇州",
         "陕西",
         "西安",
-        "四川",
-        "成都"
+        "成都",
+        "四川"
       ],
       "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -8103,8 +8103,8 @@
       ],
       "places": [
         "白帝城",
-        "重庆",
-        "奉节"
+        "奉节",
+        "重庆"
       ],
       "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
       "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
@@ -11636,15 +11636,24 @@
       "places": [
         "武侯祠",
         "成都",
-        "四川",
-        "奉节"
+        "奉节",
+        "四川"
       ],
-      "geo_notes": "咏诸葛亮；云霄一羽毛。",
+      "geo_notes": "咏诸葛亮；云霄一羽毛。地名今释：奉节（唐时称夔州）。",
       "travel_tip": "成都武侯祠。",
       "has_card": true,
       "front": "assets/cards/front-293.png",
       "back": "assets/cards/back-293.png",
       "illustration": "assets/cards/front-293.png",
+      "place_captions": [
+        {
+          "place": "奉节",
+          "ancient": [
+            "夔州"
+          ],
+          "note": "唐时称夔州"
+        }
+      ],
       "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其五颂诸葛，写宗臣遗像、志决身歼。",
       "meaning": "诸葛大名垂宇宙，宗臣遗像肃清高；三分割据纡筹策，万古云霄一羽毛。伯仲之间见伊吕，指挥若定失萧曹；运移汉祚终难复，志决身歼军务劳。",
       "geo": "宗臣遗像指武侯祠祀，夔州／成都皆有武侯祠；诗咏诸葛一生，地景以武侯祠（今四川成都可对读，奉节亦邻近）为主。",
@@ -12499,13 +12508,19 @@
         "闻道欲来相问讯",
         "西楼望月几回圆"
       ],
-      "places": [],
+      "places": [
+        "苏州"
+      ],
       "geo_notes": "邑有流亡愧俸钱。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-316.png"
+      "travel_tip": "西楼望月可对读；可对「身多疾病思田里，邑有流亡愧俸钱」。",
+      "has_card": true,
+      "front": "assets/cards/front-316.png",
+      "back": "assets/cards/back-316.png",
+      "illustration": "assets/cards/front-316.png",
+      "poet": "韦应物（约737—约791），京兆人，有「韦苏州」之称。本库题名去重约十二首；《寄李儋元锡》写花开又一年、愧俸钱。",
+      "meaning": "去年花里逢君别，今日花开又一年；世事茫茫难自料，春愁黯黯独成眠。身多疾病思田里，邑有流亡愧俸钱；闻道欲来相问讯，西楼望月几回圆。",
+      "geo": "寄友问讯、西楼望月；邑有流亡为郡斋民事。无专指一城，地景以中唐州郡西楼意象为主（韦苏州任所有苏、滁等）。",
+      "visit": "西楼望月可对读；可对「身多疾病思田里，邑有流亡愧俸钱」。"
     },
     {
       "id": "ts300-317",
@@ -12534,10 +12549,10 @@
       ],
       "geo_notes": "万国衣冠拜冕旒。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安大明宫遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-317.png",
+      "has_card": true,
+      "front": "assets/cards/front-317.png",
+      "back": "assets/cards/back-317.png",
+      "illustration": "assets/cards/front-317.png",
       "place_captions": [
         {
           "place": "西安",
@@ -12546,7 +12561,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《和贾舍人早朝大明宫之作》写万国衣冠、佩声凤池。",
+      "meaning": "绛帻鸡人报晓筹，尚衣方进翠云裘；九天阊阖开宫殿，万国衣冠拜冕旒。日色才临仙掌动，香烟欲傍衮龙浮；朝罢须裁五色诏，佩声归到凤池头。",
+      "geo": "大明宫为唐长安朝会正殿所在，地望今陕西西安大明宫遗址。早朝唱和，地景以西安大明宫为主。",
+      "visit": "陕西西安大明宫遗址；可对「九天阊阖开宫殿，万国衣冠拜冕旒」。"
     },
     {
       "id": "ts300-318",
@@ -12575,10 +12594,10 @@
       ],
       "geo_notes": "岑参早朝和作。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安大明宫遗址。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-318.png",
+      "has_card": true,
+      "front": "assets/cards/front-318.png",
+      "back": "assets/cards/back-318.png",
+      "illustration": "assets/cards/front-318.png",
       "place_captions": [
         {
           "place": "西安",
@@ -12587,7 +12606,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "岑参（约715—770），南阳人。本库题名去重约七首；《奉和中书舍人贾至早朝大明宫》写金阙晓钟、凤凰池上客。",
+      "meaning": "鸡鸣紫陌曙光寒，莺啭皇州春色阑；金阙晓钟开万户，玉阶仙仗拥千官。花迎剑佩星初落，柳拂旌旗露未干；独有凤凰池上客，阳春一曲和皆难。",
+      "geo": "大明宫朝会，皇州即长安，地望今陕西西安。金阙玉阶早朝，地景以西安大明宫为主。",
+      "visit": "陕西西安大明宫遗址；可对「金阙晓钟开万户，玉阶仙仗拥千官」。"
     },
     {
       "id": "ts300-319",
@@ -12614,11 +12637,11 @@
         "西安"
       ],
       "geo_notes": "省中啼鸟吏人稀。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-319.png",
+      "travel_tip": "陕西西安（宫省意象）；可对「强欲从君无那老，将因卧病解朝衣」。",
+      "has_card": true,
+      "front": "assets/cards/front-319.png",
+      "back": "assets/cards/back-319.png",
+      "illustration": "assets/cards/front-319.png",
       "place_captions": [
         {
           "place": "西安",
@@ -12627,7 +12650,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《赠郭给事》写禁里疏钟、卧病解朝衣。",
+      "meaning": "洞门高阁霭余辉，桃李阴阴柳絮飞；禁里疏钟官舍晚，省中啼鸟吏人稀。晨摇玉佩趋金殿，夕奉天书拜琐闱；强欲从君无那老，将因卧病解朝衣。",
+      "geo": "禁里官舍、金殿琐闱皆长安宫省意象，地望今陕西西安。赠郭给事，地景以西安宫省为主。",
+      "visit": "陕西西安（宫省意象）；可对「强欲从君无那老，将因卧病解朝衣」。"
     },
     {
       "id": "ts300-320",
@@ -12653,14 +12680,19 @@
       "places": [
         "西安",
         "兴庆宫",
-        "渭河"
+        "渭河",
+        "大明宫"
       ],
       "geo_notes": "阁道春望；雨中春树万人家。",
       "travel_tip": "西安兴庆宫公园一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-320.png"
+      "has_card": true,
+      "front": "assets/cards/front-320.png",
+      "back": "assets/cards/back-320.png",
+      "illustration": "assets/cards/front-320.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；此应制写阁道春望、雨中帝城。",
+      "meaning": "渭水自萦秦塞曲，黄山旧绕汉宫斜；銮舆迥出千门柳，阁道回看上苑花。云里帝城双凤阙，雨中春树万人家；为乘阳气行时令，不是宸游玩物华。",
+      "geo": "蓬莱宫（大明宫）至兴庆宫阁道在唐长安城东，地望今陕西西安；渭水绕秦塞。春雨中春望应制，地景以西安阁道／兴庆宫一线为主。",
+      "visit": "陕西西安大明宫／兴庆宫；可对「云里帝城双凤阙，雨中春树万人家」。"
     },
     {
       "id": "ts300-321",
@@ -12875,8 +12907,8 @@
         "衡阳",
         "白帝城",
         "长沙",
-        "重庆",
-        "奉节"
+        "奉节",
+        "重庆"
       ],
       "geo_notes": "送两少府贬谪。",
       "travel_tip": "重庆奉节白帝城；湖南长沙。",
@@ -13602,7 +13634,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 315,
+    "cards": 320,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
