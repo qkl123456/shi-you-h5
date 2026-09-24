@@ -1502,10 +1502,14 @@
       ],
       "geo_notes": "西北边关。",
       "travel_tip": "宁夏固原萧关一带可对照。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-036.png"
+      "has_card": true,
+      "front": "assets/cards/front-036.png",
+      "back": "assets/cards/back-036.png",
+      "illustration": "assets/cards/front-036.png",
+      "poet": "王昌龄（约698—757），京兆人，后世称「七绝圣手」。本库题名去重约八首；《塞上曲》写萧关道出塞寒苦，戒游侠矜夸。",
+      "meaning": "八月萧关道、出塞入塞寒，黄芦草遍；幽并客共尘沙老，莫学游侠矜夸紫骝，边塞短章写征人苦与警醒。",
+      "geo": "萧关在今宁夏固原一带，唐西北边关要道；诗写塞上寒苦，地景以固原萧关线为主。",
+      "visit": "宁夏固原萧关一带；边塞博物馆／长城遗址可对照。"
     },
     {
       "id": "ts300-037",
@@ -1533,10 +1537,14 @@
       ],
       "geo_notes": "陇右边地。",
       "travel_tip": "甘肃临洮长城线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-037.png"
+      "has_card": true,
+      "front": "assets/cards/front-037.png",
+      "back": "assets/cards/back-037.png",
+      "illustration": "assets/cards/front-037.png",
+      "poet": "王昌龄（约698—757），京兆人。本库题名去重约八首；《塞下曲》写临洮平沙、长城白骨，边战苍凉。",
+      "meaning": "饮马秋水寒风似刀，平沙日未没而见临洮；昔日长城战意气高，而黄尘今古、白骨蓬蒿，边塞征战之悲。",
+      "geo": "临洮在今甘肃定西临洮一带，陇右边地；长城战地为边塞坐标。",
+      "visit": "甘肃临洮长城线；陇右边塞遗址可对读。"
     },
     {
       "id": "ts300-038",
@@ -1572,10 +1580,14 @@
       ],
       "geo_notes": "西域关山。",
       "travel_tip": "敦煌玉门关可对读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-038.png"
+      "has_card": true,
+      "front": "assets/cards/front-038.png",
+      "back": "assets/cards/back-038.png",
+      "illustration": "assets/cards/front-038.png",
+      "poet": "李白（701—762），字太白，号青莲居士。本库题名去重约三十七首；《关山月》写天山月、玉门关，戍客思归。",
+      "meaning": "明月出天山苍茫云海，长风吹度玉门关；白登青海皆征战地不见人还，戍客苦颜、高楼叹息，边月中见乡思。",
+      "geo": "天山在今新疆；玉门关在甘肃敦煌西北；青海为西北边地。西域关山的地理坐标。",
+      "visit": "甘肃敦煌玉门关遗址线；新疆天山可对照月出云海意象。"
     },
     {
       "id": "ts300-039",
@@ -1597,14 +1609,15 @@
       ],
       "places": [
         "西安",
-        "玉门关"
+        "玉门关",
+        "敦煌"
       ],
       "geo_notes": "京城秋夜捣衣。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安城夜景可联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-039.png",
+      "has_card": true,
+      "front": "assets/cards/front-039.png",
+      "back": "assets/cards/back-039.png",
+      "illustration": "assets/cards/front-039.png",
       "place_captions": [
         {
           "place": "西安",
@@ -1613,7 +1626,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《子夜吴歌·秋歌》写长安秋月捣衣，心系玉关征人。",
+      "meaning": "长安一片月、万户捣衣声，秋风不尽皆玉关情；何日平胡虏、良人罢远征，闺怨与边思一笔。",
+      "geo": "长安即今陕西西安；玉关即玉门关（敦煌西北）。京城秋夜与西北边关遥相呼应。",
+      "visit": "西安古城夜景／秋月；可对「万户捣衣声」。"
     },
     {
       "id": "ts300-040",
@@ -1659,16 +1676,17 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
-        "夫子庙"
+        "长江",
+        "夫子庙",
+        "三峡"
       ],
       "geo_notes": "金陵长干至长江上游。地名今释：南京（唐时称金陵）。",
       "travel_tip": "南京长干里/夫子庙一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-040.png",
+      "has_card": true,
+      "front": "assets/cards/front-040.png",
+      "back": "assets/cards/back-040.png",
+      "illustration": "assets/cards/front-040.png",
       "place_captions": [
         {
           "place": "南京",
@@ -1677,7 +1695,11 @@
           ],
           "note": "唐时称金陵"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《长干行》写金陵长干里青梅竹马，郎行瞿塘，妾待长风沙。",
+      "meaning": "长干里两小无猜，十四为妇愿同尘灰；十六君远行瞿塘滟滪，门前绿苔、红颜坐愁，期下三巴直至长风沙相迎，江南商妇之盼。",
+      "geo": "长干里在金陵（今南京）城南；瞿塘滟滪在长江三峡奉节一带；长风沙在今安徽安庆附近。自南京至江上游的商旅地理。",
+      "visit": "南京长干里／夫子庙一带；三峡奉节可对照瞿塘远行。"
     },
     {
       "id": "ts300-041",
@@ -12355,7 +12377,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 45,
+    "cards": 50,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
