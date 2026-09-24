@@ -1674,8 +1674,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -3382,7 +3382,6 @@
       ],
       "places": [
         "岳阳",
-        "洞庭",
         "湖南"
       ],
       "geo_notes": "思岳阳寄韩注。",
@@ -3538,8 +3537,7 @@
       "places": [
         "道县",
         "君山",
-        "岳阳",
-        "洞庭"
+        "岳阳"
       ],
       "geo_notes": "道州石鱼湖。地名今释：岳阳（古称巴丘）。",
       "travel_tip": "湖南道县一带。",
@@ -3648,7 +3646,7 @@
         "有酒不饮奈明何"
       ],
       "places": [
-        "洞庭",
+        "岳阳",
         "宁远",
         "荆州",
         "郴州"
@@ -5921,8 +5919,7 @@
         "凭轩涕泗流"
       ],
       "places": [
-        "岳阳",
-        "洞庭"
+        "岳阳"
       ],
       "geo_notes": "登楼。",
       "travel_tip": "登楼。",
@@ -6095,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6199,14 +6196,20 @@
         "留醉与山翁"
       ],
       "places": [
-        "汉江"
+        "汉江",
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-137.png"
+      "has_card": true,
+      "front": "assets/cards/front-137.png",
+      "back": "assets/cards/back-137.png",
+      "illustration": "assets/cards/front-137.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《汉江临眺》写江流山色，结以襄阳风日。",
+      "meaning": "楚塞三湘接，荆门九派通；江流天地外，山色有无中。郡邑浮前浦，波澜动远空；襄阳好风日，留醉与山翁。",
+      "geo": "汉江临眺，诗点襄阳；地景以湖北襄阳汉江为主，汉水上下（含陕西汉中一带）可对照。",
+      "visit": "湖北襄阳汉江；陕西汉中汉江上游亦可对读「江流天地外，山色有无中」。"
     },
     {
       "id": "ts300-138",
@@ -6233,10 +6236,14 @@
       ],
       "geo_notes": "别业",
       "travel_tip": "别业",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-138.png"
+      "has_card": true,
+      "front": "assets/cards/front-138.png",
+      "back": "assets/cards/back-138.png",
+      "illustration": "assets/cards/front-138.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《终南别业》名句「行到水穷处，坐看云起时」。",
+      "meaning": "中岁颇好道，晚家南山陲；兴来每独往，胜事空自知。行到水穷处，坐看云起时；偶然值林叟，谈笑无还期。",
+      "geo": "南山即终南，别业在今陕西西安南。隐逸闲居，地景以西安／终南为主。",
+      "visit": "陕西西安终南别业／终南一线；可对「行到水穷处，坐看云起时」。"
     },
     {
       "id": "ts300-139",
@@ -6260,15 +6267,18 @@
         "徒有羡鱼情"
       ],
       "places": [
-        "洞庭",
         "岳阳"
       ],
       "geo_notes": "干谒张九龄；通作临洞庭上张丞相",
       "travel_tip": "干谒张九龄；通作临洞庭上张丞相",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-139.png"
+      "has_card": true,
+      "front": "assets/cards/front-139.png",
+      "back": "assets/cards/back-139.png",
+      "illustration": "assets/cards/front-139.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；临洞庭上张丞相（张九龄），名句「气蒸云梦泽，波撼岳阳城」。",
+      "meaning": "八月湖水平，涵虚混太清；气蒸云梦泽，波撼岳阳城。欲济无舟楫，端居耻圣明；坐观垂钓者，徒有羡鱼情。",
+      "geo": "洞庭、岳阳城在今湖南岳阳。干谒写湖势，地景以岳阳／洞庭为主。",
+      "visit": "湖南岳阳（洞庭／岳阳楼一带）；可对「气蒸云梦泽，波撼岳阳城」。"
     },
     {
       "id": "ts300-140",
@@ -6291,15 +6301,18 @@
         "读罢泪沾襟"
       ],
       "places": [
-        "岘山",
         "襄阳"
       ],
       "geo_notes": "登岘山",
       "travel_tip": "登岘山",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-140.png"
+      "has_card": true,
+      "front": "assets/cards/front-140.png",
+      "back": "assets/cards/back-140.png",
+      "illustration": "assets/cards/front-140.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；与诸子登岘山，怀羊祜碑而泪沾襟。",
+      "meaning": "人事有代谢，往来成古今；江山留胜迹，我辈复登临。水落鱼梁浅，天寒梦泽深；羊公碑尚在，读罢泪沾襟。",
+      "geo": "岘山在今湖北襄阳。登临怀古，地景以襄阳岘山为主（渔梁等为襄阳近景）。",
+      "visit": "湖北襄阳岘山；可对「江山留胜迹，我辈复登临」。"
     },
     {
       "id": "ts300-141",
@@ -6321,13 +6334,19 @@
         "童颜若可驻",
         "何惜醉流霞"
       ],
-      "places": [],
+      "places": [
+        "襄阳"
+      ],
       "geo_notes": "宴道士山房",
       "travel_tip": "宴道士山房",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-141.png"
+      "has_card": true,
+      "front": "assets/cards/front-141.png",
+      "back": "assets/cards/back-141.png",
+      "illustration": "assets/cards/front-141.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；宴梅道士山房，写仙家金灶、醉流霞。",
+      "meaning": "林卧愁春尽，开轩览物华；忽逢青鸟使，邀入赤松家。金灶初开火，仙桃正发花；童颜若可驻，何惜醉流霞。",
+      "geo": "宴道士山房，未坐实单一宫观；多与襄阳隐逸交游线联想，地望今湖北襄阳一带。",
+      "visit": "湖北襄阳隐逸／道观文化线可对读；可对「金灶初开火，仙桃正发花」。"
     },
     {
       "id": "ts300-142",
@@ -6529,7 +6548,7 @@
         "平海夕漫漫"
       ],
       "places": [
-        "洞庭",
+        "岳阳",
         "西安"
       ],
       "geo_notes": "亦作早寒江上有怀。地名今释：西安（唐时称长安）。",
@@ -9870,7 +9889,7 @@
       ],
       "places": [
         "湖南",
-        "洞庭"
+        "岳阳"
       ],
       "geo_notes": "雁过潇湘；十二楼月明。",
       "travel_tip": "潇湘洞庭文化线。",
@@ -12350,7 +12369,6 @@
         "武汉",
         "鹦鹉洲",
         "岳阳",
-        "洞庭",
         "汉口",
         "长沙"
       ],
@@ -12768,7 +12786,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 145,
+    "cards": 150,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
