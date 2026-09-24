@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6207,8 +6207,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6685,8 +6685,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -10881,10 +10881,14 @@
       ],
       "geo_notes": "沉香亭北倚阑。",
       "travel_tip": "西安兴庆宫沉香亭。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-274.png"
+      "has_card": true,
+      "front": "assets/cards/front-274.png",
+      "back": "assets/cards/back-274.png",
+      "illustration": "assets/cards/front-274.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《清平调》其三写名花倾国、沉香亭北。",
+      "meaning": "名花倾国两相欢，常得君王带笑看；解释春风无限恨，沉香亭北倚阑干。花与人两相欢，一结点明沉香亭。",
+      "geo": "沉香亭在唐长安兴庆宫，地望今陕西西安。清平调其三点题亭北倚阑，地景以西安兴庆宫／沉香亭为主。",
+      "visit": "陕西西安兴庆宫／沉香亭；可对「解释春风无限恨，沉香亭北倚阑干」。"
     },
     {
       "id": "ts300-275",
@@ -10907,14 +10911,15 @@
         "黄河",
         "玉门关",
         "敦煌",
-        "武威"
+        "武威",
+        "阴山"
       ],
       "geo_notes": "一作《凉州词》；玉门关在敦煌西北。地名今释：武威（唐时称凉州）。",
       "travel_tip": "敦煌玉门关、黄河上游线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-275.png",
+      "has_card": true,
+      "front": "assets/cards/front-275.png",
+      "back": "assets/cards/back-275.png",
+      "illustration": "assets/cards/front-275.png",
       "place_captions": [
         {
           "place": "武威",
@@ -10923,7 +10928,11 @@
           ],
           "note": "唐时称凉州"
         }
-      ]
+      ],
+      "poet": "王之涣（688—742），晋阳（今太原）人，与王昌龄、高适齐名。本库题名去重二首；《出塞》写黄河孤城、春风不度玉门。",
+      "meaning": "黄河远上白云间，一片孤城万仞山；羌笛何须怨杨柳，春风不度玉门关。河西边塞气象，玉门春风不到。",
+      "geo": "黄河上游远望入云；玉门关在河西，地望今甘肃敦煌西北。孤城万仞为关外意象，地景以黄河／玉门关一线为主（与王昌龄《出塞》阴山异地）。",
+      "visit": "甘肃敦煌玉门关；黄河上游峡谷可对读；可对「春风不度玉门关」。"
     },
     {
       "id": "ts300-276",
@@ -10942,13 +10951,19 @@
         "花开堪折直须折",
         "莫待无花空折枝"
       ],
-      "places": [],
+      "places": [
+        "南京"
+      ],
       "geo_notes": "杜秋娘歌；一作李锜妾作。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-276.png"
+      "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
+      "has_card": true,
+      "front": "assets/cards/front-276.png",
+      "back": "assets/cards/back-276.png",
+      "illustration": "assets/cards/front-276.png",
+      "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
+      "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
+      "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
+      "visit": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。"
     },
     {
       "id": "ts300-277",
@@ -11063,10 +11078,14 @@
       ],
       "geo_notes": "蓝田玉烟；义山代表作。",
       "travel_tip": "陕西蓝田玉山文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-279.png"
+      "has_card": true,
+      "front": "assets/cards/front-279.png",
+      "back": "assets/cards/back-279.png",
+      "illustration": "assets/cards/front-279.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《锦瑟》写五十弦华年、蓝田日暖、当时惘然。",
+      "meaning": "锦瑟无端五十弦，一弦一柱思华年；庄生晓梦、望帝杜鹃，沧海月明、蓝田日暖；此情可待成追忆，只是当时已惘然。",
+      "geo": "蓝田指今陕西蓝田，以美玉生烟著称；沧海珠泪为意象对照。感怀华年，地景以蓝田为主，不必坐实瑟之所在。",
+      "visit": "陕西蓝田；可对「沧海月明珠有泪，蓝田日暖玉生烟」。"
     },
     {
       "id": "ts300-280",
@@ -11091,14 +11110,19 @@
       ],
       "places": [
         "成都",
-        "武侯祠"
+        "武侯祠",
+        "四川"
       ],
       "geo_notes": "成都武侯祠咏诸葛亮。",
       "travel_tip": "成都武侯祠必访。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-280.png"
+      "has_card": true,
+      "front": "assets/cards/front-280.png",
+      "back": "assets/cards/back-280.png",
+      "illustration": "assets/cards/front-280.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《蜀相》寻丞相祠堂，结以出师未捷泪满襟。",
+      "meaning": "丞相祠堂何处寻，锦官城外柏森森；映阶碧草、隔叶黄鹂。三顾频烦、两朝开济；出师未捷身先死，长使英雄泪满襟。",
+      "geo": "丞相祠堂即武侯祠，在锦官城（成都）郊外，地望今四川成都。怀诸葛，地景以成都武侯祠为主。",
+      "visit": "四川成都武侯祠；可对「出师未捷身先死，长使英雄泪满襟」。"
     },
     {
       "id": "ts300-281",
@@ -13411,7 +13435,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 275,
+    "cards": 280,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
