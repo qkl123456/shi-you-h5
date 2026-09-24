@@ -917,6 +917,20 @@
       "subtitle": ""
     },
     {
+      "name": "剑阁",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-094",
+        "ts300-103",
+        "ts300-283",
+        "ts300-308"
+      ],
+      "visit_hints": [],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "夫子庙",
       "aliases": [],
       "ancient_names": [],
@@ -1104,19 +1118,6 @@
         "可对「裁缝寄远道，几日到临洮」"
       ],
       "region": "临洮",
-      "subtitle": ""
-    },
-    {
-      "name": "剑阁",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-094",
-        "ts300-103",
-        "ts300-283"
-      ],
-      "visit_hints": [],
-      "region": "",
       "subtitle": ""
     },
     {
@@ -1831,7 +1832,8 @@
       ],
       "visit_hints": [
         "山东蓬莱（蓬山意象）",
-        "可对「春蚕到死丝方尽，蜡炬成灰泪始干」"
+        "可对「春蚕到死丝方尽，蜡炬成灰泪始干」",
+        "可对「刘郎已恨蓬山远，更隔蓬山一万重」"
       ],
       "region": "山东",
       "subtitle": ""
@@ -3504,7 +3506,7 @@
     ],
     "mapping_stats": {
       "ancient_keys": 251,
-      "rename_events": 281,
+      "rename_events": 279,
       "examples": [
         {
           "from": "曲江",

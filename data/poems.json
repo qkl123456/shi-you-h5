@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -7299,21 +7299,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -10954,21 +10945,12 @@
       "places": [
         "南京"
       ],
-      "geo_notes": "杜秋娘歌；一作李锜妾作。地名今释：南京（唐时称金陵）。",
+      "geo_notes": "杜秋娘歌；一作李锜妾作。",
       "travel_tip": "少年／花开可对读；可对「花开堪折直须折，莫待无花空折枝」。",
       "has_card": true,
       "front": "assets/cards/front-276.png",
       "back": "assets/cards/back-276.png",
       "illustration": "assets/cards/front-276.png",
-      "place_captions": [
-        {
-          "place": "南京",
-          "ancient": [
-            "金陵"
-          ],
-          "note": "唐时称金陵"
-        }
-      ],
       "poet": "杜秋娘（生卒年不详），金陵女子，杜牧《杜秋娘诗》叙其本事。本库题名去重一首；《金缕衣》劝惜少年、花开堪折。",
       "meaning": "劝君莫惜金缕衣，劝君惜取少年时；花开堪折直须折，莫待无花空折枝。以金缕衣反衬少年时光，劝诫惜时。",
       "geo": "金缕衣、折花为劝诫意象，无专指地理；本事常联金陵，地望今江苏南京，不必坐实单一处所。",
@@ -12144,11 +12126,15 @@
         "蓬莱"
       ],
       "geo_notes": "义山无题；蓬山一万重。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-306.png"
+      "travel_tip": "山东蓬莱（蓬山意象）；可对「刘郎已恨蓬山远，更隔蓬山一万重」。",
+      "has_card": true,
+      "front": "assets/cards/front-306.png",
+      "back": "assets/cards/back-306.png",
+      "illustration": "assets/cards/front-306.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》来是空言写五更钟、蓬山一万重。",
+      "meaning": "来是空言去绝踪，月斜楼上五更钟；梦为远别啼难唤，书被催成墨未浓。蜡照金翡翠、麝熏绣芙蓉；刘郎已恨蓬山远，更隔蓬山一万重。",
+      "geo": "蓬山即蓬莱仙山意象，刘郎用刘晨典故；相思阻隔以蓬山重重为主，今山东蓬莱可作意象对读，不必坐实单一峰谷。",
+      "visit": "山东蓬莱（蓬山意象）；可对「刘郎已恨蓬山远，更隔蓬山一万重」。"
     },
     {
       "id": "ts300-307",
@@ -12175,11 +12161,11 @@
         "南京"
       ],
       "geo_notes": "红楼隔雨；珠箔飘灯。地名今释：南京（古称白门）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-307.png",
+      "travel_tip": "江苏南京（白门）；可对「红楼隔雨相望冷，珠箔飘灯独自归」。",
+      "has_card": true,
+      "front": "assets/cards/front-307.png",
+      "back": "assets/cards/back-307.png",
+      "illustration": "assets/cards/front-307.png",
       "place_captions": [
         {
           "place": "南京",
@@ -12188,7 +12174,11 @@
           ],
           "note": "古称白门"
         }
-      ]
+      ],
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《春雨》写白门寥落、红楼隔雨。",
+      "meaning": "怅卧新春白袷衣，白门寥落意多违；红楼隔雨相望冷，珠箔飘灯独自归。远路春晚、残宵梦依稀；玉珰缄札何由达，万里云罗一雁飞。",
+      "geo": "白门为金陵别称，地望今江苏南京。春雨红楼、独自归，地景以南京白门一带为主。",
+      "visit": "江苏南京（白门）；可对「红楼隔雨相望冷，珠箔飘灯独自归」。"
     },
     {
       "id": "ts300-308",
@@ -12215,14 +12205,15 @@
         "广元",
         "成都",
         "武侯祠",
-        "四川"
+        "四川",
+        "剑阁"
       ],
       "geo_notes": "四川广元一带筹笔驿；武侯祠庙。地名今释：成都（古称锦里）。",
       "travel_tip": "四川广元筹笔驿；成都武侯祠。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-308.png",
+      "has_card": true,
+      "front": "assets/cards/front-308.png",
+      "back": "assets/cards/back-308.png",
+      "illustration": "assets/cards/front-308.png",
       "place_captions": [
         {
           "place": "成都",
@@ -12231,7 +12222,11 @@
           ],
           "note": "古称锦里"
         }
-      ]
+      ],
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《筹笔驿》吊诸葛，写挥神笔、锦里祠庙。",
+      "meaning": "猿鸟犹疑畏简书，风云常为护储胥；徒令上将挥神笔，终见降王走传车。管乐有才真不忝，关张无命欲何如；他年锦里经祠庙，梁父吟成恨有余。",
+      "geo": "筹笔驿在剑阁道上，地望今四川广元；锦里祠庙即成都武侯祠。怀诸葛运筹，地景以广元筹笔驿为主，成都锦里为对照。",
+      "visit": "四川广元（筹笔驿）；成都武侯祠；可对「他年锦里经祠庙，梁父吟成恨有余」。"
     },
     {
       "id": "ts300-309",
@@ -12259,10 +12254,14 @@
       ],
       "geo_notes": "望蓟门；请长缨。",
       "travel_tip": "北京蓟门烟树一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-309.png"
+      "has_card": true,
+      "front": "assets/cards/front-309.png",
+      "back": "assets/cards/back-309.png",
+      "illustration": "assets/cards/front-309.png",
+      "poet": "祖咏（约699—约746）。本库题名去重二首；《望蓟门》写燕台笳鼓、海畔蓟城。",
+      "meaning": "燕台一去客心惊，笳鼓喧喧汉将营；万里寒光生积雪，三边曙色动危旌。沙场烽火侵胡月，海畔云山拥蓟城；少小虽非投笔吏，论功还欲请长缨。",
+      "geo": "蓟门／燕台在幽州，地望今北京一带。望边城笳鼓烽火，地景以北京蓟门为主。",
+      "visit": "北京（蓟门／燕台）；可对「沙场烽火侵胡月，海畔云山拥蓟城」。"
     },
     {
       "id": "ts300-310",
@@ -12287,11 +12286,15 @@
       ],
       "places": [],
       "geo_notes": "一寸相思一寸灰。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-310.png"
+      "travel_tip": "东风细雨／芙蓉塘可对读；可对「春心莫共花争发，一寸相思一寸灰」。",
+      "has_card": true,
+      "front": "assets/cards/front-310.png",
+      "back": "assets/cards/back-310.png",
+      "illustration": "assets/cards/front-310.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》飒飒东风写芙蓉塘、一寸相思一寸灰。",
+      "meaning": "飒飒东风细雨来，芙蓉塘外有轻雷；金蟾啮锁烧香入，玉虎牵丝汲井回。贾氏窥帘、宓妃留枕；春心莫共花争发，一寸相思一寸灰。",
+      "geo": "芙蓉塘、金蟾玉虎为闺阁物象；贾氏／宓妃为典故。相思无专指一城，地景以东风细雨意象为主。",
+      "visit": "东风细雨／芙蓉塘可对读；可对「春心莫共花争发，一寸相思一寸灰」。"
     },
     {
       "id": "ts300-311",
@@ -13569,7 +13572,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 305,
+    "cards": 310,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
