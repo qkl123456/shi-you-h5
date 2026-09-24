@@ -61,6 +61,7 @@
         "ts300-144",
         "ts300-146",
         "ts300-154",
+        "ts300-169",
         "ts300-216",
         "ts300-222",
         "ts300-224",
@@ -306,6 +307,33 @@
       "subtitle": "古称：锦城、锦里"
     },
     {
+      "name": "岳阳",
+      "aliases": [],
+      "ancient_names": [
+        "巴丘"
+      ],
+      "poem_ids": [
+        "ts300-077",
+        "ts300-080",
+        "ts300-082",
+        "ts300-129",
+        "ts300-139",
+        "ts300-161",
+        "ts300-170",
+        "ts300-261",
+        "ts300-336"
+      ],
+      "visit_hints": [
+        "湖南岳阳（古称巴丘）",
+        "洞庭湖",
+        "可对「思岳阳」远望",
+        "洞庭君山可作「似洞庭」对照",
+        "洞庭"
+      ],
+      "region": "湖南",
+      "subtitle": "古称：巴丘"
+    },
+    {
       "name": "江南",
       "aliases": [],
       "ancient_names": [],
@@ -382,32 +410,6 @@
       ],
       "region": "重庆",
       "subtitle": ""
-    },
-    {
-      "name": "岳阳",
-      "aliases": [],
-      "ancient_names": [
-        "巴丘"
-      ],
-      "poem_ids": [
-        "ts300-077",
-        "ts300-080",
-        "ts300-082",
-        "ts300-129",
-        "ts300-139",
-        "ts300-161",
-        "ts300-261",
-        "ts300-336"
-      ],
-      "visit_hints": [
-        "湖南岳阳（古称巴丘）",
-        "洞庭湖",
-        "可对「思岳阳」远望",
-        "洞庭君山可作「似洞庭」对照",
-        "洞庭"
-      ],
-      "region": "湖南",
-      "subtitle": "古称：巴丘"
     },
     {
       "name": "北京",
@@ -809,6 +811,24 @@
       "subtitle": "古称：蒲州"
     },
     {
+      "name": "淮河",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-031",
+        "ts300-064",
+        "ts300-155",
+        "ts300-170"
+      ],
+      "visit_hints": [
+        "淮河沿线可宽泛对照",
+        "淮河沿线",
+        "梁州）可对读「浮云一别后，流水十年间」"
+      ],
+      "region": "华东",
+      "subtitle": ""
+    },
+    {
       "name": "渭河",
       "aliases": [],
       "ancient_names": [],
@@ -940,6 +960,24 @@
       "subtitle": ""
     },
     {
+      "name": "华山",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-169",
+        "ts300-224",
+        "ts300-329"
+      ],
+      "visit_hints": [
+        "华山一线",
+        "重阳登高",
+        "河东故乡线",
+        "陕西华阴华山"
+      ],
+      "region": "渭南",
+      "subtitle": ""
+    },
+    {
       "name": "天山",
       "aliases": [],
       "ancient_names": [],
@@ -989,23 +1027,6 @@
         "可对「长歌楚天碧」"
       ],
       "region": "永州",
-      "subtitle": ""
-    },
-    {
-      "name": "淮河",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-031",
-        "ts300-064",
-        "ts300-155"
-      ],
-      "visit_hints": [
-        "淮河沿线可宽泛对照",
-        "淮河沿线",
-        "梁州）可对读「浮云一别后，流水十年间」"
-      ],
-      "region": "华东",
       "subtitle": ""
     },
     {
@@ -1179,22 +1200,6 @@
       ],
       "visit_hints": [],
       "region": "",
-      "subtitle": ""
-    },
-    {
-      "name": "华山",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-224",
-        "ts300-329"
-      ],
-      "visit_hints": [
-        "重阳登高",
-        "河东故乡线",
-        "陕西华阴华山"
-      ],
-      "region": "渭南",
       "subtitle": ""
     },
     {
@@ -1488,6 +1493,22 @@
         "可对「会当凌绝顶，一览众山小」"
       ],
       "region": "山东",
+      "subtitle": ""
+    },
+    {
+      "name": "淮南",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-170",
+        "ts300-335"
+      ],
+      "visit_hints": [
+        "江苏淮南一带",
+        "湖南岳阳（洞庭）可对读「淮南一叶下，自觉洞庭波」",
+        "安徽"
+      ],
+      "region": "安徽",
       "subtitle": ""
     },
     {
@@ -2506,17 +2527,6 @@
       "subtitle": ""
     },
     {
-      "name": "淮南",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-335"
-      ],
-      "visit_hints": [],
-      "region": "安徽",
-      "subtitle": ""
-    },
-    {
       "name": "淮西",
       "aliases": [],
       "ancient_names": [],
@@ -2562,6 +2572,19 @@
       ],
       "visit_hints": [],
       "region": "浙江",
+      "subtitle": ""
+    },
+    {
+      "name": "潼关",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-169"
+      ],
+      "visit_hints": [
+        "陕西潼关驿楼"
+      ],
+      "region": "",
       "subtitle": ""
     },
     {
@@ -3053,7 +3076,7 @@
     }
   ],
   "meta": {
-    "count": 194,
+    "count": 195,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3118,6 +3141,7 @@
       "巴山",
       "巴峡",
       "巴陵",
+      "帝乡",
       "幽州",
       "幽州台",
       "幽燕",
@@ -3283,8 +3307,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 225,
-      "rename_events": 255,
+      "ancient_keys": 226,
+      "rename_events": 257,
       "examples": [
         {
           "from": "曲江",

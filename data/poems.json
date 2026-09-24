@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7223,12 +7223,16 @@
         "萋萋满别情"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-167.png"
+      "geo_notes": "古原送别，未坐实单一原野；离离枯荣、古道荒城为草原送别意象。",
+      "travel_tip": "古原／草原送别场景可对读；可对「野火烧不尽，春风吹又生」。",
+      "has_card": true,
+      "front": "assets/cards/front-167.png",
+      "back": "assets/cards/back-167.png",
+      "illustration": "assets/cards/front-167.png",
+      "poet": "白居易（772—846），字乐天。本库题名去重六首；《草》（赋得古原草送别）名句「野火烧不尽，春风吹又生」。",
+      "meaning": "离离原上草，一岁一枯荣；野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城；又送王孙去，萋萋满别情。",
+      "geo": "古原送别，未坐实单一原野；离离枯荣、古道荒城为草原送别意象。",
+      "visit": "古原／草原送别场景可对读；可对「野火烧不尽，春风吹又生」。"
     },
     {
       "id": "ts300-168",
@@ -7249,12 +7253,16 @@
         "门系钓鱼船"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-168.png"
+      "geo_notes": "旅馆夜宿，未坐实单一水驿；沧江烟月、钓鱼船为江上羁旅意象。",
+      "travel_tip": "江旅馆驿夜宿可对读；可对「远梦归侵晓，家书到隔年」。",
+      "has_card": true,
+      "front": "assets/cards/front-168.png",
+      "back": "assets/cards/back-168.png",
+      "illustration": "assets/cards/front-168.png",
+      "poet": "杜牧（803—852），字牧之。本库题名去重十首；《旅宿》写寒灯断雁、家书隔年。",
+      "meaning": "旅馆无良伴，凝情自悄然；寒灯思旧事，断雁警愁眠。远梦归侵晓，家书到隔年；沧江好烟月，门系钓鱼船。",
+      "geo": "旅馆夜宿，未坐实单一水驿；沧江烟月、钓鱼船为江上羁旅意象。",
+      "visit": "江旅馆驿夜宿可对读；可对「远梦归侵晓，家书到隔年」。"
     },
     {
       "id": "ts300-169",
@@ -7274,13 +7282,21 @@
         "帝乡明日到",
         "犹自梦渔樵"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-169.png"
+      "places": [
+        "潼关",
+        "华山",
+        "西安"
+      ],
+      "geo_notes": "赴阙题潼关驿楼。",
+      "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
+      "has_card": true,
+      "front": "assets/cards/front-169.png",
+      "back": "assets/cards/back-169.png",
+      "illustration": "assets/cards/front-169.png",
+      "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
+      "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
+      "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
+      "visit": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。"
     },
     {
       "id": "ts300-170",
@@ -7300,13 +7316,21 @@
         "淮南一叶下",
         "自觉洞庭波"
       ],
-      "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-170.png"
+      "places": [
+        "淮南",
+        "岳阳",
+        "淮河"
+      ],
+      "geo_notes": "早秋。",
+      "travel_tip": "安徽／江苏淮南一带；湖南岳阳（洞庭）可对读「淮南一叶下，自觉洞庭波」。",
+      "has_card": true,
+      "front": "assets/cards/front-170.png",
+      "back": "assets/cards/back-170.png",
+      "illustration": "assets/cards/front-170.png",
+      "poet": "许浑（约791—约858），字用晦。本库题名去重二首；《早秋》写残萤早雁，结以淮南叶下、洞庭波。",
+      "meaning": "遥夜泛清瑟，西风生翠萝；残萤栖玉露，早雁拂金河。高树晓还密，远山晴更多；淮南一叶下，自觉洞庭波。",
+      "geo": "早秋感兴，结句淮南与洞庭对照；洞庭地望今湖南岳阳，淮南指淮河以南一带。",
+      "visit": "安徽／江苏淮南一带；湖南岳阳（洞庭）可对读「淮南一叶下，自觉洞庭波」。"
     },
     {
       "id": "ts300-171",
@@ -7327,12 +7351,16 @@
         "我亦举家清"
       ],
       "places": [],
-      "geo_notes": "",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-171.png"
+      "geo_notes": "咏蝉托寓，未坐实单一地名；高树疏蝉、故园芜平为身世咏物意象。",
+      "travel_tip": "夏秋听蝉／园林高树可对读；可对「本以高难饱，徒劳恨费声」。",
+      "has_card": true,
+      "front": "assets/cards/front-171.png",
+      "back": "assets/cards/back-171.png",
+      "illustration": "assets/cards/front-171.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《蝉》以高难饱、树碧无情写身世之感。",
+      "meaning": "本以高难饱，徒劳恨费声；五更疏欲断，一树碧无情。薄宦梗犹泛，故园芜已平；烦君最相警，我亦举家清。",
+      "geo": "咏蝉托寓，未坐实单一地名；高树疏蝉、故园芜平为身世咏物意象。",
+      "visit": "夏秋听蝉／园林高树可对读；可对「本以高难饱，徒劳恨费声」。"
     },
     {
       "id": "ts300-172",
@@ -12896,7 +12924,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 175,
+    "cards": 180,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
