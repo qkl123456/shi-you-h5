@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6092,8 +6092,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7287,21 +7287,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7936,8 +7927,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8907,10 +8898,14 @@
       "places": [],
       "geo_notes": "暗用李广射石虎典故。",
       "travel_tip": "可与李广故事、边塞博物馆联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-218.png"
+      "has_card": true,
+      "front": "assets/cards/front-218.png",
+      "back": "assets/cards/back-218.png",
+      "illustration": "assets/cards/front-218.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《塞下曲》其二写林暗引弓、白羽没石。",
+      "meaning": "林暗草惊风，将军夜引弓；平明寻白羽，没在石棱中。",
+      "geo": "林暗引弓，平明寻羽没石；边猎典故，未坐实单一关塞。",
+      "visit": "边猎没石可对读；可对「平明寻白羽，没在石棱中」。"
     },
     {
       "id": "ts300-219",
@@ -8932,10 +8927,14 @@
       "places": [],
       "geo_notes": "雪夜轻骑追单于，边塞名篇。",
       "travel_tip": "北疆雪原边塞文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-219.png"
+      "has_card": true,
+      "front": "assets/cards/front-219.png",
+      "back": "assets/cards/back-219.png",
+      "illustration": "assets/cards/front-219.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《塞下曲》其三写月黑单于遁、大雪满弓刀。",
+      "meaning": "月黑雁飞高，单于夜遁逃；欲将轻骑逐，大雪满弓刀。",
+      "geo": "月黑单于遁，大雪满弓刀；边塞夜追，地景以塞外雪夜为主，不必坐实单一城障。",
+      "visit": "塞外雪夜可对读；可对「欲将轻骑逐，大雪满弓刀」。"
     },
     {
       "id": "ts300-220",
@@ -8957,10 +8956,14 @@
       "places": [],
       "geo_notes": "凯旋野宴，羌戎贺劳。",
       "travel_tip": "边塞凯旋宴饮文化联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-220.png"
+      "has_card": true,
+      "front": "assets/cards/front-220.png",
+      "back": "assets/cards/back-220.png",
+      "illustration": "assets/cards/front-220.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《塞下曲》其四写野幕劳旋、金甲醉舞。",
+      "meaning": "野幕敞琼筵，羌戎贺劳旋；醉和金甲舞，雷鼓动山川。",
+      "geo": "野幕劳旋，羌戎贺捷；边营庆功，未坐实单一关塞。",
+      "visit": "边营劳旋可对读；可对「醉和金甲舞，雷鼓动山川」。"
     },
     {
       "id": "ts300-221",
@@ -8986,10 +8989,14 @@
       ],
       "geo_notes": "瞿塘峡商贾往来；潮信对比商期。",
       "travel_tip": "瞿塘峡、长江三峡文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-221.png"
+      "has_card": true,
+      "front": "assets/cards/front-221.png",
+      "back": "assets/cards/back-221.png",
+      "illustration": "assets/cards/front-221.png",
+      "poet": "李益（约748—约829），字君虞。本库题名去重三首；《江南曲》写瞿塘贾误期、潮信弄潮儿。",
+      "meaning": "嫁得瞿塘贾，朝朝误妾期；早知潮有信，嫁与弄潮儿。",
+      "geo": "嫁得瞿塘贾，潮信对照；瞿塘在长江三峡奉节一带。商妇候潮，地景以奉节／瞿塘为主。",
+      "visit": "重庆奉节（瞿塘／三峡）；可对「早知潮有信，嫁与弄潮儿」。"
     },
     {
       "id": "ts300-222",
@@ -9014,10 +9021,10 @@
       ],
       "geo_notes": "贺知章会稽（绍兴）人；久客长安后归乡。地名今释：西安（唐时称长安）。",
       "travel_tip": "绍兴贺知章故里、鉴湖文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-222.png",
+      "has_card": true,
+      "front": "assets/cards/front-222.png",
+      "back": "assets/cards/back-222.png",
+      "illustration": "assets/cards/front-222.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9026,7 +9033,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "贺知章（约659—约744），字季真，会稽人。本库题名去重一首；《回乡偶书》写少小离家、儿童笑问。",
+      "meaning": "少小离家老大回，乡音无改鬓毛衰；儿童相见不相识，笑问客从何处来。",
+      "geo": "贺知章会稽人，少小离乡老大回；故乡地望今浙江绍兴。乡音鬓毛，地景以绍兴为主。",
+      "visit": "浙江绍兴；可对「少小离家老大回，乡音无改鬓毛衰」。"
     },
     {
       "id": "ts300-223",
@@ -13174,7 +13185,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 225,
+    "cards": 230,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
