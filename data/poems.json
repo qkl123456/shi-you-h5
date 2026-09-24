@@ -1674,8 +1674,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -4208,8 +4208,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "新疆",
-        "敦煌"
+        "敦煌",
+        "新疆"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7936,8 +7936,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -9345,10 +9345,10 @@
       ],
       "geo_notes": "亦称早发白帝城；白帝城在重庆奉节。地名今释：荆州（唐时称江陵）。",
       "travel_tip": "奉节白帝城、三峡、荆州江陵线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-230.png",
+      "has_card": true,
+      "front": "assets/cards/front-230.png",
+      "back": "assets/cards/back-230.png",
+      "illustration": "assets/cards/front-230.png",
       "place_captions": [
         {
           "place": "荆州",
@@ -9357,7 +9357,11 @@
           ],
           "note": "唐时称江陵"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《下江陵》（早发白帝城）写轻舟已过万重山。",
+      "meaning": "朝辞白帝彩云间，千里江陵一日还；两岸猿声啼不住，轻舟已过万重山。",
+      "geo": "朝辞白帝，暮至江陵；白帝城在今重庆奉节，江陵地望今湖北荆州。轻舟三峡，地景以奉节—荆州为主。",
+      "visit": "重庆奉节（白帝城）；湖北荆州（江陵）可对读「千里江陵一日还」。"
     },
     {
       "id": "ts300-231",
@@ -9382,10 +9386,14 @@
       ],
       "geo_notes": "赴安西途中逢入京使者。",
       "travel_tip": "丝绸之路/安西都护府文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-231.png"
+      "has_card": true,
+      "front": "assets/cards/front-231.png",
+      "back": "assets/cards/back-231.png",
+      "illustration": "assets/cards/front-231.png",
+      "poet": "岑参（约715—770），南阳人。本库题名去重约七首；《逢入京使》写马上相逢、传语报平安。",
+      "meaning": "故园东望路漫漫，双袖龙钟泪不干；马上相逢无纸笔，凭君传语报平安。",
+      "geo": "西行遇入京使，故园东望；多作于赴安西途中，地望今新疆库车一带。马上传语，地景以库车／安西道为主。",
+      "visit": "新疆库车（安西道）；可对「凭君传语报平安」。"
     },
     {
       "id": "ts300-232",
@@ -9411,10 +9419,10 @@
       ],
       "geo_notes": "晚年江南（或潭州）逢梨园歌者李龟年。地名今释：西安（唐时称长安）。",
       "travel_tip": "江南风景与梨园文化联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-232.png",
+      "has_card": true,
+      "front": "assets/cards/front-232.png",
+      "back": "assets/cards/back-232.png",
+      "illustration": "assets/cards/front-232.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9423,7 +9431,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美。本库题名去重四十九首；《江南逢李龟年》写落花时节又逢君。",
+      "meaning": "岐王宅里寻常见，崔九堂前几度闻；正是江南好风景，落花时节又逢君。",
+      "geo": "江南逢李龟年，多系潭州一带，地望今湖南长沙；岐王宅、崔九堂为长安旧游对照，地望今陕西西安。",
+      "visit": "湖南长沙（江南逢君）；西安岐王／崔九旧游可对读「落花时节又逢君」。"
     },
     {
       "id": "ts300-233",
@@ -9448,10 +9460,14 @@
       ],
       "geo_notes": "滁州西涧今安徽滁州。",
       "travel_tip": "安徽滁州西涧/琅琊山线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-233.png"
+      "has_card": true,
+      "front": "assets/cards/front-233.png",
+      "back": "assets/cards/back-233.png",
+      "illustration": "assets/cards/front-233.png",
+      "poet": "韦应物（约737—约792），韦苏州。本库题名去重十二首；《滁州西涧》写春潮晚急、野渡舟横。",
+      "meaning": "独怜幽草涧边生，上有黄鹂深树鸣；春潮带雨晚来急，野渡无人舟自横。",
+      "geo": "滁州西涧在今安徽滁州。春潮野渡，地景以滁州西涧为主。",
+      "visit": "安徽滁州（西涧）；可对「春潮带雨晚来急，野渡无人舟自横」。"
     },
     {
       "id": "ts300-234",
@@ -9508,10 +9524,10 @@
       ],
       "geo_notes": "寒食禁火；汉宫传烛讽权贵。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安汉宫/寒食节俗文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-235.png",
+      "has_card": true,
+      "front": "assets/cards/front-235.png",
+      "back": "assets/cards/back-235.png",
+      "illustration": "assets/cards/front-235.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9520,7 +9536,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "韩翃（生卒年不详，大历十才子），字君平。本库题名去重三首；《寒食》写春城飞花、汉宫传烛。",
+      "meaning": "春城无处不飞花，寒食东风御柳斜；日暮汉宫传蜡烛，轻烟散入五侯家。",
+      "geo": "寒食飞花，汉宫传烛；地景以唐长安春城御柳为主，地望今陕西西安。",
+      "visit": "陕西西安；可对「日暮汉宫传蜡烛，轻烟散入五侯家」。"
     },
     {
       "id": "ts300-236",
@@ -13214,7 +13234,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 235,
+    "cards": 240,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
