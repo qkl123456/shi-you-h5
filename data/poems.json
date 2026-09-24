@@ -4607,10 +4607,14 @@
       ],
       "geo_notes": "行路之难与志向。",
       "travel_tip": "名句长风破浪。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-097.png"
+      "has_card": true,
+      "front": "assets/cards/front-097.png",
+      "back": "assets/cards/back-097.png",
+      "illustration": "assets/cards/front-097.png",
+      "poet": "李白（701—762），字太白，号青莲居士。本库题名去重约三十七首；《行路难》其一写仕途多歧，结以「长风破浪会有时」。",
+      "meaning": "金樽清酒、玉盘珍羞，停杯投箸、拔剑茫然。欲渡黄河冰塞川，将登太行雪满山；垂钓碧溪、乘舟梦日边。行路难，多歧路今安在；长风破浪会有时，直挂云帆济沧海。",
+      "geo": "黄河、太行为北方大河名山意象，写行路之阻。地景以黄河—太行对照为主，不必坐实单一渡口。",
+      "visit": "黄河／太行沿线意象；可对「长风破浪会有时」；宜与其二、其三成组。"
     },
     {
       "id": "ts300-098",
@@ -4646,10 +4650,10 @@
       ],
       "geo_notes": "怀才不遇。地名今释：西安（唐时称长安）。",
       "travel_tip": "北京黄金台意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-098.png",
+      "has_card": true,
+      "front": "assets/cards/front-098.png",
+      "back": "assets/cards/back-098.png",
+      "illustration": "assets/cards/front-098.png",
       "place_captions": [
         {
           "place": "西安",
@@ -4658,7 +4662,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《行路难》其二写长安不遇，叹昭王黄金台不再。",
+      "meaning": "大道如青天，我独不得出；羞逐长安社中儿。弹剑作歌、曳裾王门，淮阴笑韩信、公卿忌贾生。燕昭重郭隗、黄金台，今白骨萦草谁更扫；行路难，归去来。",
+      "geo": "长安即今陕西西安；黄金台在今北京一带（燕昭王古迹意象）。怀才不遇，地景以西安与黄金台对照。",
+      "visit": "西安；北京黄金台意象；宜与其一、其三成组。"
     },
     {
       "id": "ts300-099",
@@ -4689,18 +4697,22 @@
         "何须身后千载名"
       ],
       "places": [
-        "颍川",
-        "渭南",
+        "许昌",
+        "永济",
         "吴江",
         "湘江",
         "江南"
       ],
       "geo_notes": "功成身退。",
       "travel_tip": "与前二首成组。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-099.png"
+      "has_card": true,
+      "front": "assets/cards/front-099.png",
+      "back": "assets/cards/back-099.png",
+      "illustration": "assets/cards/front-099.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《行路难》其三论功成身退，慕张翰江东。",
+      "meaning": "有耳莫洗颍川水，有口莫食首阳蕨；自古贤达功成不退皆殒身。子胥弃吴江、屈原投湘水，陆机华亭、李斯上蔡。张翰秋风忆江东，且乐生前一杯酒，何须身后千载名。",
+      "geo": "颍川今河南许昌一带；首阳与伯夷叔齐传说相关（地望常联山西永济）；吴江、湘水、江东为东南退隐线。地景以功成身退的多地典故对照为主。",
+      "visit": "宜与前二首成组展读；归隐／身退主题展亦可。"
     },
     {
       "id": "ts300-100",
@@ -4747,10 +4759,14 @@
       ],
       "geo_notes": "劝酒豪歌。",
       "travel_tip": "名篇将进酒。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-100.png"
+      "has_card": true,
+      "front": "assets/cards/front-100.png",
+      "back": "assets/cards/back-100.png",
+      "illustration": "assets/cards/front-100.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《将进酒》劝酒豪歌，「天生我材必有用」「与尔同销万古愁」。",
+      "meaning": "黄河之水天上来，奔流到海不复回；高堂明镜悲白发。人生得意须尽欢，天生我材必有用。烹羊宰牛、一饮三百杯，钟鼓馔玉不足贵，但愿长醉不复醒。五花马、千金裘换美酒，与尔同销万古愁。",
+      "geo": "开篇以黄河为时间／生命隐喻，非纪实旅次。地景以黄河意象为主。",
+      "visit": "黄河主题展／朗诵；可对「天生我材必有用」。"
     },
     {
       "id": "ts300-101",
@@ -4800,17 +4816,21 @@
         "天阴雨湿声啾啾"
       ],
       "places": [
-        "咸阳桥",
-        "青海",
         "咸阳",
-        "西安"
+        "青海",
+        "西安",
+        "渭河"
       ],
       "geo_notes": "送征人出征。",
       "travel_tip": "西安咸阳桥意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-101.png"
+      "has_card": true,
+      "front": "assets/cards/front-101.png",
+      "back": "assets/cards/back-101.png",
+      "illustration": "assets/cards/front-101.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《兵车行》写咸阳桥送征，刺开边不已。",
+      "meaning": "车辚辚马萧萧，行人弓箭在腰；耶娘妻子相送，尘埃不见咸阳桥。边庭流血成海水，武皇开边意未已；山东二百州村落生荆杞。信知生男恶、生女好；青海头古来白骨无人收，新鬼烦冤旧鬼哭。",
+      "geo": "咸阳桥在今陕西咸阳／西安渭河一带；青海头指河湟／青海边地。送征出关，地景以咸阳桥与青海对照。",
+      "visit": "西安／咸阳渭河桥意象；青海湖一带可作边地对照。"
     },
     {
       "id": "ts300-102",
@@ -12611,7 +12631,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 105,
+    "cards": 110,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

@@ -564,11 +564,11 @@
         "ts300-275"
       ],
       "visit_hints": [
-        "名句长风破浪",
-        "名篇将进酒",
-        "黄河风陵渡一带",
-        "去永济鹳雀楼，可对照「黄河入海流」远眺",
-        "玉门关、呼和浩特青冢、黄河黑山线"
+        "黄河",
+        "可对「长风破浪会有时」",
+        "宜与其二、其三成组",
+        "黄河主题展",
+        "朗诵"
       ],
       "region": "晋陕",
       "subtitle": ""
@@ -768,6 +768,45 @@
       "subtitle": ""
     },
     {
+      "name": "永济",
+      "aliases": [],
+      "ancient_names": [
+        "蒲州"
+      ],
+      "poem_ids": [
+        "tang-003",
+        "ts300-099",
+        "ts300-197",
+        "ts300-224"
+      ],
+      "visit_hints": [
+        "山西永济鹳雀楼（唐时称蒲州）",
+        "去永济鹳雀楼，可对照「黄河入海流」远眺",
+        "永济"
+      ],
+      "region": "山西",
+      "subtitle": "古称：蒲州"
+    },
+    {
+      "name": "渭河",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-016",
+        "ts300-051",
+        "ts300-101",
+        "ts300-320"
+      ],
+      "visit_hints": [
+        "关中渭河平原乡村暮色可对读",
+        "田园主题展亦可",
+        "宜与本库016成组展读",
+        "咸阳渭河桥意象"
+      ],
+      "region": "陕西",
+      "subtitle": ""
+    },
+    {
       "name": "秦淮河",
       "aliases": [
         "秦淮"
@@ -947,25 +986,6 @@
       "subtitle": ""
     },
     {
-      "name": "永济",
-      "aliases": [],
-      "ancient_names": [
-        "蒲州"
-      ],
-      "poem_ids": [
-        "tang-003",
-        "ts300-197",
-        "ts300-224"
-      ],
-      "visit_hints": [
-        "山西永济鹳雀楼（唐时称蒲州）",
-        "去永济鹳雀楼，可对照「黄河入海流」远眺",
-        "永济"
-      ],
-      "region": "山西",
-      "subtitle": "古称：蒲州"
-    },
-    {
       "name": "汉阳",
       "aliases": [],
       "ancient_names": [],
@@ -996,23 +1016,6 @@
         "喜会故人"
       ],
       "region": "华东",
-      "subtitle": ""
-    },
-    {
-      "name": "渭河",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-016",
-        "ts300-051",
-        "ts300-320"
-      ],
-      "visit_hints": [
-        "关中渭河平原乡村暮色可对读",
-        "田园主题展亦可",
-        "宜与本库016成组展读"
-      ],
-      "region": "陕西",
       "subtitle": ""
     },
     {
@@ -1212,7 +1215,7 @@
         "ts300-268"
       ],
       "visit_hints": [
-        "西安咸阳桥意象",
+        "咸阳渭河桥意象",
         "咸阳渭城、敦煌阳关遗址"
       ],
       "region": "陕西",
@@ -1488,18 +1491,6 @@
       "subtitle": ""
     },
     {
-      "name": "渭南",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-099",
-        "ts300-123"
-      ],
-      "visit_hints": [],
-      "region": "陕西",
-      "subtitle": ""
-    },
-    {
       "name": "瘦西湖",
       "aliases": [],
       "ancient_names": [],
@@ -1698,7 +1689,9 @@
         "ts300-038",
         "ts300-101"
       ],
-      "visit_hints": [],
+      "visit_hints": [
+        "青海湖一带可作边地对照"
+      ],
       "region": "青海",
       "subtitle": ""
     },
@@ -1982,17 +1975,6 @@
       "subtitle": ""
     },
     {
-      "name": "咸阳桥",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-101"
-      ],
-      "visit_hints": [],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "喀什",
       "aliases": [],
       "ancient_names": [],
@@ -2060,7 +2042,9 @@
       "poem_ids": [
         "ts300-097"
       ],
-      "visit_hints": [],
+      "visit_hints": [
+        "太行沿线意象"
+      ],
       "region": "",
       "subtitle": ""
     },
@@ -2551,6 +2535,17 @@
       "subtitle": ""
     },
     {
+      "name": "渭南",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-123"
+      ],
+      "visit_hints": [],
+      "region": "陕西",
+      "subtitle": ""
+    },
+    {
       "name": "湖北",
       "aliases": [],
       "ancient_names": [],
@@ -2859,6 +2854,21 @@
       "subtitle": ""
     },
     {
+      "name": "许昌",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-099"
+      ],
+      "visit_hints": [
+        "宜与前二首成组展读",
+        "归隐",
+        "身退主题展亦可"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "贵州",
       "aliases": [],
       "ancient_names": [],
@@ -3007,19 +3017,6 @@
       "subtitle": ""
     },
     {
-      "name": "颍川",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-099"
-      ],
-      "visit_hints": [
-        "与前二首成组"
-      ],
-      "region": "",
-      "subtitle": ""
-    },
-    {
       "name": "风陵渡",
       "aliases": [],
       "ancient_names": [],
@@ -3069,7 +3066,7 @@
     }
   ],
   "meta": {
-    "count": 199,
+    "count": 198,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3102,6 +3099,7 @@
       "吴公台",
       "吴宫",
       "咸京",
+      "咸阳桥",
       "回乐",
       "夏口",
       "夔州",
@@ -3257,6 +3255,7 @@
       "集灵台",
       "青泥",
       "青溪",
+      "颍川",
       "首阳",
       "马嵬",
       "马嵬坡",
@@ -3272,8 +3271,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 198,
-      "rename_events": 225,
+      "ancient_keys": 200,
+      "rename_events": 227,
       "examples": [
         {
           "from": "长安",
