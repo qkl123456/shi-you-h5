@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "南京",
         "长江",
+        "南京",
         "夫子庙",
         "三峡"
       ],
@@ -2080,7 +2080,8 @@
         "白云无尽时"
       ],
       "places": [
-        "终南山"
+        "终南山",
+        "西安"
       ],
       "geo_notes": "归卧南山。",
       "travel_tip": "西安终南山可对读。",
@@ -2154,14 +2155,28 @@
         "怅然吟式微"
       ],
       "places": [
-        "渭河"
+        "渭河",
+        "西安"
       ],
-      "geo_notes": "渭河田家暮归。",
+      "geo_notes": "渭河田家暮归；关中农村暮归。地名今释：西安（古称关中）。",
       "travel_tip": "关中渭河平原田园意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-051.png"
+      "has_card": true,
+      "front": "assets/cards/front-051.png",
+      "back": "assets/cards/back-051.png",
+      "illustration": "assets/cards/front-051.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "关中"
+          ],
+          "note": "古称关中"
+        }
+      ],
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《渭川田家》写关中渭河田园暮归（本库另收同题异序篇）。",
+      "meaning": "斜阳墟落、穷巷牛羊归，野老倚杖候牧童；雉雊麦秀、蚕眠桑稀，田夫荷锄语依依。即此羡闲逸，怅然吟《式微》，田园暮色中见归隐之思。",
+      "geo": "渭川即渭河流域田家景，在今陕西关中（西安一带）；写农村暮归，非单一村落实指。",
+      "visit": "西安周边／关中渭河平原乡村暮色可对读；宜与本库016成组展读。"
     },
     {
       "id": "ts300-052",
@@ -2190,15 +2205,19 @@
         "效颦安可希"
       ],
       "places": [
-        "越溪",
+        "诸暨",
         "苏州"
       ],
-      "geo_notes": "西施由越入吴。",
+      "geo_notes": "越溪浣纱与吴宫对照。",
       "travel_tip": "浙江诸暨苎萝西施故里。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-052.png"
+      "has_card": true,
+      "front": "assets/cards/front-052.png",
+      "back": "assets/cards/back-052.png",
+      "illustration": "assets/cards/front-052.png",
+      "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《西施咏》以西施贵贱际遇写世态（本库另收同题异序篇）。",
+      "meaning": "艳色见重而西施不终微；朝为越溪女、暮作吴宫妃，贱日同众、贵来方稀。君宠娇态、浣纱伴不得同归，持谢邻家子效颦安可希，咏史中寓讽。",
+      "geo": "越溪浣纱在今浙江诸暨西施故里一带；吴宫指春秋吴地宫廷，地望今苏州一带。越女入吴的文化地理对照。",
+      "visit": "浙江诸暨西施故里／浣纱溪；苏州吴地人文可宽泛对照；宜与本库017对照。"
     },
     {
       "id": "ts300-053",
@@ -2228,12 +2247,16 @@
       "places": [
         "襄阳"
       ],
-      "geo_notes": "一作万山。",
+      "geo_notes": "孟浩然襄阳一带登高寄友。",
       "travel_tip": "襄阳一带山水可对。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-053.png"
+      "has_card": true,
+      "front": "assets/cards/front-053.png",
+      "back": "assets/cards/back-053.png",
+      "illustration": "assets/cards/front-053.png",
+      "poet": "孟浩然（689—740），襄阳人，盛唐山水田园诗代表，与王维并称「王孟」。本库题名去重约十五首；秋日登高寄张五（本库另收同题异序篇）。",
+      "meaning": "北山白云、隐者自悦，登高相望心随雁灭；薄暮清秋，归村渡头、天边树荠、江洲如月，何当载酒共醉重阳，怀友意远。",
+      "geo": "兰山一作万山，在孟浩然襄阳一带；诗写襄阳山水登高寄友，地景以襄阳为主。",
+      "visit": "湖北襄阳登高／重阳；可对「何当载酒来，共醉重阳节」；宜与本库018成组展读。"
     },
     {
       "id": "ts300-054",
@@ -2261,12 +2284,16 @@
       "places": [
         "襄阳"
       ],
-      "geo_notes": "南亭夏夜。",
+      "geo_notes": "南亭夏夜怀人。",
       "travel_tip": "襄阳夏夜意象。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-054.png"
+      "has_card": true,
+      "front": "assets/cards/front-054.png",
+      "back": "assets/cards/back-054.png",
+      "illustration": "assets/cards/front-054.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；南亭夏夜怀辛大（本库另收同题异序篇）。",
+      "meaning": "山光西落、池月东上，散发乘凉开轩闲敞；荷风香、竹露响，欲鸣琴而无知音赏，感此怀故人，中宵入梦。",
+      "geo": "南亭在孟浩然襄阳生活圈内；夏夜池亭怀人，地景以襄阳池亭意象为主。",
+      "visit": "湖北襄阳夏夜池亭意境对读；荷塘竹露场景可背此诗；宜与本库019对照。"
     },
     {
       "id": "ts300-055",
@@ -2288,13 +2315,19 @@
         "之子期宿来",
         "孤琴候萝径"
       ],
-      "places": [],
-      "geo_notes": "山房候友不至。",
+      "places": [
+        "襄阳"
+      ],
+      "geo_notes": "山房待友不至。",
       "travel_tip": "山寺过夜意境。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-055.png"
+      "has_card": true,
+      "front": "assets/cards/front-055.png",
+      "back": "assets/cards/back-055.png",
+      "illustration": "assets/cards/front-055.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；宿业师山房待丁大不至（本库另收同题异序篇）。",
+      "meaning": "夕阳度岭、群壑已暝，松月夜凉、风泉清听；樵人归尽、烟鸟初定，期友来宿而人不至，孤琴候萝径，待友落空而山夜自足。",
+      "geo": "业师山房系襄阳一带山寺／山房意象；写待友不至的山夜，不必坐实单一寺名。",
+      "visit": "湖北襄阳山寺夜宿意境；松月风泉主题徒步可对读；宜与本库020成组展读。"
     },
     {
       "id": "ts300-056",
@@ -2822,8 +2855,8 @@
         "庐山",
         "黄鹤楼",
         "长江",
-        "九江",
-        "武汉"
+        "武汉",
+        "九江"
       ],
       "geo_notes": "庐山寻仙寄卢虚舟。",
       "travel_tip": "九江庐山、武汉黄鹤楼。",
@@ -4598,6 +4631,7 @@
       "places": [
         "咸阳桥",
         "青海",
+        "西安",
         "咸阳"
       ],
       "geo_notes": "送征人出征。",
@@ -4699,7 +4733,8 @@
       ],
       "places": [
         "曲江",
-        "剑阁"
+        "剑阁",
+        "西安"
       ],
       "geo_notes": "乱后曲江。",
       "travel_tip": "西安曲江。",
@@ -12417,7 +12452,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 60,
+    "cards": 65,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
