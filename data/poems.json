@@ -6197,8 +6197,8 @@
       ],
       "places": [
         "汉江",
-        "襄阳",
-        "汉中"
+        "汉中",
+        "襄阳"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -6675,8 +6675,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7287,12 +7287,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7907,15 +7916,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7936,8 +7936,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8741,10 +8741,14 @@
       ],
       "geo_notes": "哥舒翰镇守陇右；临洮今甘肃定西一带。",
       "travel_tip": "可访甘肃临洮、陇右边塞遗迹文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-213.png"
+      "has_card": true,
+      "front": "assets/cards/front-213.png",
+      "back": "assets/cards/back-213.png",
+      "illustration": "assets/cards/front-213.png",
+      "poet": "西鄙人（姓名不详，西北边地民谣作者）。本库题名去重一首；《哥舒歌》颂哥舒翰，牧马不敢过临洮。",
+      "meaning": "北斗七星高，哥舒夜带刀；至今窥牧马，不敢过临洮。",
+      "geo": "哥舒翰守边，临洮在今甘肃定西临洮一带。窥牧不敢过，地景以临洮边塞为主。",
+      "visit": "甘肃临洮；可对「至今窥牧马，不敢过临洮」。"
     },
     {
       "id": "ts300-214",
@@ -8771,10 +8775,14 @@
       ],
       "geo_notes": "长干里在今南京秦淮一带；横塘亦金陵水乡。",
       "travel_tip": "南京秦淮长干里水乡文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-214.png"
+      "has_card": true,
+      "front": "assets/cards/front-214.png",
+      "back": "assets/cards/back-214.png",
+      "illustration": "assets/cards/front-214.png",
+      "poet": "崔颢（约704—754），汴州人。本库题名去重四首；《长干行》其一写横塘停船、或恐同乡。",
+      "meaning": "君家何处住，妾住在横塘；停船暂借问，或恐是同乡。",
+      "geo": "长干／横塘在金陵城南，地望今江苏南京（秦淮一带）。停船借问，地景以南京长干为主。",
+      "visit": "江苏南京（长干／横塘）；可对「停船暂借问，或恐是同乡」。"
     },
     {
       "id": "ts300-215",
@@ -8801,10 +8809,14 @@
       ],
       "geo_notes": "九江指长江中下游多江口；长干人却不相识。",
       "travel_tip": "可与南京长干、长江水乡线并读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-215.png"
+      "has_card": true,
+      "front": "assets/cards/front-215.png",
+      "back": "assets/cards/back-215.png",
+      "illustration": "assets/cards/front-215.png",
+      "poet": "崔颢（约704—754），汴州人。本库题名去重四首；《长干行》其二写九江水侧、同是长干人。",
+      "meaning": "家临九江水，来去九江侧；同是长干人，生小不相识。",
+      "geo": "同是长干人，家临九江水；长干在南京，九江指长江中下游江面。地景以南京长干与九江水程为主。",
+      "visit": "江苏南京（长干）；长江九江水程可对读「同是长干人，生小不相识」。"
     },
     {
       "id": "ts300-216",
@@ -8828,10 +8840,10 @@
       ],
       "geo_notes": "宫怨题材；玉阶秋月，无具体名胜必访。地名今释：西安（唐时称长安）。",
       "travel_tip": "可与长安宫苑文化线联想。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-216.png",
+      "has_card": true,
+      "front": "assets/cards/front-216.png",
+      "back": "assets/cards/back-216.png",
+      "illustration": "assets/cards/front-216.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8840,7 +8852,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《玉阶怨》写白露侵袜、帘下望月。",
+      "meaning": "玉阶生白露，夜久侵罗袜；却下水晶帘，玲珑望秋月。",
+      "geo": "玉阶望月，宫怨通宵；地景以长安宫掖玉阶意象为主，地望今陕西西安。",
+      "visit": "陕西西安（宫掖玉阶意象）；可对「却下水晶帘，玲珑望秋月」。"
     },
     {
       "id": "ts300-217",
@@ -8862,10 +8878,14 @@
       "places": [],
       "geo_notes": "卢纶《塞下曲》组诗；边疆军营气象。",
       "travel_tip": "边塞军旅文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-217.png"
+      "has_card": true,
+      "front": "assets/cards/front-217.png",
+      "back": "assets/cards/back-217.png",
+      "illustration": "assets/cards/front-217.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《塞下曲》其一写金仆姑、千营一呼。",
+      "meaning": "鹫翎金仆姑，燕尾绣蝥弧；独立扬新令，千营共一呼。",
+      "geo": "塞下军令扬旗，千营一呼；未坐实单一关塞，地景以边营号令意象为主。",
+      "visit": "边营号令可对读；可对「独立扬新令，千营共一呼」。"
     },
     {
       "id": "ts300-218",
@@ -13154,7 +13174,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 220,
+    "cards": 225,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
