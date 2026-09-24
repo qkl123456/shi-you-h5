@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "重庆",
-        "三峡"
+        "三峡",
+        "重庆"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "蓝田",
-        "西安"
+        "西安",
+        "蓝田"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6685,8 +6685,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "江南",
-        "长江"
+        "长江",
+        "江南"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7299,21 +7299,12 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
+      "geo_notes": "赴阙题潼关驿楼。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
-      "place_captions": [
-        {
-          "place": "西安",
-          "ancient": [
-            "长安"
-          ],
-          "note": "唐时称长安"
-        }
-      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -11359,11 +11350,15 @@
         "蓬莱"
       ],
       "geo_notes": "义山无题代表作。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-286.png"
+      "travel_tip": "山东蓬莱（蓬山意象）；可对「春蚕到死丝方尽，蜡炬成灰泪始干」。",
+      "has_card": true,
+      "front": "assets/cards/front-286.png",
+      "back": "assets/cards/back-286.png",
+      "illustration": "assets/cards/front-286.png",
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《无题》相见时难写春蚕蜡炬、蓬山青鸟。",
+      "meaning": "相见时难别亦难，东风无力百花残；春蚕到死丝方尽，蜡炬成灰泪始干。晓镜云鬓、夜吟月光；蓬山此去无多路，青鸟殷勤为探看。",
+      "geo": "蓬山即蓬莱仙山意象，青鸟为信使典故；相思无专指一城，地景以蓬山／青鸟神话地理为主，今山东蓬莱可作意象对读。",
+      "visit": "山东蓬莱（蓬山意象）；可对「春蚕到死丝方尽，蜡炬成灰泪始干」。"
     },
     {
       "id": "ts300-287",
@@ -11387,14 +11382,19 @@
         "强移栖息一枝安"
       ],
       "places": [
-        "成都"
+        "成都",
+        "四川"
       ],
       "geo_notes": "严武幕府独宿。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-287.png"
+      "travel_tip": "四川成都（严武幕府／江城）；可对「已忍伶俜十年事，强移栖息一枝安」。",
+      "has_card": true,
+      "front": "assets/cards/front-287.png",
+      "back": "assets/cards/back-287.png",
+      "illustration": "assets/cards/front-287.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《宿府》写幕府井梧、独宿江城。",
+      "meaning": "清秋幕府井梧寒，独宿江城蜡炬残；永夜角声悲自语，中天月色好谁看。风尘荏苒音书绝，关塞萧条行路难；已忍伶俜十年事，强移栖息一枝安。",
+      "geo": "幕府在成都严武幕中；江城即成都。清秋独宿，地景以四川成都为主。",
+      "visit": "四川成都（严武幕府／江城）；可对「已忍伶俜十年事，强移栖息一枝安」。"
     },
     {
       "id": "ts300-288",
@@ -11419,14 +11419,15 @@
       ],
       "places": [
         "奉节",
-        "三峡"
+        "三峡",
+        "重庆"
       ],
       "geo_notes": "夔州西阁夜望。地名今释：奉节（唐时称夔州）。",
       "travel_tip": "奉节夔州西阁线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-288.png",
+      "has_card": true,
+      "front": "assets/cards/front-288.png",
+      "back": "assets/cards/back-288.png",
+      "illustration": "assets/cards/front-288.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -11435,7 +11436,11 @@
           ],
           "note": "唐时称夔州"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《阁夜》写三峡星河、野哭战伐。",
+      "meaning": "岁暮阴阳催短景，天涯霜雪霁寒宵；五更鼓角声悲壮，三峡星河影动摇。野哭千家闻战伐，夷歌数处起渔樵；卧龙跃马终黄土，人事音书漫寂寥。",
+      "geo": "西阁在夔州，地望今重庆奉节；三峡星河为江上夜景。岁暮阁夜，地景以奉节／三峡为主。",
+      "visit": "重庆奉节（西阁／三峡）；可对「五更鼓角声悲壮，三峡星河影动摇」。"
     },
     {
       "id": "ts300-289",
@@ -11460,14 +11465,29 @@
       ],
       "places": [
         "三峡",
-        "怀化"
+        "怀化",
+        "奉节",
+        "重庆"
       ],
-      "geo_notes": "以庾信自况。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-289.png"
+      "geo_notes": "以庾信自况。地名今释：奉节（唐时称夔州）。",
+      "travel_tip": "重庆三峡；湖南怀化（五溪）；可对「庾信平生最萧瑟，暮年诗赋动江关」。",
+      "has_card": true,
+      "front": "assets/cards/front-289.png",
+      "back": "assets/cards/back-289.png",
+      "illustration": "assets/cards/front-289.png",
+      "place_captions": [
+        {
+          "place": "奉节",
+          "ancient": [
+            "夔州"
+          ],
+          "note": "唐时称夔州"
+        }
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其一写三峡五溪、庾信暮年。",
+      "meaning": "支离东北风尘际，漂泊西南天地间；三峡楼台淹日月，五溪衣服共云山。羯胡事主终无赖，词客哀时且未还；庾信平生最萧瑟，暮年诗赋动江关。",
+      "geo": "三峡楼台指夔州一带；五溪在今湖南怀化／湘西一带。以庾信自况，地景以三峡／五溪对照为主。",
+      "visit": "重庆三峡；湖南怀化（五溪）；可对「庾信平生最萧瑟，暮年诗赋动江关」。"
     },
     {
       "id": "ts300-290",
@@ -11492,14 +11512,19 @@
       ],
       "places": [
         "秭归",
-        "三峡"
+        "三峡",
+        "重庆"
       ],
       "geo_notes": "咏宋玉。",
       "travel_tip": "湖北归州宋玉宅传说线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-290.png"
+      "has_card": true,
+      "front": "assets/cards/front-290.png",
+      "back": "assets/cards/back-290.png",
+      "illustration": "assets/cards/front-290.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其二吊宋玉，写故宅荒台、楚宫泯灭。",
+      "meaning": "摇落深知宋玉悲，风流儒雅亦吾师；怅望千秋一洒泪，萧条异代不同时。江山故宅空文藻，云雨荒台岂梦思；最是楚宫俱泯灭，舟人指点到今疑。",
+      "geo": "宋玉故宅传说多在归州一带，地望今湖北秭归；楚宫云雨为三峡典故。咏宋玉，地景以秭归／三峡为主。",
+      "visit": "湖北秭归；重庆三峡；可对「江山故宅空文藻，云雨荒台岂梦思」。"
     },
     {
       "id": "ts300-291",
@@ -13459,7 +13484,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 285,
+    "cards": 290,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
