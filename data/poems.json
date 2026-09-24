@@ -1496,7 +1496,8 @@
         "矜夸紫骝好"
       ],
       "places": [
-        "固原"
+        "固原",
+        "宁夏"
       ],
       "geo_notes": "西北边关。",
       "travel_tip": "宁夏固原萧关一带可对照。",
@@ -1674,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4313,7 +4314,8 @@
       "places": [
         "贺兰山",
         "喀什",
-        "大同"
+        "大同",
+        "宁夏"
       ],
       "geo_notes": "老将弃置复思战。",
       "travel_tip": "边将主题。",
@@ -6092,8 +6094,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6675,8 +6677,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7907,15 +7909,6 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
-      "place_captions": [
-        {
-          "place": "永济",
-          "ancient": [
-            "蒲州"
-          ],
-          "note": "唐时称蒲州"
-        }
-      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7936,8 +7929,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -9561,11 +9554,15 @@
       ],
       "places": [],
       "geo_notes": "春夜物候；无特定名胜。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-236.png"
+      "travel_tip": "月夜虫声可对读；可对「今夜偏知春气暖，虫声新透绿窗纱」。",
+      "has_card": true,
+      "front": "assets/cards/front-236.png",
+      "back": "assets/cards/back-236.png",
+      "illustration": "assets/cards/front-236.png",
+      "poet": "刘方平（生卒年不详，盛唐／中唐）。本库题名去重二首；《月夜》写春气暖、虫声透纱。",
+      "meaning": "更深月色半人家，北斗阑干南斗斜；今夜偏知春气暖，虫声新透绿窗纱。",
+      "geo": "更深月色，虫声透纱；春夜暖意，无专指一城，地景以月夜绿窗意象为主。",
+      "visit": "月夜虫声可对读；可对「今夜偏知春气暖，虫声新透绿窗纱」。"
     },
     {
       "id": "ts300-237",
@@ -9588,11 +9585,11 @@
         "西安"
       ],
       "geo_notes": "与金昌绪《春怨》不同篇；金屋梨花宫怨。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-237.png",
+      "travel_tip": "陕西西安（金屋宫怨意象）；可对「寂寞空庭春欲晚，梨花满地不开门」。",
+      "has_card": true,
+      "front": "assets/cards/front-237.png",
+      "back": "assets/cards/back-237.png",
+      "illustration": "assets/cards/front-237.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9601,7 +9598,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "刘方平（生卒年不详，盛唐／中唐）。本库题名去重二首；《春怨》写金屋泪痕、梨花满地。",
+      "meaning": "纱窗日落渐黄昏，金屋无人见泪痕；寂寞空庭春欲晚，梨花满地不开门。",
+      "geo": "金屋泪痕，梨花满地；宫怨春晚，地望多联唐长安，今陕西西安。",
+      "visit": "陕西西安（金屋宫怨意象）；可对「寂寞空庭春欲晚，梨花满地不开门」。"
     },
     {
       "id": "ts300-238",
@@ -9623,14 +9624,19 @@
       "places": [
         "玉门关",
         "黄河",
-        "呼和浩特"
+        "呼和浩特",
+        "敦煌"
       ],
       "geo_notes": "金河、玉关、青冢（昭君墓）、黑山边塞地名串联。",
       "travel_tip": "玉门关、呼和浩特青冢、黄河黑山线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-238.png"
+      "has_card": true,
+      "front": "assets/cards/front-238.png",
+      "back": "assets/cards/back-238.png",
+      "illustration": "assets/cards/front-238.png",
+      "poet": "柳中庸（生卒年不详，中唐），名淡。本库题名去重一首；《征人怨》写金河玉关、黄河绕黑山。",
+      "meaning": "岁岁金河复玉关，朝朝马策与刀环；三春白雪归青冢，万里黄河绕黑山。",
+      "geo": "岁岁金河玉关，青冢黑山；金河／青冢地望今内蒙古呼和浩特一带，玉关即玉门关（敦煌）。征人岁岁，地景以呼和浩特—玉门关／黄河边塞为主。",
+      "visit": "内蒙古呼和浩特（青冢）；甘肃敦煌（玉门关）可对读「万里黄河绕黑山」。"
     },
     {
       "id": "ts300-239",
@@ -9653,11 +9659,11 @@
         "西安"
       ],
       "geo_notes": "宫禁夜景；秋河即银河。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-239.png",
+      "travel_tip": "陕西西安；可对「水精帘卷近秋河」。",
+      "has_card": true,
+      "front": "assets/cards/front-239.png",
+      "back": "assets/cards/back-239.png",
+      "illustration": "assets/cards/front-239.png",
       "place_captions": [
         {
           "place": "西安",
@@ -9666,7 +9672,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "顾况（约727—约815），字逋翁。本库题名去重一首；《宫词》写玉楼笙歌、帘卷近秋河。",
+      "meaning": "玉楼天半起笙歌，风送宫嫔笑语和；月殿影开闻夜漏，水精帘卷近秋河。",
+      "geo": "玉楼笙歌，水精帘近秋河；宫词夜漏，地望今陕西西安宫掖。",
+      "visit": "陕西西安；可对「水精帘卷近秋河」。"
     },
     {
       "id": "ts300-240",
@@ -9692,10 +9702,14 @@
       ],
       "geo_notes": "受降城、回乐峰在今宁夏灵武一带。",
       "travel_tip": "宁夏灵武受降城遗址文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-240.png"
+      "has_card": true,
+      "front": "assets/cards/front-240.png",
+      "back": "assets/cards/back-240.png",
+      "illustration": "assets/cards/front-240.png",
+      "poet": "李益（约748—约829），字君虞。本库题名去重三首；《夜上受降城闻笛》写沙似雪、征人望乡。",
+      "meaning": "回乐峰前沙似雪，受降城外月如霜；不知何处吹芦管，一夜征人尽望乡。",
+      "geo": "回乐峰前沙似雪，受降城外月如霜；回乐在今宁夏灵武一带，受降城多联今内蒙古包头。边城闻笛，地景以灵武／包头为主。",
+      "visit": "宁夏灵武（回乐峰）；内蒙古包头（受降城）可对读「一夜征人尽望乡」。"
     },
     {
       "id": "ts300-241",
@@ -13234,7 +13248,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 240,
+    "cards": 245,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
