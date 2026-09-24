@@ -1676,8 +1676,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4213,8 +4213,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -5090,16 +5090,17 @@
         "儿女共沾巾"
       ],
       "places": [
+        "崇州",
         "陕西",
-        "四川",
-        "西安"
+        "西安",
+        "成都"
       ],
-      "geo_notes": "送友入蜀。地名今释：西安（唐时称长安）。",
+      "geo_notes": "送友入蜀；崇州／关中。地名今释：西安（唐时称长安）。",
       "travel_tip": "长安送别。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-107.png",
+      "has_card": true,
+      "front": "assets/cards/front-107.png",
+      "back": "assets/cards/back-107.png",
+      "illustration": "assets/cards/front-107.png",
       "place_captions": [
         {
           "place": "西安",
@@ -5108,7 +5109,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "王勃（约650—约676），字子安，绛州龙门人，初唐四杰之一。本库题名去重一首；送杜少府之任蜀州，名句「海内存知己，天涯若比邻」。",
+      "meaning": "城阙辅三秦，风烟望五津；与君离别，同是宦游人。海内存知己，天涯若比邻；无为在歧路，儿女共沾巾。",
+      "geo": "蜀州治今四川崇州（成都一带）；三秦指关中（今陕西西安一带），五津为蜀中江津。长安送友入蜀，地景以西安—成都／崇州对照。",
+      "visit": "四川崇州／成都；西安送别意象；可对「海内存知己，天涯若比邻」。"
     },
     {
       "id": "ts300-108",
@@ -5133,10 +5138,14 @@
       "places": [],
       "geo_notes": "狱中咏蝉。",
       "travel_tip": "咏蝉名篇。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-108.png"
+      "has_card": true,
+      "front": "assets/cards/front-108.png",
+      "back": "assets/cards/back-108.png",
+      "illustration": "assets/cards/front-108.png",
+      "poet": "骆宾王（约619—约687），婺州义乌人，初唐四杰之一。本库题名去重一首；狱中咏蝉，以高洁自况。",
+      "meaning": "西陆蝉声唱，南冠客思深；不堪玄鬓影，来对白头吟。露重飞难进，风多响易沉；无人信高洁，谁为表予心。",
+      "geo": "诗作于狱中，地望不必坐实单一牢址；咏蝉自喻，地景以狱中闻蝉为主。",
+      "visit": "宜作咏蝉／高洁主题阅读；可对「无人信高洁」。"
     },
     {
       "id": "ts300-109",
@@ -5163,12 +5172,12 @@
         "常州",
         "江南"
       ],
-      "geo_notes": "早春游望。地名今释：常州（古称晋陵）。",
+      "geo_notes": "早春游望；常州。地名今释：常州（古称晋陵）。",
       "travel_tip": "江南早春。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-109.png",
+      "has_card": true,
+      "front": "assets/cards/front-109.png",
+      "back": "assets/cards/back-109.png",
+      "illustration": "assets/cards/front-109.png",
       "place_captions": [
         {
           "place": "常州",
@@ -5177,7 +5186,11 @@
           ],
           "note": "古称晋陵"
         }
-      ]
+      ],
+      "poet": "杜审言（约645—708），字必简，杜甫祖父，近体诗奠基者之一。本库题名去重一首；和晋陵陆丞早春游望，写宦游乡思。",
+      "meaning": "独有宦游人，偏惊物候新；云霞出海曙，梅柳渡江春。淑气催黄鸟，晴光转绿苹；忽闻歌古调，归思欲沾巾。",
+      "geo": "晋陵即今江苏常州（古称）。早春江南游望，地景以常州／江南为主。",
+      "visit": "江苏常州；江南早春游望可对读。"
     },
     {
       "id": "ts300-110",
@@ -5199,13 +5212,20 @@
         "谁能将旗鼓",
         "一为取龙城"
       ],
-      "places": [],
+      "places": [
+        "朝阳",
+        "辽宁"
+      ],
       "geo_notes": "边戍闺怨。",
       "travel_tip": "边怨主题。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-110.png"
+      "has_card": true,
+      "front": "assets/cards/front-110.png",
+      "back": "assets/cards/back-110.png",
+      "illustration": "assets/cards/front-110.png",
+      "poet": "沈佺期（约656—约715），字云卿，相州内黄人，与宋之问并称「沈宋」。本库题名去重二首；《杂诗》写黄龙戍边、闺里月照汉营。",
+      "meaning": "闻道黄龙戍，频年不解兵；可怜闺里月，长在汉家营。少妇今春意，良人昨夜情；谁能将旗鼓，一为取龙城。",
+      "geo": "黄龙戍为东北边戍意象（地望常联辽宁朝阳一带）；龙城为漠北／边塞典故。闺怨寄边，地景以边戍对照为主。",
+      "visit": "边怨主题展；可对「可怜闺里月，长在汉家营」。"
     },
     {
       "id": "ts300-111",
@@ -5229,14 +5249,18 @@
         "应见陇头梅"
       ],
       "places": [
-        "大庾岭"
+        "大余"
       ],
-      "geo_notes": "贬途望乡。",
+      "geo_notes": "贬途望乡；大余梅关。",
       "travel_tip": "贬途望乡。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-111.png"
+      "has_card": true,
+      "front": "assets/cards/front-111.png",
+      "back": "assets/cards/back-111.png",
+      "illustration": "assets/cards/front-111.png",
+      "poet": "宋之问（约656—712），字延清，汾州人，与沈佺期并称「沈宋」。本库题名去重二首；贬途经大庾岭北驿，望乡见陇头梅。",
+      "meaning": "阳月南飞雁，传闻至此回；我行殊未已，何日复归来。江静潮初落，林昏瘴不开；明朝望乡处，应见陇头梅。",
+      "geo": "大庾岭在今江西大余／广东南雄交界（梅关古道）。贬途望乡，地景以大余梅关为主。",
+      "visit": "江西大余／梅关古道；可对「明朝望乡处，应见陇头梅」。"
     },
     {
       "id": "ts300-112",
@@ -12638,7 +12662,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 115,
+    "cards": 120,
     "illustrations": 351,
     "place_mode": "modern_only"
   }

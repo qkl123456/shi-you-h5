@@ -234,6 +234,35 @@
       "subtitle": ""
     },
     {
+      "name": "成都",
+      "aliases": [],
+      "ancient_names": [
+        "锦城",
+        "锦里"
+      ],
+      "poem_ids": [
+        "ts300-078",
+        "ts300-094",
+        "ts300-107",
+        "ts300-280",
+        "ts300-281",
+        "ts300-282",
+        "ts300-287",
+        "ts300-293",
+        "ts300-294",
+        "ts300-308"
+      ],
+      "visit_hints": [
+        "成都武侯祠",
+        "可对「古来材大难为用」",
+        "成都（锦城）可作「锦城虽云乐」对照",
+        "成都",
+        "成都武侯祠必访"
+      ],
+      "region": "四川",
+      "subtitle": "古称：锦城、锦里"
+    },
+    {
       "name": "襄阳",
       "aliases": [],
       "ancient_names": [],
@@ -258,34 +287,6 @@
       ],
       "region": "湖北",
       "subtitle": ""
-    },
-    {
-      "name": "成都",
-      "aliases": [],
-      "ancient_names": [
-        "锦城",
-        "锦里"
-      ],
-      "poem_ids": [
-        "ts300-078",
-        "ts300-094",
-        "ts300-280",
-        "ts300-281",
-        "ts300-282",
-        "ts300-287",
-        "ts300-293",
-        "ts300-294",
-        "ts300-308"
-      ],
-      "visit_hints": [
-        "成都武侯祠",
-        "可对「古来材大难为用」",
-        "成都（锦城）可作「锦城虽云乐」对照",
-        "成都武侯祠必访",
-        "成都锦江、都江堰玉垒山"
-      ],
-      "region": "四川",
-      "subtitle": "古称：锦城、锦里"
     },
     {
       "name": "洛阳",
@@ -830,6 +831,24 @@
       "subtitle": ""
     },
     {
+      "name": "辽宁",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-062",
+        "ts300-110",
+        "ts300-212",
+        "ts300-300"
+      ],
+      "visit_hints": [
+        "京津冀—辽宁文化线可宽泛对读",
+        "辽西边塞文化联想",
+        "春怨闺情题材"
+      ],
+      "region": "东北",
+      "subtitle": ""
+    },
+    {
       "name": "长沙",
       "aliases": [],
       "ancient_names": [],
@@ -1082,23 +1101,6 @@
       "subtitle": ""
     },
     {
-      "name": "辽宁",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-062",
-        "ts300-212",
-        "ts300-300"
-      ],
-      "visit_hints": [
-        "京津冀—辽宁文化线可宽泛对读",
-        "辽西边塞文化联想",
-        "春怨闺情题材"
-      ],
-      "region": "东北",
-      "subtitle": ""
-    },
-    {
       "name": "重庆",
       "aliases": [],
       "ancient_names": [],
@@ -1202,18 +1204,6 @@
       ],
       "region": "陕西",
       "subtitle": "古称：渭城"
-    },
-    {
-      "name": "四川",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-107",
-        "ts300-254"
-      ],
-      "visit_hints": [],
-      "region": "西南",
-      "subtitle": ""
     },
     {
       "name": "大雁塔",
@@ -1968,6 +1958,17 @@
       "subtitle": ""
     },
     {
+      "name": "四川",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-254"
+      ],
+      "visit_hints": [],
+      "region": "西南",
+      "subtitle": ""
+    },
+    {
       "name": "固原",
       "aliases": [],
       "ancient_names": [],
@@ -1983,6 +1984,21 @@
       "subtitle": ""
     },
     {
+      "name": "大余",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-111"
+      ],
+      "visit_hints": [
+        "江西大余",
+        "梅关古道",
+        "可对「明朝望乡处，应见陇头梅」"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "大同",
       "aliases": [],
       "ancient_names": [],
@@ -1991,19 +2007,6 @@
       ],
       "visit_hints": [],
       "region": "山西",
-      "subtitle": ""
-    },
-    {
-      "name": "大庾岭",
-      "aliases": [],
-      "ancient_names": [],
-      "poem_ids": [
-        "ts300-111"
-      ],
-      "visit_hints": [
-        "贬途望乡"
-      ],
-      "region": "",
       "subtitle": ""
     },
     {
@@ -2156,6 +2159,20 @@
       "subtitle": ""
     },
     {
+      "name": "崇州",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-107"
+      ],
+      "visit_hints": [
+        "四川崇州",
+        "可对「海内存知己，天涯若比邻」"
+      ],
+      "region": "",
+      "subtitle": ""
+    },
+    {
       "name": "嵊州",
       "aliases": [],
       "ancient_names": [],
@@ -2176,7 +2193,7 @@
         "ts300-109"
       ],
       "visit_hints": [
-        "常州一带（古称晋陵）"
+        "江苏常州（古称晋陵）"
       ],
       "region": "江苏",
       "subtitle": "古称：晋陵"
@@ -2318,6 +2335,20 @@
         "可对「今看两楹奠」"
       ],
       "region": "山东",
+      "subtitle": ""
+    },
+    {
+      "name": "朝阳",
+      "aliases": [],
+      "ancient_names": [],
+      "poem_ids": [
+        "ts300-110"
+      ],
+      "visit_hints": [
+        "边怨主题展",
+        "可对「可怜闺里月，长在汉家营」"
+      ],
+      "region": "",
       "subtitle": ""
     },
     {
@@ -3050,7 +3081,7 @@
     }
   ],
   "meta": {
-    "count": 197,
+    "count": 199,
     "place_mode": "modern_only",
     "ancient_blocklist": [
       "三巴",
@@ -3090,6 +3121,7 @@
       "夔府",
       "夔门",
       "夜郎",
+      "大庾岭",
       "大江",
       "天姥",
       "天姥山",
@@ -3127,6 +3159,7 @@
       "桃花源",
       "桐庐江",
       "梁园",
+      "梅关",
       "梓州",
       "楚",
       "榆关",
@@ -3196,6 +3229,7 @@
       "蔡",
       "蔡州",
       "蜀",
+      "蜀州",
       "衡岳",
       "襄州",
       "襄阳山寺",
@@ -3257,8 +3291,8 @@
       "龟兹"
     ],
     "mapping_stats": {
-      "ancient_keys": 202,
-      "rename_events": 230,
+      "ancient_keys": 205,
+      "rename_events": 231,
       "examples": [
         {
           "from": "曲江",
