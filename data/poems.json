@@ -3492,8 +3492,8 @@
         "白帝城",
         "奉节",
         "西安",
-        "三峡",
-        "重庆"
+        "重庆",
+        "三峡"
       ],
       "geo_notes": "白帝城观剑器舞。",
       "travel_tip": "奉节白帝城。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6685,8 +6685,8 @@
         "相思枫叶新"
       ],
       "places": [
-        "长江",
-        "江南"
+        "江南",
+        "长江"
       ],
       "geo_notes": "饯别南游",
       "travel_tip": "饯别南游",
@@ -7948,8 +7948,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "桃源",
-        "常德"
+        "常德",
+        "桃源"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -11147,14 +11147,19 @@
       ],
       "places": [
         "成都",
-        "都江堰"
+        "都江堰",
+        "四川"
       ],
       "geo_notes": "成都登楼望西山；梁甫吟。",
       "travel_tip": "成都锦江、都江堰玉垒山。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-281.png"
+      "has_card": true,
+      "front": "assets/cards/front-281.png",
+      "back": "assets/cards/back-281.png",
+      "illustration": "assets/cards/front-281.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《登楼》写万方多难、锦江玉垒。",
+      "meaning": "花近高楼伤客心，万方多难此登临；锦江春色来天地，玉垒浮云变古今。北极朝廷终不改，西山寇盗莫相侵；可怜后主还祠庙，日暮聊为梁甫吟。",
+      "geo": "锦江在成都；玉垒山在今四川都江堰一带。杜甫成都期间登楼感时，地景以成都／都江堰一线为主。",
+      "visit": "四川成都（锦江）；都江堰玉垒山；可对「锦江春色来天地，玉垒浮云变古今」。"
     },
     {
       "id": "ts300-282",
@@ -11178,14 +11183,19 @@
         "隔篱呼取尽余杯"
       ],
       "places": [
-        "成都"
+        "成都",
+        "四川"
       ],
       "geo_notes": "成都草堂迎客。",
       "travel_tip": "成都杜甫草堂。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-282.png"
+      "has_card": true,
+      "front": "assets/cards/front-282.png",
+      "back": "assets/cards/back-282.png",
+      "illustration": "assets/cards/front-282.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《客至》写花径蓬门、邻翁对饮。",
+      "meaning": "舍南舍北皆春水，但见群鸥日日来；花径不曾缘客扫，蓬门今始为君开。盘飧市远、樽酒家贫；肯与邻翁相对饮，隔篱呼取尽余杯。",
+      "geo": "草堂客至，舍南春水、花径蓬门；地望今四川成都杜甫草堂一带。待客家常，地景以成都草堂为主。",
+      "visit": "四川成都杜甫草堂；可对「花径不曾缘客扫，蓬门今始为君开」。"
     },
     {
       "id": "ts300-283",
@@ -11214,14 +11224,15 @@
         "巫峡",
         "襄阳",
         "洛阳",
-        "三峡"
+        "三峡",
+        "剑阁"
       ],
       "geo_notes": "安史之乱平定喜讯；一生最快诗。地名今释：北京（古称蓟北）。",
       "travel_tip": "三峡—襄阳—洛阳归途线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-283.png",
+      "has_card": true,
+      "front": "assets/cards/front-283.png",
+      "back": "assets/cards/back-283.png",
+      "illustration": "assets/cards/front-283.png",
       "place_captions": [
         {
           "place": "北京",
@@ -11230,7 +11241,11 @@
           ],
           "note": "古称蓟北"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《闻官军收河南河北》写收蓟北、喜欲狂、还乡路线。",
+      "meaning": "剑外忽传收蓟北，初闻涕泪满衣裳；却看妻子愁何在，漫卷诗书喜欲狂。白日放歌须纵酒，青春作伴好还乡；即从巴峡穿巫峡，便下襄阳向洛阳。",
+      "geo": "剑外指剑阁以南（蜀中）；蓟北收复。还乡设想：巴峡／巫峡（今重庆三峡一带）→襄阳→洛阳。喜讯地景以三峡—襄阳—洛阳还乡线为主。",
+      "visit": "重庆三峡；湖北襄阳；河南洛阳；可对「即从巴峡穿巫峡，便下襄阳向洛阳」。"
     },
     {
       "id": "ts300-284",
@@ -11257,14 +11272,19 @@
         "南京",
         "凤凰台",
         "白鹭洲",
-        "黄鹤楼"
+        "黄鹤楼",
+        "长江"
       ],
       "geo_notes": "金陵凤凰台；拟黄鹤楼而别出。",
       "travel_tip": "南京凤凰台遗址、白鹭洲公园。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-284.png"
+      "has_card": true,
+      "front": "assets/cards/front-284.png",
+      "back": "assets/cards/back-284.png",
+      "illustration": "assets/cards/front-284.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《登金陵凤凰台》写凤去台空、三山白鹭洲。",
+      "meaning": "凤凰台上凤凰游，凤去台空江自流；吴宫花草埋幽径，晋代衣冠成古丘。三山半落青天外，二水中分白鹭洲；总为浮云能蔽日，长安不见使人愁。",
+      "geo": "凤凰台、白鹭洲在金陵（今南京）长江边；三山亦金陵江景。登台怀古，地景以南京凤凰台／白鹭洲为主。",
+      "visit": "江苏南京凤凰台／白鹭洲；可对「三山半落青天外，二水中分白鹭洲」。"
     },
     {
       "id": "ts300-285",
@@ -11296,10 +11316,10 @@
       ],
       "geo_notes": "西塞山在湖北黄石长江边。地名今释：南京（唐时称金陵）。",
       "travel_tip": "湖北黄石西塞山。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-285.png",
+      "has_card": true,
+      "front": "assets/cards/front-285.png",
+      "back": "assets/cards/back-285.png",
+      "illustration": "assets/cards/front-285.png",
       "place_captions": [
         {
           "place": "南京",
@@ -11308,7 +11328,11 @@
           ],
           "note": "唐时称金陵"
         }
-      ]
+      ],
+      "poet": "刘禹锡（772—842），字梦得。本库题名去重四首；《西塞山怀古》写楼船下益州、降幡出石头。",
+      "meaning": "王濬楼船下益州，金陵王气黯然收；千寻铁锁沉江底，一片降幡出石头。人世几回伤往事，山形依旧枕寒流；今逢四海为家日，故垒萧萧芦荻秋。",
+      "geo": "西塞山在今湖北黄石长江边；石头城在金陵（今南京）。西晋灭吴故实，地景以黄石西塞山为主，金陵石头为对照。",
+      "visit": "湖北黄石西塞山；可对「人世几回伤往事，山形依旧枕寒流」。"
     },
     {
       "id": "ts300-286",
@@ -13435,7 +13459,7 @@
   ],
   "meta": {
     "count": 351,
-    "cards": 280,
+    "cards": 285,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
