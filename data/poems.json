@@ -1675,8 +1675,8 @@
         "奉节",
         "重庆",
         "安庆",
-        "长江",
         "南京",
+        "长江",
         "夫子庙",
         "三峡"
       ],
@@ -4211,8 +4211,8 @@
         "交河",
         "玉门关",
         "吐鲁番",
-        "敦煌",
-        "新疆"
+        "新疆",
+        "敦煌"
       ],
       "geo_notes": "古从军之苦。",
       "travel_tip": "吐鲁番交河故城。",
@@ -6101,8 +6101,8 @@
         "渔歌入浦深"
       ],
       "places": [
-        "西安",
-        "蓝田"
+        "蓝田",
+        "西安"
       ],
       "geo_notes": "答张少府",
       "travel_tip": "答张少府",
@@ -6207,8 +6207,8 @@
       ],
       "places": [
         "汉江",
-        "汉中",
-        "襄阳"
+        "襄阳",
+        "汉中"
       ],
       "geo_notes": "临汉江",
       "travel_tip": "临汉江",
@@ -7299,12 +7299,21 @@
         "华山",
         "西安"
       ],
-      "geo_notes": "赴阙题潼关驿楼。",
+      "geo_notes": "赴阙题潼关驿楼。地名今释：西安（唐时称长安）。",
       "travel_tip": "陕西潼关驿楼／华山一线；西安（帝乡）可对照「帝乡明日到，犹自梦渔樵」。",
       "has_card": true,
       "front": "assets/cards/front-169.png",
       "back": "assets/cards/back-169.png",
       "illustration": "assets/cards/front-169.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
       "poet": "许浑（约791—约858），字用晦。本库题名去重二首；秋日赴阙题潼关驿楼，写太华中条、河声入海。",
       "meaning": "红叶晚萧萧，长亭酒一瓢；残云归太华，疏雨过中条。树色随关迥，河声入海遥；帝乡明日到，犹自梦渔樵。",
       "geo": "潼关驿楼在今陕西潼关；太华即华山，中条在晋南（古称对照）。赴阙西行，地景以潼关／华山为主，帝乡指长安（今西安）。",
@@ -7919,6 +7928,15 @@
       "front": "assets/cards/front-189.png",
       "back": "assets/cards/back-189.png",
       "illustration": "assets/cards/front-189.png",
+      "place_captions": [
+        {
+          "place": "永济",
+          "ancient": [
+            "蒲州"
+          ],
+          "note": "唐时称蒲州"
+        }
+      ],
       "poet": "王维（701—761），字摩诘。本库题名去重约二十八首；《杂诗》问故乡寒梅著花未。",
       "meaning": "君自故乡来，应知故乡事；来日绮窗前，寒梅著花未。",
       "geo": "问故乡寒梅著花；王维故乡在河东蒲州，今山西永济。乡思问梅，地景以永济为主。",
@@ -7939,8 +7957,8 @@
         "暂游桃源里"
       ],
       "places": [
-        "常德",
-        "桃源"
+        "桃源",
+        "常德"
       ],
       "geo_notes": "送崔九归山，戒武陵桃源之暂游；武陵地望今湖南常德。归山丘壑，地景以常德／桃源意象为主。",
       "travel_tip": "湖南常德（武陵／桃源意象）；可对「莫学武陵人，暂游桃源里」。",
@@ -8103,8 +8121,8 @@
       ],
       "places": [
         "白帝城",
-        "奉节",
-        "重庆"
+        "重庆",
+        "奉节"
       ],
       "geo_notes": "八阵图遗址在今重庆奉节白帝城一带。江流石在，地景以奉节／白帝为主。",
       "travel_tip": "重庆奉节（八阵图／白帝城一带）；可对「江流石不转，遗恨失吞吴」。",
@@ -8509,7 +8527,7 @@
     },
     {
       "id": "tang-001",
-      "num": "000",
+      "num": "T01",
       "order": null,
       "title": "春晓",
       "author": "孟浩然",
@@ -8529,14 +8547,18 @@
       ],
       "geo_notes": "孟浩然襄阳隐居文化联想；可对照湖北襄阳鹿门山等名胜。",
       "travel_tip": "春日访襄阳鹿门山，可联「啼鸟」「落花」意境。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-tang-001.png"
+      "has_card": true,
+      "front": "assets/cards/front-T01.png",
+      "back": "assets/cards/back-T01.png",
+      "illustration": "assets/cards/front-T01.png",
+      "poet": "孟浩然（689—740），襄阳人。本库题名去重约十五首；《春晓》写春眠啼鸟、风雨落花。",
+      "meaning": "春眠不觉晓，处处闻啼鸟；夜来风雨声，花落知多少。",
+      "geo": "春晓写风雨落花，无专指地理；地景以春夜风雨、落花啼鸟意象为主，不必坐实单一园亭。",
+      "visit": "春晓风雨落花可对读；可对「夜来风雨声，花落知多少」。"
     },
     {
       "id": "tang-002",
-      "num": "000",
+      "num": "T02",
       "order": null,
       "title": "静夜思",
       "author": "李白",
@@ -8558,10 +8580,10 @@
       ],
       "geo_notes": "通行本思乡之作；地理为诗人行迹文化联想，非诗中实指单一地点。地名今释：西安（唐时称长安）。",
       "travel_tip": "中秋望月时可背此诗；李白故里在四川江油。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-tang-002.png",
+      "has_card": true,
+      "front": "assets/cards/front-T02.png",
+      "back": "assets/cards/back-T02.png",
+      "illustration": "assets/cards/front-T02.png",
       "place_captions": [
         {
           "place": "西安",
@@ -8570,11 +8592,15 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《静夜思》望月思乡，床前疑霜。",
+      "meaning": "床前明月光，疑是地上霜；举头望明月，低头思故乡。",
+      "geo": "客居望月思乡，无专指一城；月夜乡思意象为主，不必坐实单一客舍。",
+      "visit": "月夜乡思可对读；可对「举头望明月，低头思故乡」。"
     },
     {
       "id": "tang-003",
-      "num": "000",
+      "num": "T03",
       "order": null,
       "title": "登鹳雀楼",
       "author": "王之涣",
@@ -8592,18 +8618,23 @@
       "places": [
         "鹳雀楼",
         "永济",
-        "黄河"
+        "黄河",
+        "风陵渡"
       ],
       "geo_notes": "今山西运城永济有重建鹳雀楼，临黄河，为经典旅行打卡。",
       "travel_tip": "去永济鹳雀楼，可对照「黄河入海流」远眺。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-tang-003.png"
+      "has_card": true,
+      "front": "assets/cards/front-T03.png",
+      "back": "assets/cards/back-T03.png",
+      "illustration": "assets/cards/front-T03.png",
+      "poet": "王之涣（688—742），晋阳（今太原）人，与王昌龄、高适齐名，边塞与登临短章气象开阔。",
+      "meaning": "白日落山、黄河入海写登楼所见之壮阔；「欲穷千里目，更上一层楼」由写景翻为哲理，成为励志名句。",
+      "geo": "古鹳雀楼在蒲州（今山西永济），前瞻中条、下瞰黄河，晋陕峡谷河段气象正合「黄河入海流」。",
+      "visit": "山西永济鹳雀楼；黄河风陵渡一带。"
     },
     {
       "id": "tang-004",
-      "num": "000",
+      "num": "T04",
       "order": null,
       "title": "望庐山瀑布",
       "author": "李白",
@@ -8625,14 +8656,18 @@
       ],
       "geo_notes": "庐山香炉峰一带瀑布景观为诗意对应名胜。",
       "travel_tip": "游庐山时可对照香炉峰与瀑布观景点。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-tang-004.png"
+      "has_card": true,
+      "front": "assets/cards/front-T04.png",
+      "back": "assets/cards/back-T04.png",
+      "illustration": "assets/cards/front-T04.png",
+      "poet": "李白（701—762），字太白。本库题名去重约三十七首；《望庐山瀑布》写香炉紫烟、飞流三千尺。",
+      "meaning": "日照香炉生紫烟，遥看瀑布挂前川；飞流直下三千尺，疑是银河落九天。",
+      "geo": "香炉峰、瀑布在庐山，地望今江西九江庐山。遥望飞瀑，地景以庐山秀峰瀑布为主。",
+      "visit": "江西九江庐山秀峰（香炉峰瀑布）；可对「飞流直下三千尺，疑是银河落九天」。"
     },
     {
       "id": "tang-005",
-      "num": "000",
+      "num": "T05",
       "order": null,
       "title": "黄鹤楼送孟浩然之广陵",
       "author": "李白",
@@ -8651,14 +8686,20 @@
         "黄鹤楼",
         "武汉",
         "扬州",
-        "长江"
+        "长江",
+        "武昌",
+        "瘦西湖"
       ],
       "geo_notes": "黄鹤楼在今武汉；广陵即扬州一带。",
       "travel_tip": "武汉黄鹤楼 + 春日扬州，一条经典唐诗旅行线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-tang-005.png"
+      "has_card": true,
+      "front": "assets/cards/front-T05.png",
+      "back": "assets/cards/back-T05.png",
+      "illustration": "assets/cards/front-T05.png",
+      "poet": "李白（701—762），字太白，号青莲居士，盛唐浪漫派代表。本库《唐诗三百首》题名去重约三十七首。",
+      "meaning": "黄鹤楼送孟浩然东下扬州：烟花三月点明时地，孤帆远影消入碧空，唯余长江天际，情在景中，不着一「愁」字。",
+      "geo": "送别地在武昌黄鹤楼；广陵即扬州。舟行长江东下，与烟花三月东下相应。",
+      "visit": "武汉黄鹤楼；扬州瘦西湖／古运河烟花三月线。"
     },
     {
       "id": "ts300-211",
@@ -11636,15 +11677,24 @@
       "places": [
         "武侯祠",
         "成都",
-        "奉节",
-        "四川"
+        "四川",
+        "奉节"
       ],
-      "geo_notes": "咏诸葛亮；云霄一羽毛。",
+      "geo_notes": "咏诸葛亮；云霄一羽毛。地名今释：奉节（唐时称夔州）。",
       "travel_tip": "成都武侯祠。",
       "has_card": true,
       "front": "assets/cards/front-293.png",
       "back": "assets/cards/back-293.png",
       "illustration": "assets/cards/front-293.png",
+      "place_captions": [
+        {
+          "place": "奉节",
+          "ancient": [
+            "夔州"
+          ],
+          "note": "唐时称夔州"
+        }
+      ],
       "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《咏怀古迹》其五颂诸葛，写宗臣遗像、志决身歼。",
       "meaning": "诸葛大名垂宇宙，宗臣遗像肃清高；三分割据纡筹策，万古云霄一羽毛。伯仲之间见伊吕，指挥若定失萧曹；运移汉祚终难复，志决身歼军务劳。",
       "geo": "宗臣遗像指武侯祠祀，夔州／成都皆有武侯祠；诗咏诸葛一生，地景以武侯祠（今四川成都可对读，奉节亦邻近）为主。",
@@ -12922,8 +12972,8 @@
         "衡阳",
         "白帝城",
         "长沙",
-        "奉节",
         "重庆",
+        "奉节",
         "三峡"
       ],
       "geo_notes": "送两少府贬谪。",
@@ -13081,11 +13131,15 @@
         "甘肃"
       ],
       "geo_notes": "苏武庙怀古。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-331.png"
+      "travel_tip": "陕西兴平茂陵；可对「茂陵不见封侯印，空向秋波哭逝川」。",
+      "has_card": true,
+      "front": "assets/cards/front-331.png",
+      "back": "assets/cards/back-331.png",
+      "illustration": "assets/cards/front-331.png",
+      "poet": "温庭筠（约812—约866），字飞卿。本库题名去重四首；《苏武庙》写古祠茫然、茂陵空哭。",
+      "meaning": "苏武魂销汉使前，古祠高树两茫然；云边雁断胡天月，陇上羊归塞草烟。回日楼台非甲帐，去时冠剑是丁年；茂陵不见封侯印，空向秋波哭逝川。",
+      "geo": "苏武庙怀苏武出使匈奴；陇上牧羊为塞外意象（地望常联甘肃一带）；茂陵在今陕西兴平。吊古，地景以庙祀／茂陵对照为主。",
+      "visit": "陕西兴平茂陵；可对「茂陵不见封侯印，空向秋波哭逝川」。"
     },
     {
       "id": "ts300-332",
@@ -13114,10 +13168,14 @@
       ],
       "geo_notes": "晚次鄂州望汉阳。",
       "travel_tip": "湖北鄂州、武汉汉阳。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-332.png"
+      "has_card": true,
+      "front": "assets/cards/front-332.png",
+      "back": "assets/cards/back-332.png",
+      "illustration": "assets/cards/front-332.png",
+      "poet": "卢纶（约748—约799），字允言。本库题名去重六首；《晚次鄂州》写汉阳一日程、江上鼓鼙。",
+      "meaning": "云开远见汉阳城，犹是孤帆一日程；估客昼眠知浪静，舟人夜语觉潮生。三湘愁鬓逢秋色，万里归心对月明；旧业已随征战尽，更堪江上鼓鼙声。",
+      "geo": "鄂州即今湖北武汉一带；汉阳城隔江相对；三湘指湖南湘水流域。晚泊归心，地景以武汉鄂州／汉阳为主。",
+      "visit": "湖北武汉（鄂州／汉阳）；可对「云开远见汉阳城，犹是孤帆一日程」。"
     },
     {
       "id": "ts300-333",
@@ -13145,11 +13203,15 @@
         "西安"
       ],
       "geo_notes": "献赋未遇；羞对华簪。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-333.png"
+      "travel_tip": "陕西西安（上林／紫禁意象）；可对「献赋十年犹未遇，羞将白发对华簪」。",
+      "has_card": true,
+      "front": "assets/cards/front-333.png",
+      "back": "assets/cards/back-333.png",
+      "illustration": "assets/cards/front-333.png",
+      "poet": "钱起（约720—约782），字仲文。本库题名去重三首；《赠阙下裴舍人》写上林黄鹂、献赋未遇。",
+      "meaning": "二月黄鹂飞上林，春城紫禁晓阴阴；长乐钟声花外尽，龙池柳色雨中深。阳和不散穷途恨，霄汉常悬捧日心；献赋十年犹未遇，羞将白发对华簪。",
+      "geo": "阙下／上林／紫禁／长乐／龙池皆长安宫苑意象，地望今陕西西安。赠裴舍人，地景以西安宫阙为主。",
+      "visit": "陕西西安（上林／紫禁意象）；可对「献赋十年犹未遇，羞将白发对华簪」。"
     },
     {
       "id": "ts300-334",
@@ -13176,11 +13238,15 @@
         "西安"
       ],
       "geo_notes": "人间亦自有丹丘。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-334.png"
+      "travel_tip": "陕西西安（仙游观意象）；可对「何用别寻方外去，人间亦自有丹丘」。",
+      "has_card": true,
+      "front": "assets/cards/front-334.png",
+      "back": "assets/cards/back-334.png",
+      "illustration": "assets/cards/front-334.png",
+      "poet": "韩翃（生卒年不详，大历十才子），字君平。本库题名去重三首；《同题仙游观》写仙台五城、人间丹丘。",
+      "meaning": "仙台初见五城楼，风物凄凄宿雨收；山色遥连秦树晚，砧声近报汉宫秋。疏松影落空坛静，细草香闲小洞幽；何用别寻方外去，人间亦自有丹丘。",
+      "geo": "仙游观在长安近郊，地望今陕西西安一带；秦树汉宫为京畿意象。同题道观，地景以西安仙游观为主。",
+      "visit": "陕西西安（仙游观意象）；可对「何用别寻方外去，人间亦自有丹丘」。"
     },
     {
       "id": "ts300-335",
@@ -13205,14 +13271,15 @@
       ],
       "places": [
         "九江",
-        "淮南"
+        "淮南",
+        "江淮"
       ],
       "geo_notes": "江州重别；慎风波。地名今释：九江（唐时称江州）。",
       "travel_tip": "江西九江。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-335.png",
+      "has_card": true,
+      "front": "assets/cards/front-335.png",
+      "back": "assets/cards/back-335.png",
+      "illustration": "assets/cards/front-335.png",
       "place_captions": [
         {
           "place": "九江",
@@ -13221,7 +13288,11 @@
           ],
           "note": "唐时称江州"
         }
-      ]
+      ],
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；《江州重别薛六柳八二员外》写江上月明、慎风波。",
+      "meaning": "生涯岂料承优诏，世事空知学醉歌；江上月明胡雁过，淮南木落楚山多。寄身且喜沧洲近，顾影无如白发何；今日龙钟人共老，愧君犹遣慎风波。",
+      "geo": "江州即今江西九江；淮南／楚山为江淮对照。重别员外，地景以九江江州为主。",
+      "visit": "江西九江（江州）；可对「江上月明胡雁过，淮南木落楚山多」。"
     },
     {
       "id": "ts300-336",
@@ -13249,14 +13320,15 @@
         "鹦鹉洲",
         "岳阳",
         "汉口",
-        "长沙"
+        "长沙",
+        "汉江"
       ],
       "geo_notes": "鹦鹉洲望岳阳；怜贾谊。地名今释：武汉（古称夏口）。",
       "travel_tip": "武汉鹦鹉洲；湖南岳阳楼。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-336.png",
+      "has_card": true,
+      "front": "assets/cards/front-336.png",
+      "back": "assets/cards/back-336.png",
+      "illustration": "assets/cards/front-336.png",
       "place_captions": [
         {
           "place": "武汉",
@@ -13265,7 +13337,11 @@
           ],
           "note": "古称夏口"
         }
-      ]
+      ],
+      "poet": "刘长卿（约726—约786），字文房。本库题名去重十一首；此诗自夏口望岳阳，写汉口夕阳、洞庭秋水，以贾谊自况。",
+      "meaning": "汀洲无浪复无烟，楚客相思益渺然；汉口夕阳斜渡鸟，洞庭秋水远连天。孤城背岭寒吹角，独戍临江夜泊船；贾谊上书忧汉室，长沙谪去古今怜。",
+      "geo": "夏口、鹦鹉洲、汉口在今湖北武汉；岳阳、洞庭在今湖南岳阳。自武汉江上遥望岳阳，地景以武汉—洞庭一线为主。",
+      "visit": "湖北武汉鹦鹉洲／汉口江滩；湖南岳阳洞庭湖；可对「汉口夕阳斜渡鸟，洞庭秋水远连天」。"
     },
     {
       "id": "ts300-337",
@@ -13288,14 +13364,15 @@
         "袍袴宫人扫御床"
       ],
       "places": [
-        "西安"
+        "西安",
+        "大明宫"
       ],
       "geo_notes": "薛逢宫词；望君扫御床。地名今释：西安（唐时称长安）。",
-      "travel_tip": "",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-337.png",
+      "travel_tip": "陕西西安大明宫遗址（宫掖意象）；可对「锁衔金兽连环冷，水滴铜龙昼漏长」。",
+      "has_card": true,
+      "front": "assets/cards/front-337.png",
+      "back": "assets/cards/back-337.png",
+      "illustration": "assets/cards/front-337.png",
       "place_captions": [
         {
           "place": "西安",
@@ -13304,7 +13381,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "薛逢（生卒年不详），字陶臣，蒲州人。本库题名去重一首；《宫词》写十二楼晓妆、望仙楼望君王。",
+      "meaning": "十二楼中尽晓妆，望仙楼上望君王；锁衔金兽连环冷，水滴铜龙昼漏长。云髻罢梳还对镜，罗衣欲换更添香；遥窥正殿帘开处，袍袴宫人扫御床。",
+      "geo": "十二楼、望仙楼为唐长安宫掖意象，地望今陕西西安。宫人晓妆候幸，地景以西安宫禁为主。",
+      "visit": "陕西西安大明宫遗址（宫掖意象）；可对「锁衔金兽连环冷，水滴铜龙昼漏长」。"
     },
     {
       "id": "ts300-338",
@@ -13328,14 +13409,28 @@
         "岂宜重问后庭花"
       ],
       "places": [
-        "扬州"
+        "扬州",
+        "西安"
       ],
-      "geo_notes": "七律隋宫；与七绝隋宫异篇。",
+      "geo_notes": "七律隋宫；与七绝隋宫异篇。地名今释：西安（唐时称长安）。",
       "travel_tip": "江苏扬州隋堤。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-338.png"
+      "has_card": true,
+      "front": "assets/cards/front-338.png",
+      "back": "assets/cards/back-338.png",
+      "illustration": "assets/cards/front-338.png",
+      "place_captions": [
+        {
+          "place": "西安",
+          "ancient": [
+            "长安"
+          ],
+          "note": "唐时称长安"
+        }
+      ],
+      "poet": "李商隐（约813—约858），字义山。本库题名去重二十四首；《隋宫》紫泉宫殿写锦帆天涯、腐草无萤。",
+      "meaning": "紫泉宫殿锁烟霞，欲取芜城作帝家；玉玺不缘归日角，锦帆应是到天涯。于今腐草无萤火，终古垂杨有暮鸦；地下若逢陈后主，岂宜重问后庭花。",
+      "geo": "紫泉宫殿指长安隋宫；芜城即江都，地望今江苏扬州。炀帝南游，地景以扬州隋宫／运河垂杨为主。",
+      "visit": "江苏扬州隋炀帝陵／古运河；可对「于今腐草无萤火，终古垂杨有暮鸦」。"
     },
     {
       "id": "ts300-339",
@@ -13368,10 +13463,10 @@
       ],
       "geo_notes": "杜甫寓夔州（今重庆奉节）秋日所作；巫峡、白帝皆实地可访。",
       "travel_tip": "重庆奉节白帝城·瞿塘峡口。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-339.png",
+      "has_card": true,
+      "front": "assets/cards/front-339.png",
+      "back": "assets/cards/back-339.png",
+      "illustration": "assets/cards/front-339.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -13380,7 +13475,11 @@
           ],
           "note": "唐时称夔州"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其一写巫山巫峡、丛菊孤舟。",
+      "meaning": "玉露凋伤枫树林，巫山巫峡气萧森；江间波浪兼天涌，塞上风云接地阴；丛菊两开他日泪，孤舟一系故园心；寒衣处处催刀尺，白帝城高急暮砧。",
+      "geo": "夔州秋色：巫山巫峡、白帝城，地望今重庆奉节／巫山。秋兴起于夔州，地景以奉节白帝城为主。",
+      "visit": "重庆奉节白帝城；巫峡；可对「丛菊两开他日泪，孤舟一系故园心」。"
     },
     {
       "id": "ts300-340",
@@ -13406,14 +13505,15 @@
       ],
       "places": [
         "奉节",
-        "西安"
+        "西安",
+        "重庆"
       ],
       "geo_notes": "夔府即夔州治；北斗望京华，心系长安。地名今释：西安（古称京华）；奉节（唐时称夔府）。",
       "travel_tip": "奉节古城墙遗址与峡江沙洲芦苇带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-340.png",
+      "has_card": true,
+      "front": "assets/cards/front-340.png",
+      "back": "assets/cards/back-340.png",
+      "illustration": "assets/cards/front-340.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -13429,7 +13529,11 @@
           ],
           "note": "古称京华"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其二写夔府孤城、依斗望京华。",
+      "meaning": "夔府孤城落日斜，每依北斗望京华；听猿实下三声泪，奉使虚随八月槎；画省香炉违伏枕，山楼粉堞隐悲笳；请看石上藤萝月，已映洲前芦荻花。",
+      "geo": "夔府孤城即今重庆奉节；京华指长安（今西安）。身在夔州望长安，地景以奉节为主。",
+      "visit": "重庆奉节夔州古城；可对「夔府孤城落日斜，每依北斗望京华」。"
     },
     {
       "id": "ts300-341",
@@ -13455,14 +13559,17 @@
       ],
       "places": [
         "奉节",
-        "西安"
+        "西安",
+        "重庆",
+        "咸阳",
+        "长江"
       ],
       "geo_notes": "江楼坐翠微写夔州山郭；五陵指长安豪贵所居。地名今释：西安（唐时称五陵）；奉节（唐时称夔州）。",
       "travel_tip": "奉节沿江古城眺望点；对比可想西安汉唐陵邑文化线。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-341.png",
+      "has_card": true,
+      "front": "assets/cards/front-341.png",
+      "back": "assets/cards/back-341.png",
+      "illustration": "assets/cards/front-341.png",
       "place_captions": [
         {
           "place": "奉节",
@@ -13478,7 +13585,11 @@
           ],
           "note": "唐时称五陵"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其三写山郭江楼、五陵轻肥。",
+      "meaning": "千家山郭静朝晖，日日江楼坐翠微；信宿渔人还泛泛，清秋燕子故飞飞；匡衡抗疏功名薄，刘向传经心事违；同学少年多不贱，五陵衣马自轻肥。",
+      "geo": "山郭江楼为夔州晨景，地望今重庆奉节；五陵在长安北原（今咸阳一带）。地景以奉节江楼为主。",
+      "visit": "重庆奉节长江江岸；可对「同学少年多不贱，五陵衣马自轻肥」。"
     },
     {
       "id": "ts300-342",
@@ -13503,14 +13614,15 @@
         "故国平居有所思"
       ],
       "places": [
-        "西安"
+        "西安",
+        "奉节"
       ],
-      "geo_notes": "长安政局如弈；直北关山指北方边烽。地名今释：西安（唐时称长安）。",
+      "geo_notes": "长安政局如弈；直北关山指北方边烽。地名今释：奉节（唐时称夔州）；西安（唐时称长安）。",
       "travel_tip": "心系长安：西安古城与曲江可对照读。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-342.png",
+      "has_card": true,
+      "front": "assets/cards/front-342.png",
+      "back": "assets/cards/back-342.png",
+      "illustration": "assets/cards/front-342.png",
       "place_captions": [
         {
           "place": "西安",
@@ -13518,8 +13630,19 @@
             "长安"
           ],
           "note": "唐时称长安"
+        },
+        {
+          "place": "奉节",
+          "ancient": [
+            "夔州"
+          ],
+          "note": "唐时称夔州"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其四写长安似弈棋、故国之思。",
+      "meaning": "闻道长安似弈棋，百年世事不胜悲；王侯第宅皆新主，文武衣冠异昔时；直北关山金鼓振，征西车马羽书迟；鱼龙寂寞秋江冷，故国平居有所思。",
+      "geo": "长安即今陕西西安；秋江指夔州江上。遥忆长安世变，地景以西安—奉节对照为主。",
+      "visit": "陕西西安古城；可对「闻道长安似弈棋，百年世事不胜悲」。"
     },
     {
       "id": "ts300-343",
@@ -13550,10 +13673,14 @@
       ],
       "geo_notes": "蓬莱宫即大明宫；南山为终南；函关紫气用典。",
       "travel_tip": "西安大明宫遗址公园；终南山远望。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-343.png"
+      "has_card": true,
+      "front": "assets/cards/front-343.png",
+      "back": "assets/cards/back-343.png",
+      "illustration": "assets/cards/front-343.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其五写蓬莱宫阙、青琐朝班。",
+      "meaning": "蓬莱宫阙对南山，承露金茎霄汉间；西望瑶池降王母，东来紫气满函关；云移雉尾开宫扇，日绕龙鳞识圣颜；一卧沧江惊岁晚，几回青琐点朝班。",
+      "geo": "蓬莱宫即大明宫，南对终南山，地望今陕西西安；函关即函谷关（今河南灵宝）。忆早朝，地景以西安大明宫为主。",
+      "visit": "陕西西安大明宫遗址；可对「蓬莱宫阙对南山，承露金茎霄汉间」。"
     },
     {
       "id": "ts300-344",
@@ -13579,14 +13706,19 @@
       ],
       "places": [
         "奉节",
-        "西安"
+        "西安",
+        "重庆"
       ],
       "geo_notes": "峡口实景与长安曲江记忆对举。",
       "travel_tip": "奉节瞿塘峡口；西安曲江池遗址公园。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-344.png"
+      "has_card": true,
+      "front": "assets/cards/front-344.png",
+      "back": "assets/cards/back-344.png",
+      "illustration": "assets/cards/front-344.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其六写瞿塘曲江、秦中帝王州。",
+      "meaning": "瞿塘峡口曲江头，万里风烟接素秋；花萼夹城通御气，芙蓉小苑入边愁；珠帘绣柱围黄鹄，锦缆牙樯起白鸥；回首可怜歌舞地，秦中自古帝王州。",
+      "geo": "瞿塘峡在今重庆奉节；曲江、芙蓉苑在今陕西西安。万里风烟两地相接，地景以奉节—西安曲江对照为主。",
+      "visit": "陕西西安大唐芙蓉园／曲江池；重庆瞿塘峡；可对「回首可怜歌舞地，秦中自古帝王州」。"
     },
     {
       "id": "ts300-345",
@@ -13616,10 +13748,10 @@
       ],
       "geo_notes": "昆明池故址在今西安西南；石鲸为池中石刻传说。地名今释：西安（唐时称长安）。",
       "travel_tip": "西安昆明池遗址／斗门一带。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-345.png",
+      "has_card": true,
+      "front": "assets/cards/front-345.png",
+      "back": "assets/cards/back-345.png",
+      "illustration": "assets/cards/front-345.png",
       "place_captions": [
         {
           "place": "西安",
@@ -13628,7 +13760,11 @@
           ],
           "note": "唐时称长安"
         }
-      ]
+      ],
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其七写昆明池水、江湖渔翁。",
+      "meaning": "昆明池水汉时功，武帝旌旗在眼中；织女机丝虚夜月，石鲸鳞甲动秋风；波漂菰米沉云黑，露冷莲房坠粉红；关塞极天唯鸟道，江湖满地一渔翁。",
+      "geo": "昆明池为汉武帝所凿，在今陕西西安西南斗门一带。忆长安池苑，地景以西安昆明池为主。",
+      "visit": "陕西西安昆明池遗址（斗门）；可对「昆明池水汉时功，武帝旌旗在眼中」。"
     },
     {
       "id": "ts300-346",
@@ -13658,15 +13794,19 @@
       ],
       "geo_notes": "紫阁峰在今陕西户县东南；渼陂为终南山下古湖。",
       "travel_tip": "西安鄠邑紫阁峰、渼陂湖周边。",
-      "has_card": false,
-      "front": null,
-      "back": null,
-      "illustration": "assets/illustrations/ill-346.png"
+      "has_card": true,
+      "front": "assets/cards/front-346.png",
+      "back": "assets/cards/back-346.png",
+      "illustration": "assets/cards/front-346.png",
+      "poet": "杜甫（712—770），字子美，号少陵野老。本库题名去重约四十九首；《秋兴》其八写紫阁渼陂、白头吟望。",
+      "meaning": "昆吾御宿自逶迤，紫阁峰阴入渼陂；香稻啄余鹦鹉粒，碧梧栖老凤凰枝；佳人拾翠春相问，仙侣同舟晚更移；彩笔昔曾干气象，白头吟望苦低垂。",
+      "geo": "昆吾、御宿、紫阁峰、渼陂皆在长安西南，地望今陕西西安鄠邑一带。忆旧游，地景以西安渼陂为主。",
+      "visit": "陕西西安鄠邑渼陂湖；可对「彩笔昔曾干气象，白头吟望苦低垂」。"
     }
   ],
   "meta": {
     "count": 351,
-    "cards": 330,
+    "cards": 351,
     "illustrations": 351,
     "place_mode": "modern_only"
   }
